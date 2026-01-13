@@ -1,0 +1,29 @@
+{
+    "index.json": {
+        "n": [
+            "Hoba World Homebrew"
+        ],
+        "a": [
+            "HW"
+        ],
+        "e": 0
+    },
+    "classes/Hemomancer.json": {
+        "n": [
+            "DMStash"
+        ],
+        "a": [
+            "DMStash"
+        ],
+        "e": 0
+    },
+    "creatures/sample.json": {
+        "n": [
+            "MyHomebrew"
+        ],
+        "a": [
+            "MyHomebrew"
+        ],
+        "e": 0
+    }
+}
