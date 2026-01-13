@@ -1,94 +1,94 @@
 {
-	"_meta": {
-		"sources": [
-			{
-				"json": "RuinsOfSymbaroum",
-				"abbreviation": "RoS",
-				"full": "Ruins of Symbaroum",
-				"authors": [
-					"Free League Publishing"
-				],
-				"convertedBy": [
-					"Awarenet"
-				],
-				"version": "1.0.0",
-				"url": "https://freeleaguepublishing.com",
-				"targetSchema": "1.1.0",
-				"color": "0f8a0d"
-			}
-		],
-		"dateAdded": 1759251292,
-		"dateLastModified": 1759251292,
-		"edition": "classic"
-	},
-	"race": [
-		{
-			"name": "Abductee",
-			"source": "RuinsOfSymbaroum",
-			"page": 0,
-			"ability": [
-				{
-					"dex": 1,
-					"wis": 1,
-					"choose": {
-						"from": [
-							"str",
-							"con",
-							"int",
-							"cha"
-						],
-						"count": 1,
-						"amount": 2
-					}
-				}
-			],
-			"speed": 30,
-			"size": [
-				"M"
-			],
-			"languageProficiencies": [
-				{
-					"elvish": true
-				}
-			],
-			"entries": [
-				"It is believed that the elves of Davokar have always abducted human children and left changelings in their stead. Such children are called Abductees, and the reasons for them being taken have varied. Initially it was to learn more about and better understand humans; later the motive changed to wanting to foster ambassadors who understood the elves and could live among the clanfolks and teach them elven wisdom. Nowadays (in the elven sense, meaning within the last century), there has been an increasing need for warriors within the Iron Pact \u2013 to replace elves fallen in battle, and to offset the growing number of elves that do not survive their first dormancy (see page 58); the darkening of Davokar causes fewer and fewer elves to wake to their summer phase. Hence, it is not uncommon to see abducted humans hunt and fight alongside summer elves in the warbands of the Pact. The elves have long since known that abductees are loyal and good learners, but much to their surprise some of them have also proven capable of wisdom. Very few elves would ever admit this; to most elves the abducted humans are almost akin to faithful pets, useful and absolutely possible to love, but never to be regarded as equals.",
-				{
-					"name": "Abductee Traits",
-					"type": "entries",
-					"entries": [
-						"Though abductees were taken from different cultures and social strata, each of them was also changed by their time among the elves.",
-						{
-							"name": "Ability Score Increase",
-							"type": "entries",
-							"entries": [
-								"Increase your Dexterity and Wisdom scores by 1 each, then add 2 to any other ability score of your choice."
-							]
-						},
-						{
-							"name": "Age",
-							"type": "entries",
-							"entries": [
-								"Like other humans, abductees reach adulthood in their late teens and live less than a century without magical assistance."
-							]
-						},
-						{
-							"name": "Size",
-							"type": "entries",
-							"entries": [
-								"Abductees vary almost as widely in height and build as regular humans but tend towards the shorter side. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points."
-							]
-						},
-						{
-							"name": "Languages",
-							"type": "entries",
-							"entries": [
-								"Abductees speak Elvish but cannot read elven writing if they do not have the Loremaster feature (page 105)."
-							]
-						}
-					]
-				}
-			]
-		}
-	]
+    "_meta": {
+        "sources": [
+            {
+                "json": "RuinsOfSymbaroum",
+                "abbreviation": "RoS",
+                "full": "Ruins of Symbaroum",
+                "authors": [
+                    "Free League Publishing"
+                ],
+                "convertedBy": [
+                    "Awarenet"
+                ],
+                "version": "1.0.0",
+                "url": "https://freeleaguepublishing.com",
+                "targetSchema": "1.1.0",
+                "color": "0f8a0d"
+            }
+        ],
+        "dateAdded": 1759251292,
+        "dateLastModified": 1759251292,
+        "edition": "one"
+    },
+    "race": [
+        {
+            "name": "Abductee",
+            "source": "RuinsOfSymbaroum",
+            "page": 0,
+            "ability": [
+                {
+                    "dex": 1,
+                    "wis": 1,
+                    "choose": {
+                        "from": [
+                            "str",
+                            "con",
+                            "int",
+                            "cha"
+                        ],
+                        "count": 1,
+                        "amount": 2
+                    }
+                }
+            ],
+            "speed": 30,
+            "size": [
+                "M"
+            ],
+            "languageProficiencies": [
+                {
+                    "elvish": true
+                }
+            ],
+            "entries": [
+                "It is believed that the elves of Davokar have always abducted human children and left changelings in their stead. Such children are called Abductees, and the reasons for them being taken have varied. Initially it was to learn more about and better understand humans; later the motive changed to wanting to foster ambassadors who understood the elves and could live among the clanfolks and teach them elven wisdom. Nowadays (in the elven sense, meaning within the last century), there has been an increasing need for warriors within the Iron Pact \u2013 to replace elves fallen in battle, and to offset the growing number of elves that do not survive their first dormancy (see page 58); the darkening of Davokar causes fewer and fewer elves to wake to their summer phase. Hence, it is not uncommon to see abducted humans hunt and fight alongside summer elves in the warbands of the Pact. The elves have long since known that abductees are loyal and good learners, but much to their surprise some of them have also proven capable of wisdom. Very few elves would ever admit this; to most elves the abducted humans are almost akin to faithful pets, useful and absolutely possible to love, but never to be regarded as equals.",
+                {
+                    "name": "Abductee Traits",
+                    "type": "entries",
+                    "entries": [
+                        "Though abductees were taken from different cultures and social strata, each of them was also changed by their time among the elves.",
+                        {
+                            "name": "Ability Score Increase",
+                            "type": "entries",
+                            "entries": [
+                                "Increase your Dexterity and Wisdom scores by 1 each, then add 2 to any other ability score of your choice."
+                            ]
+                        },
+                        {
+                            "name": "Age",
+                            "type": "entries",
+                            "entries": [
+                                "Like other humans, abductees reach adulthood in their late teens and live less than a century without magical assistance."
+                            ]
+                        },
+                        {
+                            "name": "Size",
+                            "type": "entries",
+                            "entries": [
+                                "Abductees vary almost as widely in height and build as regular humans but tend towards the shorter side. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points."
+                            ]
+                        },
+                        {
+                            "name": "Languages",
+                            "type": "entries",
+                            "entries": [
+                                "Abductees speak Elvish but cannot read elven writing if they do not have the Loremaster feature (page 105)."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
