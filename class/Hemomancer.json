@@ -1,144 +1,150 @@
 {
-    "$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
-    "_meta": {
-        "sources": [
-            {
-                "json": "DMStash",
-                "full": "DMStash",
-                "abbreviation": "DMStash",
-                "color": "92b233",
-                "authors": [
-                    "DMStash"
-                ],
-                "convertedBy": [
-                    "Tristan Holubnytschyj"
-                ],
-                "dateReleased": "2025-04-01",
-                "version": "1.0",
-                "url": "habitweb.net"
-            }
-        ],
-        "edition": "classic",
-        "status": "ready",
-        "dateAdded": 1729973698,
-        "dateLastModified": 1757175607
-    },
-    "subclass": [
-        {
-            "name": "Hemomancer",
-            "shortName": "Hemo",
-            "className": "Wizard",
-            "source": "DMStash",
-            "subclassFeatures": [
-                "Lifeblood Reservoir|Wizard|PHB|Hemo|DMStash|2",
-                "Siphon Vitality|Wizard|PHB|Hemo|DMStash|6",
-                "Crimson Command|Wizard|PHB|Hemo|DMStash|10",
-                "Resurgent Sacrifice|Wizard|PHB|Hemo|DMStash|14"
-            ]
-        }
-    ],
-    "subclassFeature": [
-        {
-            "name": "Lifeblood Reservoir",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 2,
-            "entries": [
-                "Your life essence powers your blood magic, setting a limit on how many hit dice you can use for such abilities each day.",
-                "Your Lifeblood Reservoir is a pool of hit dice equal to your proficiency bonus plus your Constitution modifier. You can expend hit dice from this pool to use your blood magic abilities. This pool is not separate from your regular Wizard hit dice; it represents a daily limit on the hit dice you can use for blood magic.",
-                "Your Lifeblood Reservoir replenishes its hit dice after you complete a long rest.",
-                {
-                    "type": "refSubclassFeature",
-                    "subclassFeature": "Blood Rites|Wizard|PHB|Hemo|DMStash|2"
-                
-                },
-                {
-                    "type": "refSubclassFeature",
-                    "subclassFeature": "Sanguine Resonance|Wizard|PHB|Hemo|DMStash|2"
-                }
-            ]
-        },
-        {
-            "name": "Blood Rites",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 2,
-            "entries": [
-                "Your mastery over hemomancy allows you to channel your own life force to streamline your spellcasting.",
-                "When you cast a spell, you can choose to expend one hit die from your Lifeblood Reservoir to remove the need for either the verbal or somatic components of the spell.",
-                "If you expend an additional hit die, you can eliminate both the verbal and somatic components."
-            ]
-        },
-        {
-            "name": "Sanguine Resonance",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 2,
-            "entries": [
-                "Your mastery of blood magic grants you heightened perception of life energies.",
-                "As an action, you can expend one hit die from your Lifeblood Reservoir to activate this feature. For a number of minutes equal to your Intelligence modifier (minimum of 1), you gain the ability to sense the presence of creatures within 30 feet of you.",
-                {
-                    "type": "list",
-                    "items": [
-                        "The number of creatures within range.",
-                        "Their general direction relative to you.",
-                        "Whether the creatures are paralyzed, petrified, or poisoned.",
-                        "An estimation of their current hit points relative to their maximum hit points: Full, Above Half, Half, Below Half, or None."
-                    ]
-                },
-                "This sense is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
-                "While active, you have advantage on Wisdom (Medicine) checks to assess or treat creatures within the detection radius, and on Wisdom (Insight) checks as you can gauge intentions through their heartbeats.",
-                "This feature only works on creatures that have blood."
-            ]
-        },
-        {
-            "name": "Siphon Vitality",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 6,
-            "entries": [
-                "Your mastery over the essence of life enables you to draw vitality from fallen creatures.",
-                "Once per long rest, you can spend 10 minutes performing a ritual over the corpses of creatures within a 15-foot radius of you. These creatures must have blood for the ritual to be effective.",
-                "At the end of the ritual, you regain a number of hit dice equal to the combined total of the Challenge Rating (CR) or class levels (for creatures with class levels) of all affected creatures, up to a maximum determined by your Lifeblood Reservoir feature."
-            ]
-        },
-        {
-            "name": "Crimson Command",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 10,
-            "entries": [
-                "Your mastery of blood magic allows you to dominate the will of others.",
-                "As an action, you can compel a creature within 60 feet that you can see to make a Constitution saving throw against your spell save DC.",
-                "On a failed save, you establish a telepathic bond with the creature until the end of your next turn. You can issue commands (no action required), which it strives to obey.",
-                "You can extend the duration of the bond by expending one hit die from your Lifeblood Reservoir at the beginning of your turn, causing the bond to last an additional round.",
-                "If the creature takes damage, it can repeat its saving throw, ending the effect on a success.",
-                "You can use this feature once per long rest. You may regain a use early by expending hit dice equal to your proficiency bonus."
-            ]
-        },
-        {
-            "name": "Resurgent Sacrifice",
-            "source": "DMStash",
-            "className": "Wizard",
-            "subclassShortName": "Hemo",
-            "subclassSource": "DMStash",
-            "level": 14,
-            "entries": [
-                "Your mastery of blood magic enables you to share your vitality, even at death’s door.",
-                "When you are reduced to 0 hit points but not killed outright, you can use your reaction to drop to 1 hit point instead. You may then expend any number of hit dice from your Lifeblood Reservoir. For each hit die expended, you gain temporary hit points equal to the roll and your speed increases by 10 feet until the end of your next turn.",
-                "Alternatively, when an ally within 60 feet is reduced to 0 hit points, you can use your reaction to halve your current hit points (rounded up). Your ally then regains hit points equal to the hit points you lost.",
-                "After using either option, you cannot use this feature again until you finish a long rest."
-            ]
-        }
-    ]
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "DMStash",
+				"full": "DMStash",
+				"abbreviation": "DMStash",
+				"color": "92b233",
+				"authors": [
+					"DMStash"
+				],
+				"convertedBy": [
+					"Tristan Holubnytschyj"
+				],
+				"dateReleased": "2025-04-01",
+				"version": "1.0",
+				"url": "habitweb.net"
+			}
+		],
+		"edition": "classic",
+		"status": "ready",
+		"dateAdded": 1729973698,
+		"dateLastModified": 1757175607
+	},
+	"subclass": [
+		{
+			"name": "Hemomancer",
+			"shortName": "Hemo",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"source": "DMStash",
+			"subclassFeatures": [
+				"Lifeblood Reservoir|Wizard|PHB|Hemo|DMStash|2",
+				"Siphon Vitality|Wizard|PHB|Hemo|DMStash|6",
+				"Crimson Command|Wizard|PHB|Hemo|DMStash|10",
+				"Resurgent Sacrifice|Wizard|PHB|Hemo|DMStash|14"
+			]
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Lifeblood Reservoir",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 2,
+			"entries": [
+				"Your life essence powers your blood magic, setting a limit on how many hit dice you can use for such abilities each day.",
+				"Your Lifeblood Reservoir is a pool of hit dice equal to your proficiency bonus plus your Constitution modifier. You can expend hit dice from this pool to use your blood magic abilities. This pool is not separate from your regular Wizard hit dice; it represents a daily limit on the hit dice you can use for blood magic.",
+				"Your Lifeblood Reservoir replenishes its hit dice after you complete a long rest.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Blood Rites|Wizard|PHB|Hemo|DMStash|2"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Sanguine Resonance|Wizard|PHB|Hemo|DMStash|2"
+				}
+			]
+		},
+		{
+			"name": "Blood Rites",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 2,
+			"entries": [
+				"Your mastery over hemomancy allows you to channel your own life force to streamline your spellcasting.",
+				"When you cast a spell, you can choose to expend one hit die from your Lifeblood Reservoir to remove the need for either the verbal or somatic components of the spell.",
+				"If you expend an additional hit die, you can eliminate both the verbal and somatic components."
+			]
+		},
+		{
+			"name": "Sanguine Resonance",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 2,
+			"entries": [
+				"Your mastery of blood magic grants you heightened perception of life energies.",
+				"As an action, you can expend one hit die from your Lifeblood Reservoir to activate this feature. For a number of minutes equal to your Intelligence modifier (minimum of 1), you gain the ability to sense the presence of creatures within 30 feet of you.",
+				{
+					"type": "list",
+					"items": [
+						"The number of creatures within range.",
+						"Their general direction relative to you.",
+						"Whether the creatures are paralyzed, petrified, or poisoned.",
+						"An estimation of their current hit points relative to their maximum hit points: Full, Above Half, Half, Below Half, or None."
+					]
+				},
+				"This sense is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
+				"While active, you have advantage on Wisdom (Medicine) checks to assess or treat creatures within the detection radius, and on Wisdom (Insight) checks as you can gauge intentions through their heartbeats.",
+				"This feature only works on creatures that have blood."
+			]
+		},
+		{
+			"name": "Siphon Vitality",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 6,
+			"entries": [
+				"Your mastery over the essence of life enables you to draw vitality from fallen creatures.",
+				"Once per long rest, you can spend 10 minutes performing a ritual over the corpses of creatures within a 15-foot radius of you. These creatures must have blood for the ritual to be effective.",
+				"At the end of the ritual, you regain a number of hit dice equal to the combined total of the Challenge Rating (CR) or class levels (for creatures with class levels) of all affected creatures, up to a maximum determined by your Lifeblood Reservoir feature."
+			]
+		},
+		{
+			"name": "Crimson Command",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 10,
+			"entries": [
+				"Your mastery of blood magic allows you to dominate the will of others.",
+				"As an action, you can compel a creature within 60 feet that you can see to make a Constitution saving throw against your spell save DC.",
+				"On a failed save, you establish a telepathic bond with the creature until the end of your next turn. You can issue commands (no action required), which it strives to obey.",
+				"You can extend the duration of the bond by expending one hit die from your Lifeblood Reservoir at the beginning of your turn, causing the bond to last an additional round.",
+				"If the creature takes damage, it can repeat its saving throw, ending the effect on a success.",
+				"You can use this feature once per long rest. You may regain a use early by expending hit dice equal to your proficiency bonus."
+			]
+		},
+		{
+			"name": "Resurgent Sacrifice",
+			"source": "DMStash",
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Hemo",
+			"subclassSource": "DMStash",
+			"level": 14,
+			"entries": [
+				"Your mastery of blood magic enables you to share your vitality, even at death's door.",
+				"When you are reduced to 0 hit points but not killed outright, you can use your reaction to drop to 1 hit point instead. You may then expend any number of hit dice from your Lifeblood Reservoir. For each hit die expended, you gain temporary hit points equal to the roll and your speed increases by 10 feet until the end of your next turn.",
+				"Alternatively, when an ally within 60 feet is reduced to 0 hit points, you can use your reaction to halve your current hit points (rounded up). Your ally then regains hit points equal to the hit points you lost.",
+				"After using either option, you cannot use this feature again until you finish a long rest."
+			]
+		}
+	]
 }

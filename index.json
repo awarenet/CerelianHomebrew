@@ -1,7 +1,7 @@
 {
     "toImport": [
-        "creatures/sample.json",
-        "classes/Hemomancer.json"
+        "creature/sample.json",
+        "class/Hemomancer.json"
     ],
     "_meta": {
         "sources": [
