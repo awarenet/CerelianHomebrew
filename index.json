@@ -1,20 +1,24 @@
 {
     "toImport": [
         "creature/sample.json",
-        "class/Hemomancer.json"
+        "class/Hemomancer.json",
+        "race/Awarenet; Ruins of Symbaroum.json"
     ],
     "_meta": {
         "sources": [
             {
-                "json": "HobaWorld",
-                "abbreviation": "HW",
-                "full": "Hoba World Homebrew",
+                "json": "HobaBrew",
+                "abbreviation": "HB",
+                "full": "HobaBrew",
                 "authors": [
-                    "Hoba"
+                    "Hoba",
+                    "Awarenet",
+                    "Free League Publishing"
                 ],
                 "version": "1.0.0",
-                "url": "",
-                "targetSchema": "1.0.0"
+                "url": "https://github.com/Awarenet/CerelianHomebrew",
+                "targetSchema": "1.1.0",
+                "color": "0f8a0d"
             }
         ],
         "dateAdded": 1705021200
