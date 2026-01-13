@@ -1,0 +1,11 @@
+{
+    "monster": {
+        "creatures/sample.json": "creatures"
+    },
+    "subclass": {
+        "classes/Hemomancer.json": "classes"
+    },
+    "subclassFeature": {
+        "classes/Hemomancer.json": "classes"
+    }
+}
