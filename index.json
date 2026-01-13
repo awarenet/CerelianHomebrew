@@ -2,7 +2,8 @@
     "toImport": [
         "creature/sample.json",
         "class/Hemomancer.json",
-        "race/Awarenet; Ruins of Symbaroum.json"
+        "race/Awarenet; Ruins of Symbaroum (Race).json",
+        "background/Awarenet; Ruins of Symbaroum (Background).json"
     ],
     "_meta": {
         "sources": [
@@ -17,6 +18,36 @@
                 ],
                 "version": "1.0.0",
                 "url": "https://github.com/Awarenet/CerelianHomebrew",
+                "targetSchema": "1.1.0",
+                "color": "0f8a0d"
+            },
+            {
+                "json": "RuinsOfSymbaroum:R",
+                "abbreviation": "RoS:R",
+                "full": "Ruins Of Symbaroum Races",
+                "authors": [
+                    "Free League Publishing"
+                ],
+                "convertedBy": [
+                    "Awarenet"
+                ],
+                "version": "2026.01.13",
+                "url": "https://freeleaguepublishing.com",
+                "targetSchema": "1.1.0",
+                "color": "0f8a0d"
+            },
+            {
+                "json": "RuinsOfSymbaroum:B",
+                "abbreviation": "RoS:B",
+                "full": "Ruins Of Symbaroum Backgrounds",
+                "authors": [
+                    "Free League Publishing"
+                ],
+                "convertedBy": [
+                    "Awarenet"
+                ],
+                "version": "2026.01.13",
+                "url": "https://freeleaguepublishing.com",
                 "targetSchema": "1.1.0",
                 "color": "0f8a0d"
             }
