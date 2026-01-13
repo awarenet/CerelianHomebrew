@@ -41,12 +41,20 @@
 			],
 			"startingEquipment": [
 				{
+					"a": [
+						"cobbler's tools|phb",
+						"cook's utensils|phb",
+						"leatherworker's tools|phb",
+						"weaver's tools|phb"
+					]
+				},
+				{
 					"_": [
+						"traveler's clothes|phb",
 						{
-							"special": "A kit to match your tool proficiency"
-						},
-						"leather clothes|phb",
-						"1d6 gold (gp)|phb"
+							"special": "belt pouch",
+							"containsValue": 600
+						}
 					]
 				}
 			],
@@ -68,7 +76,7 @@
 						{
 							"type": "item",
 							"name": "Equipment",
-							"entry": "A kit to match your tool proficiency, {@item leather clothes|phb}, and 1d6 {@item gold (gp)|phb}"
+							"entry": "one kit from the tool proficiency list, {@item traveler's clothes|phb}, and a belt pouch containing 6 gp"
 						}
 					]
 				},
