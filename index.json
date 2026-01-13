@@ -1,0 +1,22 @@
+{
+    "toImport": [
+        "creatures/sample.json",
+        "classes/Hemomancer.json"
+    ],
+    "_meta": {
+        "sources": [
+            {
+                "json": "HobaWorld",
+                "abbreviation": "HW",
+                "full": "Hoba World Homebrew",
+                "authors": [
+                    "Hoba"
+                ],
+                "version": "1.0.0",
+                "url": "",
+                "targetSchema": "1.0.0"
+            }
+        ],
+        "dateAdded": 1705021200
+    }
+}

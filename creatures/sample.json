@@ -1,0 +1,44 @@
+{
+    "monster": [
+        {
+            "name": "Goblin (Homebrew)",
+            "source": "MyHomebrew",
+            "page": 1,
+            "size": "S",
+            "type": "humanoid",
+            "alignment": [
+                "N",
+                "E"
+            ],
+            "ac": [
+                15
+            ],
+            "hp": {
+                "average": 7,
+                "formula": "2d6"
+            },
+            "speed": {
+                "walk": 30
+            },
+            "str": 8,
+            "dex": 14,
+            "con": 10,
+            "int": 10,
+            "wis": 8,
+            "cha": 8,
+            "senses": [
+                "darkvision 60 ft."
+            ],
+            "passive": 9,
+            "cr": "1/4",
+            "action": [
+                {
+                    "name": "Scimitar",
+                    "entries": [
+                        "{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) slashing damage."
+                    ]
+                }
+            ]
+        }
+    ]
+}
