@@ -85,6 +85,86 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Changeling",
+			"source": "RuinsOfSymbaroumR",
+			"page": 0,
+			"ability": [
+				{
+					"wis": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"cha"
+						],
+						"count": 1,
+						"amount": 1
+					}
+				}
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"size": [
+				"M"
+			],
+			"entries": [
+				"That the elves sometimes steal a human child from its crib and place a changeling in its stead has been known amongst the barbarians for as long as the witches can remember. Since the arrival of the Ambrians, changelings have started to emerge among them as well. While a rare occurrence, it is still a traumatic experience for every family affected. It is unknown what exact purpose the elves have for doing this, but Ordo Magica's catalog of known cases in Ambria implies that children have been taken throughout the entire population, literally from both high and low.",
+				"A changeling looks human during childhood and starts to develop more elf-­like features in their adolescent years, though without ever becoming an elf in the true sense of the word. A changeling reaches adulthood at approximately the same age as a human; the changeling then continues to live a long life but apparently without taking any further steps in the life-­cycle of the elves. This has made some scholars develop theories stating that changelings are a people of their own, created by elven magic. Others claim that changelings indeed are elf-­spawn but that their natural life-­cycle has been truncated in some mystical way by growing up among humans.",
+				"A changeling's lot in life is usually a hard one, since few of them are allowed to stay with their families when their true nature has been revealed. Changelings are sometimes taken in by witches or wizards to serve as assistants, but most of them end up on the street where they have to fend for themselves as best they can. Exiled from human society, the changeling wanders a long and lonely road, often bitter and dark minded, in other cases frivolous and indifferent to the hardship of others.",
+				{
+					"name": "Changeling Traits",
+					"type": "entries",
+					"entries": [
+						"As changeling youngsters grow up, their elven nature is gradually revealed.",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Wisdom score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"By their 20th year changelings no longer resemble humans at all. Unless struck down by violence, they can live for centuries."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Changelings seem to be of the same size as elves, usually at least five feet tall but rarely reaching six feet. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"You inherit your true parents' ability to see in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+							]
+						},
+						{
+							"name": "Shapeshifting",
+							"type": "entries",
+							"entries": [
+								"You are eligible to take the Change Self feat if your group allows feats. If so, you can take the feat instead of an ability score improvement."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Changelings usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of elves as well."
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
