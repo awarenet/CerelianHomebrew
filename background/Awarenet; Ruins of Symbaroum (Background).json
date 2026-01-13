@@ -63,7 +63,7 @@
 						{
 							"type": "item",
 							"name": "Tool Proficiencies",
-							"entry": "one of {@tool cobbler's tools|phb}, {@tool cook's utensils|phb}, {@tool leatherworker's tools|phb}, or {@tool weaver's tools|phb}"
+							"entry": "one of {@item cobbler's tools|phb}, {@item cook's utensils|phb}, {@item leatherworker's tools|phb}, or {@item weaver's tools|phb}"
 						},
 						{
 							"type": "item",
