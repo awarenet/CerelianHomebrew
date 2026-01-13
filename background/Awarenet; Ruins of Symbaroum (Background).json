@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "RuinsOfSymbaroum:B",
+				"json": "RuinsOfSymbaroumB",
 				"full": "Ruins Of Symbaroum Backgrounds",
 				"abbreviation": "RoS:B",
 				"authors": [
@@ -14,12 +14,12 @@
 		],
 		"dateAdded": 1759251292,
 		"dateLastModified": 1759251292,
-		"edition": "one"
+		"edition": "classic"
 	},
 	"background": [
 		{
 			"name": "Runaway",
-			"source": "RuinsOfSymbaroum:B",
+			"source": "RuinsOfSymbaroumB",
 			"page": 0,
 			"skillProficiencies": [
 				{
@@ -41,164 +41,209 @@
 			],
 			"startingEquipment": [
 				{
-					"type": "item",
-					"choose": {
-						"from": [
-							"cobbler's tools",
-							"cook's utensils",
-							"leatherworker's tools",
-							"weaver's tools"
-						],
-						"count": 1
-					}
-				},
-				"leather clothes",
-				"1d6 ortegs"
-			],
-			"entries": [
-				"For some reason \u2013 curiosity, home-sickness, abuse \u2013 the abductee chooses to flee to the realm of humans, to become a special sort of stranger.",
-				{
-					"type": "entries",
-					"name": "Feature: Bushcraft",
-					"entries": [
-						"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themselves while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
-					]
-				},
-				{
-					"type": "entries",
-					"name": "Suggested Characteristics",
-					"entries": [
-						"You have chosen to leave the relative safety of elven society within Davokar and return to the human lands. Unfortunately, your welcome home is cold and cruel."
+					"_": [
+						{
+							"special": "A kit to match your tool proficiency"
+						},
+						"leather clothes|phb",
+						"1d6 gold (gp)|phb"
 					]
 				}
 			],
-			"backgroundCharacteristics": [
+			"entries": [
 				{
-					"name": "Personality Trait",
-					"type": "table",
-					"rows": [
-						[
-							"1",
-							"I listen to learn, I speak only when I have to."
-						],
-						[
-							"2",
-							"Life is short and I want to master one thing, and this is what I focus on."
-						],
-						[
-							"3",
-							"I can adapt to any situation, and love seeking out new places and people to learn from them."
-						],
-						[
-							"4",
-							"I am slow to trust and I have few friends. However, I never, ever, let a friend down."
-						],
-						[
-							"5",
-							"I always find a leader to follow, I do not function well on my own."
-						],
-						[
-							"6",
-							"I speak my mind and expect others to do the same."
-						],
-						[
-							"7",
-							"I look for patterns in the chaos of everyday life; follow randomness far enough and you will find it tied to fate."
-						],
-						[
-							"8",
-							"I know I will not live long, and I am at peace with this knowledge. Trying to avoid danger is pointless, as I would only come back to this place another day, in even worse company."
-						]
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Nature}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@tool cobbler's tools|phb}, {@tool cook's utensils|phb}, {@tool leatherworker's tools|phb}, or {@tool weaver's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "A kit to match your tool proficiency, {@item leather clothes|phb}, and 1d6 {@item gold (gp)|phb}"
+						}
 					]
 				},
+				"For some reason \u2013 curiosity, home-sickness, abuse \u2013 the abductee chooses to flee to the realm of humans, to become a special sort of stranger.",
 				{
-					"name": "Ideal",
-					"type": "table",
-					"rows": [
-						[
-							"1",
-							"Sacrifice. I am not important, the struggle against the growing Darkness is."
-						],
-						[
-							"2",
-							"Service. Freedom is an empty place, meaning comes from my obligations to others."
-						],
-						[
-							"3",
-							"Nature. Only in nature do we find who we really are; civilization is just a stop on the way to Darkness."
-						],
-						[
-							"4",
-							"Fatalism. We do not have to win, we only have to fight."
-						],
-						[
-							"5",
-							"Vengeance. The dark deeds of the past must be washed away with the blood of the wicked."
-						],
-						[
-							"6",
-							"Transcendence. The grand forces of the world just are, accepting all is the way to live a full and free life."
-						]
-					]
+					"name": "Feature: Bushcraft",
+					"type": "entries",
+					"entries": [
+						"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themselves while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
+					],
+					"data": {
+						"isFeature": true
+					}
 				},
 				{
-					"name": "Bond",
-					"type": "table",
-					"rows": [
-						[
-							"1",
-							"I am compelled to protect changelings, it's like they represent a missing part of me."
-						],
-						[
-							"2",
-							"The secrets of Davokar must not fall into the wrong hands."
-						],
-						[
-							"3",
-							"I have sworn to hunt down creatures of Corruption, and this I will do."
-						],
-						[
-							"4",
-							"My elven parents are lost, and I need to find them."
-						],
-						[
-							"5",
-							"My travel companions are like the family I never really had, they mean everything to me."
-						],
-						[
-							"6",
-							"I must find my human parents to become whole again."
-						]
-					]
-				},
-				{
-					"name": "Flaw",
-					"type": "table",
-					"rows": [
-						[
-							"1",
-							"I was raised by the elves, so my plans are always better than non-elven ones."
-						],
-						[
-							"2",
-							"I long for recognition from elves and will do anything to get it."
-						],
-						[
-							"3",
-							"I resent elves for taking my human life away from me."
-						],
-						[
-							"4",
-							"I resent my parents and by extension humans for allowing me to be taken by the elves."
-						],
-						[
-							"5",
-							"I do not know who I am, I feel like a stranger everywhere."
-						],
-						[
-							"6",
-							"I feel a rage in me, like an echo of the Corruption of Davokar. Maybe giving in to it is the answer to my loneliness?"
-						]
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You have chosen to leave the relative safety of elven society within Davokar and return to the human lands. Unfortunately, your welcome home is cold and cruel.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I listen to learn, I speak only when I have to."
+								],
+								[
+									"2",
+									"Life is short and I want to master one thing, and this is what I focus on."
+								],
+								[
+									"3",
+									"I can adapt to any situation, and love seeking out new places and people to learn from them."
+								],
+								[
+									"4",
+									"I am slow to trust and I have few friends. However, I never, ever, let a friend down."
+								],
+								[
+									"5",
+									"I always find a leader to follow, I do not function well on my own."
+								],
+								[
+									"6",
+									"I speak my mind and expect others to do the same."
+								],
+								[
+									"7",
+									"I look for patterns in the chaos of everyday life; follow randomness far enough and you will find it tied to fate."
+								],
+								[
+									"8",
+									"I know I will not live long, and I am at peace with this knowledge. Trying to avoid danger is pointless, as I would only come back to this place another day, in even worse company."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Sacrifice. I am not important, the struggle against the growing Darkness is."
+								],
+								[
+									"2",
+									"Service. Freedom is an empty place, meaning comes from my obligations to others."
+								],
+								[
+									"3",
+									"Nature. Only in nature do we find who we really are; civilization is just a stop on the way to Darkness."
+								],
+								[
+									"4",
+									"Fatalism. We do not have to win, we only have to fight."
+								],
+								[
+									"5",
+									"Vengeance. The dark deeds of the past must be washed away with the blood of the wicked."
+								],
+								[
+									"6",
+									"Transcendence. The grand forces of the world just are, accepting all is the way to live a full and free life."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am compelled to protect changelings, it's like they represent a missing part of me."
+								],
+								[
+									"2",
+									"The secrets of Davokar must not fall into the wrong hands."
+								],
+								[
+									"3",
+									"I have sworn to hunt down creatures of Corruption, and this I will do."
+								],
+								[
+									"4",
+									"My elven parents are lost, and I need to find them."
+								],
+								[
+									"5",
+									"My travel companions are like the family I never really had, they mean everything to me."
+								],
+								[
+									"6",
+									"I must find my human parents to become whole again."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I was raised by the elves, so my plans are always better than non-elven ones."
+								],
+								[
+									"2",
+									"I long for recognition from elves and will do anything to get it."
+								],
+								[
+									"3",
+									"I resent elves for taking my human life away from me."
+								],
+								[
+									"4",
+									"I resent my parents and by extension humans for allowing me to be taken by the elves."
+								],
+								[
+									"5",
+									"I do not know who I am, I feel like a stranger everywhere."
+								],
+								[
+									"6",
+									"I feel a rage in me, like an echo of the Corruption of Davokar. Maybe giving in to it is the answer to my loneliness?"
+								]
+							]
+						}
 					]
 				}
 			]

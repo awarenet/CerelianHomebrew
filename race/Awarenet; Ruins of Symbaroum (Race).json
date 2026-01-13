@@ -2,7 +2,7 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "RuinsOfSymbaroum:R",
+				"json": "RuinsOfSymbaroumR",
 				"full": "Ruins Of Symbaroum Races",
 				"abbreviation": "RoS:R",
 				"authors": [
@@ -19,7 +19,7 @@
 	"race": [
 		{
 			"name": "Abductee",
-			"source": "RuinsOfSymbaroum:R",
+			"source": "RuinsOfSymbaroumR",
 			"page": 0,
 			"ability": [
 				{
