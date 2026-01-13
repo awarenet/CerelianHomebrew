@@ -22,6 +22,15 @@
 			"name": "Runaway",
 			"source": "RuinsOfSymbaroumB",
 			"page": 0,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Abductee"
+						}
+					]
+				}
+			],
 			"skillProficiencies": [
 				{
 					"nature": true
@@ -267,6 +276,15 @@
 			"name": "Broken Home",
 			"source": "RuinsOfSymbaroumB",
 			"page": 0,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Changeling"
+						}
+					]
+				}
+			],
 			"skillProficiencies": [
 				{
 					"choose": {
@@ -330,7 +348,7 @@
 					"name": "Feature: Open Senses",
 					"type": "entries",
 					"entries": [
-						"Ever since you finished your 'maturation', you have noticed that you see more, hear more and sense more than your old human family and friends. When you make a Wisdom ({@skill Insight} or {@skill Perception}) check you can focus your senses and give yourself advantage on the check. Once you do this, you must take a short or longer rest before using this feature again."
+						"Ever since you finished your 'maturation', you have noticed that you see more, hear more and sense more than your old human family and friends. When you make a Wisdom ({@skill Insight} or {@skill Perception}) check you can focus your senses and give yourself advantage on the check. Once you do this, you must take a short or long rest before using this feature again."
 					],
 					"data": {
 						"isFeature": true

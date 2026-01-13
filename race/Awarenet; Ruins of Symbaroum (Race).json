@@ -111,6 +111,18 @@
 			"size": [
 				"M"
 			],
+			"languageProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"elvish",
+							"undercommon"
+						],
+						"count": 1
+					},
+					"common": true
+				}
+			],
 			"entries": [
 				"That the elves sometimes steal a human child from its crib and place a changeling in its stead has been known amongst the barbarians for as long as the witches can remember. Since the arrival of the Ambrians, changelings have started to emerge among them as well. While a rare occurrence, it is still a traumatic experience for every family affected. It is unknown what exact purpose the elves have for doing this, but Ordo Magica's catalog of known cases in Ambria implies that children have been taken throughout the entire population, literally from both high and low.",
 				"A changeling looks human during childhood and starts to develop more elf-­like features in their adolescent years, though without ever becoming an elf in the true sense of the word. A changeling reaches adulthood at approximately the same age as a human; the changeling then continues to live a long life but apparently without taking any further steps in the life-­cycle of the elves. This has made some scholars develop theories stating that changelings are a people of their own, created by elven magic. Others claim that changelings indeed are elf-­spawn but that their natural life-­cycle has been truncated in some mystical way by growing up among humans.",
