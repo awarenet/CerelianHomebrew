@@ -1,4 +1,5 @@
 {
+	"$schema": "https://raw.githubusercontent.com/TheGiddyLimit/5etools-utils/master/schema/brew-fast/homebrew.json",
 	"_meta": {
 		"sources": [
 			{
@@ -42,9 +43,15 @@
 			"startingEquipment": [
 				{
 					"a": [
-						"cobbler's tools|phb",
-						"cook's utensils|phb",
-						"leatherworker's tools|phb",
+						"cobbler's tools|phb"
+					],
+					"b": [
+						"cook's utensils|phb"
+					],
+					"c": [
+						"leatherworker's tools|phb"
+					],
+					"d": [
 						"weaver's tools|phb"
 					]
 				},
