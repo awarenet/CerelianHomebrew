@@ -806,7 +806,7 @@
 				},
 				{
 					"_": [
-						"simple clothes|phb",
+						"common clothes|phb",
 						{
 							"value": 150
 						}
@@ -831,7 +831,7 @@
 						{
 							"type": "item",
 							"name": "Equipment",
-							"entry": "A kit to match your tool proficiency, {@item simple clothes|phb}, and a belt pouch containing 4d6 + 1 shillings (1.5 gp)"
+							"entry": "A kit to match your tool proficiency, {@item common clothes|phb}, and a belt pouch containing 4d6 + 1 shillings (1.5 gp)"
 						}
 					]
 				},
@@ -1053,7 +1053,7 @@
 				},
 				{
 					"_": [
-						"simple clothes|phb",
+						"common clothes|phb",
 						{
 							"value": 100
 						}
@@ -1078,7 +1078,7 @@
 						{
 							"type": "item",
 							"name": "Equipment",
-							"entry": "A kit to match your tool proficiency, {@item simple clothes|phb}, and a belt pouch containing 2d6 + 3 shillings (1 gp)"
+							"entry": "A kit to match your tool proficiency, {@item common clothes|phb}, and a belt pouch containing 2d6 + 3 shillings (1 gp)"
 						}
 					]
 				},
