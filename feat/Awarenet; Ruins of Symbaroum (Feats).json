@@ -1,0 +1,965 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "RuinsOfSymbaroumF",
+				"full": "Ruins of Symbaroum Feats",
+				"abbreviation": "RoS:F",
+				"authors": [
+					"Free League Publishing"
+				],
+				"version": "1.0.0",
+				"url": "https://freeleaguepublishing.com"
+			}
+		],
+		"dateAdded": 1705220000,
+		"dateLastModified": 1705220000
+	},
+	"feat": [
+		{
+			"name": "Absolute Memory",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"• Restriction: Dwarves cannot take this feat (they have it as part of their origin already) You come from a culture or tradition that does not use writing, but which instead has developed memory techniques to preserve and transmit vital knowledge. You remember everything seen or heard, which means that the player may ask the Gamemaster about details perceived by the player character during their past adventures. The Gamemaster must answer as thoroughly as possible."
+			],
+			"ability": [
+				{
+					"int": 1
+				}
+			]
+		},
+		{
+			"name": "Archivist",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are trained to organize and search for information. You gain advantage on Intelligence (Investigation) checks when researching in archives and libraries."
+			],
+			"ability": [
+				{
+					"int": 1
+				}
+			]
+		},
+		{
+			"name": "Augur",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have always seen signs others have missed, and easily conduct rituals dealing with fate or hidden information. When you learn a divination spell as a ritual you gain one less permanent Corruption than normal, to a minimum of 1 permanent Corruption."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Beast Tongue",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You can speak to creatures from the monster category Beasts. Beasts have their limitations but can answer questions about which creatures are in, or have traveled through, an area, and also estimate their numbers (one, two or many). The beasts do not perform any services; they talk to you as equals."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Bloodhound",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a developed sense for finding people, no matter if the traces of their presence are found on the ground, in a lair or among discovered belongings. You have advantage on Wisdom (Perception or Survival) checks when pursuing a specific individual."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Blood Ties",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have established a mystical blood tie to a creature of a different origin. Because of this link, you can later on choose a feat belonging to the origin of the blood-friend (see page 153). It is most likely that the blood tie of the character is linked to another cultural origin, but beasts and other creatures are a possibility. The story of how the character came to enter into the relationship is probably interesting and telling of your life history, and maybe also of your morals and worldviews."
+			]
+		},
+		{
+			"name": "Cat Burglar",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are trained to open locks, latches and bolts, and disarm traps. You are proficient with thieves' tools."
+			],
+			"ability": [
+				{
+					"dex": 1
+				}
+			]
+		},
+		{
+			"name": "Commanding Voice",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a well-tuned and loud voice, able to rise above the clamor of combat. As a bonus action, you can allow any allies within 60 feet of you that can hear you to gain advantage on Charisma saving throws until the start of your next turn. You do not gain advantage yourself."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Con Artist",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have been trained to quickly twist the truth, and to generalize or exaggerate when it is called for. You have advantage on both Charisma (Deception) and Wisdom (Insight) checks regarding lies; hence, both for making a lie and noticing when others are lying. The lie's veracity is usually found out quickly, so the liar must hurry if they are to take advantage of it."
+			],
+			"ability": [
+				{
+					"wis": 1,
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Contacts",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"The character has served in an organization or traveled far and wide, and has therefore spun a wide web of contacts. With a successful DC 10 Charisma check, the character implores a contact to help with a specific question, precarious situation or other matter. The contact will help to the extent possible, but rarely risks life or limb. The contact may not be available directly \u2013 that depends on who is included in the character's web of contacts. Suitable factions and people when it comes to specifying the character's contacts are: the Queen's Army, the Queen's Rangers, Thieves' Guilds, Witches, Ordo Magica, the Church of Prios, the Noble Houses and Treasure Hunters. Double-tongue Double-tongue is a language developed by the Thieves Guild in Yndaros \u2013 you say one thing but mean another. This way, sensitive conversations can be held within earshot of outsiders. If multiple characters know Double-tongue, they can speak about secrets without risk \u2013 provided that the bystanders do not know the language as well..."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Enduring March",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"After having marched many, many miles in military columns or through the wilds, you have advantage on Constitution saving throws during forced marches (see page 34)."
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			]
+		},
+		{
+			"name": "Enterprise",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You own some kind of establishment \u2013 a small tavern, a smaller store or some other simple craft service like a cobbler or trinket shop. Other alternatives are a theater or a troupe of acrobats. The enterprise can be stationary in a place often visited by the characters between adventures, or it can be mobile in the form of a wagon or a river boat if that feels more reasonable. During an extended rest, you may make a DC 15 Intelligence or Charisma check. A success renders a profit of 10+1d10 thaler, after all expenses have been paid. This goes into the enterprises' reserves. A failure indicates a loss of thaler equal to the roll. If the business does not have any reserves to pay what it owes, it may operate until the next extended rest. If it fails again, the enterprise cannot try again until you spend some downtime on site, correcting any issues. If more than one character has Enterprise, they can be part of the same establishment or business. If so, both characters roll a profit check each. Characters that visit the enterprise can withdraw money from the business's reserves, or add to the reserves from their own funds."
+			],
+			"ability": [
+				{
+					"int": 1,
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Escape Artist",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have loose joints and have been trained to utilize this in order to get free from bonds or squeeze through narrow passages. You can also get free from the clutches of an enemy or out of traps such as nets and snares. In all these cases, you have advantage on the escape attempt."
+			],
+			"ability": [
+				{
+					"dex": 1
+				}
+			]
+		},
+		{
+			"name": "False Identity",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a false identity, complete with clothes, equipment and papers to back it up. The identity is so well-crafted that it cannot be exposed unless the person who created it (usually a prominent member of the organization or faction to which the character belongs) discloses it \u2013 or if you do something clearly revealing."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Fire Forged",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You were born beneath a glowing celestial phenomenon or were the only one to survive a devastating fire. You are resistant to fire damage. Fleet-footed You can move at an unusually high speed. You can use your bonus action to Dash."
+			],
+			"ability": [
+				{
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Forbidden Knowledge",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have come to possess the secrets of the mystical processes regarding artifact crafting; maybe as a result of espionage or after having served a far-traveled master. During an extended rest, you can create a lesser artifact, including those belonging to the secrets of other traditions."
+			],
+			"prerequisite": [
+				{
+					"other": "You must be 12th level or higher"
+				}
+			],
+			"ability": [
+				{
+					"int": 1
+				}
+			]
+		},
+		{
+			"name": "Forceful Personality",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You know how to be threatening in an effective way and can scare people into acting according to your will, if only for a short while. You have advantage on Charisma (Intimidation or Persuasion) checks pertaining to threats, interrogation and coercion. The effect is momentary; later the victim will likely retaliate against you when a chance presents itself."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Green Thumb",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"The character has a mystical connection to all growing things and has advantage on Wisdom(Survival) checks related to challenges in the wilds, such as orienting in the woods and finding food and shelter."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Heirloom",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have inherited a family heirloom. Choose a weapon or armor from the lists starting on page 162 that costs 50 thaler or less. You acquire the gear without paying for it."
+			],
+			"ability": [
+				{
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Hideouts",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Many organizations and networks regularly establish hideouts in Ambria and the outer regions of Davokar; guilds and factions like witches, the Queen's Rangers and most barbarian clans maintain such places for their members. The character knows of, and has access to, a series of such hideouts, linked to a specific group. There they can lay low and replace or repair vital equipment, including weapons and armor. When you need to find a hideout, make a DC 15 Intelligence check \u2013 a success means that you recall the location of a place in the vicinity. The location is hidden, safe and contains equipment to a value of 10 thaler; the character decides what is kept in the hideout, items and/or coins. If you take something from a hideout, you're expected to replace it later, or at least report what was taken and for what purpose."
+			],
+			"ability": [
+				{
+					"int": 1
+				}
+			]
+		},
+		{
+			"name": "Impressionist",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are a skilled impressionist, whether trying to impersonate a type of person belonging to your origin or imitating a specific individual. You gain advantage on Intelligence or Charisma checks when trying to impersonate a type of person (for instance a town guardsman) rather than a specific individual. If you have a disguise kit then you have advantage on impersonating a specific individual that shares your origin. If you are impersonating a type of person from a different origin then you have disadvantage on the check; impersonating a specific individual of a different origin is almost always impossible."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Manipulator",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You know how to manipulate others, using flattery, threats, or a combination thereof. It takes time to influence someone; it requires a scene of emotional manipulations to achieve the intended effect. Once you've chosen a victim, you have advantage on Charisma checks for that manipulation. On the other hand, the influence lasts longer than when simply lying \u2013 the victim accepts the sentiments as its own and will defend them long after the manipulator has left the place."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Medium",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You grew up in the presence of ghosts and have developed a connection to the realm of spirits. You have advantage on saving throws and ability checks regarding the spirits or the spirit world."
+			]
+		},
+		{
+			"name": "Mirage",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a mystical gift and may weave momentary mirages from thin air; flames that emit no heat jump between your hands, tiny figures of light dance in the air, and so on. You can also weave false images over smaller objects, for instance making pebbles appear as shining coins. You can cast prestidigitation without gaining any Corruption. With Mirage, you may make an opposed check \u2013 your Charisma (Deception) vs their Wisdom (Insight) to dupe someone into accepting fake goods or payment in the form of illusory coins, to a maximum \"value\" of a hundred thaler. Also, Mirage can grant advantage on a Charisma check when you threaten someone with \"powerful magic.\""
+			]
+		},
+		{
+			"name": "Pathfinder",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have well-tuned senses for spotting and following tracks, both below ground and on the surface. You have advantage on Wisdom (Survival) checks when trying to follow a trail or find the way to, or back from, a place. Pack-mule You can carry equipment weighing up to 20 times your Strength score in pounds (9 times your Strength score in kilograms)."
+			],
+			"ability": [
+				{
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Pet",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a trusty friend in the form of a jakaar or mare cat \u2013 any beast will do, so long as it is CR 1/4 or less. The pet is unswervingly loyal to you. In combat and problem-solving you play it almost as a second character, but you must use your bonus action to coax it to make use of its action. It shares your initiative count and acts immediately after your turn. It does not gain experience points and cannot develop its stats. If the pet dies, the character can have it replaced at the start of the next adventure."
+			]
+		},
+		{
+			"name": "Poison Resilient",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"By carefully exposing yourself to toxins, you have built up a remarkable resilience. You have resistance to poison damage and advantage on saving throws to avoid the poisoned condition."
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			]
+		},
+		{
+			"name": "Servant",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a personal servant. It may be an employed attendant, a serf chamber boy or something like that. The servant is loyal to you, but is otherwise useless in terms of skills. It can perform simple chores, stand guard at night or convey messages to others, but it will not contribute in dangerous situations. The servant is played by the Gamemaster and should be provided a suitable personality."
+			]
+		},
+		{
+			"name": "Shadow Spawn",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You were born during a solar eclipse and ever since then shadows are drawn to you. You have advantage on any Dexterity checks when sneaking or hiding."
+			],
+			"ability": [
+				{
+					"dex": 1
+				}
+			]
+		},
+		{
+			"name": "Soulmate",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a soulmate, either in the romantic or familial sense. Irrespective of which, you may telepathically communicate simple messages and feelings to your counterpart. You always know approximately where the other person is and if they are in any kind of trouble. The counterpart may be a non-player character important to the game or the character of another player; talk to your gaming friends and decide what is best. In the latter case, it is enough that one of the characters acquires the boon in question. If the soulmate perishes then after a period of grieving you can gain +2 to an ability score of your choice as you redirect your energies."
+			]
+		},
+		{
+			"name": "Storyteller",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are a gifted storyteller and no matter if you narrate legends, religious myths or burlesque tales, you will impress the audience. You gain advantage on Charisma (Deception or Performance) checks when attempting to weave a credible story to impress your listeners, and you are skilled enough to earn an income from your performances (see Downtime, page 40)."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Telltale",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have ears and a tongue for gossip and can sniff out rumors and also pass them on to new places. You have advantage on all Charisma or Wisdom checks in connection to hearing, spreading or realizing the truth behind rumors."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Tough",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a tough body and a strong soul, meaning that your heart keeps beating when the hearts of others would give up. You have advantage on death saving throws. Burdens are negative traits which add to the character's history and also provide opportunities to earn inspiration by using the negative effects in game. Using burdens is considered an optional rule (even more so than the choice to use feats themselves), so the gaming group has to reach a common understanding on whether or not to do so. You might, for example, have each character begin with a single burden, improving their stats but setting the stage for possible disaster."
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			]
+		},
+		{
+			"name": "Addiction",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have developed an addiction and must have a dose of your drug each day, or suffer from withdrawal symptoms. The drug (wine (Constitution), dream snuff (Wisdom), daft root (Strength) or similar drugs) costs one shilling per dose. An alchemist can create the drug for themselves or a friend for half that price. Each day without the drug, you must also pass a DC 10 Wisdom saving throw. If it fails, you will abandon all other projects and start hunting for the daily dose. Withdrawal symptoms give a level of exhaustion each day, with no non- magical way to recover the exhaustion. After the fifth day, you begin to recover exhaustion as normal, and you become free of the drug once you have no exhaustion remaining. Once free, you only need to make the Wisdom saving throw once a month or on a triggering event (GM's discretion)."
+			]
+		},
+		{
+			"name": "Arch Enemy",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have, by actions or name, made an arch enemy. This individual has devoted their existence to destroying \u2013 and in the end, taking \u2013 your life. At least once during each adventure, the influence of the arch enemy will show. They primarily act through others; hiring thugs or spreading lies in the hope that others will make life difficult for the character. Exactly who this arch enemy is, why they hate the character and what resources are at hand, is for the player and Gamemaster to decide. However, it cannot be someone who is easily avoided or stopped from acting out their hatred."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Bestial",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a bestial appearance, in the form of one (or a few) conspicuous traits \u2013 jakaar eyes, aboar tusks, lindworm scales on arms and neck, or something else arousing fear and disgust. Concealing the traits requires you to pass a DC 10 Charisma saving throw. If the save is failed, you have disadvantage on all Charisma (Deception, Performance or Persuasion) checks. However, the bestial exterior grants advantage on Charisma (Intimidation) checks. As soon as they can, those subjected to your intimidation efforts \u2013 whether or not it is successful \u2013 will report you to the Town Watch (or similar authorities) as a suspected abomination."
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			]
+		},
+		{
+			"name": "Bloodthirst",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a thirst for blood, easily awoken and hard to quench. The thirst appears if you take damage and means that you will not spare any enemies \u2013 not even if they surrender. Trying to spare an enemy requires an almost overpowering effort; you must succeed at a DC 20 Wisdom saving throw."
+			],
+			"ability": [
+				{
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Code of Honor",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have adopted a very strict code of honor, applicable in all situations but especially burdensome in combat. The code might specify that all opponents must be defeated, or that you never stand down from a fight or that every battle must be an honorable battle one on one. Work with your GM to determine the specifics."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Dark Blood",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Dark blood flows through your veins, passed down from an ancestor, or as a result of being cursed. Maybe you were simply born in the wrong part of Davokar at the wrong time. The dark blood always comes with some effect, roll on the Marks of Corruption table on page 38. The listed mark is permanent. The character may acquire and develop the following monstrous traits by selecting them as feats: Natural Weapon, Armored, Robust, Regeneration, Wings. (See the Ruins of Symbaroum Bestiary for more information). You gain 2 additional points of permanent Corruption each time you gain a monstrous trait."
+			]
+		},
+		{
+			"name": "Dark Secret",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have some kind of dark secret, which threatens to destroy your reputation and life if revealed. Maybe you were a member of a corrupted cult, killed someone, or protected a murderer and never got caught. Should the dark secret become publicly known, you have disadvantage on Charisma checks whenever the other party knows (and cares) about the secret. Once per adventure there is a risk that the secret will be exposed; the character must make a DC 10 ability check, with the ability chosen based on the circumstances. If failed, someone discovers a clue which can lead to the truth. Maybe some kind of physical evidence surfaces (a letter, for instance)? Is it a witness claiming to have seen something or is the character talking in his sleep? Whether the suspicious person is a non-player character or a character, you must lay their curiosity to rest or suffer the consequences. This normally requires an opposed Charisma (Deception) vs Wisdom (Insight) check. Note that a non-player character may want to extort, rather than expose, the character."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Elderly",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are past your prime and have both good and bad days. If the first ability check of the day is a success, it is a good day and everything seems to be alright; if the first check of the day is a failure, it is a bad day \u2013 the gout sets in, all your joints are aching or you are out of breath even when seated. You have disadvantage on ability checks until you succeed at one, at which time this effect ends."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Impulsive",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You act before thinking. This means that as soon as the player declares that the character does something, you act \u2013 and cannot have second thoughts. The only way for you to restrain yourself is to take a point of temporary Corruption as your internal conflict allows darkness to seep in."
+			],
+			"ability": [
+				{
+					"cha": 1,
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Nightmares",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are haunted by nightmares each and every night, possibly because of something you have experienced, or for more abstruse reasons, such as an ominous omen or the consequence of a family curse. Each night, you must pass a DC 10 Constitution saving throw or gain a level of exhaustion."
+			],
+			"ability": [
+				{
+					"con": 1
+				}
+			]
+		},
+		{
+			"name": "Mystical Mark",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have a mystical mark somewhere on your body, maybe a birthmark or a scar gained later in life, that requires effort to conceal. Whatever the origin, you are at risk of being mistaken for having a blight-mark. In situations when it is relevant, you must pass an opposed Charisma (Deception) versus Wisdom (Perception) roll or attract unwanted attention (which can take different forms depending on the situation)."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Seizures",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are afflicted by a sensitive mind, meaning that you can be exposed to violent cramps throughout the body when excited or stressed. If you roll a natural 1 on an ability check you become stunned for 1d4 turns. Afterwards you gain 1 level of exhaustion."
+			],
+			"ability": [
+				{
+					"int": 1,
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Sickly",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You suffer from a chronic disease, making you weak but also giving you insight into healing and your body's structure. Normally, your weakness does not show, but when you must make death saving throws they are at disadvantage."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Slow",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You move at an unusually slow pace. Reduce your base speed by 10 feet, to a minimum of 10 feet."
+			],
+			"ability": [
+				{
+					"wis": 1
+				}
+			]
+		},
+		{
+			"name": "Wanted",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are wanted for a some kind of serious crime, either justly or falsely accused. The effect is that you risk getting recognized and hunted. Once per adventure, you must pass a DC 10 Charisma (Deception) check to avoid being identified by authorities."
+			],
+			"ability": [
+				{
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Ward",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are responsible for another person, your ward. The ward can be a beloved child, an elderly but respected mentor, a soulmate or just an annoying relative whose welfare is connected to a future inheritance for the character. You pay your ward's lifestyle expenses, which include basic caregiving, but also must sometimes attend to them directly, for example the ward might get into trouble and need your aid. The Gamemaster plays the ward, who has no stats and gains no experience points for adventuring. If the ward dies or goes missing, you are afflicted by other problems; sorrow and remorse, mirrored by changing this burden into a suitable burden (the bonus from this burden fades and the bonus from the new burden is added). If you protected the person from love, burdens like Addiction or Nightmares can be appropriate. And if the protection was related to personal gains, maybe Wanted or Arch Enemy is better \u2013 the relatives of the ward do not easily forget the character's betrayal."
+			],
+			"ability": [
+				{
+					"int": 1,
+					"cha": 1
+				}
+			]
+		},
+		{
+			"name": "Shadow-sight",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Some humans are sensitive to the ethereal echoes of Shadows and, when concentrating, can see them. If you take this feat, you can spend a bonus action and take 1d4 temporary Corruption to discern a creature's Shadow, and judge it to be normal, blight-stricken, blight-marked or thoroughly corrupt (see page 38). The Gamemaster will compare your passive Insight to the target's passive Deception. If you fail, you see the creature's normal shadow, as it looked before suffering any corrupting influences."
+			],
+			"prerequisite": [
+				{
+					"other": "Abducted or Human"
+				}
+			]
+		},
+		{
+			"name": "Change Self",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another origin, though none of your statistics change. You can only appear as a creature of the same size category as you, and your basic shape stays the same; you can't use this effect to become quadrupedal, for instance. The effect ends at dawn, but you can use this effect again after a short or longer rest, so that you can continue the disguise as needed.Suspicious folk might reveal the truth by making a Wisdom (Insight) vs Charisma (Deception) check."
+			]
+		},
+		{
+			"name": "Retribution",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"When you are in danger, you can speak a word of power as a reaction and select an enemy creature within 30 feet that can hear you. For the next minute, whenever you take damage from the chosen enemy, it is divided in half and assigned both to you and that enemy (you take the additional point if the damage amount is odd). After the effect ends, you must take an extended rest before using this feature again."
+			]
+		},
+		{
+			"name": "Ancient Magic",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"At the end of a short rest, choose a number of cantrips from the Witch approach (see page 189) equal to your proficiency bonus. You can cast these spells without gaining any Corruption."
+			]
+		},
+		{
+			"name": "Tough and Stringy",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"When rolling hit points for a new level, if you receive less than the average (4) you can reroll the Hit Die. You must use the new value. If using the average value, use 5 on even levels and 4 on odd."
+			],
+			"ability": [
+				{
+					"str": 1
+				}
+			]
+		},
+		{
+			"name": "Big-boned",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are just at the edge of Medium size and have more muscle mass than most creatures your size. When determining your carrying capacity and lifting capacity you count as Large (double the amount a Medium creature can carry or lift). You also count as being Large when creatures try to grapple you."
+			],
+			"prerequisite": [
+				{
+					"other": "Ogre"
+				}
+			]
+		},
+		{
+			"name": "Robust",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are exceptionally sturdy and many hurts fail to do lasting damage to you. Reduce any nonmagical damage you take by an amount equal to your proficiency bonus."
+			]
+		},
+		{
+			"name": "Ravenous Hunger",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"If your current hit points are less than 1/4 of your maximum hit points (rounded down), you are overcome by an almost undeniable hunger. If you take your action to feast on raw flesh then you recover 1d4 plus your Constitution modifier in hit points. This effect ends when you start your turn with more than 1/4 of your maximum hit points and will not occur again until you take a short or longer rest."
+			]
+		},
+		{
+			"name": "Battle Speech",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"As a reaction when you roll initiative and are not surprised, you can make a speech to fortify your companions. You and up to six other creatures of your choice that can hear and understand you gain temporary hit points equal to your proficiency bonus plus your Charisma modifier for the next hour."
+			],
+			"prerequisite": [
+				{
+					"other": "Your Charisma must be 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Command Expert",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have trained extensively to lead others in battle. You gain a number of Command dice (d6s) equal to your proficiency bonus. Using your reaction you can add a Command die to an ally's weapon attack or damage roll. You regain any spent Command dice when you take a short or longer rest."
+			]
+		},
+		{
+			"name": "Parry",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You can use your reaction to a melee attack to add your proficiency bonus to your armor class. If your new armor class is higher than the attack roll you take no damage. You must be wielding a melee weapon. As a master of ranged weaponry, you can become an exceptional guard, and learn to deliver extraordinarily precise shots that can amaze and amuse your allies."
+			],
+			"prerequisite": [
+				{
+					"other": "Either your Strength or Dexterity must be 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Overwatch",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You can spend up to two hours each day in a state of heightened awareness, usually as part of your nightly watch duties. During this time you cannot be surprised, have advantage on initiative rolls and have advantage (+5) on your passive Perception checks that rely on sight."
+			]
+		},
+		{
+			"name": "Ranged Expert",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have trained extensively in ranged combat. You gain a number of Ranged dice (d6s) equal to your proficiency bonus. On your turn you can use your bonus action to add a Ranged die to your ranged attack roll or your weapon damage if you succeed with a ranged attack. You regain any spent Ranged dice when you take a short or longer rest."
+			]
+		},
+		{
+			"name": "Trick Shot",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have practiced performing exceptional shots with your ranged weapon. You can use one of your attacks to provoke an object interaction (such as shooting a lantern to put out its flame, hitting a switch or lever, cutting a rope, etc.) If you attempt to knock a weapon out of a creature's control, it can make a Strength saving throw with your attack roll as the DC to retain control of the weapon. As a master of magic you might excel in combat situations, learn additional spells from your research or become inducted into one of special orders within your magical organization."
+			],
+			"prerequisite": [
+				{
+					"other": "Your Dexterity must be 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Combat Magic Expert",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have trained extensively to use your magic in combat. You gain a number of Combat dice (d6) equal to your proficiency bonus. On your turn you can use a bonus action to add a Combat die to your spell attack roll or your spell damage. You can use your reaction to add a Combat die to a saving throw to maintain concentration. You regain any spent Combat dice when you take a short or longer rest."
+			]
+		},
+		{
+			"name": "Confessor",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Some theurgs regard themselves as herdsmen of the people, as missionaries and healers. These Confessors primarily work to enforce that which is good, keeping the flickering light of Prios alive by providing it with fuel. They are often found in leading positions, within or outside the Church, in order to reach as many people as possible when working to spread light and truth. Many of the highest leaders and greatest theurgs in the Church of Prios wander the road of the Confessor. You gain the following benefits: You learn the following rituals: lifegiver, exorcism, atonement. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Theurg approach and attained at least 11th level in the mystic class. You cannot take both the Confessor and Inquisitor feats."
+				}
+			]
+		},
+		{
+			"name": "Dedicated Focus",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Choose one of the schools of magic (abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy or transmutation). When you learn a spell of the chosen school you can learn a spell of the same school that is the same level or lower."
+			],
+			"prerequisite": [
+				{
+					"other": "Your spellcasting ability score must be 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Demonologist",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Beyond the world \u2013 or between worlds, if one believes in the existence of multiple worlds \u2013 lays the Yonderworld. In the Yonderworld soul-eating creatures roam, indistinguishable from abominations to the common man. Sorcerers appreciate the likeness, but call them \"daemons\" in acknowledgment of their differing origins. The daemons can be forced, lured or invited into the physical world by those who know of passages between the worlds. You learn the following ritual: summon daemon. You gain only 1 permanent Corruption for this ritual and do not gain Corruption when you cast it at the basic option (see page 206). Many demonologists regard their trade as vastly different from that of other sorcerers. In essence, they see themselves as explorers, seekers of the truth, and as more advanced compared to mossy Wizards who are satisfied poking around in the soil of the \"Here-and-Now.\" Sadly, they will likely never gain the admiration and respect they think they deserve. According to many legends, the demonologists of the past invited Corruption into the world, precisely because they were scratching and tearing at the world's fabric. Later stories blame them for having destroyed the once so lush realm of the Dark Lords, Lyastra. If anything, the demonologists will always be seen as the worst kind of sorcerers."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Sorcerer approach and attained at least 7th level in the mystic class."
+				}
+			]
+		},
+		{
+			"name": "Extensive Learning",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Choose four spells on your spell list that are equal to or lower than your maximum spell level. You learn those spells. You can take this feat more than once, learning four new spells each time."
+			],
+			"prerequisite": [
+				{
+					"other": "Your spellcasting ability score must be 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Inquisitor",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"For some theurgs, whether among priests or Black Cloaks, the hatred of the dark is so strong that they choose the inquisitor's road: to seek out and destroy the enemies of Prios. Inquisitors are happy to cooperate with Templars and other members of the Church; they are not interested in understanding the darkness and tend to rely on cunning, ambushes and assassination to reach their goals, never brute force like the Templars. To most inquisitors, sorcerers and their followers have no right to exist, and for that reason no moral consideration is necessary when they are fighting the dark. You learn the following rituals: holy smoke, anathema, purgatory. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Theurg approach and attained at least 11th level in the mystic class. You cannot take both the Confessor and Inquisitor feats."
+				}
+			]
+		},
+		{
+			"name": "Necromancer",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"The Spirit World is the outer realm of the world, where the dead journey towards their final rest \u2013 if they are not disturbed by a necromancer on the way. Necromancers can force the spirits of the outer realm to return, in order to relay their secrets or to occupy a dead body and serve the death mage as a dragoul or some other undead being. An understanding of the mechanics of death also gives the necromancer access to ghastly powers and rituals. You learn the rituals spirit walk, animate dead, commune with spirits. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Sorcerer approach and attained at least 9th level in the mystic class."
+				}
+			]
+		},
+		{
+			"name": "Pyromancer",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"For pyromancers, the element of fire has a special allure. By studying the essence of fire, the pyromancer learns to master the exothermic principle to such a degree that fire is transformed into an ally and a shelter, rather than being a dangerous element. You learn the following rituals: tale of ashes, flaming servant, fire soul. You gain only 3 permanent Corruption for these rituals and do not gain any Corruption when you cast them."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Wizard approach and attained at least 9th level in the mystic class."
+				}
+			]
+		},
+		{
+			"name": "Secrets of the Order",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"Deep within Davokar, ruined monasteries contain secrets practiced for generations. These mysteries are taught to those trusted by the order, or to its members who have achieved much in their battle against Corruption. With knowledge of these secrets a Staff Mage truly becomes one with their staff. You gain the following three abilities: • Mastery. Twice per day you may invoke your mastery over your staff by using an action to magically fix it in place. Until you spend an action to release the staff it will not move, even if it is defying gravity. Whilst under this effect the staff may hold up to 8,000 lbs of weight. More weight than this causes the staff to release and fall. A creature can make a DC 30 strength check, moving the staff 10 ft. on a success. You must be able to see your staff and be within 100 ft. of it to be able to activate this feature. • Unity. As a bonus action you may fuse your staff with your own body, drawing it into yourself. Whilst fused in this manner the staff weighs nothing and cannot be detected or discovered by other creatures. As another bonus action you call forth your staff causing it to grow from your palm ready to be used. After the first hour of being fused with you, any permanent Corruption begins to be drawn to you. At the end of the second hour the staff loses a point of permanent Corruption and you gain that point. This effect continues each hour until the staff has no permanent Corruption left. • Strength. You draw vigor from wielding your staff, whilst you are touching your staff you have advantage on saving throws against poison and diseases. In addition, while you are wielding your staff as a weapon, you have advantage on ability checks to resist being pushed or knocked prone. You are a master of stealth and thievery. You might focus on being flexible and fast, or disappearing into darkness or surprising folks in combat."
+			],
+			"prerequisite": [
+				{
+					"other": "You have taken the Staff Mage approach and attained at least 7th level in the mystic class."
+				}
+			]
+		},
+		{
+			"name": "Nimble",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"• Your base speed increases by 10 feet. • You can make a Dexterity (Acrobatics) check instead of a Strength (Athletics) check to climb surfaces. • you suffer falling damage, you can make a DC 10 Dex-"
+			],
+			"prerequisite": [
+				{
+					"other": "Dexterity 13 or higher. You are extraordinarily dexterous:"
+				}
+			]
+		},
+		{
+			"name": "If",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"terity saving throw. On a success you take half damage from the fall."
+			]
+		},
+		{
+			"name": "Shadow Walker",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You are an expert at stealth. You gain the following benefits: • You have advantage on Dexterity (Stealth) checks as long as you are obscured from any observers. • you are hidden, a failed attack roll does not reveal your"
+			],
+			"prerequisite": [
+				{
+					"other": "Dexterity 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "If",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"location."
+			]
+		},
+		{
+			"name": "Skirmish Expert",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have trained extensively in close-in spontaneous combat. You gain a number of Skirmish dice (d6s) equal to your proficiency bonus. When it is your turn, if you are unarmed or are using an improvised weapon, you can use a bonus action to add a Skirmish die to your attack roll or damage roll. You regain any spent Skirmish dice when you take a short or longer rest. As a master of weapons and strength, you might learn to bring your full weight and strength against your enemy, to hold them steady and prevent them from hurting others or to wield your weapon with deadly grace."
+			]
+		},
+		{
+			"name": "Bull Rush",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"If you move 20 feet or more towards a target that is at least 20 feet away you have advantage on attack rolls (including shove checks) until the end of your turn."
+			],
+			"prerequisite": [
+				{
+					"other": "Strength 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Grappler",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits: • You have advantage on attack rolls against a creature you are grappling. • You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends."
+			],
+			"prerequisite": [
+				{
+					"other": "Strength 13 or higher."
+				}
+			]
+		},
+		{
+			"name": "Melee Expert",
+			"source": "RuinsOfSymbaroumF",
+			"page": 146,
+			"entries": [
+				"You have trained extensively in the arts of war. You gain a number of Melee dice (d6s) equal to your proficiency bonus. On your turn you can use a bonus action to add a Melee die to your melee attack roll or your weapon damage if you succeed with a melee attack. You regain any spent Melee dice when you take a short or longer rest. According to Master Malliano these signs, carved in the tower ruin in Old Kadizar, seem to name the settlement that lay there at the height of Symbaroum's power. He has proposed Agrathor or Ergatharor as possible pronunciations. Light fell through cracks in the ceiling, dancing with the dust that covered everything in the room \u2013 the bottles of elixirs, poorly preserved monster trophies and the matron herself, an aged changeling. It was Kasimer who had led them to the cabin. Agniesha remained by the door, apparently uneasy. Gormyx spoke for the group, partly because the steady voice of the troll singer made him a great negotiator, partly because he knew more about the Underworld than the rest of them combined. Knowledge of the Abyss was undoubtedly relevant in the situation; their nemesis had fled there after the confrontation and the group had decided to hunt him down. It looked as if the troll and the changeling had already agreed on a price for a number of items and elixirs, but they were still squabbling over a brew that the matron claimed could provide anyone with armor-like skin, claws and even wings. Gormyx was just about to present a new argument when Jela heard herself cry out, \"I'll take it!\" The others gave her puzzled looks. In a calmer voice she explained, \"I'll take it. I'd rather die than allow the black priest to escape again!\" This section provides resource information that you'll use during character creation and play. We first cover the economy of Ruins of Symbaroum, including listings of common equipment, weapons, armor, services, elixirs, lesser artifacts, traps, entertainment and trade goods. This helps with building the setting and giving you, the player, a strong handle on what is available. The next section is a listing of all of the spellcasting traditions and the spells available to them at each casting level. This listing includes standard OGL spells, modified OGL spells and brand-new Symbaroum-only spells. The last section provides detailed information on any of the OGL spells that were modified to fit Ruins of Symbaroum and all of the new spells. It is provided in order by casting spell level and then alphabetically within each level, allowing you to find a spell of an appropriate level quickly."
+			]
+		}
+	]
+}

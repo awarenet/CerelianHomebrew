@@ -1,0 +1,240 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "RuinsOfSymbaroumC",
+				"full": "Ruins of Symbaroum Classes",
+				"abbreviation": "RoS:C",
+				"authors": [
+					"Free League Publishing"
+				],
+				"version": "1.0.0",
+				"url": "https://freeleaguepublishing.com"
+			}
+		],
+		"dateAdded": 1705220000,
+		"dateLastModified": 1705220000
+	},
+	"class": [
+		{
+			"name": "Captain",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"con",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"animal handling",
+								"athletics",
+								"deception",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"persuasion",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Approach, Fighting Style, Tactical Acumen"
+						],
+						[
+							"Field Dressings (d6)"
+						],
+						[
+							"Approach, Bid to Action"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"War Stories"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach, Field Dressings (d8)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Field Dressings (d10)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"War Stories (×2)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach, Field Dressings (d12)"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Unending Conflict"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Fighting Style|Captain|RuinsOfSymbaroumC|1",
+				"Tactical Acumen|Captain|RuinsOfSymbaroumC|1",
+				"Field Dressings|Captain|RuinsOfSymbaroumC|2",
+				"Bid to Action|Captain|RuinsOfSymbaroumC|3",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|4",
+				"Extra Attack|Captain|RuinsOfSymbaroumC|5",
+				"War Stories|Captain|RuinsOfSymbaroumC|7",
+				"Unending Conflict|Captain|RuinsOfSymbaroumC|20"
+			]
+		}
+	],
+	"classFeature": [
+		{
+			"name": "Fighting Style",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again. Archery You gain a +2 bonus to attack rolls you make with ranged weapons. Defense While you are wearing armor, you gain a +1 bonus to AC. Dueling When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon. Great Weapon Fighting When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-­handed or versatile property for you to gain this benefit. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Tactical Acumen",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"You are often more concerned with your group's readiness at the expense of your own. When combat begins and you are not surprised you can take disadvantage on your initiative roll in order to give advantage on initiative rolls to a number of creatures equal to your proficiency bonus."
+			]
+		},
+		{
+			"name": "Field Dressings",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you can help wounded allies during a short or long rest. If you or any friendly creatures regain hit points at the end of the rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points. The extra hit points increase when you reach certain lev- els in this class: to 1d8 at 9th level, to 1d10 at 11th level, and to 1d12 at 17th level."
+			]
+		},
+		{
+			"name": "Bid to Action",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 3,
+			"entries": [
+				"Beginning at 3rd level, you can spur others to act quickly. When a creature's turn ends, use your reaction to nominate a friendly creature to have its turn next instead of acting on its normal initiative count. The creature must not have already taken its turn yet this round and retains its original initiative count for future rounds."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature."
+			]
+		},
+		{
+			"name": "Extra Attack",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 5,
+			"entries": [
+				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 18th level in this class."
+			]
+		},
+		{
+			"name": "War Stories",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 7,
+			"entries": [
+				"Beginning at 7th level, you can tell encouraging stories to steel the resolve of your companions. You may restore a number of Hit Dice equal to your proficiency bonus to each friendly creature you share a short or long rest with. Once you use this feature you must take an extended rest before using it again. At 15th level, you can use this feature twice before need- ing to take an extended rest."
+			]
+		},
+		{
+			"name": "Unending Conflict",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"entries": [
+				"At 20th level, when you roll initiative, you gain 1d10 + 10 temporary hit points. Each captain is a superb leader of others but their goals may be as unique as their personalities. When you choose an approach, you make a choice about what kind Polearm Fighting When wielding a reach weapon, you can use your reaction to impose disadvantage on a melee attack roll within your reach. Shield Fighting If you make a successful melee attack roll you can use your bonus action to slam a target within 5 ft with your shield. If the target is your size or smaller, it must make a Strength saving throw against 10 plus your Strength (Athletics) modifier. On a failure you can choose to move the creature 10 feet in a line, or cause it to become prone. Snare Fighting If using a weapon with the ensnaring prop- erty and you make a successful attack roll, you can spend a bonus action to forgo do- ing damage, instead tripping the target and causing it to fall prone. This only works on creatures your size or smaller with two or less legs, or similarly shaped targets. Two-­Weapon Fighting When you engage in two-­weapon fighting, you can add your ability modifier to the damage of the second attack."
+			]
+		}
+	]
+}

@@ -279,6 +279,628 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Elf",
+			"source": "RuinsOfSymbaroumR",
+			"page": 58,
+			"ability": [
+				{
+					"wis": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"con",
+							"int",
+							"cha"
+						],
+						"count": 1,
+						"amount": 1
+					}
+				}
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"size": [
+				"M"
+			],
+			"languageProficiencies": [
+				{
+					"elvish": true,
+					"other": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"The elves of Davokar are but an offshoot of a greater people; part of a holy guardian order. Initially, the order involved elves from the virgin regions to the west, where humans have not yet reached and where the elven civilization is in bloom. Unlike humans, an elf's long life is interrupted by periods of dormancy wherein the elf grows into the next stage of their life-­cycle. Most elves encountered are in their summer cycle, the second phase of elven life. See the Ruins of Symbaroum Bestiary on page 172 for more information.",
+				"A majority of the elves in Davokar were born into the order. This order \u2013 known by humans as the Iron Pact \u2013 is tasked with preventing the evil that slumbers beneath Davokar's roots and moss from awakening and spreading across the world. They have never been west and will never go there; to them the elven lands of old are and remain a dream that will never come true. From when they are young, they are told that their duty lies in Davokar and that they are not welcome in the old lands. The Iron Pact even has a ceremony to initiate young elves into the order, where weeping elders \u2013 led by Prince Eneáno \u2013 beg newly awakened summer elves for forgiveness for having forced them to be born, live and die in the Forest of the Death Shadow, Davokar. The life of the pact members is dangerous, their numbers are dwindling and the once so mighty Prince Eneáno is entering his soul's winter \u2013 the increasing unpredictability of the Prince has made it possible for other, disagreeing leaders to position themselves for the upcoming power struggle. The dispute concerns the tactics of the battle against the dark \u2013 whether it should be fought with arrows and spears or by forging alliances.",
+				"The spirited fairies who wake up after their first dormancy enter the phase of the summer elves, and it is they who constitute the backbone of Davokar's guardian force: vigilant hunters armed with spears and bows. Many of them die in battle with abominations or taboo-­breakers from the less and less cautious humans in the south. Those who survive eventually reach their second dormancy, a time of tearful grief for the elves. The members of Davokar's Iron Pact all live with the bitter truth that few elves will ever awaken from their second slumber; most wither away before reaching the next life phase.",
+				"Perhaps it is for this reason that the holds and forest castles of the Iron Pact always echo with sorrowful songs, lamenting the fallen and withered. Davokar's elves grow fewer and fewer; not even the ever increasing number of abductions can fill the gaps in their ranks. There is, however, a faint light in the gloom: more and more humans are willingly seeking to join the Iron Pact, and the elves working for alliances point out that there are even Ambrians among them.",
+				{
+					"name": "Elf Traits",
+					"type": "entries",
+					"entries": [
+						"The following traits are for Summer Elves:",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Wisdom score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"An elf that has reached the summer life phase is about a hundred years old and will be active for up to a century and a half before feeling the call of the deep sleep again."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Summer elves are about five-­and-­a-half feet tall and average around 120 pounds. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"You have a base speed of 30 feet."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"Accustomed to the gloom of Davokar, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+							]
+						},
+						{
+							"name": "Pariahs",
+							"type": "entries",
+							"entries": [
+								"Ambrians detest elves and the barbarians fear them, so elves have disadvantage on Charisma checks with all humans. You can try to impersonate a changeling by wearing human clothing and imitating their behavior. When directly interacting with a human, make a Charisma (Deception) check against their passive Insight. On a failure, they recognize you as an elf and the Pariah effect applies."
+							]
+						},
+						{
+							"name": "Wisdom of the Ages",
+							"type": "entries",
+							"entries": [
+								"Through the eons, the elves have amassed a vast collective wisdom; a deep well of knowledge and insights which many elves can access through meditation. The character is one of those who may use the know-­how of previous generations to solve problems at hand.",
+								"When you take an extended rest, you can select a skill. You are proficient with that skill until you take another extended rest, at which time you select a skill (the same or another)."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Elves speak their own language, and often know the troll languages as well. Those that have cause to be in human lands also learn one of the human tongues."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Goblin",
+			"source": "RuinsOfSymbaroumR",
+			"page": 64,
+			"ability": [
+				{
+					"dex": 2,
+					"choose": {
+						"from": [
+							"str",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 1,
+						"amount": 1
+					}
+				}
+			],
+			"speed": 20,
+			"darkvision": 60,
+			"size": [
+				"S"
+			],
+			"skillProficiencies": [
+				{
+					"stealth": true,
+					"survival": true
+				}
+			],
+			"languageProficiencies": [
+				{
+					"anyStandard": 1,
+					"other": true
+				}
+			],
+			"entries": [
+				"Little is known about the origin of goblins, but their presence in the southern outskirts of Davokar is quite obvious. The tribe that left the darkness of Davokar to settle down close to Thistle Hold swarms and makes such a racket that they have made themselves quite unpopular among the town's human populace. Their fiery temperament and strange ways of socializing have contributed to the disapproval: \"Hide the Boot\", \"Tame the Ogre\", \"Trim the Thistle\", \"Tighten the Temple\" and \"Want a Smack, Molok?\" are party games that outsiders are reluctant to even watch.",
+				"The life of a goblin is short \u2013 a goblin is considered a youngster at the age of five, adult at ten and an elder at the age of twenty. To meet a thirty-­year-­old goblin is a rarity, as most of them voluntarily return to seek a lonesome death in Davokar before then. Meeting one who is forty is all but unheard of. The truth of the goblin life-­cycle is even more remarkable, though few humans know it \u2013 when goblins feel the pull of the forest not all of them die. Some are changed, becoming trolls or ogres.",
+				"The only reason why goblins are tolerated in Thistle Hold is that they are practical when it comes to doing dirty work like draining marshes, emptying latrines and flailing about on scaffolding. Thanks to that, a gibbering horde of sinewy goblins flows into the town every morning to work hard at a number of heavy, dangerous or thankless tasks. Come nightfall, they are once again driven away, and a bunch of uncharacteristically silent goblins march back to their beds in simple huts of straw and clay.",
+				"Some goblins stray from this pattern, mainly treasure-­hunters and goblins employed in the households of wealthy individuals in Thistle Hold. A dozen or so goblin younglings can also be found in the convent school in the capital city, where a handful of extremely patient monks have committed themselves to saving whatever soul resides inside the wild whelps. The most renowned goblin to represent both of these phenomena is Garm Wormwriggler, brought up at the convent school to later become a successful treasure-­hunter.",
+				{
+					"name": "Goblin Traits",
+					"type": "entries",
+					"entries": [
+						"All goblins encountered share a set of inborn tendencies and features.",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Dexterity score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"Goblins are adults at 10 and few remain in human lands past their 30th year."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"All goblins are under four feet in height and average around 50 pounds. Your size is Small and you have a d6 Hit Die. At first level you have 6 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 4 (1d6) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"Goblins scurry underfoot of the bigger peoples but their strides cannot match them distance for distance. You have a base speed of 20 feet."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"Accustomed to the gloom of Davokar and underground mines, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+							]
+						},
+						{
+							"name": "Pariahs",
+							"type": "entries",
+							"entries": [
+								"Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin."
+							]
+						},
+						{
+							"name": "Survival Instinct",
+							"type": "entries",
+							"entries": [
+								"While goblins are a loud and fractious people, they have a powerful will to survive. You can take either the Dash, Dodge or Disengage actions using your bonus action. You also gain proficiency with the Stealth and Survival skills."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Goblins usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of trolls or elves as well."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Ogre",
+			"source": "RuinsOfSymbaroumR",
+			"page": 80,
+			"ability": [
+				{
+					"con": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 1
+					}
+				}
+			],
+			"speed": 40,
+			"darkvision": 60,
+			"size": [
+				"M"
+			],
+			"languageProficiencies": [
+				{
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"Ogres are solitary and odd creatures that come wandering out of the depths of Davokar, fully grown but devoid of memories and with no sense of identity. It is up to the humans or goblins who eventually take them in to give them a name and teach them the ways of the world.",
+				{
+					"name": "Ogre Traits",
+					"type": "entries",
+					"entries": [
+						"Though they do not realize it, all ogres share a common origin and have many more similarities than differences despite their varied upbringings.",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Constitution score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"Ogres have no sense of their 'birth' and it is up to other people to keep track of their age in whatever way they see fit. The general consensus is that ogres can live for several decades at least, and at least one ogre is known to have reached 100 years of service."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Ogres tend to be from 7 to 8 feet tall and weigh from 250 to 350 pounds. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 6 (1d8) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"Ogres have long limbs and an incautious attitude, your base speed is 40 feet."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"Accustomed to the gloom of Davokar, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+							]
+						},
+						{
+							"name": "Pariahs",
+							"type": "entries",
+							"entries": [
+								"Ogres are often poorly treated in society and have disadvantage on Charisma checks with other peoples. However, they tend to do well with goblins and make normal Charisma checks when interacting with them."
+							]
+						},
+						{
+							"name": "Calmness",
+							"type": "entries",
+							"entries": [
+								"Ogres are slow to speak, slow to take offense and are possessed by a deep mental placidity. You have advantage on Wisdom saving throws against enchantments and other mind-altering magics."
+							]
+						},
+						{
+							"name": "Tough Skin",
+							"type": "entries",
+							"entries": [
+								"Ogres can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Ogres speak the language of whomever adopted them."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Troll",
+			"source": "RuinsOfSymbaroumR",
+			"page": 86,
+			"ability": [
+				{
+					"str": 2,
+					"choose": {
+						"from": [
+							"dex",
+							"con",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 1
+					}
+				}
+			],
+			"speed": 40,
+			"darkvision": 60,
+			"size": [
+				"M"
+			],
+			"languageProficiencies": [
+				{
+					"other": true,
+					"anyStandard": 2
+				}
+			],
+			"entries": [
+				"The troll civilization differs a lot from human societies. The value and worth of a troll are determined by what he or she can bring to the community, whether in the form of a warrior's protection, a craftsman's items or a skald's songs. The most ruthless and vigorous trolls manage to secure a place among the leaders and become members of the Rulers Caste.",
+				{
+					"name": "Troll Traits",
+					"type": "entries",
+					"entries": [
+						"Trolls form a unified society in the Underworld and their cultural tendencies show even in those who have chosen to explore the outer world.",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Strength score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"Trolls are not born and thus don't celebrate the passing of the years like other peoples. With the emphasis on competition, most trolls die well before they show any signs of aging."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Trolls average just at or below 8 feet in height and weigh 300 pounds or more. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 6 (1d8) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"Trolls have long limbs and take long strides. Your base speed is 40 feet."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"Accustomed to the Underworld, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+							]
+						},
+						{
+							"name": "Pariah",
+							"type": "entries",
+							"entries": [
+								"Humans are fearful of trolls so a troll making a check involving a human has disadvantage. A troll that succeeds at a Charisma (Intimidation) check involving one or more humans however will mean that the humans are frightened of the troll for one minute or until the troll leaves the immediate area."
+							]
+						},
+						{
+							"name": "Tough Skin",
+							"type": "entries",
+							"entries": [
+								"Trolls can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Trolls have their own language, passed down from other trolls since the beginnings of the world. Those who wander often pick up Elvish and at least one of the human tongues in order to make themselves understood."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Undead",
+			"source": "RuinsOfSymbaroumR",
+			"page": 90,
+			"ability": [
+				{
+					"con": 2,
+					"choose": {
+						"from": [
+							"str",
+							"dex",
+							"int",
+							"wis",
+							"cha"
+						],
+						"count": 1
+					}
+				}
+			],
+			"speed": 30,
+			"darkvision": 60,
+			"size": [
+				"M"
+			],
+			"languageProficiencies": [
+				{
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"Undead player characters are thoroughly corrupt from the start. Like others of their kind, the undead character has a mind and free will; they are not howling abominations bent on destruction.",
+				{
+					"name": "Undead Traits",
+					"type": "entries",
+					"entries": [
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Constitution score increases by 2. Increase any other ability score by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"Undead are exclusively human in origin. They can have died their first death at almost any age after attaining adulthood. If they can maintain themselves, they can live for centuries."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Undead are of human stock and thus vary widely in height and build. Your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain 5 (1d8) plus your Constitution modifier hit points. You do not gain a Hit Die."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"Your base walking speed is 30 feet."
+							]
+						},
+						{
+							"name": "Darkvision",
+							"type": "entries",
+							"entries": [
+								"A creature of Corruption and death, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light."
+							]
+						},
+						{
+							"name": "Languages",
+							"type": "entries",
+							"entries": [
+								"Undead speak the language they used in life, usually either Ambrian or Barbarian."
+							]
+						},
+						{
+							"name": "Physical Degeneration",
+							"type": "entries",
+							"entries": [
+								"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
+							]
+						},
+						{
+							"name": "Undead",
+							"type": "entries",
+							"entries": [
+								"You do not sleep, cannot eat normal food, do not need to breathe (except to talk). You can drink small amounts of liquid. You do not naturally heal during a short or long rest, instead you must either drink blood or consume raw flesh during a long rest to restore your single Hit Die, which you can then use to regain hit points or reduce temporary Corruption. You can benefit from healing magic. When you interact with the living, you must make a Charisma (Deception) check against their passive Insight in order to fool them."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Human",
+			"source": "RuinsOfSymbaroumR",
+			"page": 71,
+			"ability": [
+				{
+					"str": 2,
+					"choose": {
+						"from": [
+							"dex",
+							"con",
+							"cha"
+						],
+						"count": 1,
+						"amount": 1
+					}
+				}
+			],
+			"speed": 30,
+			"size": [
+				"M"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"anyStandard": 1
+				}
+			],
+			"entries": [
+				"According to the scholars of Ordo Magica, the people of Ambria and Davokar are descendants of the same tribe, although the barbarians and the Queen's Folk hardly consider themselves so closely related. Queen Korinthia's claim to Ambria, the land south of Davokar forest, is motivated by her ancestral connection to the region, and even the most novice of Ambrian linguists can explain in what ways the \"gibbering speech of the barbarians and the melodious tongue of the Queen's Folk are similar.\" More disputed are claims saying that the two peoples originate from the same stem, rooted in the old and long forgotten empire of Symbaroum whose ruins are hidden deep within Davokar.",
+				"Whatever the case, there are significant differences between the two peoples in a cultural sense. The Ambrians abandoned their blighted homeland Alberetor twenty years ago, to settle down in the well-­preserved ruins of Lindaros. On their journey they brought along their architecture, knowledge, economic system and social hierarchies. Thanks to its discipline the Ambrian army outmatches the barbarian clan warriors when they meet in the open fields, but in the woods where the skill of the individual becomes a decisive factor they are more evenly matched. That, coupled with the advantage of having greater local knowledge, has so far kept the Ambrians from entering very deep into the forest \u2013 with the exception of treasure-­hunters, religious fanatics searching for lost sun temples and free settlers hoping to escape the Queen's control.",
+				"Since the days of old, the barbarians have been ruled by chieftains, but enjoyed much greater independence and freedom compared to the chastened crofters and peasants in the south. Nor do the barbarian leaders seek to enforce a strict or rigid way of life upon their subjects. The witches, the spiritual leaders among the barbarians, rule with a light hand in the form of taboos and general rules \u2013 revere nature, never abuse it and avoid the darker parts of the forest. The clans lead their lives independent from one another, with the occasional exception of skirmishes over resources in the border regions. By tradition, the clan leaders answer to the High Chieftain on the plateau of Karvosti, but he is in reality more of an arbitrator between feuding clans than a strong ruler. However, the High Chieftain is expected to lead the united barbarians to repel any invaders, particularly the Ambrians, if it ever comes to open war.",
+				"This possibility, a united barbarian resistance commanded by the High Chieftain, gives the Queen and her advisors nightmares, and would explain why the Ambrians officially are so cautious regarding Davokar. Since the battle in Year 10, when Korinthia's troops attacked and destroyed Haloban and his Jezites, only the Templars serving the Sun Church have made any outright attacks against barbarian settlements. Most infamous is their assault on Karvosti in Year 16 when they attempted to seize the plateau with force of arms \u2013 an attempt which ended in a discouraging defeat.",
+				{
+					"name": "Human Traits",
+					"type": "entries",
+					"entries": [
+						"All of human origin start with the same basic features and then select a culture: either Ambrian or Barbarian.",
+						{
+							"name": "Ability Score Increase",
+							"type": "entries",
+							"entries": [
+								"Your Strength score increases by 2. Increase Dexterity, Constitution or Charisma by 1. Depending on your culture, you increase either Intelligence or Wisdom by 1."
+							]
+						},
+						{
+							"name": "Age",
+							"type": "entries",
+							"entries": [
+								"Humans reach adulthood in their late teens and live less than a century without magical assistance."
+							]
+						},
+						{
+							"name": "Size",
+							"type": "entries",
+							"entries": [
+								"Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium and you have a d8 Hit Die. At first level you have 8 hit points plus your Constitution modifier. When you gain a level in any class, you gain an additional Hit Die and 5 (1d8) plus your Constitution modifier hit points."
+							]
+						},
+						{
+							"name": "Speed",
+							"type": "entries",
+							"entries": [
+								"Your base walking speed is 30 feet."
+							]
+						},
+						{
+							"name": "Culture",
+							"type": "entries",
+							"entries": [
+								"You choose between Ambrian or Barbarian culture.",
+								{
+									"name": "Ambrian",
+									"type": "entries",
+									"entries": [
+										{
+											"name": "Educated",
+											"type": "entries",
+											"entries": [
+												"Your Intelligence score increases by 1."
+											]
+										},
+										{
+											"name": "Contacts",
+											"type": "entries",
+											"entries": [
+												"Ambrians are very sociable and end up knowing many folk. You might have served in an organization or traveled far and wide. With a successful DC 10 Charisma (Persuasion) check you can find out about a person who should be able to help with a specific question or precarious situation. The contact may not be available \u2013 that depends on the GM's judgment of your faction. When it comes to specifying a faction for the character's contact, suitable options include: a barbarian clan, the Queen's Army, the Queen's Rangers, witches, Ordo Magica, the Church of Prios, a noble house or treasure hunters."
+											]
+										}
+									]
+								},
+								{
+									"name": "Barbarian",
+									"type": "entries",
+									"entries": [
+										{
+											"name": "Bushcraft",
+											"type": "entries",
+											"entries": [
+												"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themself while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
+											]
+										},
+										{
+											"name": "World-canny",
+											"type": "entries",
+											"entries": [
+												"Your Wisdom score increases by 1."
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }

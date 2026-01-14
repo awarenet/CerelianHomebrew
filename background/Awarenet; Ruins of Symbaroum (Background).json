@@ -1257,6 +1257,4850 @@
 					]
 				}
 			]
+		},
+		{
+			"name": "Outcast",
+			"source": "RuinsOfSymbaroumB",
+			"page": 56,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Dwarf"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"deception",
+							"persuasion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"thick working clothes|RoS",
+						{
+							"value": 150
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Deception} or {@skill Persuasion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "any one set of {@item artisan's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "a kit to match your tool proficiency, thick working clothes and 1d6 + 4 shillings (1.5 gp)"
+						}
+					]
+				},
+				"You have behaved disloyally, maybe challenged the head of the family or questioned the family's position in the order of succession. For this, you are banished, temporarily or permanently. To most dwarves, exile is a punishment worse than death.",
+				{
+					"name": "A Spy",
+					"type": "entries",
+					"entries": [
+						"You are not exiled but pretend to be, with the intent of gaining access to secrets that the family needs. Alternatively, you may have been sent to perform some illegal deed, for instance hunting down a fugitive with a stronger claim to the dwarven crown than the character's family.",
+						"You can choose to be a spy instead of an outcast as part of selecting this background. Beware, of course, that taking this alternative too often will undermine the credibility of using the alibi."
+					]
+				},
+				{
+					"name": "Feature: Quick Learner",
+					"type": "entries",
+					"entries": [
+						"If you are asked to use a set of tools that you are not proficient in, you can easily determine the most efficient way to use them. You add a bonus equal to half your proficiency bonus (rounded down) to any ability checks made with the new tools."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Many outcasts struggle with their dependence on a world that does not make much sense to Dwarves. Some adapt better than others.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Since I am exiled, the old rules do not apply to me. I try to speak with strangers, though it often goes wrong."
+								],
+								[
+									"2",
+									"I stick to the old ways, regardless."
+								],
+								[
+									"3",
+									"I treat my new companions like a substitute for my family. I will hurt anyone who looks weird at them, that's just the way it is."
+								],
+								[
+									"4",
+									"I will go to great lengths to avoid other dwarves."
+								],
+								[
+									"5",
+									"I am certain that I was given a purpose in life and this is not it."
+								],
+								[
+									"6",
+									"When you can't forget anything, sometimes you must be very cautious in what you say."
+								],
+								[
+									"7",
+									"I expect everyone to play by the rules that I know, even though I don't tell anyone that."
+								],
+								[
+									"8",
+									"There is no accounting for the other peoples, they are not dwarves."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Family. I hope to accomplish something that will allow them to forgive me."
+								],
+								[
+									"2",
+									"Righteousness. What I did had to be done and I do not regret my choices."
+								],
+								[
+									"3",
+									"Vengeance. Family or not, if you come at me or mine be prepared to pay."
+								],
+								[
+									"4",
+									"Forgiveness. I realize my old life was wrong, and I seek forgiveness from the grander world."
+								],
+								[
+									"5",
+									"Dwarven superiority. I will fight for dwarves everywhere, regardless if my own people want me or not."
+								],
+								[
+									"6",
+									"A worthy end. I will find a worthy way to end this miserable existence, and hope that at least my final act will be worthy of remembrance."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I did what I did to keep someone else safe. As long as they are unharmed I can withstand anything."
+								],
+								[
+									"2",
+									"I have replaced my family with a new group, and give them my all."
+								],
+								[
+									"3",
+									"My exile was the fault of someone else, and this someone will pay."
+								],
+								[
+									"4",
+									"I have a recurring dream, where dwarves will play a huge role in the fight against the mounting darkness. I will not back down from that battle."
+								],
+								[
+									"5",
+									"Part of my family is lost, and I need to find them."
+								],
+								[
+									"6",
+									"When I was young, I heard of a legendary dwarven artifact. I seek it."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"No one deserves an explanation for my actions; no one can judge me."
+								],
+								[
+									"2",
+									"I am a dwarf, and no one is above me."
+								],
+								[
+									"3",
+									"I have a book where every insult towards me is chronicled; I will never forget."
+								],
+								[
+									"4",
+									"I am so afraid, this world with no family makes no sense to me."
+								],
+								[
+									"5",
+									"I actually like these other people; they can never know or they will use it against me."
+								],
+								[
+									"6",
+									"Returning to my family is worth every non-dwarf life I encounter."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Avenger",
+			"source": "RuinsOfSymbaroumB",
+			"page": 60,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Elf"
+						},
+						{
+							"name": "Abductee"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"acrobatics"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"gaming set",
+							"musical instrument"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						},
+						{
+							"equipmentType": "instrumentMusical",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"supple leather clothes|RoS",
+						{
+							"value": 15
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Athletics} or {@skill Acrobatics}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item gaming set|phb} or {@item musical instrument|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "a kit to match your tool proficiency, supple leather clothes and 4d6 + 1 ortegs (1.5 sp)"
+						}
+					]
+				},
+				"Elves tend to live, hunt and fight in small groups with strong internal ties. Maybe the others died as a result of treachery by some supposed ally, and you survived, by chance or after having managed to escape or beat down the villain's henchmen? As the lone survivor you might feel guilty and will not return home before the traitor has paid for their crime.",
+				{
+					"name": "Feature: Tracker",
+					"type": "entries",
+					"entries": [
+						"When you are in a wilderness area and in pursuit of a creature that you have seen before, you have advantage on the first Wisdom (Survival) check of the day to follow their tracks."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Many avengers have taken their quest on as a personal burden and you must choose how your mission has affected you.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am curious about the world outside the forest, but not really engaged in it. It's curious, but not important."
+								],
+								[
+									"2",
+									"How can all these people not be aware that there is a war on Corruption going on?"
+								],
+								[
+									"3",
+									"These short-­lived folk intrigue me more than I care to admit."
+								],
+								[
+									"4",
+									"I conserve my breath and strength until it is needed."
+								],
+								[
+									"5",
+									"I stay in the shadows as I seek my prey."
+								],
+								[
+									"6",
+									"I pretend to be casual and calm, but this place terrifies me."
+								],
+								[
+									"7",
+									"The killers of my kin are out to get me too, I am sure of it."
+								],
+								[
+									"8",
+									"I need information and will trade what I know for it."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Justice. It is only right to bring death to those who have killed others."
+								],
+								[
+									"2",
+									"Knowledge. I must know why my quarry did what they did; I am owed an explanation."
+								],
+								[
+									"3",
+									"Nature. Defending the forest against ignorance and willful damage is all that matters."
+								],
+								[
+									"4",
+									"Duty. We will not succeed in defeating the darkness but we will fight none-­the-­less. Our valiant struggle will echo through eternity."
+								],
+								[
+									"5",
+									"Finesse. Nothing is worth doing unless done with style \u2013 vengeance in particular should have a certain dash to it, I think."
+								],
+								[
+									"6",
+									"Redemption. I do not know if my failure to protect my kin can ever be redeemed; if it can I will find out how, and then I will spend the rest of my days trying."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I feel closer to the person I am tracking than to almost anyone else."
+								],
+								[
+									"2",
+									"The oath of the Iron Pact feels as real to me as the day I first spoke it."
+								],
+								[
+									"3",
+									"My new companions are not that bad; I would consider risking my life to save some of them."
+								],
+								[
+									"4",
+									"My bow has special meaning to me, and I long for the person that gave it to me."
+								],
+								[
+									"5",
+									"Animals have always felt as close to me as other elves. I will not see them harmed."
+								],
+								[
+									"6",
+									"All of the old peoples have a special place in my heart. Humans not so much."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I won't leave the trail, even for the best of reasons."
+								],
+								[
+									"2",
+									"Besting my quarry is more important than the health of anyone I travel with."
+								],
+								[
+									"3",
+									"My quarry scares me senseless, and I am not sure if I can face it."
+								],
+								[
+									"4",
+									"I fear I will again let my companions down, and survive."
+								],
+								[
+									"5",
+									"Non-­elven plans are worse than mine, for obvious reasons."
+								],
+								[
+									"6",
+									"One of my companions has my heart, and I will forgo more important actions to keep them safe from even the slightest harm."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Exile",
+			"source": "RuinsOfSymbaroumB",
+			"page": 61,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Elf"
+						},
+						{
+							"name": "Abductee"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"deception",
+							"intimidation",
+							"performance"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"tinker's tools",
+							"weaver's tools",
+							"woodcarver's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"elvish clothing|RoS",
+						{
+							"value": 35
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Deception}, {@skill Intimidation} or {@skill Performance}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item carpenter's tools|phb}, {@item tinker's tools|phb}, {@item weaver's tools|phb} or {@item woodcarver's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, elvish clothing and 10d6 ortegs (3.5 sp)"
+						}
+					]
+				},
+				"Elves who act against the rules of the collective are very uncommon, but are not unheard of in corrupted Davokar. Maybe you are one of these? Alternatively, your exile is self-­imposed, as a result of you feeling as if you had been disloyal or dishonorable, therefore choosing solitude for a while. Or forever.",
+				{
+					"name": "Feature: Unpredictable",
+					"type": "entries",
+					"entries": [
+						"You choose your own moments to act, even in the thick of combat. After you roll initiative, but before combat begins, you can choose to change your initiative count to any number smaller than your result, to a minimum of your Dexterity modifier. Once you pick your new initiative count, it remains fixed for the remainder of the combat."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You have taken on a life outside the forest and chosen to interact with others, however this does not relieve you of your obligations unless you have totally rejected elven life.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I try to surprise everyone with what I say, it amuses me."
+								],
+								[
+									"2",
+									"I often feel my personal loss deeply, but hide it from others."
+								],
+								[
+									"3",
+									"I feel a wanderlust that I can't suppress, I need to know what's over the next hill."
+								],
+								[
+									"4",
+									"I avoid elves, and all things elven, it reminds me of a dark time."
+								],
+								[
+									"5",
+									"I am drawn to changelings and other elven things; they remind me of home."
+								],
+								[
+									"6",
+									"I hide my elven features as best I can, better if people think me a changeling."
+								],
+								[
+									"7",
+									"I make other people's problems my own, perhaps to keep the loneliness at bay."
+								],
+								[
+									"8",
+									"My curiosity gets me in trouble, but I just can't help myself."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Promises. I have guaranteed myself that I will once again take my rightful place."
+								],
+								[
+									"2",
+									"Exploration. I am seeking a secret place and I will keep looking into dark holes until I find it."
+								],
+								[
+									"3",
+									"Survival. I am more concerned with not losing, than with winning; live to fight another day, I say."
+								],
+								[
+									"4",
+									"Mercy. Everyone \u2013 and everyTHING \u2013 deserves another chance. It's the only hope for good in this world."
+								],
+								[
+									"5",
+									"Knowledge. What is not known will be penned by my hand."
+								],
+								[
+									"6",
+									"Elven superiority. I am an elf, most others are not. They should not forget that, and I will remind them if they do."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I made my decision for the sake of others, my personal feelings do not come into it."
+								],
+								[
+									"2",
+									"I have heard stories of a legendary exile, I seek to emulate them."
+								],
+								[
+									"3",
+									"I have a book or other ancient thing that tells of a lost place."
+								],
+								[
+									"4",
+									"I made one last oath before leaving home, and I intend to keep that promise."
+								],
+								[
+									"5",
+									"I long for my family, and would do anything to protect them if something threatened them."
+								],
+								[
+									"6",
+									"Someone helped me when I first stumbled out of the forest; I owe this person a lot."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I sometimes allow my doubts to overwhelm me and make me indecisive."
+								],
+								[
+									"2",
+									"I rarely stop and listen long enough to learn anything new, I have to discover things for myself."
+								],
+								[
+									"3",
+									"Since I made that huge mistake, I refuse to make any other decisions."
+								],
+								[
+									"4",
+									"I will do almost anything to impress someone in the hope that they can get my exile reversed."
+								],
+								[
+									"5",
+									"I secretly feel special and am easy to manipulate for those who play on this feeling."
+								],
+								[
+									"6",
+									"I am jealous of those who have a special someone, I will be happy if they break up."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Mediator",
+			"source": "RuinsOfSymbaroumB",
+			"page": 62,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Elf"
+						},
+						{
+							"name": "Abductee"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"history",
+							"insight",
+							"performance",
+							"persuasion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyMusicalInstrument": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "instrumentMusical",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"elven clothes|RoS",
+						{
+							"value": 100
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill History}, {@skill Insight}, {@skill Performance}, or {@skill Persuasion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "any {@item musical instrument|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one musical instrument, elven clothes, and a belt pouch containing 4d6 + 1 shillings (1 gp)"
+						}
+					]
+				},
+				"You have been sent to establish relations with a group of humans and try to teach them about the value of the forest and the dangers of exploration. Your mission can be self-­imposed but is more likely based on the orders of some superior autumn elf.",
+				{
+					"name": "Feature: Orator",
+					"type": "entries",
+					"entries": [
+						"Your strength with words is such that you can make enemies hesitant to attack you. If the enemy can hear and understand you, and you have spoken within 1 minute before combat begins, then those enemies have disadvantage on their initiative rolls."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You have chosen, or been chosen to be a peace offering between your people and the others. You may not appreciate this or you might have high ambitions.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I believe in peace but that doesn't mean I am not prepared for war."
+								],
+								[
+									"2",
+									"Even the lowest mortal has a story worth listening to."
+								],
+								[
+									"3",
+									"It is not about winning or losing, it is about having the best meeting possible."
+								],
+								[
+									"4",
+									"I have been doing this a while and I'm starting to see the same old faces, time and time again."
+								],
+								[
+									"5",
+									"I do this because I was ordered to do it, just so everyone knows."
+								],
+								[
+									"6",
+									"Just because I listen does not mean others get to decide what the best course of action is."
+								],
+								[
+									"7",
+									"Everyone lies to themselves sometimes. Everyone knows the truth also."
+								],
+								[
+									"8",
+									"War and diplomacy are the two sides of the same coin."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Discussion. If we can get leaders to the table there is always room to negotiate."
+								],
+								[
+									"2",
+									"Rule of Law. The law of the Iron Pact still applies, no matter how old it is."
+								],
+								[
+									"3",
+									"Trouble. If I know what makes you upset, I also know what makes you happy."
+								],
+								[
+									"4",
+									"Self-­perfection. I am actually here to learn more about myself; mediating in conflict is the best way to get to know oneself."
+								],
+								[
+									"5",
+									"Pragmatism. I am okay with dodging the truth to reach a lasting peace."
+								],
+								[
+									"6",
+									"Wisdom. Some conflicts will not get solved, I accept that and move on to the next one."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"My mentor gave me hope in this process but now they are lost to me."
+								],
+								[
+									"2",
+									"Every time I meet others for a negotiation I feel a warmness in my heart."
+								],
+								[
+									"3",
+									"I have a treasured old book that tells of various ancient agreements and meetings."
+								],
+								[
+									"4",
+									"I am smitten by the representative for one of the warring factions."
+								],
+								[
+									"5",
+									"The Iron Pact must hold, at any cost."
+								],
+								[
+									"6",
+									"I do this for the light I see in humanity; it's all for them."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am so certain that a good speech will fix any dispute that I am often surprised by violence."
+								],
+								[
+									"2",
+									"I am certain that my proposal is the best of all possible ideas."
+								],
+								[
+									"3",
+									"Secretly, I wish that others would shut up and listen to me."
+								],
+								[
+									"4",
+									"Deep down I think that war is inevitable; we should strike the first blow."
+								],
+								[
+									"5",
+									"I fear that nothing I do will make a difference in the end."
+								],
+								[
+									"6",
+									"I am unconcerned with the price paid by non-­elves."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Scout",
+			"source": "RuinsOfSymbaroumB",
+			"page": 63,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Elf"
+						},
+						{
+							"name": "Abductee"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"stealth": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"mason's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"thick working clothes|RoS",
+						{
+							"value": 150
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Stealth}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item carpenter's tools|phb} or {@item mason's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, thick working clothes and 1d6 + 4 shillings (1.5 gp)"
+						}
+					]
+				},
+				"You have been sent to gather knowledge, to assess the enemy's strengths and weaknesses before the battle that is sure to come. Your mission-­giver is probably a superior and older elf, either a diplomat or a warmonger.",
+				{
+					"name": "Feature: Adept of the Wild",
+					"type": "entries",
+					"entries": [
+						"When you are in a wilderness area, you can choose to take advantage on your Dexterity (Stealth) check. If you do so, you can't use this feature again until you take a short or longer rest."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You are a dedicated member of the Iron Pact, seeking knowledge today to prevent disaster tomorrow. As you gain knowledge of the world outside the forest will you remain resolute in your decisions?",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I can understand the language of the forest better than anyone else."
+								],
+								[
+									"2",
+									"I pretend to enjoy the company of my enemies. It was way easier than I thought it would be."
+								],
+								[
+									"3",
+									"I have a hard time hiding my hatred for the enemy; I must keep my distance from them."
+								],
+								[
+									"4",
+									"Some on the opposing side are very good, I will learn from them."
+								],
+								[
+									"5",
+									"I pretend to be a trapper with no agenda other than earning money for my family."
+								],
+								[
+									"6",
+									"I walk and talk like a monster-­hunter, it gives me access to places."
+								],
+								[
+									"7",
+									"I am amazed by the world, I sometimes almost forget my mission."
+								],
+								[
+									"8",
+									"I prefer the company of animals and often talk to them."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Tranquility. I try to co-­exist with nature instead of making nature adapt to my presence."
+								],
+								[
+									"2",
+									"Observation. So many go through life without paying attention to what is happening beneath their feet and all around them."
+								],
+								[
+									"3",
+									"Testing. I will take any chance to sharpen my skills; one day all will depend on them."
+								],
+								[
+									"4",
+									"From the shadows. I want to shape things without being seen as the one doing the changing."
+								],
+								[
+									"5",
+									"Oathbound. I am the embodiment of my oath. Without it I am nothing."
+								],
+								[
+									"6",
+									"My enemy's enemy. I am willing to find common cause with lesser evils in order to destroy the main threat."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Someone taught me how to hunt and track. I owe them my entire life's work."
+								],
+								[
+									"2",
+									"There is an animal in the forest that I have seen more than once. I may never catch it, but I will always seek it out."
+								],
+								[
+									"3",
+									"I carry a bone with me. You will not see it and, if you do, I will not explain it."
+								],
+								[
+									"4",
+									"I keep my word, always. I also rarely give it."
+								],
+								[
+									"5",
+									"I will not let my prey get away."
+								],
+								[
+									"6",
+									"I speak bluntly and accept the consequences."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am impatient and rude to those without wilderness skills."
+								],
+								[
+									"2",
+									"I never explain myself."
+								],
+								[
+									"3",
+									"If I'm talking to any non-­elf, I speak slowly and simply. How could they understand more?"
+								],
+								[
+									"4",
+									"I do not count the cost to others when fighting the true enemy."
+								],
+								[
+									"5",
+									"I fear I might not be able to go all the way."
+								],
+								[
+									"6",
+									"I know I will die in this fight, and am given to bouts of fatalistic apathy."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Laborer",
+			"source": "RuinsOfSymbaroumB",
+			"page": 65,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Goblin"
+						},
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"athletics": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"mason's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"thick working clothes|RoS",
+						{
+							"value": 150
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Athletics}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item carpenter's tools|phb} or {@item mason's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, thick working clothes and 1d6 + 4 shillings (1.5 gp)"
+						}
+					]
+				},
+				"You are a daily worker, tolerated in town during the day as you work but then forced to take your rest in either a central resting area or outside the village. Think about the kind of work that you might do? Do you have any friends inside town? Do you have a hated enemy among the other laborers? Are you saving your scant coin for the future, or do you spend it on drink and entertainment as soon as you get it?",
+				{
+					"name": "Feature: Tireless Worker",
+					"type": "entries",
+					"entries": [
+						"You are used to long days of physical work with little opportunity to rest. As long as you do not have any levels of exhaustion you have advantage on any saving throws to avoid gaining exhaustion."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Laborers are one of the lowest members of society and are often ill-­treated. They are also easily ignored, and a quick-­eared and quick-­witted person can learn much while they work.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I make friends easily, I don't have time or energy to fight anyone unless they truly do me wrong."
+								],
+								[
+									"2",
+									"I've heard rumors of great opportunities outside of the village and yearn to leave."
+								],
+								[
+									"3",
+									"I like to be proud of my work and am sensitive to critique."
+								],
+								[
+									"4",
+									"This is just a job and I look forward to when I don't need to work anymore."
+								],
+								[
+									"5",
+									"I like farm (or work) animals more than most people. They're more trustworthy."
+								],
+								[
+									"6",
+									"I don't understand humans very well at all, but I do like money and food."
+								],
+								[
+									"7",
+									"I don't care about the work much, but there is someone who matters to me here."
+								],
+								[
+									"8",
+									"I heard a human say 'work hard, play hard' once. That's my motto now."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Tradition. My family has always worked here. I feel obligated to my employers, at least for now."
+								],
+								[
+									"2",
+									"Entertainment. I do almost everything I do for my own sense of fun or to make others laugh."
+								],
+								[
+									"3",
+									"Opportunity. It's my right to try my own way, even if it fails."
+								],
+								[
+									"4",
+									"Pride. I can say that I've accomplished something when I go to the forest to die."
+								],
+								[
+									"5",
+									"Work. When I'm bored I get in much more trouble."
+								],
+								[
+									"6",
+									"Humor. What is the point of life if you can't laugh?"
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I'll take any amount of punishment to keep my fellow workers out of trouble."
+								],
+								[
+									"2",
+									"I actually feel something towards my employers. They're nicer than most humans."
+								],
+								[
+									"3",
+									"I had one old hand who showed me the ropes. I wonder where they are now?"
+								],
+								[
+									"4",
+									"I used to have a great love, but they had to leave long ago. I miss them."
+								],
+								[
+									"5",
+									"I trust my new friends, much more than my old ones."
+								],
+								[
+									"6",
+									"I have a tool that has been with me forever, I think of it as a good luck charm."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I'm so used to meanness that if you show me a kindness I'll take it too far."
+								],
+								[
+									"2",
+									"I really don't understand that other peoples don't share our sense of humor or tolerance for pain."
+								],
+								[
+									"3",
+									"I'm not really one for plans, or planning, or following instructions exactly."
+								],
+								[
+									"4",
+									"There is no reason to argue today about what I did yesterday."
+								],
+								[
+									"5",
+									"I'm often petty and direct my frustration at those who can do nothing about it."
+								],
+								[
+									"6",
+									"I get distracted by grandiose plans sometimes. Alright, all the time. So listen, I have this idea..."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Convert",
+			"source": "RuinsOfSymbaroumB",
+			"page": 66,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Goblin"
+						},
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"history",
+							"religion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"calligrapher's supplies",
+							"cartographer's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"religious robes|RoS",
+						{
+							"value": 25
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill History} or {@skill Religion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item calligrapher's tools|phb} or {@item cartographer's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, religious robes, and 4d6 + 11 ortegs (2.5 sp)"
+						}
+					]
+				},
+				"The teachings of the Giver of Laws says that all are worthy of salvation and your teachers made every effort with you. Eventually, they were successful, or at least you began to give them the answers that they wanted to hear. And you've learned amazing things from the Sun Church \u2013 history and theology that your people never knew. You've become interested in what dark secrets lie in other old places...",
+				{
+					"name": "Feature: Member of the Church",
+					"type": "entries",
+					"entries": [
+						"If given the chance, you can prove yourself to be a member of the Sun Church and gain shelter there for yourself and your companions. Unfortunately, some of the faithful are not as open-­minded as your teachers and the GM might require you to make a DC 10 Charisma (Persuasion) check in order to receive healing or other Church services."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Goblin converts exist in two worlds: they are still goblins, with short lifespans and a particular sense of humor, but they have been taught the ways of Prios and some of them see his teachings as a great opportunity for them to gain status in the new kingdom.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I repeat back things that you say to me. I'm not trying to be annoying, I want to make sure I understand."
+								],
+								[
+									"2",
+									"I'm always frowning and being very serious. I am trying hard to not be a goblin, in other words."
+								],
+								[
+									"3",
+									"Let me tell you about all the great things I have learned from the Church!"
+								],
+								[
+									"4",
+									"I am very open-­minded. If my teachers could accept me, I can accept anyone."
+								],
+								[
+									"5",
+									"I think that everyone should be given the chances I was."
+								],
+								[
+									"6",
+									"I go to sleep every night with many doubts and fears in my mind."
+								],
+								[
+									"7",
+									"The Church provides all the answers, even to questions I didn't know I had."
+								],
+								[
+									"8",
+									"I make jokes on Prios' behalf; I know he has a sense of humor. Just look at me."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Faith. I am truly devoted to the Giver of Laws and have no pretenses about my beliefs."
+								],
+								[
+									"2",
+									"Power. The humans say that the Sun God is the chief god now. The humans have many victories to prove this, so I choose to believe them."
+								],
+								[
+									"3",
+									"The Word. What is written cannot be changed or undone. That is power."
+								],
+								[
+									"4",
+									"Truth. I think everyone should be honest. Lies dishonor the Lawgiver."
+								],
+								[
+									"5",
+									"The Sun. The day-­star seems permanent and untouchable, like a god itself."
+								],
+								[
+									"6",
+									"Followership. I am not a leader, but I find worthy leaders and do their bidding."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I would do anything to keep my teachers safe."
+								],
+								[
+									"2",
+									"I feel like I have a personal connection to Prios."
+								],
+								[
+									"3",
+									"Despite my new life, I still remember my family."
+								],
+								[
+									"4",
+									"I have a huge regret from my earlier life and would do almost anything to set it right."
+								],
+								[
+									"5",
+									"I carry my primer from when I first learned to read and write still. It is a reminder of how far I have come."
+								],
+								[
+									"6",
+									"I am obsessed with a member of the church, perhaps even a member of the Black Cloaks."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am a passionate believer and often seek to prove others have less faith than me by pointing out minor errors in their prayers or other rituals."
+								],
+								[
+									"2",
+									"I am suspicious of my human teachers. Why are they so nice to me?"
+								],
+								[
+									"3",
+									"Deep down inside, I still wonder if this is real."
+								],
+								[
+									"4",
+									"I'm only pretending and going through the motions."
+								],
+								[
+									"5",
+									"I tend to be easily swayed by those who profess to share my beliefs."
+								],
+								[
+									"6",
+									"I am dismissive of unbelievers and other strangers."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Wild",
+			"source": "RuinsOfSymbaroumB",
+			"page": 68,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Goblin"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"nature": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"leatherworker's tools",
+							"potter's tools",
+							"weaver's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"scant clothes|RoS",
+						{
+							"value": 15
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Nature}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item carpenter's tools|phb}, {@item leatherworker's tools|phb}, {@item potter's tools|phb}, or {@item weaver's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, scant clothes and 2d6 + 8 ortegs (1.5 sp)"
+						}
+					]
+				},
+				"While many goblins have found themselves under the thumb of the newcomers, you and your clan have stayed away from both the Ambrians and barbarians by staying in the darker parts of Davokar. But the forest is changing, and the trolls and elves whisper that the humans have something to do with it. You've decided to explore these ideas but are also cautious about who you befriend, since you have no desire to become a laborer.",
+				{
+					"name": "Feature: Go to Ground",
+					"type": "entries",
+					"entries": [
+						"If you're in the wilderness you can always find a hiding place. You can choose to have advantage on a Dexterity (Stealth) check as part of your Hide action. Once you use this feature you must take a short or longer rest before using it again."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You are a goblin as they should have always been: wild and free and able to do anything you wish. Of course, you sometimes see your cousins in the human cities, with their fancy clothes, weapons and flashing coins...",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am now realizing that the world is much bigger than I thought."
+								],
+								[
+									"2",
+									"I think that being free is the best way to be and will share that with everyone."
+								],
+								[
+									"3",
+									"I will become a troll someday, so you better treat me with respect."
+								],
+								[
+									"4",
+									"I only have a few years to experience everything, so let's go."
+								],
+								[
+									"5",
+									"I want to know what is important but everyone has a different answer."
+								],
+								[
+									"6",
+									"I invite others to play goblin games, but almost nobody wants to join in."
+								],
+								[
+									"7",
+									"I have a pet that I talk to, what's weird about that?"
+								],
+								[
+									"8",
+									"I cast bones to help me make decisions. They're my uncle's bones, very wise goblin he was."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Fear. If you're scared of everything you are always cautious."
+								],
+								[
+									"2",
+									"Wonder. Learn something new every day or you have wasted your time."
+								],
+								[
+									"3",
+									"Nature. Nothing built by people compares to the truly wild places of the world."
+								],
+								[
+									"4",
+									"Might makes right. I have learned the lesson well, and soon it's my turn."
+								],
+								[
+									"5",
+									"Chaos. Randomness favors the underdog, so I maximize chaos wherever I can."
+								],
+								[
+									"6",
+									"Greed. What better legacy than a golden statue of the greatest goblin that ever lived?"
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I keep a vision in my head of my little nook in the forest. I'm going back there someday."
+								],
+								[
+									"2",
+									"I made a promise and I will keep that promise, no matter how foolish others think me."
+								],
+								[
+									"3",
+									"I am convinced the gods love me, and I will not let them down."
+								],
+								[
+									"4",
+									"I swore to lead my people to a better place, and this I will do."
+								],
+								[
+									"5",
+									"Someone saved my bony behind and I am forever in that person's debt."
+								],
+								[
+									"6",
+									"I have an animal that I love, and will always protect."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"No one that knows me would confuse me for being civilized. At all."
+								],
+								[
+									"2",
+									"I crave attention, and will get it, one way or another."
+								],
+								[
+									"3",
+									"Eating the hearts of my enemies will make me live longer."
+								],
+								[
+									"4",
+									"There is something about fire, I can't explain it, it just speaks to me."
+								],
+								[
+									"5",
+									"Dressing like powerful people will make me more like them."
+								],
+								[
+									"6",
+									"Kleptomaniac, klepto-­schmeniak. I love shiny things, that's all."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Common Folk",
+			"source": "RuinsOfSymbaroumB",
+			"page": 72,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"animal handling",
+							"athletics",
+							"nature",
+							"survival"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"common clothing|phb",
+						{
+							"value": 15
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Animal Handling}, {@skill Athletics}, {@skill Nature}, or {@skill Survival}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "any one set of {@item artisan's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, common clothing and 2d6 + 8 ortegs (1.5 sp)"
+						}
+					]
+				},
+				"You are a member of the largest group of humans, those who work every day for their food and board. You might be an Ambrian farmer with a field cut and measured for you by the Queen's decree and pay taxes to her representatives for the privilege. Or you might be a barbarian, hunting or gathering food in ancestral lands according to a schedule set for you by nature itself. You might be a worker in one of the many growing communities, as more and more people settle down and learn trades.",
+				{
+					"name": "Feature: Close to the Earth",
+					"type": "entries",
+					"entries": [
+						"You are used to being bound to nature to meet your needs. If you spend a moment considering it, you can predict the weather for the next 24 hours with great accuracy. You also know the current phase of the moon to the day and the number of days until the next solstice or equinox."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Poets and philosophers often call you 'the people of the earth' and its certainly true that there is dirt beneath your fingernails and between your toes. But that doesn't mean that you're simple minded or lack ambition...",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am content with very little, not because I wish to be poor but because my needs are small."
+								],
+								[
+									"2",
+									"I dream big and talk even bigger."
+								],
+								[
+									"3",
+									"I let my hands do the talking, both in work and in arguments."
+								],
+								[
+									"4",
+									"I am careful not to offend anyone important."
+								],
+								[
+									"5",
+									"I bow to no one, noble or not."
+								],
+								[
+									"6",
+									"I make talismans for luck, for friends too if they want them."
+								],
+								[
+									"7",
+									"I draw extensive conclusions about people's character from their looks."
+								],
+								[
+									"8",
+									"I often start sentences with \"back home...\" "
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Cycles. There is a time for everything and everything has its time. Don't try to force things to come too soon or think that you can prevent their arrival."
+								],
+								[
+									"2",
+									"Simplicity. It is better for the mind to keep things clean and uncluttered."
+								],
+								[
+									"3",
+									"Worthiness. Those folks who work for what they have appreciate it more than those who are just given things."
+								],
+								[
+									"4",
+									"Work. I will work harder and longer than everyone else, and get out of here."
+								],
+								[
+									"5",
+									"Revolution. The rich live off the work of the poor. Time to change that I think."
+								],
+								[
+									"6",
+									"Modesty. Don't think you are something special; I certainly am not."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I love my simple background and the honest people there; I will always side with them."
+								],
+								[
+									"2",
+									"I have found someone to take me out of here, and I have that person's back."
+								],
+								[
+									"3",
+									"My tools mean more to me than just a way to make a living."
+								],
+								[
+									"4",
+									"Here and now matters; those I travel with, what we do. Who knows what tomorrow brings."
+								],
+								[
+									"5",
+									"I stay close to the people that come from similar circumstances; the high and mighty make literally no sense to me."
+								],
+								[
+									"6",
+									"I yearn for knowledge like my uncle yearned for the bottle."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I have a hard time looking beneath the surface of people's words and judging their intent."
+								],
+								[
+									"2",
+									"Why be sober if you don't have to. And you don't have to, since someone else is already doing the thinking."
+								],
+								[
+									"3",
+									"I think education makes people morally corrupt. Do not trust them."
+								],
+								[
+									"4",
+									"Most people don't deserve what they have; why should I not take it from them?"
+								],
+								[
+									"5",
+									"Dreams are dangerous; I'm sticking to what little I have, thank you very much."
+								],
+								[
+									"6",
+									"People that don't look like me make me nervous."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Faithful of Prios",
+			"source": "RuinsOfSymbaroumB",
+			"page": 74,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"religion": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"brewer's supplies",
+							"herbalism kit"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"priestly vestments|RoS",
+						{
+							"value": 100
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Religion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item brewer's supplies|phb} or {@item herbalism kit|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, priestly vestments and 2d6 + 3 shillings (1 gp)"
+						}
+					]
+				},
+				"While the average citizen of Ambria gives due deference to Prios as the Lawgiver, you have sought a deeper connection to your god. Even as a youngster you were taught the ways of the Sun Church. You must choose how to serve Prios: will you teach the masses as a liturg? Or work miracles in his name as a theurg? Will you bring his teachings to the uncultured as a Templar? Or keep his priests safe as a Twilight Friar?",
+				{
+					"name": "Feature: Shelter of the Faithful",
+					"type": "entries",
+					"entries": [
+						"As a servant of Prios, you command the respect of the common folk, and you can perform the religious ceremonies needed in everyday life. You and your adventuring companions can expect to receive free healing and care at a temple or other established presence of Prios, but you must provide any material components needed for spells. Those who share your religion will support you (but only you) at a modest lifestyle. You might also have ties to a specific home temple and you have a residence there. This could be the temple where you used to serve, if you remain on good terms with it, or a temple where you have found a new home. While near your temple, you can call upon the priests for assistance, provided the assistance you ask for is not hazardous and you remain in good standing with your temple."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"The faithful are shaped by the experiences in the temples of Prios and his teachings. Such duties are rigorous, providing a common set of knowledge that unites the faith and supports the kingdom. Despite your religious upbringing you are still human and subject to human frailties and flaws.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I idolize a champion of Prios and constantly refer to their deeds and teachings."
+								],
+								[
+									"2",
+									"My ancestors supported the Church and it is my time to give it my service."
+								],
+								[
+									"3",
+									"I was always destined for the Church and thus take it for granted."
+								],
+								[
+									"4",
+									"I was lost before the Church found me and now I finally feel at home."
+								],
+								[
+									"5",
+									"I want to help the less-­fortunate and the Church seems the easiest way to do that."
+								],
+								[
+									"6",
+									"I like the respect that I receive when I am in my formal ropes."
+								],
+								[
+									"7",
+									"I come from humble beginnings, and I remind everyone of that fact."
+								],
+								[
+									"8",
+									"I sometimes make references to the Young Gods, and correct myself. My family was into that heresy, I for sure am not."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Charity. I will help those in need, despite whatever cost I must pay."
+								],
+								[
+									"2",
+									"Justice. The words of the Lawgiver are the foundation for a life worth living."
+								],
+								[
+									"3",
+									"Leadership. We must be the beacon that saves humanity from the evils of the world."
+								],
+								[
+									"4",
+									"Purity. Prios is the only way to a righteous life, all other ways are sinful."
+								],
+								[
+									"5",
+									"Salvation. This life can be grim, but remember: Prios will judge all of us and grant eternal peace to those he deems worthy. Shrinking away from pain and challenge is not the way."
+								],
+								[
+									"6",
+									"Deliverance. Prios will guide your steps in this life, if your prayers are sincere. Success follows faith, and failure is a reflection of your doubt."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Everything I do is for the common people."
+								],
+								[
+									"2",
+									"I want to impress the Church's superiors."
+								],
+								[
+									"3",
+									"My family brags about me and my missions."
+								],
+								[
+									"4",
+									"I want to leave behind my past and Prios helps me forget."
+								],
+								[
+									"5",
+									"There is one specific sinner I want to reach, and hopefully change."
+								],
+								[
+									"6",
+									"I want to die a martyr of the Sun."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I judge others harshly and myself even more severely."
+								],
+								[
+									"2",
+									"I can be blind to my faults, despite hearing them from others."
+								],
+								[
+									"3",
+									"In order to present an open nature, I forgive all transgressions even when I should not."
+								],
+								[
+									"4",
+									"This way was chosen for me, I am very despondent about my life because of this."
+								],
+								[
+									"5",
+									"I think myself chosen by Prios and I am certain he will forgive some of my transgressions."
+								],
+								[
+									"6",
+									"As I serve Prios others should serve me."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Houses of Nobility",
+			"source": "RuinsOfSymbaroumB",
+			"page": 76,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"history",
+							"persuasion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"calligrapher's supplies",
+							"gaming set",
+							"musical instrument"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"signet ring|phb",
+						"wax|phb",
+						"paper (one sheet)|phb",
+						{
+							"value": 650
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill History} or {@skill Persuasion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item calligrapher's supplies|phb}, {@item gaming set|phb}, or {@item musical instrument|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, a signet ring, wax, paper and 3d6 + 50 shillings (6.5 gp)"
+						}
+					]
+				},
+				"You are a member of the nobility of Ambria, however minor in station. You might be the third or fourth child of a baronet, your parents or grandparents granted a small measure of land for their service in the war and as the family grows and the land-­plot remains the same size, your future becomes more uncertain. Or you might be descended from a once-­great house that no longer possesses any wealth other than your good name and intend to restore your family to its rightful place. You've decided to embrace a life of service or adventure, hoping to make a name for yourself and win rewards just like your forebears.",
+				{
+					"name": "Feature: Privileged",
+					"type": "entries",
+					"entries": [
+						"You are a noble by blood and are therefore given advantages that others simply cannot have or must pay for, in either silver or hard work, to obtain. You have advantage on introductions for social challenges within your own society unless you strive to accomplish something which is questionable or that may be next to impossible to achieve."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Some members of the Houses of Nobility are still within living memory of the service that awarded them titles. Others are ancient houses of Alberetor, the lost kingdom of the south, and have always held positions of privilege and pride.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am a good friend but a fierce enemy. Do not wrong me, or I shall have my vengeance on you."
+								],
+								[
+									"2",
+									"I believe in the teachings of the Giver of Laws: All have their rightful place under the sun, but the laborer in the fields is as necessary to society as my service to the kingdom."
+								],
+								[
+									"3",
+									"I tend to be blind to the needs of others and idealistic in my expectations."
+								],
+								[
+									"4",
+									"I use my station to get rewards but then often pass them to others."
+								],
+								[
+									"5",
+									"I tend to over-­correct myself and stammer when in new situations."
+								],
+								[
+									"6",
+									"Both the pen and the sword are weapons; you just have to choose the right one."
+								],
+								[
+									"7",
+									"I never fail to mention my glorious family history when presenting myself."
+								],
+								[
+									"8",
+									"I ask about other people's family history, as I judge their character by it."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Responsibility. I owe my service to my betters just the same as the common folk owe service to me. I protect the common folk, just as the kingdom protects me."
+								],
+								[
+									"2",
+									"Trial of Arms. Prios ensures that the just are victorious."
+								],
+								[
+									"3",
+									"Nobility. I must serve as an example to all of how to conduct oneself."
+								],
+								[
+									"4",
+									"Order. The world must make sense or my birthright is in question."
+								],
+								[
+									"5",
+									"Rebuilding. I will make my house great again, like in the olden days."
+								],
+								[
+									"6",
+									"Fame. My name is everything, it and the deeds I have done will outlive me."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"My family name must not be tarnished; it may be all that I have at present, but I will make it known throughout the kingdom."
+								],
+								[
+									"2",
+									"I have a favorite relative that I admire and look up to at all times."
+								],
+								[
+									"3",
+									"I place my faith in my war gear and companions."
+								],
+								[
+									"4",
+									"I view the Queen as blood kin and will do anything to defend her."
+								],
+								[
+									"5",
+									"I took an oath whilst inebriated. Matters not, I must keep my word."
+								],
+								[
+									"6",
+									"I have been handed a protégé to protect, and this I will do."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I did not venture forth from my family's land by choice, instead I embarrassed them and they made me leave."
+								],
+								[
+									"2",
+									"I often act haughty and feel that my station demands respect at all times."
+								],
+								[
+									"3",
+									"I am too eager to see every concern as right vs. wrong; good vs. evil."
+								],
+								[
+									"4",
+									"I too easily enjoy the comforts of a noble's life."
+								],
+								[
+									"5",
+									"I fear that before the end I will let my blood and family history down."
+								],
+								[
+									"6",
+									"I wish I was not noble, but of common stock, with simple tastes and lower expectations."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Merchant",
+			"source": "RuinsOfSymbaroumB",
+			"page": 77,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"deception",
+							"insight",
+							"persuasion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"artisan's tools",
+							"gaming set",
+							"herbalism kit",
+							"musical instrument",
+							"navigator's tools",
+							"vehicles (land)",
+							"vehicles (water)"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"fine clothing|phb",
+						{
+							"value": 250
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Deception}, {@skill Insight}, or {@skill Persuasion}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of any {@item artisan's tools|phb}, {@item gaming set|phb}, {@item herbalism kit|phb}, any {@item musical instrument|phb}, {@item navigator's tools|phb}, {@item vehicles (land)|phb} or {@item vehicles (water)|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, fine clothing and 6d6 + 4 shillings (2.5 gp)"
+						}
+					]
+				},
+				"As Ambria and its towns grow and reclaim parts of the wilderness, a new class of folk have arisen. Some travel between settlements bringing badly needed supplies, tools and knowledge; others work in a single shop that also serves as their home, preparing food or drink, making tools, tanning leathers and a dozen other useful endeavors. These are the merchants of Ambria, and even some of the clanfolks have begun to welcome the tinkling bells of the merchant's cart.",
+				{
+					"name": "Feature: Negotiation",
+					"type": "entries",
+					"entries": [
+						"You have made a careful study of the various peoples and have an accurate sense of how they react to various situations. You can choose to have advantage on a Wisdom (Insight) or Charisma (Deception or Persuasion) check. Once you use this feature you cannot use it again until you take a short or longer rest."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Merchants are always looking for the best deal \u2013 all of them look for the best deal for themselves, and the most successful seek the best deal for everyone involved.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I will trade with anyone."
+								],
+								[
+									"2",
+									"I love the negotiation as much as the gold."
+								],
+								[
+									"3",
+									"I measure my success in life in the amount of gold I have."
+								],
+								[
+									"4",
+									"I firmly believe everyone can win on a deal."
+								],
+								[
+									"5",
+									"Everybody wants something, and I want to find out what."
+								],
+								[
+									"6",
+									"I up the stakes so I have something to back down from."
+								],
+								[
+									"7",
+									"I gather gold to help my family or cause."
+								],
+								[
+									"8",
+									"I want to make money and have fun. And making money is fun."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Noble greed. The profit motive drives the world forward. Nobles, priests and politicians just redistribute wealth created by the likes of me."
+								],
+								[
+									"2",
+									"Enlightened self-­interest. Give to them you pass on the way up, so that they can give to you on the way down."
+								],
+								[
+									"3",
+									"Hard work. Idle hands are Corruption's best friend; keep busy and Prios will help you."
+								],
+								[
+									"4",
+									"Risk and reward. If you do what others do, you get what others get. I go where few dare, to get the returns I crave."
+								],
+								[
+									"5",
+									"Reputation. I cannot do what I do unless people trust me. It is paramount."
+								],
+								[
+									"6",
+									"Early retirement. I do things I hate for a while so that I then can do what I love for the rest of my life."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"My business was handed to me from someone I love, and I will not see it fail."
+								],
+								[
+									"2",
+									"There is this one charity that really speaks to me; all I get is a good feeling from giving."
+								],
+								[
+									"3",
+									"When I was down someone gave me a loan, and that saved me. The debt is repaid, but I still feel obliged to help out."
+								],
+								[
+									"4",
+									"I am indebted to some not very nice people, and I will repay in full."
+								],
+								[
+									"5",
+									"The one I love comes from a fine family and I must succeed in business to turn our betrothal to marriage."
+								],
+								[
+									"6",
+									"I have a precious item that I will never sell. It means too much to me."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I don't think I could stop hoarding gold even if I had more than I could ever spend. It's a compulsion."
+								],
+								[
+									"2",
+									"No matter how well I do, the empty and cold place inside me persists."
+								],
+								[
+									"3",
+									"I judge people on their net worth."
+								],
+								[
+									"4",
+									"I don't get people who value things other than money."
+								],
+								[
+									"5",
+									"I think my \"friends\" and \"family\" just want my money."
+								],
+								[
+									"6",
+									"I see people around me in terms of risk and return."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Refugee",
+			"source": "RuinsOfSymbaroumB",
+			"page": 78,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"nature",
+							"sleight of hand",
+							"survival"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"_": [
+						"simple clothes|phb",
+						{
+							"value": 11
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "one of {@skill Nature}, {@skill Sleight of Hand}, or {@skill Survival}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one set of any {@item artisan's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "simple clothes and 2d6 + 3 ortegs (1 sp)"
+						}
+					]
+				},
+				"With the fall of Alberetor in the south and the wars between Ambria and the barbarians here in the north, there is no shortage of refugees in these lands. Forced to leave your traditional home, you are still in motion, hoping to find peace someday. Until then, you make do with what you have and what you can acquire.",
+				{
+					"name": "Feature: Makeshift Tools",
+					"type": "entries",
+					"entries": [
+						"You have proven to be incredibly handy, even when you don't have the proper tools. When you need to make a tool check with an instrument you are proficient with but do not possess, you can substitute scrounged items instead. If you are not proficient with the tools, you can choose to count as proficient for this check. If you do so, you can't use this feature again until a long or extended rest. If you fail the check your temporary tools are broken and you won't find suitable replacements until after a long or extended rest."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"Driven from your homeland, you are constantly on the move and hope one day to settle down in a new land.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am just happy to be alive."
+								],
+								[
+									"2",
+									"I did not ask to come here; I will not live by your dumb rituals."
+								],
+								[
+									"3",
+									"I can't seem to get a fair shake and will do what I need to survive."
+								],
+								[
+									"4",
+									"I want to learn as much as I can to fit in and be prosperous."
+								],
+								[
+									"5",
+									"When I get drunk I cry and sing sad songs from the old country."
+								],
+								[
+									"6",
+									"I often point out that I am not like most of these other refugees."
+								],
+								[
+									"7",
+									"I sometimes get lost in the pleasures of this place."
+								],
+								[
+									"8",
+									"I speak of going back and setting things straight."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Family. Now more than ever it is important to remember that blood is what unites us. Strangers cannot be trusted."
+								],
+								[
+									"2",
+									"Tradition. The preservation of our old way of life is what will save us."
+								],
+								[
+									"3",
+									"Opportunity. Some harp on about the past and miss the fantastic opportunities given here."
+								],
+								[
+									"4",
+									"Generosity. It's important to give to those who have less, even if we have little."
+								],
+								[
+									"5",
+									"Survival. We left the old rules back there, and the laws of this place are not mine. I do what I must to make it."
+								],
+								[
+									"6",
+									"The Chosen People. My tribe is chosen by the gods, and right now tested by them. We will prevail, and become who we are meant to be."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"The first person I met here was really nice to me. I will never forget."
+								],
+								[
+									"2",
+									"I have this piece of jewelry from back home, and I will not part with it."
+								],
+								[
+									"3",
+									"My weapon is an heirloom, and using it feels like honoring those that made it."
+								],
+								[
+									"4",
+									"I betrayed some people when we fled, to get my family out. I am pretty sure I saw one of them here."
+								],
+								[
+									"5",
+									"There is this organization that helped me and my family when we first came. I want to do something for them in return."
+								],
+								[
+									"6",
+									"Someone dear to me died back there, and I want to give that person a proper burial."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I feel out of place here, and fear I would feel the same back home too."
+								],
+								[
+									"2",
+									"I have nightmares about what happened when we escaped."
+								],
+								[
+									"3",
+									"I sometimes drink to forget."
+								],
+								[
+									"4",
+									"I feel guilt for surviving when so many others did not. I take silly risks to somehow make up for it."
+								],
+								[
+									"5",
+									"I blame my bad habits on the past, which stops me from changing them."
+								],
+								[
+									"6",
+									"If someone insults my lost home I get really angry. Not sure why, it was pretty bad and that's why we left."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Scholar of Ordo Magica",
+			"source": "RuinsOfSymbaroumB",
+			"page": 79,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Human"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"arcana": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"alchemist's supplies",
+							"painter's supplies",
+							"tinker's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan",
+							"quantity": 1
+						}
+					]
+				},
+				{
+					"_": [
+						"thick robes|RoS",
+						{
+							"value": 100
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "list",
+					"style": "list-hang-notitle",
+					"items": [
+						{
+							"type": "item",
+							"name": "Skill Proficiencies",
+							"entry": "{@skill Arcana}"
+						},
+						{
+							"type": "item",
+							"name": "Tool Proficiencies",
+							"entry": "one of {@item alchemist's supplies|phb}, {@item painter's supplies|phb} or {@item tinker's tools|phb}"
+						},
+						{
+							"type": "item",
+							"name": "Equipment",
+							"entry": "one kit from the tool proficiency list, thick robes and 2d6 + 8 shillings (1 gp)"
+						}
+					]
+				},
+				"You are a scholar, seeking the secrets of the universe, both magical and mundane. For they are often intertwined, and the philosophy of the order requires investigation, experience and evidence, which often puts you at odds with those who put all of their faith in Prios. But the Ordo is not wholly impractical, its leaders know that without the silver thaler of the nobles and the protection of the Sun Church and the Queen's forces it could not safely seek out answers to its questions.",
+				{
+					"name": "Feature: Practical Knowledge",
+					"type": "entries",
+					"entries": [
+						"When you encounter a new task, there's a chance that you have already performed something similar long ago. On a successful DC 15 Intelligence check you can declare that the situation reminds you of a previous experience and gain advantage on that check. You cannot use this feature again until you take a long or extended rest."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"The students of Ordo Magica sometimes seem aloof and uncaring, this is primarily because they have a different outlook on life. When your master is centuries old, your connection to the common folk is strained.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"When I leave the halls of Ordo Magica, I am certain that I am no longer among equals."
+								],
+								[
+									"2",
+									"I like to be thought of as the smart one and often over-­explain things."
+								],
+								[
+									"3",
+									"I don't like conflict and so I try to broker peace among my friends."
+								],
+								[
+									"4",
+									"If I know that I'm right about something I'll say so, it doesn't matter how it affects others."
+								],
+								[
+									"5",
+									"I have a hard time keeping secrets."
+								],
+								[
+									"6",
+									"I tend to brag about what I've done to help others."
+								],
+								[
+									"7",
+									"I routinely use minor magics to impress the masses."
+								],
+								[
+									"8",
+									"I use my magic sparingly, Corruption is everywhere."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Knowledge. Learning something new justifies any expense or danger."
+								],
+								[
+									"2",
+									"Rationality. Emotions have no place in decision-­making."
+								],
+								[
+									"3",
+									"Discovery. Only by pressing at the boundaries of knowledge can we learn something new."
+								],
+								[
+									"4",
+									"Secrets. I love being the only person in the world to know something."
+								],
+								[
+									"5",
+									"Recognition. Accolades and trophies are proof of my excellence."
+								],
+								[
+									"6",
+									"Power. What I can do is who I am. The rest is just talk."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"A warrior once saved my life when I faltered. Now I make sure that they are always safe."
+								],
+								[
+									"2",
+									"I owe my sanity to my teachers here. Otherwise the darkness would have consumed me."
+								],
+								[
+									"3",
+									"I am responsible for the others, they don't understand what I do."
+								],
+								[
+									"4",
+									"I will do anything to advance the power of Ordo Magica."
+								],
+								[
+									"5",
+									"I am the disciplinarian of all that is chaotic, wild and under-­developed."
+								],
+								[
+									"6",
+									"I once made a silly bet to be the one recovering the pure Arch-­magic. The idea is growing on me."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I find it hard to explain my ideas and often get frustrated and expect people to just follow along."
+								],
+								[
+									"2",
+									"I am easily distracted by new information."
+								],
+								[
+									"3",
+									"I don't have any sense of self-­preservation when given the chance to explore."
+								],
+								[
+									"4",
+									"I tend to think myself smarter than others even when it's obviously not true."
+								],
+								[
+									"5",
+									"I speak to myself when I get nervous, like really loud."
+								],
+								[
+									"6",
+									"To die helping me fulfill my destiny is all mere mortals can aspire to. I do not grieve."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Learned in Magic",
+			"source": "RuinsOfSymbaroumB",
+			"page": 82,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Ogre"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"arcana": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyMusicalInstrument": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "instrumentMusical"
+						}
+					]
+				},
+				{
+					"_": [
+						"tattered clothes|phb",
+						{
+							"value": 25
+						}
+					]
+				}
+			],
+			"entries": [
+				"You were discovered or brought to a group of mystics, most often the witches of Davokar or Ordo Magica or possibly a troll singer. You made careful and quiet study of the techniques you were taught and have proven yourself to your instructors and are now ready to prove yourself again to the world.",
+				{
+					"name": "Feature: Spellbound",
+					"type": "entries",
+					"entries": [
+						"Ogres usually have a little bit of their own magic about them and those that study the magical arts gain a resistance to force damage."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You are naturally attracted to the forces of magic and feel like it is almost a personal concern for yourself. However, it is difficult to give voice to these feelings, especially as everything seems at once new and old to you...",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Magic is the most wonderful thing in the world, regardless of Corruption."
+								],
+								[
+									"2",
+									"Magic scares me, but I'm good at it, so what can I do?"
+								],
+								[
+									"3",
+									"Corruption makes me nauseous, but I can handle it."
+								],
+								[
+									"4",
+									"I try to sound more lore-wise than I am."
+								],
+								[
+									"5",
+									"I don't say it if I can sing it."
+								],
+								[
+									"6",
+									"I enjoy simple pleasures in life: food, drink, singing."
+								],
+								[
+									"7",
+									"I take myself very seriously and hope this means others will too."
+								],
+								[
+									"8",
+									"I am most often found with my nose in a book."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Balance. The great forces of existence - nature, civilization and Corruption - exist in a delicate balance. It needs to be preserved if we are all to live."
+								],
+								[
+									"2",
+									"Self-discovery. Life is about finding out who you are, and how you relate to the world."
+								],
+								[
+									"3",
+									"Protection. I am a part of the mystic community, and I must defend it."
+								],
+								[
+									"4",
+									"Nature. From it we come, and to it we go. It's the most important thing."
+								],
+								[
+									"5",
+									"Civilization. Discipline turns creativity to use and ideas to value. It is the most important thing."
+								],
+								[
+									"6",
+									"Corruption. Grossly misunderstood, what others call 'darkness' I call a tool of great power. I keep this to myself, and mumble about balance if asked."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I have this staff, just a stick to me really, with these feathers and carvings and color paints on it. I don't know what it means, but I keep it."
+								],
+								[
+									"2",
+									"The witch that found me walking mindlessly in the woods taught me how to live."
+								],
+								[
+									"3",
+									"For the first time I have found somewhere I belong; in magic, and with those that practice it."
+								],
+								[
+									"4",
+									"Goblins make me laugh, I like them."
+								],
+								[
+									"5",
+									"I see myself as a wayward troll, regardless of what other trolls say."
+								],
+								[
+									"6",
+									"There are very few people that mean anything to me; for those that do I would do anything."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I like the taste of Corruption, it's like black honey on my tongue."
+								],
+								[
+									"2",
+									"I can't stand Corruption, and refrain from doing things that produce it if I can."
+								],
+								[
+									"3",
+									"Most mystics are less competent than me, even highly regarded ones."
+								],
+								[
+									"4",
+									"I still feel like that lumbering oaf, wandering aimlessly through a darkening forest."
+								],
+								[
+									"5",
+									"I equate keeping secrets with being important; I trade them only for more secrets."
+								],
+								[
+									"6",
+									"Sometimes my anger gets the best of me, and I use magic recklessly."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Raised by Common Folk",
+			"source": "RuinsOfSymbaroumB",
+			"page": 82,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Ogre"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"athletics": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"mason's tools",
+							"smith's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"think working clothes|RoS",
+						{
+							"value": 320
+						}
+					]
+				}
+			],
+			"entries": [
+				"You were discovered by the average folk of a village, town or other community. Noted for your large size and endurance you were soon put to work. In exchange, you are fed, allowed to sleep in a shed and sometimes, just sometimes, allowed to listen in as a teacher instructs the children of the neighborhood or an expert passes on their trade to junior workers.",
+				{
+					"name": "Feature: Unending Labors",
+					"type": "entries",
+					"entries": [
+						"You don't tire as easily as the humans and you recover faster. When you take a long rest and have some food and drink you reduce your exhaustion level by 2."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You were accepted by the sort of people who usually scream, run and hide from ogres. That warms your heart and gives you a bit of hope that you might have more in common with other peoples than it would first seem.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I've never known any other sort of life, so I think this is the best possible place for me."
+								],
+								[
+									"2",
+									"I get confused around good manners."
+								],
+								[
+									"3",
+									"I always seem to have something to eat in my pockets."
+								],
+								[
+									"4",
+									"When I eat, pigs look at me with disgust."
+								],
+								[
+									"5",
+									"I was taught manners by someone as a joke. I don't understand why others look so perplexed when I do my very best to fit in."
+								],
+								[
+									"6",
+									"I don't know where to look when someone is nice to me. It's so uncomfortable."
+								],
+								[
+									"7",
+									"I always try to be useful."
+								],
+								[
+									"8",
+									"I relate more to animals than people."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Work. I have been taught that there is nothing better than a true day's labor, gladly given."
+								],
+								[
+									"2",
+									"Pastoralism. Sure, it is a lot of effort. But when the sun is setting on the fishpond and you have all your chores done, you can be happy."
+								],
+								[
+									"3",
+									"Perfection. In my craft, you don't always get it right every time. But when you do, that's special."
+								],
+								[
+									"4",
+									"Simplicity. I don't need much, and neither does anyone else if you ask me."
+								],
+								[
+									"5",
+									"Privacy. I prefer to be left alone and show others the same courtesy."
+								],
+								[
+									"6",
+									"Common folk. I will do anything for common folk, but don't expect them to care more for me than they do their animals."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"My first teachers made special tools for me, I keep them still."
+								],
+								[
+									"2",
+									"The villagers used me as a beast of burden, and that gave me purpose."
+								],
+								[
+									"3",
+									"I have started to get this longing for the depth of the forest. It haunts me."
+								],
+								[
+									"4",
+									"Goblins and trolls feel both strange and strangely familiar to me."
+								],
+								[
+									"5",
+									"I killed a fearsome beast with my hands. I still carry its pelt at all times."
+								],
+								[
+									"6",
+									"These people gave me food, and I want to help them."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am very defensive of the little people."
+								],
+								[
+									"2",
+									"I despise physically weak people."
+								],
+								[
+									"3",
+									"I am afraid of fire, like I panic if I get too close to it."
+								],
+								[
+									"4",
+									"I decorate myself with trophies from the bodies of those I kill, it gives me strength."
+								],
+								[
+									"5",
+									"I am afraid of smart people, they see right through me."
+								],
+								[
+									"6",
+									"Without someone to tell me what to do, I don't do anything."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Sellsword",
+			"source": "RuinsOfSymbaroumB",
+			"page": 83,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Ogre"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"athletics",
+							"acrobatics",
+							"deception",
+							"intimidation"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"carpenter's tools",
+							"mason's tools"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"thick working clothes|RoS",
+						{
+							"value": 110
+						}
+					]
+				}
+			],
+			"entries": [
+				"You were pressed into service as a warrior almost as soon as you were discovered. The people who found you might have had good intentions and you might have defended a village or patrolled a patch of roadway. But more likely the folks you fell in with were robbers and thieves and you were taught that might made right, and your might helped make them right more often than not.",
+				{
+					"name": "Feature: Routine Punishment",
+					"type": "entries",
+					"entries": [
+						"You have been in many scrapes over the years and lost your share of conflicts, but you you always got back up, every time. You have advantage on your first death saving throw. You must complete a short or longer rest before using this feature again."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You haven't known any other life than that of a mercenary. You might feel that you have done nothing but good with your weapons, but there's still some hint in the back of your mind that you were meant for something more than just killing people (even if you are really good at it).",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Everyone underestimates me because I'm slow to talk. But I want to be sure I say what I mean."
+								],
+								[
+									"2",
+									"I stand too close to people on purpose; it makes them more inclined to agree with me."
+								],
+								[
+									"3",
+									"I give one warning, and only one."
+								],
+								[
+									"4",
+									"I play dumb to lull my enemies into thinking this will be an easy fight."
+								],
+								[
+									"5",
+									"I know people expect me to be slow so I overcompensate to come off as clever."
+								],
+								[
+									"6",
+									"I love to talk, sing and drink."
+								],
+								[
+									"7",
+									"I plan meticulously for the next fight. That's how I was taught to do it."
+								],
+								[
+									"8",
+									"I am always ready, and it shows in where I stand, sit, sleep and how I move. No one will have one up on me, ever."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Duty. The best thing I can do is my job. It's why I'm here."
+								],
+								[
+									"2",
+									"Fairness. I protect the little people because I am big."
+								],
+								[
+									"3",
+									"Might. I am the biggest and the strongest, I get first choice."
+								],
+								[
+									"4",
+									"Pragmatism. I will fight for the one who pays best; allegiance is just another word for paycheck."
+								],
+								[
+									"5",
+									"Companionship. The winner of the fight is the one with the most friends."
+								],
+								[
+									"6",
+									"Fatalism. No reason to worry about outcomes, we plan and the gods laugh."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"The warrior that took care of me was harsh but fair, she taught me all I needed to live this life."
+								],
+								[
+									"2",
+									"There is this goblin that annoys the hell out of me, and I cannot imagine not having the creature around."
+								],
+								[
+									"3",
+									"I have found my leader and will follow that person till the end."
+								],
+								[
+									"4",
+									"It's all about the friends next to me, it's as simple as that."
+								],
+								[
+									"5",
+									"I was left for dead by earlier 'companions,' this they will regret."
+								],
+								[
+									"6",
+									"My first job was for someone I really admire. I still carry a piece of the battle standard we flew around my arm."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I don't know any other ways of solving problems except by violence."
+								],
+								[
+									"2",
+									"I am freaked out by enemies as big as or bigger than me; it takes away my only advantage."
+								],
+								[
+									"3",
+									"I hate fighting small enemies, it's embarrassing when they hurt me."
+								],
+								[
+									"4",
+									"I once deserted a unit I was in. They won the fight anyway."
+								],
+								[
+									"5",
+									"I become all giggly and silly when drinking, it's just very un-ogre-like."
+								],
+								[
+									"6",
+									"I follow orders blindly, I know no other way."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Artifact Collector",
+			"source": "RuinsOfSymbaroumB",
+			"page": 87,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Troll"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"insight",
+							"investigation",
+							"perception"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"anyArtisansTool": 1
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"over-sized clothes|RoS",
+						{
+							"value": 460
+						}
+					]
+				}
+			],
+			"entries": [
+				"The crafting skills of trolls are held in high esteem even among elves, and many troll-made artifacts have been given as gifts to allies \u2013 or been stolen by enemies. Trolls feel closely connected to everything crafted by their kind and it is important to them that such objects do not remain in the wrong place or in the wrong hands.",
+				{
+					"name": "Feature: Inspector",
+					"type": "entries",
+					"entries": [
+						"You have made a comprehensive study of various styles and construction techniques. If you make a successful DC 15 Intelligence (Investigation) check of a manufactured item, you can identify which of the peoples made the item and might be able to make a guess about the specific community of the crafter."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You have made it your life's work to recover the work of others. Sometimes you wonder if it might have been better to just make things yourself. You sometimes feel the call to take some rest and make something...",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Our heritage belongs to us and there is no justification for you stealing it."
+								],
+								[
+									"2",
+									"I am awkward talking to people but need to do it to learn more about the things they carry."
+								],
+								[
+									"3",
+									"I invite people to drinking games to learn more about their secrets."
+								],
+								[
+									"4",
+									"I prefer to be silent and observe. Words just get in the way of clarity."
+								],
+								[
+									"5",
+									"I pretend to like people but I love things."
+								],
+								[
+									"6",
+									"I genuinely love to hear stories from treasure-hunters, there are life lessons in them."
+								],
+								[
+									"7",
+									"I prefer the direct approach; 'that is troll-made, how did you get it?' is all that is needed."
+								],
+								[
+									"8",
+									"I find that teaching troll-lore makes people confide in me, often revealing where they have seen troll-made things."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Beauty. There are universal rules that define when something is well made."
+								],
+								[
+									"2",
+									"Trial by fire. We must put pressure on everything, that's how we know what is strong and what is not. That starts with ourselves."
+								],
+								[
+									"3",
+									"Heritage. Troll culture is built on artifacts, and losing them means losing ourselves."
+								],
+								[
+									"4",
+									"Lessons from history. The past is a guide to what works and what does not. We ignore it at our own peril."
+								],
+								[
+									"5",
+									"Hierarchy. I will listen to those above me, they know more and can teach me how to grow."
+								],
+								[
+									"6",
+									"Opportunity. Those above me were strong once - that's how they rose to power. I wait for weakness to show, and then I will show my strength."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I would not be the troll I am today if it wasn't for one specific person. I owe that person a lot."
+								],
+								[
+									"2",
+									"My family is lost and I need to find them, or at least learn what happened to them."
+								],
+								[
+									"3",
+									"There is one troll who betrayed me, and I will make right on that slight."
+								],
+								[
+									"4",
+									"I dislike the company of goblins, but they are our children or parents and need our protection."
+								],
+								[
+									"5",
+									"There is one troll artifact in particular that has so far eluded me, I must find it."
+								],
+								[
+									"6",
+									"We the trolls are the best people on and under the land. Challenge me and I will show you what I mean."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am too particular sometimes, and see flaws more easily than accomplishments."
+								],
+								[
+									"2",
+									"I am impatient and do not like to listen to complicated explanations."
+								],
+								[
+									"3",
+									"I feel lost in the wider world, but will never admit it."
+								],
+								[
+									"4",
+									"I use artifact hunting as an excuse to get away from the repressive troll society"
+								],
+								[
+									"5",
+									"I know where a long lost artifact is hidden, but I am afraid to go get it."
+								],
+								[
+									"6",
+									"My rage is strong. I fear it will consume me and destroy that which I love."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Journey of Discovery",
+			"source": "RuinsOfSymbaroumB",
+			"page": 88,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Troll"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"arcana",
+							"history",
+							"medicine",
+							"religion"
+						],
+						"count": 1
+					}
+				}
+			],
+			"toolProficiencies": [
+				{
+					"choose": {
+						"from": [
+							"calligrapher's supplies",
+							"cartographer's tools",
+							"painter's supplies",
+							"herbalism kit"
+						],
+						"count": 1
+					}
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"equipmentType": "toolArtisan"
+						}
+					]
+				},
+				{
+					"_": [
+						"large clothes|RoS",
+						{
+							"value": 280
+						}
+					]
+				}
+			],
+			"entries": [
+				"Trolls usually send their young ones abroad to learn about the world and its creatures. The destination may vary, but the goal is always to come to terms with the powers which shape the world.",
+				{
+					"name": "Feature: Cunning Student",
+					"type": "entries",
+					"entries": [
+						"At the end of an extended rest, choose a skill that you are not proficient in. You have a bonus to that skill equal to half of your proficiency bonus rounded down. When you take another extended rest you must select a different skill, as your attention wanders to a new subject."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"You are out in the world for the first time. Perhaps it will be the only time? The world seems both exciting and frightening and one moment you wish you were home and another that you had unlimited time for your explorations.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am easily impressed by the works of goblins and humans. They are short-lived but accomplish so much!"
+								],
+								[
+									"2",
+									"Everything I see is interesting, but nothing like home. I miss it."
+								],
+								[
+									"3",
+									"There's so much to learn, I don't think I could ever keep track of it all!"
+								],
+								[
+									"4",
+									"I can listen to stories all day long."
+								],
+								[
+									"5",
+									"I feel I have much to teach as well, and do so at every opportunity."
+								],
+								[
+									"6",
+									"I am not comfortable talking to strangers unless I've had a strong drink."
+								],
+								[
+									"7",
+									"I am more interested in the stories told by places and things. People are just noisy."
+								],
+								[
+									"8",
+									"I sing all the time, even if it's just low humming."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Preservation. The darkness is growing but I want to at least have a written record of life before the shadows destroy everything."
+								],
+								[
+									"2",
+									"Moment of Truth. Pain, fear and death reveals who we truly are. Peace obscures truth."
+								],
+								[
+									"3",
+									"Responsibility. If I do not act on the things I know, what point is there to seek more knowledge?"
+								],
+								[
+									"4",
+									"Legacy. The knowledge I will pass on to future generations is the measure of my life."
+								],
+								[
+									"5",
+									"Mentoring. Seeing the growth of others is the greatest reward in life."
+								],
+								[
+									"6",
+									"Power. Knowledge not used is a weapon left to rust; watch me swing my mighty truth-hammer!"
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I brought something from home with me, I look at it every night."
+								],
+								[
+									"2",
+									"I have a favorite knick-knack that I bought in these lands, I plan to keep it forever."
+								],
+								[
+									"3",
+									"Someone taught me a special song or story, I thanked them for their gift."
+								],
+								[
+									"4",
+									"I make notes of my journeys in my precious lore-book."
+								],
+								[
+									"5",
+									"I am caught up in a mystery, one I must unravel."
+								],
+								[
+									"6",
+									"I feel sorry for ogres, and want to help them rejoin the troll community."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am starting to think that troll society is very flawed."
+								],
+								[
+									"2",
+									"I think that these strangers need more challenges in their lives, they are too soft."
+								],
+								[
+									"3",
+									"In my darker hours I find myself judging everyone and finding them lacking."
+								],
+								[
+									"4",
+									"I fear I am not as strong as I project, and take big risks to prove my fear wrong."
+								],
+								[
+									"5",
+									"I have ventured too far, and sometimes feel spiritually lost."
+								],
+								[
+									"6",
+									"I have visions of my own death, and that makes me cautious in the eyes of men - and a coward in the eyes of other trolls."
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Revenant",
+			"source": "RuinsOfSymbaroumB",
+			"page": 91,
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Undead"
+						}
+					]
+				}
+			],
+			"skillProficiencies": [
+				{
+					"deception": true
+				}
+			],
+			"toolProficiencies": [
+				{
+					"herbalism kit": true
+				}
+			],
+			"startingEquipment": [
+				{
+					"a": [
+						{
+							"item": "herbalism kit|phb"
+						}
+					]
+				},
+				{
+					"_": [
+						"clothes to cover most of your body|RoS",
+						{
+							"value": 230
+						}
+					]
+				}
+			],
+			"entries": [
+				"While each undead person has their own personal history, they also share some commonalities as they have made the transition from death into unlife. The new form of undead has become known as revenants, those who have returned for some reason.",
+				{
+					"name": "Feature: Undead",
+					"type": "entries",
+					"entries": [
+						"You are immune to poison damage and the poisoned condition. Diseases do not affect you."
+					],
+					"data": {
+						"isFeature": true
+					}
+				},
+				{
+					"name": "Suggested Characteristics",
+					"type": "entries",
+					"entries": [
+						"The undead have a wide variety of beliefs and understandings. However, their need for secrecy and desire to understand their new 'life' is nearly universal.",
+						{
+							"type": "table",
+							"colLabels": [
+								"d8",
+								"Personality Trait"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I pretend to be who I was in life, and feel like a phony doing it."
+								],
+								[
+									"2",
+									"I once knew someone that impressed me; I now try to emulate that person."
+								],
+								[
+									"3",
+									"I keep to myself, even among those who know what I am."
+								],
+								[
+									"4",
+									"I pretend to be a leper and sometimes even enjoy the horrid looks I get."
+								],
+								[
+									"5",
+									"I use copious amounts of perfume to hide the stench I imagine surrounds me."
+								],
+								[
+									"6",
+									"My breath reeks of sulfur and doom, and I use it to my advantage."
+								],
+								[
+									"7",
+									"I try to come off as nice and optimistic, but end up being creepy."
+								],
+								[
+									"8",
+									"I sometimes forget to breathe when I speak and instead just hiss. Always makes me giggle."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Ideal"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"Memory. I try to hang on to recollections of my previous life."
+								],
+								[
+									"2",
+									"Redemption. I got a second chance and have promised myself that I will use it wisely."
+								],
+								[
+									"3",
+									"Vengeance. Someone killed me, and now they will die by my hand."
+								],
+								[
+									"4",
+									"Mystery. How can I die and yet live? This unlife must be understood."
+								],
+								[
+									"5",
+									"Hedonism. I will live like every day was my last. Besides, debauchery only harms the living."
+								],
+								[
+									"6",
+									"Resurrection. I and others like me must return to the living, there has to be a way."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Bond"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I have something rescued from where I lived when I was alive."
+								],
+								[
+									"2",
+									"I have a special treasure, something that may have come from my grave."
+								],
+								[
+									"3",
+									"My old family still needs me, even though they can't know I am still around."
+								],
+								[
+									"4",
+									"I worship the living around me and would gladly die for real for them."
+								],
+								[
+									"5",
+									"There is one place where I still feel alive, and I will not let it go to ruin."
+								],
+								[
+									"6",
+									"My curse is tied to the darkening of the world; as a last good deed I will fight the coming darkness."
+								]
+							]
+						},
+						{
+							"type": "table",
+							"colLabels": [
+								"d6",
+								"Flaw"
+							],
+							"colStyles": [
+								"col-1 text-center",
+								"col-11"
+							],
+							"rows": [
+								[
+									"1",
+									"I am beginning to forget what it's like to be hot or cold because of the weather; I am forgetting to complain."
+								],
+								[
+									"2",
+									"I was always a little careless, even in life. But now that I don't feel pain, I've lost a few toes and even a finger."
+								],
+								[
+									"3",
+									"I only feel alive when I do something bad. Really bad."
+								],
+								[
+									"4",
+									"I do not form feelings for people I didn't already know in life."
+								],
+								[
+									"5",
+									"I am desperately scared that someone will find out; and of what I will do to them."
+								],
+								[
+									"6",
+									"I long for true death and might drag others with me."
+								]
+							]
+						}
+					]
+				}
+			]
 		}
 	]
 }
