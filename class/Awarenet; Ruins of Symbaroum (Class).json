@@ -17,16 +17,205 @@
 	},
 	"class": [
 		{
-			"name": "Captain",
+			"name": "Mystic",
 			"source": "RuinsOfSymbaroumC",
-			"page": 96,
+			"page": 108,
 			"hd": {
 				"number": 1,
 				"faces": 8
 			},
 			"proficiency": [
-				"con",
-				"cha"
+				"wis"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"insight",
+								"investigation",
+								"medicine",
+								"persuasion",
+								"religion"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a staff",
+					"(a) a scholar's pack, or (b) an explorer's pack",
+					"any one light armor, two daggers, and a component pouch"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features",
+						"Favored Cantrips",
+						"Favored Spells",
+						"Max Spell Level"
+					],
+					"rows": [
+						[
+							"Spellcasting, Approach",
+							2,
+							1,
+							1
+						],
+						[
+							"Ritual Casting",
+							3,
+							1,
+							1
+						],
+						[
+							"Approach",
+							4,
+							2,
+							2
+						],
+						[
+							"Ability Score Improvement or Feat",
+							5,
+							2,
+							2
+						],
+						[
+							"Ritual Casting",
+							6,
+							3,
+							3
+						],
+						[
+							"Approach",
+							6,
+							3,
+							3
+						],
+						[
+							"Ritual Casting",
+							6,
+							4,
+							4
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							4,
+							4
+						],
+						[
+							"Approach",
+							6,
+							5,
+							5
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							5,
+							5
+						],
+						[
+							"Ritual Casting",
+							6,
+							6,
+							6
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							6,
+							6
+						],
+						[
+							"Approach",
+							6,
+							7,
+							7
+						],
+						[
+							"Ritual Casting",
+							6,
+							7,
+							7
+						],
+						[
+							"\u2014",
+							6,
+							8,
+							8
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							8,
+							8
+						],
+						[
+							"Approach",
+							6,
+							9,
+							9
+						],
+						[
+							"Spell Mastery",
+							6,
+							9,
+							9
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							10,
+							9
+						],
+						[
+							"Signature Spells",
+							6,
+							10,
+							9
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Spellcasting|Mystic|RuinsOfSymbaroumC|1",
+				"Cantrips|Mystic|RuinsOfSymbaroumC|1",
+				"Leveled Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Favored Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Approach|Mystic|RuinsOfSymbaroumC|1",
+				"Ritual Casting|Mystic|RuinsOfSymbaroumC|2",
+				"Ability Score Improvement|Mystic|RuinsOfSymbaroumC|4",
+				"Spell Mastery|Mystic|RuinsOfSymbaroumC|18",
+				"Signature Spells|Mystic|RuinsOfSymbaroumC|20"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Hunter",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"str"
 			],
 			"startingProficiencies": {
 				"armor": [
@@ -42,17 +231,292 @@
 					{
 						"choose": {
 							"from": [
-								"animal handling",
+								"acrobatics",
+								"athletics",
+								"insight",
+								"investigation",
+								"nature",
+								"perception",
+								"stealth",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts",
+					"(a) a dungeoneer's pack, or (b) an explorer's pack",
+					"(a) Studded leather armor and two daggers or (b) a lacquered silk cuirass"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Wilderness Explorer, Approach"
+						],
+						[
+							"Hunter's Instinct"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Expertise, Approach"
+						],
+						[
+							"Land's Stride"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Hide in Plain Sight"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Vanish"
+						],
+						[
+							"Feral Senses"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Expert Hunter"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Vanish|Hunter|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Scoundrel",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple",
+					"hand crossbows",
+					"longswords",
+					"rapiers",
+					"shortswords"
+				],
+				"tools": [
+					"thieves' tools"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
 								"athletics",
 								"deception",
+								"insight",
+								"intimidation",
+								"investigation",
+								"perception",
+								"performance",
+								"persuasion",
+								"sleight of hand",
+								"stealth"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a shortsword",
+					"(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack",
+					"(a) studded leather armor, two daggers, and thieves' tools or (b) woven silk armor"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Backstab",
+						"Features"
+					],
+					"rows": [
+						[
+							"1d6",
+							"Expertise, Backstab, Approach"
+						],
+						[
+							"1d6",
+							"Cunning Action"
+						],
+						[
+							"2d6",
+							"Approach"
+						],
+						[
+							"2d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"3d6",
+							"Uncanny Dodge"
+						],
+						[
+							"3d6",
+							"Expertise, Approach"
+						],
+						[
+							"4d6",
+							"Evasion"
+						],
+						[
+							"4d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"5d6",
+							"Approach"
+						],
+						[
+							"5d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"6d6",
+							"Reliable Talent"
+						],
+						[
+							"6d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"7d6",
+							"Approach"
+						],
+						[
+							"7d6",
+							"Blindsense"
+						],
+						[
+							"8d6",
+							"Slippery Mind"
+						],
+						[
+							"8d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"9d6",
+							"Approach"
+						],
+						[
+							"9d6",
+							"Elusive"
+						],
+						[
+							"10d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"10d6",
+							"Stroke of Luck"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Backstab|Scoundrel|RuinsOfSymbaroumC|1",
+				"Blindsense|Scoundrel|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Warrior",
+			"source": "RuinsOfSymbaroumC",
+			"page": 136,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"str",
+				"con"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"heavy",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"animal handling",
+								"athletics",
 								"history",
 								"insight",
 								"intimidation",
 								"perception",
-								"persuasion",
 								"survival"
 							],
-							"count": 4
+							"count": 3
 						}
 					}
 				]
@@ -73,13 +537,13 @@
 					],
 					"rows": [
 						[
-							"Approach, Fighting Style, Tactical Acumen"
+							"Battle Wind, Fighting Style, Approach"
 						],
 						[
-							"Field Dressings (d6)"
+							"Action Surge"
 						],
 						[
-							"Approach, Bid to Action"
+							"Approach"
 						],
 						[
 							"Ability Score Improvement or Feat"
@@ -91,19 +555,7 @@
 							"Approach"
 						],
 						[
-							"War Stories"
-						],
-						[
-							"Ability Score Improvement or Feat"
-						],
-						[
-							"Approach, Field Dressings (d8)"
-						],
-						[
-							"Ability Score Improvement or Feat"
-						],
-						[
-							"Field Dressings (d10)"
+							"Indomitable"
 						],
 						[
 							"Ability Score Improvement or Feat"
@@ -115,41 +567,43 @@
 							"Ability Score Improvement or Feat"
 						],
 						[
-							"War Stories (×2)"
-						],
-						[
-							"Ability Score Improvement or Feat"
-						],
-						[
-							"Approach, Field Dressings (d12)"
-						],
-						[
 							"Extra Attack (3)"
 						],
 						[
 							"Ability Score Improvement or Feat"
 						],
 						[
-							"Unending Conflict"
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (4)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Undying Courage"
 						]
 					]
 				}
 			],
 			"classFeatures": [
-				"Fighting Style|Captain|RuinsOfSymbaroumC|1",
-				"Tactical Acumen|Captain|RuinsOfSymbaroumC|1",
-				"Field Dressings|Captain|RuinsOfSymbaroumC|2",
-				"Bid to Action|Captain|RuinsOfSymbaroumC|3",
-				"Extra Attack|Captain|RuinsOfSymbaroumC|5",
-				"War Stories|Captain|RuinsOfSymbaroumC|7",
-				"Unending Conflict|Captain|RuinsOfSymbaroumC|20",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|4",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|8",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|10",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|12",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|16",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|19"
-			]
+				"Approach|Warrior|RuinsOfSymbaroumC|1",
+				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
+			],
+			"subclasses": []
 		},
 		{
 			"name": "Mystic",
@@ -739,152 +1193,2500 @@
 				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
 			],
 			"subclasses": []
+		},
+		{
+			"name": "Mystic",
+			"source": "RuinsOfSymbaroumC",
+			"page": 108,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"wis"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"insight",
+								"investigation",
+								"medicine",
+								"persuasion",
+								"religion"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a staff",
+					"(a) a scholar's pack, or (b) an explorer's pack",
+					"any one light armor, two daggers, and a component pouch"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features",
+						"Favored Cantrips",
+						"Favored Spells",
+						"Max Spell Level"
+					],
+					"rows": [
+						[
+							"Spellcasting, Approach",
+							2,
+							1,
+							1
+						],
+						[
+							"Ritual Casting",
+							3,
+							1,
+							1
+						],
+						[
+							"Approach",
+							4,
+							2,
+							2
+						],
+						[
+							"Ability Score Improvement or Feat",
+							5,
+							2,
+							2
+						],
+						[
+							"Ritual Casting",
+							6,
+							3,
+							3
+						],
+						[
+							"Approach",
+							6,
+							3,
+							3
+						],
+						[
+							"Ritual Casting",
+							6,
+							4,
+							4
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							4,
+							4
+						],
+						[
+							"Approach",
+							6,
+							5,
+							5
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							5,
+							5
+						],
+						[
+							"Ritual Casting",
+							6,
+							6,
+							6
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							6,
+							6
+						],
+						[
+							"Approach",
+							6,
+							7,
+							7
+						],
+						[
+							"Ritual Casting",
+							6,
+							7,
+							7
+						],
+						[
+							"\u2014",
+							6,
+							8,
+							8
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							8,
+							8
+						],
+						[
+							"Approach",
+							6,
+							9,
+							9
+						],
+						[
+							"Spell Mastery",
+							6,
+							9,
+							9
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							10,
+							9
+						],
+						[
+							"Signature Spells",
+							6,
+							10,
+							9
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Spellcasting|Mystic|RuinsOfSymbaroumC|1",
+				"Cantrips|Mystic|RuinsOfSymbaroumC|1",
+				"Leveled Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Favored Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Approach|Mystic|RuinsOfSymbaroumC|1",
+				"Ritual Casting|Mystic|RuinsOfSymbaroumC|2",
+				"Ability Score Improvement|Mystic|RuinsOfSymbaroumC|4",
+				"Spell Mastery|Mystic|RuinsOfSymbaroumC|18",
+				"Signature Spells|Mystic|RuinsOfSymbaroumC|20"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Hunter",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"str"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"insight",
+								"investigation",
+								"nature",
+								"perception",
+								"stealth",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts",
+					"(a) a dungeoneer's pack, or (b) an explorer's pack",
+					"(a) Studded leather armor and two daggers or (b) a lacquered silk cuirass"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Wilderness Explorer, Approach"
+						],
+						[
+							"Hunter's Instinct"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Expertise, Approach"
+						],
+						[
+							"Land's Stride"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Hide in Plain Sight"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Vanish"
+						],
+						[
+							"Feral Senses"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Expert Hunter"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Vanish|Hunter|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Scoundrel",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple",
+					"hand crossbows",
+					"longswords",
+					"rapiers",
+					"shortswords"
+				],
+				"tools": [
+					"thieves' tools"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"deception",
+								"insight",
+								"intimidation",
+								"investigation",
+								"perception",
+								"performance",
+								"persuasion",
+								"sleight of hand",
+								"stealth"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a shortsword",
+					"(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack",
+					"(a) studded leather armor, two daggers, and thieves' tools or (b) woven silk armor"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Backstab",
+						"Features"
+					],
+					"rows": [
+						[
+							"1d6",
+							"Expertise, Backstab, Approach"
+						],
+						[
+							"1d6",
+							"Cunning Action"
+						],
+						[
+							"2d6",
+							"Approach"
+						],
+						[
+							"2d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"3d6",
+							"Uncanny Dodge"
+						],
+						[
+							"3d6",
+							"Expertise, Approach"
+						],
+						[
+							"4d6",
+							"Evasion"
+						],
+						[
+							"4d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"5d6",
+							"Approach"
+						],
+						[
+							"5d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"6d6",
+							"Reliable Talent"
+						],
+						[
+							"6d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"7d6",
+							"Approach"
+						],
+						[
+							"7d6",
+							"Blindsense"
+						],
+						[
+							"8d6",
+							"Slippery Mind"
+						],
+						[
+							"8d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"9d6",
+							"Approach"
+						],
+						[
+							"9d6",
+							"Elusive"
+						],
+						[
+							"10d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"10d6",
+							"Stroke of Luck"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Backstab|Scoundrel|RuinsOfSymbaroumC|1",
+				"Blindsense|Scoundrel|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Warrior",
+			"source": "RuinsOfSymbaroumC",
+			"page": 136,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"str",
+				"con"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"heavy",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"animal handling",
+								"athletics",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"survival"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Battle Wind, Fighting Style, Approach"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Indomitable"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (4)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Undying Courage"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Approach|Warrior|RuinsOfSymbaroumC|1",
+				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Mystic",
+			"source": "RuinsOfSymbaroumC",
+			"page": 108,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"wis"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"insight",
+								"investigation",
+								"medicine",
+								"persuasion",
+								"religion"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a staff",
+					"(a) a scholar's pack, or (b) an explorer's pack",
+					"any one light armor, two daggers, and a component pouch"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features",
+						"Favored Cantrips",
+						"Favored Spells",
+						"Max Spell Level"
+					],
+					"rows": [
+						[
+							"Spellcasting, Approach",
+							2,
+							1,
+							1
+						],
+						[
+							"Ritual Casting",
+							3,
+							1,
+							1
+						],
+						[
+							"Approach",
+							4,
+							2,
+							2
+						],
+						[
+							"Ability Score Improvement or Feat",
+							5,
+							2,
+							2
+						],
+						[
+							"Ritual Casting",
+							6,
+							3,
+							3
+						],
+						[
+							"Approach",
+							6,
+							3,
+							3
+						],
+						[
+							"Ritual Casting",
+							6,
+							4,
+							4
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							4,
+							4
+						],
+						[
+							"Approach",
+							6,
+							5,
+							5
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							5,
+							5
+						],
+						[
+							"Ritual Casting",
+							6,
+							6,
+							6
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							6,
+							6
+						],
+						[
+							"Approach",
+							6,
+							7,
+							7
+						],
+						[
+							"Ritual Casting",
+							6,
+							7,
+							7
+						],
+						[
+							"\u2014",
+							6,
+							8,
+							8
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							8,
+							8
+						],
+						[
+							"Approach",
+							6,
+							9,
+							9
+						],
+						[
+							"Spell Mastery",
+							6,
+							9,
+							9
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							10,
+							9
+						],
+						[
+							"Signature Spells",
+							6,
+							10,
+							9
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Spellcasting|Mystic|RuinsOfSymbaroumC|1",
+				"Cantrips|Mystic|RuinsOfSymbaroumC|1",
+				"Leveled Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Favored Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Approach|Mystic|RuinsOfSymbaroumC|1",
+				"Ritual Casting|Mystic|RuinsOfSymbaroumC|2",
+				"Ability Score Improvement|Mystic|RuinsOfSymbaroumC|4",
+				"Spell Mastery|Mystic|RuinsOfSymbaroumC|18",
+				"Signature Spells|Mystic|RuinsOfSymbaroumC|20"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Hunter",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"str"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"insight",
+								"investigation",
+								"nature",
+								"perception",
+								"stealth",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts",
+					"(a) a dungeoneer's pack, or (b) an explorer's pack",
+					"(a) Studded leather armor and two daggers or (b) a lacquered silk cuirass"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Wilderness Explorer, Approach"
+						],
+						[
+							"Hunter's Instinct"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Expertise, Approach"
+						],
+						[
+							"Land's Stride"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Hide in Plain Sight"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Vanish"
+						],
+						[
+							"Feral Senses"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Expert Hunter"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Vanish|Hunter|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Scoundrel",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple",
+					"hand crossbows",
+					"longswords",
+					"rapiers",
+					"shortswords"
+				],
+				"tools": [
+					"thieves' tools"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"deception",
+								"insight",
+								"intimidation",
+								"investigation",
+								"perception",
+								"performance",
+								"persuasion",
+								"sleight of hand",
+								"stealth"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a shortsword",
+					"(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack",
+					"(a) studded leather armor, two daggers, and thieves' tools or (b) woven silk armor"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Backstab",
+						"Features"
+					],
+					"rows": [
+						[
+							"1d6",
+							"Expertise, Backstab, Approach"
+						],
+						[
+							"1d6",
+							"Cunning Action"
+						],
+						[
+							"2d6",
+							"Approach"
+						],
+						[
+							"2d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"3d6",
+							"Uncanny Dodge"
+						],
+						[
+							"3d6",
+							"Expertise, Approach"
+						],
+						[
+							"4d6",
+							"Evasion"
+						],
+						[
+							"4d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"5d6",
+							"Approach"
+						],
+						[
+							"5d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"6d6",
+							"Reliable Talent"
+						],
+						[
+							"6d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"7d6",
+							"Approach"
+						],
+						[
+							"7d6",
+							"Blindsense"
+						],
+						[
+							"8d6",
+							"Slippery Mind"
+						],
+						[
+							"8d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"9d6",
+							"Approach"
+						],
+						[
+							"9d6",
+							"Elusive"
+						],
+						[
+							"10d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"10d6",
+							"Stroke of Luck"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Backstab|Scoundrel|RuinsOfSymbaroumC|1",
+				"Blindsense|Scoundrel|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Warrior",
+			"source": "RuinsOfSymbaroumC",
+			"page": 136,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"str",
+				"con"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"heavy",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"animal handling",
+								"athletics",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"survival"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Battle Wind, Fighting Style, Approach"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Indomitable"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (4)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Undying Courage"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Approach|Warrior|RuinsOfSymbaroumC|1",
+				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Mystic",
+			"source": "RuinsOfSymbaroumC",
+			"page": 108,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"wis"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"insight",
+								"investigation",
+								"medicine",
+								"persuasion",
+								"religion"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a staff",
+					"(a) a scholar's pack, or (b) an explorer's pack",
+					"any one light armor, two daggers, and a component pouch"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features",
+						"Favored Cantrips",
+						"Favored Spells",
+						"Max Spell Level"
+					],
+					"rows": [
+						[
+							"Spellcasting, Approach",
+							2,
+							1,
+							1
+						],
+						[
+							"Ritual Casting",
+							3,
+							1,
+							1
+						],
+						[
+							"Approach",
+							4,
+							2,
+							2
+						],
+						[
+							"Ability Score Improvement or Feat",
+							5,
+							2,
+							2
+						],
+						[
+							"Ritual Casting",
+							6,
+							3,
+							3
+						],
+						[
+							"Approach",
+							6,
+							3,
+							3
+						],
+						[
+							"Ritual Casting",
+							6,
+							4,
+							4
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							4,
+							4
+						],
+						[
+							"Approach",
+							6,
+							5,
+							5
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							5,
+							5
+						],
+						[
+							"Ritual Casting",
+							6,
+							6,
+							6
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							6,
+							6
+						],
+						[
+							"Approach",
+							6,
+							7,
+							7
+						],
+						[
+							"Ritual Casting",
+							6,
+							7,
+							7
+						],
+						[
+							"\u2014",
+							6,
+							8,
+							8
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							8,
+							8
+						],
+						[
+							"Approach",
+							6,
+							9,
+							9
+						],
+						[
+							"Spell Mastery",
+							6,
+							9,
+							9
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							10,
+							9
+						],
+						[
+							"Signature Spells",
+							6,
+							10,
+							9
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Spellcasting|Mystic|RuinsOfSymbaroumC|1",
+				"Cantrips|Mystic|RuinsOfSymbaroumC|1",
+				"Leveled Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Favored Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Approach|Mystic|RuinsOfSymbaroumC|1",
+				"Ritual Casting|Mystic|RuinsOfSymbaroumC|2",
+				"Ability Score Improvement|Mystic|RuinsOfSymbaroumC|4",
+				"Spell Mastery|Mystic|RuinsOfSymbaroumC|18",
+				"Signature Spells|Mystic|RuinsOfSymbaroumC|20"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Hunter",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"str"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"insight",
+								"investigation",
+								"nature",
+								"perception",
+								"stealth",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts",
+					"(a) a dungeoneer's pack, or (b) an explorer's pack",
+					"(a) Studded leather armor and two daggers or (b) a lacquered silk cuirass"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Wilderness Explorer, Approach"
+						],
+						[
+							"Hunter's Instinct"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Expertise, Approach"
+						],
+						[
+							"Land's Stride"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Hide in Plain Sight"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Vanish"
+						],
+						[
+							"Feral Senses"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Expert Hunter"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Vanish|Hunter|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Scoundrel",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple",
+					"hand crossbows",
+					"longswords",
+					"rapiers",
+					"shortswords"
+				],
+				"tools": [
+					"thieves' tools"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"deception",
+								"insight",
+								"intimidation",
+								"investigation",
+								"perception",
+								"performance",
+								"persuasion",
+								"sleight of hand",
+								"stealth"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a shortsword",
+					"(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack",
+					"(a) studded leather armor, two daggers, and thieves' tools or (b) woven silk armor"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Backstab",
+						"Features"
+					],
+					"rows": [
+						[
+							"1d6",
+							"Expertise, Backstab, Approach"
+						],
+						[
+							"1d6",
+							"Cunning Action"
+						],
+						[
+							"2d6",
+							"Approach"
+						],
+						[
+							"2d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"3d6",
+							"Uncanny Dodge"
+						],
+						[
+							"3d6",
+							"Expertise, Approach"
+						],
+						[
+							"4d6",
+							"Evasion"
+						],
+						[
+							"4d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"5d6",
+							"Approach"
+						],
+						[
+							"5d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"6d6",
+							"Reliable Talent"
+						],
+						[
+							"6d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"7d6",
+							"Approach"
+						],
+						[
+							"7d6",
+							"Blindsense"
+						],
+						[
+							"8d6",
+							"Slippery Mind"
+						],
+						[
+							"8d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"9d6",
+							"Approach"
+						],
+						[
+							"9d6",
+							"Elusive"
+						],
+						[
+							"10d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"10d6",
+							"Stroke of Luck"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Backstab|Scoundrel|RuinsOfSymbaroumC|1",
+				"Blindsense|Scoundrel|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Warrior",
+			"source": "RuinsOfSymbaroumC",
+			"page": 136,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"str",
+				"con"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"heavy",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"animal handling",
+								"athletics",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"survival"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Battle Wind, Fighting Style, Approach"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Indomitable"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (4)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Undying Courage"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Approach|Warrior|RuinsOfSymbaroumC|1",
+				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Mystic",
+			"source": "RuinsOfSymbaroumC",
+			"page": 108,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"wis"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"arcana",
+								"deception",
+								"history",
+								"insight",
+								"investigation",
+								"medicine",
+								"persuasion",
+								"religion"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a staff",
+					"(a) a scholar's pack, or (b) an explorer's pack",
+					"any one light armor, two daggers, and a component pouch"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features",
+						"Favored Cantrips",
+						"Favored Spells",
+						"Max Spell Level"
+					],
+					"rows": [
+						[
+							"Spellcasting, Approach",
+							2,
+							1,
+							1
+						],
+						[
+							"Ritual Casting",
+							3,
+							1,
+							1
+						],
+						[
+							"Approach",
+							4,
+							2,
+							2
+						],
+						[
+							"Ability Score Improvement or Feat",
+							5,
+							2,
+							2
+						],
+						[
+							"Ritual Casting",
+							6,
+							3,
+							3
+						],
+						[
+							"Approach",
+							6,
+							3,
+							3
+						],
+						[
+							"Ritual Casting",
+							6,
+							4,
+							4
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							4,
+							4
+						],
+						[
+							"Approach",
+							6,
+							5,
+							5
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							5,
+							5
+						],
+						[
+							"Ritual Casting",
+							6,
+							6,
+							6
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							6,
+							6
+						],
+						[
+							"Approach",
+							6,
+							7,
+							7
+						],
+						[
+							"Ritual Casting",
+							6,
+							7,
+							7
+						],
+						[
+							"\u2014",
+							6,
+							8,
+							8
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							8,
+							8
+						],
+						[
+							"Approach",
+							6,
+							9,
+							9
+						],
+						[
+							"Spell Mastery",
+							6,
+							9,
+							9
+						],
+						[
+							"Ability Score Improvement or Feat",
+							6,
+							10,
+							9
+						],
+						[
+							"Signature Spells",
+							6,
+							10,
+							9
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Spellcasting|Mystic|RuinsOfSymbaroumC|1",
+				"Cantrips|Mystic|RuinsOfSymbaroumC|1",
+				"Leveled Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Favored Spells|Mystic|RuinsOfSymbaroumC|1",
+				"Approach|Mystic|RuinsOfSymbaroumC|1",
+				"Ritual Casting|Mystic|RuinsOfSymbaroumC|2",
+				"Ability Score Improvement|Mystic|RuinsOfSymbaroumC|4",
+				"Spell Mastery|Mystic|RuinsOfSymbaroumC|18",
+				"Signature Spells|Mystic|RuinsOfSymbaroumC|20"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Captain",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"con",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"animal handling",
+								"athletics",
+								"deception",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"persuasion",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Approach, Fighting Style, Tactical Acumen"
+						],
+						[
+							"Field Dressings (d6)"
+						],
+						[
+							"Approach, Bid to Action"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"War Stories"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach, Field Dressings (d8)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Field Dressings (d10)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"War Stories (×2)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach, Field Dressings (d12)"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Unending Conflict"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Polearm Fighting|Captain|RuinsOfSymbaroumC|1",
+				"Shield Fighting|Captain|RuinsOfSymbaroumC|1",
+				"Snare Fighting|Captain|RuinsOfSymbaroumC|1",
+				"Fighting Style|Captain|RuinsOfSymbaroumC|1",
+				"Tactical Acumen|Captain|RuinsOfSymbaroumC|1",
+				"Field Dressings|Captain|RuinsOfSymbaroumC|2",
+				"Bid to Action|Captain|RuinsOfSymbaroumC|3",
+				"Extra Attack|Captain|RuinsOfSymbaroumC|5",
+				"War Stories|Captain|RuinsOfSymbaroumC|7",
+				"Assessment|Captain|RuinsOfSymbaroumC|1",
+				"Unending Conflict|Captain|RuinsOfSymbaroumC|20",
+				"Captain Approaches|Captain|RuinsOfSymbaroumC|1"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Hunter",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"str"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"insight",
+								"investigation",
+								"nature",
+								"perception",
+								"stealth",
+								"survival"
+							],
+							"count": 4
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a longbow and 20 arrows or (b) a light crossbow and 20 bolts",
+					"(a) a dungeoneer's pack, or (b) an explorer's pack",
+					"(a) Studded leather armor and two daggers or (b) a lacquered silk cuirass"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Wilderness Explorer, Approach"
+						],
+						[
+							"Hunter's Instinct"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Expertise, Approach"
+						],
+						[
+							"Land's Stride"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Hide in Plain Sight"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Vanish"
+						],
+						[
+							"Feral Senses"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Expert Hunter"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Vanish|Hunter|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Scoundrel",
+			"source": "RuinsOfSymbaroumC",
+			"page": 102,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"dex",
+				"cha"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light"
+				],
+				"weapons": [
+					"simple",
+					"hand crossbows",
+					"longswords",
+					"rapiers",
+					"shortswords"
+				],
+				"tools": [
+					"thieves' tools"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"athletics",
+								"deception",
+								"insight",
+								"intimidation",
+								"investigation",
+								"perception",
+								"performance",
+								"persuasion",
+								"sleight of hand",
+								"stealth"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) a fencing sword or (b) a shortsword",
+					"(a) a horseman's bow and quiver of 20 arrows or (b) a shortsword",
+					"(a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack",
+					"(a) studded leather armor, two daggers, and thieves' tools or (b) woven silk armor"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Backstab",
+						"Features"
+					],
+					"rows": [
+						[
+							"1d6",
+							"Expertise, Backstab, Approach"
+						],
+						[
+							"1d6",
+							"Cunning Action"
+						],
+						[
+							"2d6",
+							"Approach"
+						],
+						[
+							"2d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"3d6",
+							"Uncanny Dodge"
+						],
+						[
+							"3d6",
+							"Expertise, Approach"
+						],
+						[
+							"4d6",
+							"Evasion"
+						],
+						[
+							"4d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"5d6",
+							"Approach"
+						],
+						[
+							"5d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"6d6",
+							"Reliable Talent"
+						],
+						[
+							"6d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"7d6",
+							"Approach"
+						],
+						[
+							"7d6",
+							"Blindsense"
+						],
+						[
+							"8d6",
+							"Slippery Mind"
+						],
+						[
+							"8d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"9d6",
+							"Approach"
+						],
+						[
+							"9d6",
+							"Elusive"
+						],
+						[
+							"10d6",
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"10d6",
+							"Stroke of Luck"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Backstab|Scoundrel|RuinsOfSymbaroumC|1",
+				"Blindsense|Scoundrel|RuinsOfSymbaroumC|14"
+			],
+			"subclasses": []
+		},
+		{
+			"name": "Warrior",
+			"source": "RuinsOfSymbaroumC",
+			"page": 136,
+			"hd": {
+				"number": 1,
+				"faces": 8
+			},
+			"proficiency": [
+				"str",
+				"con"
+			],
+			"startingProficiencies": {
+				"armor": [
+					"light",
+					"medium",
+					"heavy",
+					"shields"
+				],
+				"weapons": [
+					"simple",
+					"martial"
+				],
+				"skills": [
+					{
+						"choose": {
+							"from": [
+								"acrobatics",
+								"animal handling",
+								"athletics",
+								"history",
+								"insight",
+								"intimidation",
+								"perception",
+								"survival"
+							],
+							"count": 3
+						}
+					}
+				]
+			},
+			"startingEquipment": {
+				"additionalFromBackground": true,
+				"default": [
+					"(a) chain shirt or (b) studded leather armor, longbow, and 20 arrows",
+					"(a) a martial weapon and a shield or (b) two martial weapons",
+					"(a) a light crossbow and 20 bolts or (b) two handaxes",
+					"(a) a dungeoneer's pack or (b) an explorer's pack"
+				]
+			},
+			"classTableGroups": [
+				{
+					"colLabels": [
+						"Features"
+					],
+					"rows": [
+						[
+							"Battle Wind, Fighting Style, Approach"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (2)"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Indomitable"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Extra Attack (3)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Action Surge"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Approach"
+						],
+						[
+							"Extra Attack (4)"
+						],
+						[
+							"Ability Score Improvement or Feat"
+						],
+						[
+							"Undying Courage"
+						]
+					]
+				}
+			],
+			"classFeatures": [
+				"Approach|Warrior|RuinsOfSymbaroumC|1",
+				"Action Surge|Warrior|RuinsOfSymbaroumC|2"
+			],
+			"subclasses": []
 		}
 	],
 	"classFeature": [
-		{
-			"name": "Fighting Style",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 1,
-			"entries": [
-				"Choose a Fighting Style from the options."
-			]
-		},
-		{
-			"name": "Tactical Acumen",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 1,
-			"entries": [
-				"You are often more concerned with your group's readiness at the expense of your own. When combat begins and you are not surprised you can take disadvantage on your initiative roll in order to give advantage on initiative rolls to a number of creatures equal to your proficiency bonus."
-			]
-		},
-		{
-			"name": "Field Dressings",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 2,
-			"entries": [
-				"Starting at 2nd level, you can help wounded allies during a short or long rest. If you or any friendly creatures regain hit points at the end of the rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points. The extra hit points increase when you reach certain lev- els in this class: to 1d8 at 9th level, to 1d10 at 11th level, and to 1d12 at 17th level."
-			]
-		},
-		{
-			"name": "Bid to Action",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 3,
-			"entries": [
-				"Beginning at 3rd level, you can spur others to act quickly. When a creature's turn ends, use your reaction to nominate a friendly creature to have its turn next instead of acting on its normal initiative count. The creature must not have already taken its turn yet this round and retains its original initiative count for future rounds."
-			]
-		},
-		{
-			"name": "Extra Attack",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 5,
-			"entries": [
-				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 18th level in this class."
-			]
-		},
-		{
-			"name": "War Stories",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 7,
-			"entries": [
-				"Beginning at 7th level, you can tell encouraging stories to steel the resolve of your companions. You may restore a number of Hit Dice equal to your proficiency bonus to each friendly creature you share a short or long rest with. Once you use this feature you must take an extended rest before using it again. At 15th level, you can use this feature twice before need- ing to take an extended rest."
-			]
-		},
-		{
-			"name": "Unending Conflict",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 20,
-			"entries": [
-				"At 20th level, when you roll initiative, you gain 1d10 + 10 temporary hit points. Each captain is a superb leader of others but their goals may be as unique as their personalities. When you choose an approach, you make a choice about what kind"
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 4,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 8,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 10,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 12,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 16,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
-		{
-			"name": "Ability Score Improvement",
-			"source": "RuinsOfSymbaroumC",
-			"page": 96,
-			"className": "Captain",
-			"classSource": "RuinsOfSymbaroumC",
-			"level": 19,
-			"entries": [
-				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
-			]
-		},
 		{
 			"name": "Spellcasting",
 			"source": "RuinsOfSymbaroumC",
@@ -1032,6 +3834,871 @@
 			"level": 2,
 			"entries": [
 				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-­Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-­weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard."
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You are a wielder of arcane might, drawing on unseen pow- ers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see page 37."
+			]
+		},
+		{
+			"name": "Cantrips",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most porary Corruption."
+			]
+		},
+		{
+			"name": "Leveled Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another spell, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level. porary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell's level points of temporary Corruption. Proficiency Level      Bonus     Features 1st          +2 2nd          +2 3rd          +2 4th          +2 5th          +3 6th          +3 7th          +3 8th          +3 9th          +4 10th          +4 11th          +4 12th          +4 13th          +5 14th          +5 15th          +5 16th          +5 17th          +6 18th          +6 19th          +6 20th          +6 Example: Mira's ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-level spell. She now adds 1d4+2 points of Corruption. Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost. Spellcasting Ability Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier: Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2 Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier Spell attack modifier = your proficiency bonus + your spellcasting ability modifier Favored Maximum Spells Spell Level Spellcasting, Approach                    2/1           1st Ritual Casting                            3/1           1st Approach                                  4/2          2nd Ability Score Improvement or Feat         5/2          2nd Ritual Casting                            6/3           3rd Approach                                  6/3           3rd Ritual Casting                            6/4           4th Ability Score Improvement or Feat         6/4           4th Approach                                  6/5           5th Ability Score Improvement or Feat         6/5           5th Ritual Casting                            6/6           6th Ability Score Improvement or Feat         6/6           6th Approach                                  6/7           7th Ritual Casting                            6/7           7th \u2014                                         6/8           8th Ability Score Improvement or Feat         6/8           8th Approach                                  6/9           9th Spell Mastery                             6/9           9th Ability Score Improvement or Feat         6/10          9th Signature Spells                          6/10          9th"
+			]
+		},
+		{
+			"name": "Favored Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic. At 1st level, you can select 2 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells. When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3. Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on page 187."
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At first level you also choose your approach, which deter- mines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-mage that gathers and binds power; a Symbolist that wields word- magic; a Troll Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-taught, without boundaries but a danger to yourself and others. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th       accept Corruption as a part of their trade and just and 17th levels."
+			]
+		},
+		{
+			"name": "Ritual Casting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"page": 108,
+			"entries": [
+				"At 2nd level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the rit- ual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see page 37) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual \u2013 the ritual version of    who has already crossed that line, the Staff Mage which a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells. You may also learn another spell as a ritual using these rules at 5th, 7th, 11th and 14th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"page": 108,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Spell Mastery",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 18,
+			"page": 108,
+			"entries": [
+				"At 18th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corrup- tion. If you cast them as a higher level, you gain Corruption as normal."
+			]
+		},
+		{
+			"name": "Signature Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"page": 108,
+			"entries": [
+				"When you reach 20th level, you gain mastery over two pow- erful spells and can cast them with little effort. Choose two 3rd-level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal. The Myth of Pure Magic Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corrup- tion. Then something happened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaim- ing the long lost arch magic. However, most mystics something to be dealt with."
+			]
+		},
+		{
+			"name": "Vanish",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Hunter",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"Ability Score Improvement or Feat                                   Starting at 14th level, you can use the Hide action as a bonus When you reach 4th level, and again at 8th, 10th, 12th, 16th,       action on your turn. Also, you can't be tracked by nonmagi- and 19th level, you can increase one ability score of your          cal means, unless you choose to leave a trail. choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score         Feral Senses above 20 using this feature.                                        Starting at 15th level, you gain preternatural senses that Instead of improving your ability scores you can instead          help you fight creatures you can't see. When you attack a choose to gain a feat. See page 146 for more about feats.           creature you can't see, your inability to see it doesn't im- pose disadvantage on your attack rolls against it. You are Extra Attack                                                        also aware of the location of any invisible creature within Beginning at 5th level, you can attack twice, instead of once,      30 feet of you, provided that the creature isn't hidden from whenever you take the Attack action on your turn. The num-          you and you aren't blinded or deafened. ber of attacks increases to three when you reach 18th level in this class.                                                      Expert Hunter At 20th level, you have an uncanny knack for succeeding Expertise                                                           when you need to. If your attack misses a target within range, At 6th level, choose either Nature or Survival and one of           you can turn the miss into a hit. Alternatively, if you fail an your other skill proficiencies. Your proficiency bonus is           ability check, you can treat the d20 roll as a 20. doubled for any ability check you make that uses either of             Once you use this feature, you can't use it again until you these chosen proficiencies.                                         finish a short or longer rest. A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called \"Symbaroum's Bane\". Hunter Approaches Hunters might be Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or"
+			]
+		},
+		{
+			"name": "Backstab",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Hit Points                                                           Beginning at 1st level, you know how to strike subtly and •   Hit Dice: If you are not using your origin to determine          exploit a foe's distraction. Once per turn, you can deal an Hit Dice, your Hit Die is a d8.                                  extra 1d6 damage to one creature you hit with a melee weap- •   Hit Points at 1st Level: If you do not use your origin           on attack if you have advantage on the attack roll. You must to determine hit points, you have 8 + your Constitution          be proficient with the weapon used. modifier.                                                           You don't need advantage on the attack roll if another en- •   Hit Points at Higher Levels: If you do not use your or-          emy of the target is within 5 feet of it, that enemy isn't inca- igin to determine hit points, you gain 1d8 (or 5) + your         pacitated, and you don't have disadvantage on the ­attack roll. Constitution modifier per scoundrel level after 1st.                The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Proficiencies                                                        Scoundrel table. • Armor: Light armor • Weapons: Simple weapons, hand crossbows, longswords,               Approach rapiers, shortswords                                             At first level you also choose your approach, the way that •   Tools: Thieves' tools                                            your scoundrel interacts with the world: are they an Ex- •   Saving Throws: Dexterity, Charisma                               plorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each The Scoundrel Proficiency Backstab                                                          Uncanny Dodge Level     Bonus      Bonus               Features                                     Starting at 5th level, when an at- tacker that you can see hits you 1st          +2            1d6          Expertise, Backstab, Approach with an attack, you can use your 2nd          +2            1d6          Cunning Action reaction to halve the attack's dam- 3rd          +2            2d6         Approach                                      age against you. 4th          +2            2d6         Ability Score Improvement or Feat 5th          +3            3d6          Uncanny Dodge                                Evasion 6th          +3            3d6          Expertise, Approach                          Beginning at 7th level, you can nimbly dodge out of the way of 7th          +3            4d6          Evasion certain area effects, such as an 8th          +3            4d6         Ability Score Improvement or Feat             ice storm spell. When you are 9th          +4            5d6         Approach                                      subjected to an effect that allows 10th         +4            5d6         Ability Score Improvement or Feat             you to make a Dexterity saving 11th         +4            6d6          Reliable Talent                              throw to take only half damage, you instead take no damage if you 12th         +4            6d6         Ability Score Improvement or Feat succeed on the saving throw, and 13th         +5            7d6         Approach                                      only half damage if you fail. 14th         +5            7d6          Blindsense 15th         +5            8d6          Slippery Mind                                Reliable Talent 16th         +5            8d6         Ability Score Improvement or Feat             By 11th level, you have refined your chosen skills until they ap- 17th         +6            9d6         Approach proach perfection. Whenever you 18th         +6            9d6          Elusive                                      make an ability check that lets 19th         +6           10d6         Ability Score Improvement or Feat             you add your proficiency bonus, 20th         +6           10d6          Stroke of Luck                               you can treat a d20 roll of 9 or lower as a 10."
+			]
+		},
+		{
+			"name": "Blindsense",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"approach deals with subterfuge and a careful approach to          Starting at 14th level, if you are able to hear, you are aware problems, but they typically find themselves in different         of the location of any hidden or invisible creature within environments with drastically different foes.                     10 feet of you. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.                                                  Slippery Mind By 15th level, you have acquired greater mental strength. Cunning Action                                                    You gain proficiency in Wisdom saving throws. Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on       Elusive each of your turns in combat. This action can be used only        Beginning at 18th level, you are so evasive that attackers to take the Dash, Disengage, or Hide action.                      rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 16th,     Stroke of Luck and 19th level, you can increase one ability score of your        At 20th level, you have an uncanny knack for succeeding choice by 2, or you can increase two ability scores of your       when you need to. If your attack misses a target within range, choice by 1. As normal, you can't increase an ability score       you can turn the miss into a hit. Alternatively, if you fail an above 20 using this feature.                                      ability check, you can treat the d20 roll as a 20. Instead of improving your ability scores you can instead           Once you use this feature, you can't use it again until you choose to gain a feat. See page 146 for more about feats.         finish a short or longer rest. Scoundrel Approaches                                            Monster Lore We cover the Explorer approach for those who wish to get        The character is schooled in the lore of beasts and knows the into trouble in the wild, the Former Cultist for scoundrels     secrets of most monsters. Many monsters possess special with a dark history, a Guild Thief for one that follows (cer-   abilities and unique attacks as well as weaknesses which tain) rules, Sappers that attack the foundations of society,    are good to know about when trying to bring them down. Spies that seek secret information on behalf of their master,   • Make an Intelligence (Nature) check with the DC equal"
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"At 1st level you also choose your approach The Warrior                                                                     to the profession of fighting. Are you a Ber- serker, dangerous to friends and foes alike? Proficiency Level     Bonus     Features                                                A studied Duelist used to combat against a single opponent? A Knight who has pledged 1st          +2         Battle Wind, Fighting Style, Approach their very life to the protection of the king- 2nd          +2         Action Surge dom? A Rune Smith using custom weapons? 3rd          +2         Approach                                           A faithful Templar? Or one of the dangerous 4th          +2         Ability Score Improvement or Feat                  Wraithguard? 5th          +3         Extra Attack (2)                                      Your approach gives you benefits at 1st, 6th          +3         Approach                                           3rd, 6th, 9th, 13th and 17th levels. 7th          +3         Indomitable"
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-­Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-­weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the"
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You are a wielder of arcane might, drawing on unseen pow- ers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see page 37."
+			]
+		},
+		{
+			"name": "Cantrips",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most porary Corruption."
+			]
+		},
+		{
+			"name": "Leveled Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another spell, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level. porary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell's level points of temporary Corruption. Proficiency Level      Bonus     Features 1st          +2 2nd          +2 3rd          +2 4th          +2 5th          +3 6th          +3 7th          +3 8th          +3 9th          +4 10th          +4 11th          +4 12th          +4 13th          +5 14th          +5 15th          +5 16th          +5 17th          +6 18th          +6 19th          +6 20th          +6 Example: Mira's ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-level spell. She now adds 1d4+2 points of Corruption. Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost. Spellcasting Ability Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier: Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2 Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier Spell attack modifier = your proficiency bonus + your spellcasting ability modifier Favored Maximum Spells Spell Level Spellcasting, Approach                    2/1           1st Ritual Casting                            3/1           1st Approach                                  4/2          2nd Ability Score Improvement or Feat         5/2          2nd Ritual Casting                            6/3           3rd Approach                                  6/3           3rd Ritual Casting                            6/4           4th Ability Score Improvement or Feat         6/4           4th Approach                                  6/5           5th Ability Score Improvement or Feat         6/5           5th Ritual Casting                            6/6           6th Ability Score Improvement or Feat         6/6           6th Approach                                  6/7           7th Ritual Casting                            6/7           7th \u2014                                         6/8           8th Ability Score Improvement or Feat         6/8           8th Approach                                  6/9           9th Spell Mastery                             6/9           9th Ability Score Improvement or Feat         6/10          9th Signature Spells                          6/10          9th"
+			]
+		},
+		{
+			"name": "Favored Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic. At 1st level, you can select 2 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells. When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3. Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on page 187."
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At first level you also choose your approach, which deter- mines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-mage that gathers and binds power; a Symbolist that wields word- magic; a Troll Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-taught, without boundaries but a danger to yourself and others. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th       accept Corruption as a part of their trade and just and 17th levels."
+			]
+		},
+		{
+			"name": "Ritual Casting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"page": 108,
+			"entries": [
+				"At 2nd level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the rit- ual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see page 37) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual \u2013 the ritual version of    who has already crossed that line, the Staff Mage which a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells. You may also learn another spell as a ritual using these rules at 5th, 7th, 11th and 14th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"page": 108,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Spell Mastery",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 18,
+			"page": 108,
+			"entries": [
+				"At 18th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corrup- tion. If you cast them as a higher level, you gain Corruption as normal."
+			]
+		},
+		{
+			"name": "Signature Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"page": 108,
+			"entries": [
+				"When you reach 20th level, you gain mastery over two pow- erful spells and can cast them with little effort. Choose two 3rd-level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal. The Myth of Pure Magic Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corrup- tion. Then something happened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaim- ing the long lost arch magic. However, most mystics something to be dealt with."
+			]
+		},
+		{
+			"name": "Vanish",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Hunter",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"Ability Score Improvement or Feat                                   Starting at 14th level, you can use the Hide action as a bonus When you reach 4th level, and again at 8th, 10th, 12th, 16th,       action on your turn. Also, you can't be tracked by nonmagi- and 19th level, you can increase one ability score of your          cal means, unless you choose to leave a trail. choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score         Feral Senses above 20 using this feature.                                        Starting at 15th level, you gain preternatural senses that Instead of improving your ability scores you can instead          help you fight creatures you can't see. When you attack a choose to gain a feat. See page 146 for more about feats.           creature you can't see, your inability to see it doesn't im- pose disadvantage on your attack rolls against it. You are Extra Attack                                                        also aware of the location of any invisible creature within Beginning at 5th level, you can attack twice, instead of once,      30 feet of you, provided that the creature isn't hidden from whenever you take the Attack action on your turn. The num-          you and you aren't blinded or deafened. ber of attacks increases to three when you reach 18th level in this class.                                                      Expert Hunter At 20th level, you have an uncanny knack for succeeding Expertise                                                           when you need to. If your attack misses a target within range, At 6th level, choose either Nature or Survival and one of           you can turn the miss into a hit. Alternatively, if you fail an your other skill proficiencies. Your proficiency bonus is           ability check, you can treat the d20 roll as a 20. doubled for any ability check you make that uses either of             Once you use this feature, you can't use it again until you these chosen proficiencies.                                         finish a short or longer rest. A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called \"Symbaroum's Bane\". Hunter Approaches Hunters might be Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or Ironsworn, defenders of the Iron Pact. They might elect to become Monster Hunters and venture far into Davokar, or they might be a Witch Hunter, seeking out blighted hu- mans on behalf of the Church or their own personal quest of vengeance."
+			]
+		},
+		{
+			"name": "Backstab",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Hit Points                                                           Beginning at 1st level, you know how to strike subtly and •   Hit Dice: If you are not using your origin to determine          exploit a foe's distraction. Once per turn, you can deal an Hit Dice, your Hit Die is a d8.                                  extra 1d6 damage to one creature you hit with a melee weap- •   Hit Points at 1st Level: If you do not use your origin           on attack if you have advantage on the attack roll. You must to determine hit points, you have 8 + your Constitution          be proficient with the weapon used. modifier.                                                           You don't need advantage on the attack roll if another en- •   Hit Points at Higher Levels: If you do not use your or-          emy of the target is within 5 feet of it, that enemy isn't inca- igin to determine hit points, you gain 1d8 (or 5) + your         pacitated, and you don't have disadvantage on the attack roll. Constitution modifier per scoundrel level after 1st.                The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Proficiencies                                                        Scoundrel table. • Armor: Light armor • Weapons: Simple weapons, hand crossbows, longswords,               Approach rapiers, shortswords                                             At first level you also choose your approach, the way that •   Tools: Thieves' tools                                            your scoundrel interacts with the world: are they an Ex- •   Saving Throws: Dexterity, Charisma                               plorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each The Scoundrel Proficiency Backstab                                                          Uncanny Dodge Level     Bonus      Bonus               Features                                     Starting at 5th level, when an at- tacker that you can see hits you 1st          +2            1d6          Expertise, Backstab, Approach with an attack, you can use your 2nd          +2            1d6          Cunning Action reaction to halve the attack's dam- 3rd          +2            2d6         Approach                                      age against you. 4th          +2            2d6         Ability Score Improvement or Feat 5th          +3            3d6          Uncanny Dodge                                Evasion 6th          +3            3d6          Expertise, Approach                          Beginning at 7th level, you can nimbly dodge out of the way of 7th          +3            4d6          Evasion certain area effects, such as an 8th          +3            4d6         Ability Score Improvement or Feat             ice storm spell. When you are 9th          +4            5d6         Approach                                      subjected to an effect that allows 10th         +4            5d6         Ability Score Improvement or Feat             you to make a Dexterity saving 11th         +4            6d6          Reliable Talent                              throw to take only half damage, you instead take no damage if you 12th         +4            6d6         Ability Score Improvement or Feat succeed on the saving throw, and 13th         +5            7d6         Approach                                      only half damage if you fail. 14th         +5            7d6          Blindsense 15th         +5            8d6          Slippery Mind                                Reliable Talent 16th         +5            8d6         Ability Score Improvement or Feat             By 11th level, you have refined your chosen skills until they ap- 17th         +6            9d6         Approach proach perfection. Whenever you 18th         +6            9d6          Elusive                                      make an ability check that lets 19th         +6           10d6         Ability Score Improvement or Feat             you add your proficiency bonus, 20th         +6           10d6          Stroke of Luck                               you can treat a d20 roll of 9 or lower as a 10."
+			]
+		},
+		{
+			"name": "Blindsense",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"approach deals with subterfuge and a careful approach to          Starting at 14th level, if you are able to hear, you are aware problems, but they typically find themselves in different         of the location of any hidden or invisible creature within environments with drastically different foes.                     10 feet of you. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.                                                  Slippery Mind By 15th level, you have acquired greater mental strength. Cunning Action                                                    You gain proficiency in Wisdom saving throws. Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on       Elusive each of your turns in combat. This action can be used only        Beginning at 18th level, you are so evasive that attackers to take the Dash, Disengage, or Hide action.                      rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 16th,     Stroke of Luck and 19th level, you can increase one ability score of your        At 20th level, you have an uncanny knack for succeeding choice by 2, or you can increase two ability scores of your       when you need to. If your attack misses a target within range, choice by 1. As normal, you can't increase an ability score       you can turn the miss into a hit. Alternatively, if you fail an above 20 using this feature.                                      ability check, you can treat the d20 roll as a 20. Instead of improving your ability scores you can instead           Once you use this feature, you can't use it again until you choose to gain a feat. See page 146 for more about feats.         finish a short or longer rest. Scoundrel Approaches                                            Monster Lore We cover the Explorer approach for those who wish to get        The character is schooled in the lore of beasts and knows the into trouble in the wild, the Former Cultist for scoundrels     secrets of most monsters. Many monsters possess special with a dark history, a Guild Thief for one that follows (cer-   abilities and unique attacks as well as weaknesses which tain) rules, Sappers that attack the foundations of society,    are good to know about when trying to bring them down. Spies that seek secret information on behalf of their master,   • Make an Intelligence (Nature) check with the DC equal Thugs that serve as the chosen enforcers of other criminals        to 10 plus the challenge rating (rounding down for frac- and Treasure-hunters that are only concerned with finding         tional ratings) of any beast, giant, humanoid or plant. On more valuables.                                                    a success, the GM must inform you of any vulnerabilities, resistances or immunities the creature possesses and provide you with a general assessment of its threat to"
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"At 1st level you also choose your approach The Warrior                                                                     to the profession of fighting. Are you a Ber- serker, dangerous to friends and foes alike? Proficiency Level     Bonus     Features                                                A studied Duelist used to combat against a single opponent? A Knight who has pledged 1st          +2         Battle Wind, Fighting Style, Approach their very life to the protection of the king- 2nd          +2         Action Surge dom? A Rune Smith using custom weapons? 3rd          +2         Approach                                           A faithful Templar? Or one of the dangerous 4th          +2         Ability Score Improvement or Feat                  Wraithguard? 5th          +3         Extra Attack (2)                                      Your approach gives you benefits at 1st, 6th          +3         Approach                                           3rd, 6th, 9th, 13th and 17th levels. 7th          +3         Indomitable"
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard."
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You are a wielder of arcane might, drawing on unseen pow- ers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see page 37."
+			]
+		},
+		{
+			"name": "Cantrips",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most porary Corruption."
+			]
+		},
+		{
+			"name": "Leveled Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another spell, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level. porary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell's level points of temporary Corruption. Proficiency Level      Bonus     Features 1st          +2 2nd          +2 3rd          +2 4th          +2 5th          +3 6th          +3 7th          +3 8th          +3 9th          +4 10th          +4 11th          +4 12th          +4 13th          +5 14th          +5 15th          +5 16th          +5 17th          +6 18th          +6 19th          +6 20th          +6 Example: Mira's ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-level spell. She now adds 1d4+2 points of Corruption. Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost. Spellcasting Ability Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier: Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2 Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier Spell attack modifier = your proficiency bonus + your spellcasting ability modifier Favored Maximum Spells Spell Level Spellcasting, Approach                    2/1           1st Ritual Casting                            3/1           1st Approach                                  4/2          2nd Ability Score Improvement or Feat         5/2          2nd Ritual Casting                            6/3           3rd Approach                                  6/3           3rd Ritual Casting                            6/4           4th Ability Score Improvement or Feat         6/4           4th Approach                                  6/5           5th Ability Score Improvement or Feat         6/5           5th Ritual Casting                            6/6           6th Ability Score Improvement or Feat         6/6           6th Approach                                  6/7           7th Ritual Casting                            6/7           7th \u2014                                         6/8           8th Ability Score Improvement or Feat         6/8           8th Approach                                  6/9           9th Spell Mastery                             6/9           9th Ability Score Improvement or Feat         6/10          9th Signature Spells                          6/10          9th"
+			]
+		},
+		{
+			"name": "Favored Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic. At 1st level, you can select 2 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells. When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3. Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on page 187."
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At first level you also choose your approach, which deter- mines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-mage that gathers and binds power; a Symbolist that wields word- magic; a Troll Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-taught, without boundaries but a danger to yourself and others. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th       accept Corruption as a part of their trade and just and 17th levels."
+			]
+		},
+		{
+			"name": "Ritual Casting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"page": 108,
+			"entries": [
+				"At 2nd level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the rit- ual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see page 37) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual \u2013 the ritual version of    who has already crossed that line, the Staff Mage which a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells. You may also learn another spell as a ritual using these rules at 5th, 7th, 11th and 14th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"page": 108,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Spell Mastery",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 18,
+			"page": 108,
+			"entries": [
+				"At 18th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corrup- tion. If you cast them as a higher level, you gain Corruption as normal."
+			]
+		},
+		{
+			"name": "Signature Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"page": 108,
+			"entries": [
+				"When you reach 20th level, you gain mastery over two pow- erful spells and can cast them with little effort. Choose two 3rd-level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal. The Myth of Pure Magic Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corrup- tion. Then something happened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaim- ing the long lost arch magic. However, most mystics something to be dealt with."
+			]
+		},
+		{
+			"name": "Vanish",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Hunter",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"Ability Score Improvement or Feat                                   Starting at 14th level, you can use the Hide action as a bonus When you reach 4th level, and again at 8th, 10th, 12th, 16th,       action on your turn. Also, you can't be tracked by nonmagi- and 19th level, you can increase one ability score of your          cal means, unless you choose to leave a trail. choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score         Feral Senses above 20 using this feature.                                        Starting at 15th level, you gain preternatural senses that Instead of improving your ability scores you can instead          help you fight creatures you can't see. When you attack a choose to gain a feat. See page 146 for more about feats.           creature you can't see, your inability to see it doesn't im- pose disadvantage on your attack rolls against it. You are Extra Attack                                                        also aware of the location of any invisible creature within Beginning at 5th level, you can attack twice, instead of once,      30 feet of you, provided that the creature isn't hidden from whenever you take the Attack action on your turn. The num-          you and you aren't blinded or deafened. ber of attacks increases to three when you reach 18th level in this class.                                                      Expert Hunter At 20th level, you have an uncanny knack for succeeding Expertise                                                           when you need to. If your attack misses a target within range, At 6th level, choose either Nature or Survival and one of           you can turn the miss into a hit. Alternatively, if you fail an your other skill proficiencies. Your proficiency bonus is           ability check, you can treat the d20 roll as a 20. doubled for any ability check you make that uses either of             Once you use this feature, you can't use it again until you these chosen proficiencies.                                         finish a short or longer rest. A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called \"Symbaroum's Bane\". Hunter Approaches Hunters might be Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or Ironsworn, defenders of the Iron Pact. They might elect to become Monster Hunters and venture far into Davokar, or they might be a Witch Hunter, seeking out blighted hu- mans on behalf of the Church or their own personal quest of vengeance."
+			]
+		},
+		{
+			"name": "Backstab",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Hit Points                                                           Beginning at 1st level, you know how to strike subtly and •   Hit Dice: If you are not using your origin to determine          exploit a foe's distraction. Once per turn, you can deal an Hit Dice, your Hit Die is a d8.                                  extra 1d6 damage to one creature you hit with a melee weap- •   Hit Points at 1st Level: If you do not use your origin           on attack if you have advantage on the attack roll. You must to determine hit points, you have 8 + your Constitution          be proficient with the weapon used. modifier.                                                           You don't need advantage on the attack roll if another en- •   Hit Points at Higher Levels: If you do not use your or-          emy of the target is within 5 feet of it, that enemy isn't inca- igin to determine hit points, you gain 1d8 (or 5) + your         pacitated, and you don't have disadvantage on the attack roll. Constitution modifier per scoundrel level after 1st.                The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Proficiencies                                                        Scoundrel table. • Armor: Light armor • Weapons: Simple weapons, hand crossbows, longswords,               Approach rapiers, shortswords                                             At first level you also choose your approach, the way that •   Tools: Thieves' tools                                            your scoundrel interacts with the world: are they an Ex- •   Saving Throws: Dexterity, Charisma                               plorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each The Scoundrel Proficiency Backstab                                                          Uncanny Dodge Level     Bonus      Bonus               Features                                     Starting at 5th level, when an at- tacker that you can see hits you 1st          +2            1d6          Expertise, Backstab, Approach with an attack, you can use your 2nd          +2            1d6          Cunning Action reaction to halve the attack's dam- 3rd          +2            2d6         Approach                                      age against you. 4th          +2            2d6         Ability Score Improvement or Feat 5th          +3            3d6          Uncanny Dodge                                Evasion 6th          +3            3d6          Expertise, Approach                          Beginning at 7th level, you can nimbly dodge out of the way of 7th          +3            4d6          Evasion certain area effects, such as an 8th          +3            4d6         Ability Score Improvement or Feat             ice storm spell. When you are 9th          +4            5d6         Approach                                      subjected to an effect that allows 10th         +4            5d6         Ability Score Improvement or Feat             you to make a Dexterity saving 11th         +4            6d6          Reliable Talent                              throw to take only half damage, you instead take no damage if you 12th         +4            6d6         Ability Score Improvement or Feat succeed on the saving throw, and 13th         +5            7d6         Approach                                      only half damage if you fail. 14th         +5            7d6          Blindsense 15th         +5            8d6          Slippery Mind                                Reliable Talent 16th         +5            8d6         Ability Score Improvement or Feat             By 11th level, you have refined your chosen skills until they ap- 17th         +6            9d6         Approach proach perfection. Whenever you 18th         +6            9d6          Elusive                                      make an ability check that lets 19th         +6           10d6         Ability Score Improvement or Feat             you add your proficiency bonus, 20th         +6           10d6          Stroke of Luck                               you can treat a d20 roll of 9 or lower as a 10."
+			]
+		},
+		{
+			"name": "Blindsense",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"approach deals with subterfuge and a careful approach to          Starting at 14th level, if you are able to hear, you are aware problems, but they typically find themselves in different         of the location of any hidden or invisible creature within environments with drastically different foes.                     10 feet of you. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.                                                  Slippery Mind By 15th level, you have acquired greater mental strength. Cunning Action                                                    You gain proficiency in Wisdom saving throws. Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on       Elusive each of your turns in combat. This action can be used only        Beginning at 18th level, you are so evasive that attackers to take the Dash, Disengage, or Hide action.                      rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 16th,     Stroke of Luck and 19th level, you can increase one ability score of your        At 20th level, you have an uncanny knack for succeeding choice by 2, or you can increase two ability scores of your       when you need to. If your attack misses a target within range, choice by 1. As normal, you can't increase an ability score       you can turn the miss into a hit. Alternatively, if you fail an above 20 using this feature.                                      ability check, you can treat the d20 roll as a 20. Instead of improving your ability scores you can instead           Once you use this feature, you can't use it again until you choose to gain a feat. See page 146 for more about feats.         finish a short or longer rest. Scoundrel Approaches                                            Monster Lore We cover the Explorer approach for those who wish to get        The character is schooled in the lore of beasts and knows the into trouble in the wild, the Former Cultist for scoundrels     secrets of most monsters. Many monsters possess special with a dark history, a Guild Thief for one that follows (cer-   abilities and unique attacks as well as weaknesses which tain) rules, Sappers that attack the foundations of society,    are good to know about when trying to bring them down. Spies that seek secret information on behalf of their master,   • Make an Intelligence (Nature) check with the DC equal Thugs that serve as the chosen enforcers of other criminals        to 10 plus the challenge rating (rounding down for frac- and Treasure-hunters that are only concerned with finding         tional ratings) of any beast, giant, humanoid or plant. On more valuables.                                                    a success, the GM must inform you of any vulnerabilities, resistances or immunities the creature possesses and provide you with a general assessment of its threat to"
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"At 1st level you also choose your approach The Warrior                                                                     to the profession of fighting. Are you a Ber- serker, dangerous to friends and foes alike? Proficiency Level     Bonus     Features                                                A studied Duelist used to combat against a single opponent? A Knight who has pledged 1st          +2         Battle Wind, Fighting Style, Approach their very life to the protection of the king- 2nd          +2         Action Surge dom? A Rune Smith using custom weapons? 3rd          +2         Approach                                           A faithful Templar? Or one of the dangerous 4th          +2         Ability Score Improvement or Feat                  Wraithguard? 5th          +3         Extra Attack (2)                                      Your approach gives you benefits at 1st, 6th          +3         Approach                                           3rd, 6th, 9th, 13th and 17th levels. 7th          +3         Indomitable"
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard."
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You are a wielder of arcane might, drawing on unseen pow- ers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see page 37."
+			]
+		},
+		{
+			"name": "Cantrips",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most porary Corruption."
+			]
+		},
+		{
+			"name": "Leveled Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another spell, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level. porary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell's level points of temporary Corruption. Proficiency Level      Bonus     Features 1st          +2 2nd          +2 3rd          +2 4th          +2 5th          +3 6th          +3 7th          +3 8th          +3 9th          +4 10th          +4 11th          +4 12th          +4 13th          +5 14th          +5 15th          +5 16th          +5 17th          +6 18th          +6 19th          +6 20th          +6 Example: Mira's ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-level spell. She now adds 1d4+2 points of Corruption. Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost. Spellcasting Ability Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier: Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2 Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier Spell attack modifier = your proficiency bonus + your spellcasting ability modifier Favored Maximum Spells Spell Level Spellcasting, Approach                    2/1           1st Ritual Casting                            3/1           1st Approach                                  4/2          2nd Ability Score Improvement or Feat         5/2          2nd Ritual Casting                            6/3           3rd Approach                                  6/3           3rd Ritual Casting                            6/4           4th Ability Score Improvement or Feat         6/4           4th Approach                                  6/5           5th Ability Score Improvement or Feat         6/5           5th Ritual Casting                            6/6           6th Ability Score Improvement or Feat         6/6           6th Approach                                  6/7           7th Ritual Casting                            6/7           7th \u2014                                         6/8           8th Ability Score Improvement or Feat         6/8           8th Approach                                  6/9           9th Spell Mastery                             6/9           9th Ability Score Improvement or Feat         6/10          9th Signature Spells                          6/10          9th"
+			]
+		},
+		{
+			"name": "Favored Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic. At 1st level, you can select 2 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells. When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3. Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on page 187."
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At first level you also choose your approach, which deter- mines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-mage that gathers and binds power; a Symbolist that wields word- magic; a Troll Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-taught, without boundaries but a danger to yourself and others. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th       accept Corruption as a part of their trade and just and 17th levels."
+			]
+		},
+		{
+			"name": "Ritual Casting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"page": 108,
+			"entries": [
+				"At 2nd level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the rit- ual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see page 37) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual \u2013 the ritual version of    who has already crossed that line, the Staff Mage which a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells. You may also learn another spell as a ritual using these rules at 5th, 7th, 11th and 14th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"page": 108,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Spell Mastery",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 18,
+			"page": 108,
+			"entries": [
+				"At 18th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corrup- tion. If you cast them as a higher level, you gain Corruption as normal."
+			]
+		},
+		{
+			"name": "Signature Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"page": 108,
+			"entries": [
+				"When you reach 20th level, you gain mastery over two pow- erful spells and can cast them with little effort. Choose two 3rd-level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal. The Myth of Pure Magic Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corrup- tion. Then something happened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaim- ing the long lost arch magic. However, most mystics something to be dealt with."
+			]
+		},
+		{
+			"name": "Vanish",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Hunter",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"Ability Score Improvement or Feat                                   Starting at 14th level, you can use the Hide action as a bonus When you reach 4th level, and again at 8th, 10th, 12th, 16th,       action on your turn. Also, you can't be tracked by nonmagi- and 19th level, you can increase one ability score of your          cal means, unless you choose to leave a trail. choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score         Feral Senses above 20 using this feature.                                        Starting at 15th level, you gain preternatural senses that Instead of improving your ability scores you can instead          help you fight creatures you can't see. When you attack a choose to gain a feat. See page 146 for more about feats.           creature you can't see, your inability to see it doesn't im- pose disadvantage on your attack rolls against it. You are Extra Attack                                                        also aware of the location of any invisible creature within Beginning at 5th level, you can attack twice, instead of once,      30 feet of you, provided that the creature isn't hidden from whenever you take the Attack action on your turn. The num-          you and you aren't blinded or deafened. ber of attacks increases to three when you reach 18th level in this class.                                                      Expert Hunter At 20th level, you have an uncanny knack for succeeding Expertise                                                           when you need to. If your attack misses a target within range, At 6th level, choose either Nature or Survival and one of           you can turn the miss into a hit. Alternatively, if you fail an your other skill proficiencies. Your proficiency bonus is           ability check, you can treat the d20 roll as a 20. doubled for any ability check you make that uses either of             Once you use this feature, you can't use it again until you these chosen proficiencies.                                         finish a short or longer rest. A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called \"Symbaroum's Bane\". Hunter Approaches Hunters might be Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or Ironsworn, defenders of the Iron Pact. They might elect to become Monster Hunters and venture far into Davokar, or they might be a Witch Hunter, seeking out blighted hu- mans on behalf of the Church or their own personal quest of vengeance."
+			]
+		},
+		{
+			"name": "Backstab",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Hit Points                                                           Beginning at 1st level, you know how to strike subtly and •   Hit Dice: If you are not using your origin to determine          exploit a foe's distraction. Once per turn, you can deal an Hit Dice, your Hit Die is a d8.                                  extra 1d6 damage to one creature you hit with a melee weap- •   Hit Points at 1st Level: If you do not use your origin           on attack if you have advantage on the attack roll. You must to determine hit points, you have 8 + your Constitution          be proficient with the weapon used. modifier.                                                           You don't need advantage on the attack roll if another en- •   Hit Points at Higher Levels: If you do not use your or-          emy of the target is within 5 feet of it, that enemy isn't inca- igin to determine hit points, you gain 1d8 (or 5) + your         pacitated, and you don't have disadvantage on the attack roll. Constitution modifier per scoundrel level after 1st.                The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Proficiencies                                                        Scoundrel table. • Armor: Light armor • Weapons: Simple weapons, hand crossbows, longswords,               Approach rapiers, shortswords                                             At first level you also choose your approach, the way that •   Tools: Thieves' tools                                            your scoundrel interacts with the world: are they an Ex- •   Saving Throws: Dexterity, Charisma                               plorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each The Scoundrel Proficiency Backstab                                                          Uncanny Dodge Level     Bonus      Bonus               Features                                     Starting at 5th level, when an at- tacker that you can see hits you 1st          +2            1d6          Expertise, Backstab, Approach with an attack, you can use your 2nd          +2            1d6          Cunning Action reaction to halve the attack's dam- 3rd          +2            2d6         Approach                                      age against you. 4th          +2            2d6         Ability Score Improvement or Feat 5th          +3            3d6          Uncanny Dodge                                Evasion 6th          +3            3d6          Expertise, Approach                          Beginning at 7th level, you can nimbly dodge out of the way of 7th          +3            4d6          Evasion certain area effects, such as an 8th          +3            4d6         Ability Score Improvement or Feat             ice storm spell. When you are 9th          +4            5d6         Approach                                      subjected to an effect that allows 10th         +4            5d6         Ability Score Improvement or Feat             you to make a Dexterity saving 11th         +4            6d6          Reliable Talent                              throw to take only half damage, you instead take no damage if you 12th         +4            6d6         Ability Score Improvement or Feat succeed on the saving throw, and 13th         +5            7d6         Approach                                      only half damage if you fail. 14th         +5            7d6          Blindsense 15th         +5            8d6          Slippery Mind                                Reliable Talent 16th         +5            8d6         Ability Score Improvement or Feat             By 11th level, you have refined your chosen skills until they ap- 17th         +6            9d6         Approach proach perfection. Whenever you 18th         +6            9d6          Elusive                                      make an ability check that lets 19th         +6           10d6         Ability Score Improvement or Feat             you add your proficiency bonus, 20th         +6           10d6          Stroke of Luck                               you can treat a d20 roll of 9 or lower as a 10."
+			]
+		},
+		{
+			"name": "Blindsense",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"approach deals with subterfuge and a careful approach to          Starting at 14th level, if you are able to hear, you are aware problems, but they typically find themselves in different         of the location of any hidden or invisible creature within environments with drastically different foes.                     10 feet of you. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.                                                  Slippery Mind By 15th level, you have acquired greater mental strength. Cunning Action                                                    You gain proficiency in Wisdom saving throws. Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on       Elusive each of your turns in combat. This action can be used only        Beginning at 18th level, you are so evasive that attackers to take the Dash, Disengage, or Hide action.                      rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 16th,     Stroke of Luck and 19th level, you can increase one ability score of your        At 20th level, you have an uncanny knack for succeeding choice by 2, or you can increase two ability scores of your       when you need to. If your attack misses a target within range, choice by 1. As normal, you can't increase an ability score       you can turn the miss into a hit. Alternatively, if you fail an above 20 using this feature.                                      ability check, you can treat the d20 roll as a 20. Instead of improving your ability scores you can instead           Once you use this feature, you can't use it again until you choose to gain a feat. See page 146 for more about feats.         finish a short or longer rest. Scoundrel Approaches                                            Monster Lore We cover the Explorer approach for those who wish to get        The character is schooled in the lore of beasts and knows the into trouble in the wild, the Former Cultist for scoundrels     secrets of most monsters. Many monsters possess special with a dark history, a Guild Thief for one that follows (cer-   abilities and unique attacks as well as weaknesses which tain) rules, Sappers that attack the foundations of society,    are good to know about when trying to bring them down. Spies that seek secret information on behalf of their master,   • Make an Intelligence (Nature) check with the DC equal Thugs that serve as the chosen enforcers of other criminals        to 10 plus the challenge rating (rounding down for frac- and Treasure-hunters that are only concerned with finding         tional ratings) of any beast, giant, humanoid or plant. On more valuables.                                                    a success, the GM must inform you of any vulnerabilities, resistances or immunities the creature possesses and provide you with a general assessment of its threat to"
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"At 1st level you also choose your approach The Warrior                                                                     to the profession of fighting. Are you a Ber- serker, dangerous to friends and foes alike? Proficiency Level     Bonus     Features                                                A studied Duelist used to combat against a single opponent? A Knight who has pledged 1st          +2         Battle Wind, Fighting Style, Approach their very life to the protection of the king- 2nd          +2         Action Surge dom? A Rune Smith using custom weapons? 3rd          +2         Approach                                           A faithful Templar? Or one of the dangerous 4th          +2         Ability Score Improvement or Feat                  Wraithguard? 5th          +3         Extra Attack (2)                                      Your approach gives you benefits at 1st, 6th          +3         Approach                                           3rd, 6th, 9th, 13th and 17th levels. 7th          +3         Indomitable"
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard."
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You are a wielder of arcane might, drawing on unseen pow- ers to bend the world to your will. However, such changes are not without a price and mystics face a constant threat of gaining Corruption that can ruin their body and soul. For more about Corruption, see page 37."
+			]
+		},
+		{
+			"name": "Cantrips",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At 1st level, you know six cantrips of your choice from the spell list for your mystical approach. When you cast most porary Corruption."
+			]
+		},
+		{
+			"name": "Leveled Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"You know two 1st level spells from the spell list belonging to your mystical approach. When you gain a level in mystic you learn another spell, which can be any spell on your list, up to the spell level shown on the Mystic table. You can also swap one spell you already know for another one of the same level. porary Corruption. A cantrip causes 1 point of temporary Corruption while a leveled spell causes 1d4 plus the spell's level points of temporary Corruption. Proficiency Level      Bonus     Features 1st          +2 2nd          +2 3rd          +2 4th          +2 5th          +3 6th          +3 7th          +3 8th          +3 9th          +4 10th          +4 11th          +4 12th          +4 13th          +5 14th          +5 15th          +5 16th          +5 17th          +6 18th          +6 19th          +6 20th          +6 Example: Mira's ogre mystic Grumpa casts message, a cantrip, and gains 1 point of Corruption. Later, Grumpa uses knock, a 2nd-level spell. She now adds 1d4+2 points of Corruption. Some spells allow you to cast them using a higher level spell. You can cast up to your maximum spell level as long as you pay the additional Corruption cost. Spellcasting Ability Your mystic approach determines your spellcasting ability, which affects your Corruption Threshold, spell save DC and your spell attack modifier: Corruption Threshold = (your proficiency bonus + your spellcasting ability modifier) × 2 Spell save DC = 8 + your proficiency bonus + your spellcasting ability modifier Spell attack modifier = your proficiency bonus + your spellcasting ability modifier Favored Maximum Spells Spell Level Spellcasting, Approach                    2/1           1st Ritual Casting                            3/1           1st Approach                                  4/2          2nd Ability Score Improvement or Feat         5/2          2nd Ritual Casting                            6/3           3rd Approach                                  6/3           3rd Ritual Casting                            6/4           4th Ability Score Improvement or Feat         6/4           4th Approach                                  6/5           5th Ability Score Improvement or Feat         6/5           5th Ritual Casting                            6/6           6th Ability Score Improvement or Feat         6/6           6th Approach                                  6/7           7th Ritual Casting                            6/7           7th \u2014                                         6/8           8th Ability Score Improvement or Feat         6/8           8th Approach                                  6/9           9th Spell Mastery                             6/9           9th Ability Score Improvement or Feat         6/10          9th Signature Spells                          6/10          9th"
+			]
+		},
+		{
+			"name": "Favored Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"There are certain spells that a mystic has studied extensively, so much that they can mitigate the corrupting influence of the familiar magic. At 1st level, you can select 2 cantrips and 1 leveled spell. When you cast a favored cantrip you gain no Corruption, and when you cast a leveled favored spell you gain Corruption equal only to the level of the spell. Each time you gain a level of mystic you can make more spells favored, as shown on the Mystic table under Favored Spells, the first number is the current amount of favored cantrips and the second number is for leveled spells. When you cast a favored spell at a higher level you add the new level as Corruption instead of the base level. For example, if you cast a favored 3rd level spell at 5th level, you gain 5 temporary Corruption instead of 3. Certain spells are poorly researched, unreliable, or on the edge of dark sorcery. These spells cannot be favored. Unfavored spells are marked with an asterisk (*) in the spell lists found beginning on page 187."
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"page": 108,
+			"entries": [
+				"At first level you also choose your approach, which deter- mines how you learned your arcane knowledge and how you understand the nature of the world. You might be an Artifact Crafter that makes magical items; a Sorcerer that seeks shortcuts to power despite their danger; a Staff-mage that gathers and binds power; a Symbolist that wields word- magic; a Troll Singer that brings forth magic with their voice; a Theurg that wields the power of the Sun God; a Witch that follows the old ways; or a Wizard that learned an orderly and philosophical approach to magic. Or you might be self-taught, without boundaries but a danger to yourself and others. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th       accept Corruption as a part of their trade and just and 17th levels."
+			]
+		},
+		{
+			"name": "Ritual Casting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"page": 108,
+			"entries": [
+				"At 2nd level, you may choose a spell that you do not already know that is on your mystic approach spell list, has the rit- ual tag, and does not exceed your current maximum spell level. If you do so, you gain permanent Corruption (see page 37) equal to half the spell level, rounded up. If the ritual is a cantrip, you gain no permanent Corruption. You can only cast the chosen spell as a ritual \u2013 the ritual version of    who has already crossed that line, the Staff Mage which a spell takes 10 minutes longer to cast than normal and can only be cast at its base level. You gain no Corruption from casting one of these spells. You may also learn another spell as a ritual using these rules at 5th, 7th, 11th and 14th level."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 4,
+			"page": 108,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Spell Mastery",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 18,
+			"page": 108,
+			"entries": [
+				"At 18th level, you have achieved such mastery over certain spells that you can cast them at will and gain no Corruption. Choose two 1st or 2nd level spells that you know. You can cast them at their base level without gaining any Corrup- tion. If you cast them as a higher level, you gain Corruption as normal."
+			]
+		},
+		{
+			"name": "Signature Spells",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Mystic",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"page": 108,
+			"entries": [
+				"When you reach 20th level, you gain mastery over two pow- erful spells and can cast them with little effort. Choose two 3rd-level or lower spells that you know. You can cast them at their base level without gaining any Corruption. If you cast them as a higher level, you gain Corruption as normal. The Myth of Pure Magic Within all traditions there is a myth of Pure Magic, the undefiled miracle. In different versions it tells about a time when the world was unspoiled and when the use of mystical powers yielded no Corrup- tion. Then something happened. Evil entered the world and with it came the blight. Some mystics dream about recreating the pure magic of yore by healing the wounds of the world, expelling evil, slaying the World Serpent or reclaim- ing the long lost arch magic. However, most mystics something to be dealt with."
+			]
+		},
+		{
+			"name": "Polearm Fighting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"When wielding a reach weapon, you can Proficiency Level Bonus Features use your reaction to impose disadvantage on a melee attack roll within your reach."
+			]
+		},
+		{
+			"name": "Shield Fighting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"make a Strength saving throw against 10 plus your Strength (Athletics) modifier."
+			]
+		},
+		{
+			"name": "Snare Fighting",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"If using a weapon with the ensnaring prop- creatures your size or smaller with two or less legs, or similarly shaped targets. you can add your ability modifier to the damage of the second attack."
+			]
+		},
+		{
+			"name": "Fighting Style",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				""
+			]
+		},
+		{
+			"name": "Tactical Acumen",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"You adopt a particular style of fighting as your specialty. Choose You are often more concerned with your group's readiness at one of the following options. You can't take a Fighting Style the expense of your own. When combat begins and you are option more than once, even if you later get to choose again. not surprised you can take disadvantage on your initiative roll in order to give advantage on initiative rolls to a number Archery of creatures equal to your proficiency bonus. You gain a +2 bonus to attack rolls you make with ranged weapons."
+			]
+		},
+		{
+			"name": "Assessment",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"using it again. As an action, you can observe a creature and make a DC 10 At 15th level, you can use this feature twice before need- Wisdom (Insight) check to notice a weakness that you might ing to take an extended rest. exploit. With a success: • If you make an attack roll against the creature you have"
+			]
+		},
+		{
+			"name": "Captain Approaches",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Each captain is a superb leader of others but their Alternatively, you can assess an object instead. Make a DC goals may be as unique as their personalities. When you 10 Intelligence (Investigation) check. You must be able to choose an approach, you make a choice about what kind see and handle the object. On a success, the GM will answer of leader you are and what benefits you offer those who one of these questions (your choice): follow you. • Approximately how old is this object? • Approximately how valuable is this object? • Who is most likely to have made this object?"
+			]
+		},
+		{
+			"name": "Field Dressings",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you can help wounded allies during a Defense short or long rest. If you or any friendly creatures regain While you are wearing armor, you gain a +1 bonus to AC. hit points at the end of the rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points. Dueling The extra hit points increase when you reach certain lev- When you are wielding a melee weapon in one hand and no els in this class: to 1d8 at 9th level, to 1d10 at 11th level, and other weapons, you gain a +2 bonus to damage rolls with to 1d12 at 17th level. that weapon."
+			]
+		},
+		{
+			"name": "Bid to Action",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 3,
+			"entries": [
+				"Great Weapon Fighting Beginning at 3rd level, you can spur others to act quickly. When you roll a 1 or 2 on a damage die for an attack you make When a creature's turn ends, use your reaction to nominate with a melee weapon that you are wielding with two hands, a friendly creature to have its turn next instead of acting you can reroll the die and must use the new roll, even if the on its normal initiative count. The creature must not have new roll is a 1 or a 2. The weapon must have the two-handed already taken its turn yet this round and retains its original or versatile property for you to gain this benefit. initiative count for future rounds. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 14th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page 146 for more about feats."
+			]
+		},
+		{
+			"name": "Extra Attack",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 5,
+			"entries": [
+				"Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. The number of attacks increases to three when you reach 18th level in this class."
+			]
+		},
+		{
+			"name": "War Stories",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 7,
+			"entries": [
+				"Beginning at 7th level, you can tell encouraging stories to steel the resolve of your companions. You may restore a number of Hit Dice equal to your proficiency bonus to each friendly creature you share a short or long rest with. Once you use this feature you must take an extended rest before"
+			]
+		},
+		{
+			"name": "Unending Conflict",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 20,
+			"entries": [
+				"advantage. Once you make a successful attack roll, you At 20th level, when you roll initiative, you gain 1d10 + 10 no longer have advantage due to this feature. temporary hit points. • If you make a contested ability check, you have advantage on the roll. If you succeed at the check, you no longer have advantage due to this feature."
+			]
+		},
+		{
+			"name": "Vanish",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Hunter",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"Ability Score Improvement or Feat                                   Starting at 14th level, you can use the Hide action as a bonus When you reach 4th level, and again at 8th, 10th, 12th, 16th,       action on your turn. Also, you can't be tracked by nonmagi- and 19th level, you can increase one ability score of your          cal means, unless you choose to leave a trail. choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score         Feral Senses above 20 using this feature.                                        Starting at 15th level, you gain preternatural senses that Instead of improving your ability scores you can instead          help you fight creatures you can't see. When you attack a choose to gain a feat. See page 146 for more about feats.           creature you can't see, your inability to see it doesn't im- pose disadvantage on your attack rolls against it. You are Extra Attack                                                        also aware of the location of any invisible creature within Beginning at 5th level, you can attack twice, instead of once,      30 feet of you, provided that the creature isn't hidden from whenever you take the Attack action on your turn. The num-          you and you aren't blinded or deafened. ber of attacks increases to three when you reach 18th level in this class.                                                      Expert Hunter At 20th level, you have an uncanny knack for succeeding Expertise                                                           when you need to. If your attack misses a target within range, At 6th level, choose either Nature or Survival and one of           you can turn the miss into a hit. Alternatively, if you fail an your other skill proficiencies. Your proficiency bonus is           ability check, you can treat the d20 roll as a 20. doubled for any ability check you make that uses either of             Once you use this feature, you can't use it again until you these chosen proficiencies.                                         finish a short or longer rest. A lone and broken pillar standing on the island of Hael in the south of Lake Volgoma carries this inscription, believed to tell of the escape from something called \"Symbaroum's Bane\". Hunter Approaches Hunters might be Bounty Hunters, who seek the most dangerous prey in city alleyways and other dark places, or Ironsworn, defenders of the Iron Pact. They might elect to become Monster Hunters and venture far into Davokar, or they might be a Witch Hunter, seeking out blighted hu- mans on behalf of the Church or their own personal quest of vengeance."
+			]
+		},
+		{
+			"name": "Backstab",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"Hit Points                                                           Beginning at 1st level, you know how to strike subtly and •   Hit Dice: If you are not using your origin to determine          exploit a foe's distraction. Once per turn, you can deal an Hit Dice, your Hit Die is a d8.                                  extra 1d6 damage to one creature you hit with a melee weap- •   Hit Points at 1st Level: If you do not use your origin           on attack if you have advantage on the attack roll. You must to determine hit points, you have 8 + your Constitution          be proficient with the weapon used. modifier.                                                           You don't need advantage on the attack roll if another en- •   Hit Points at Higher Levels: If you do not use your or-          emy of the target is within 5 feet of it, that enemy isn't inca- igin to determine hit points, you gain 1d8 (or 5) + your         pacitated, and you don't have disadvantage on the attack roll. Constitution modifier per scoundrel level after 1st.                The amount of the extra damage increases as you gain levels in this class, as shown in the Backstab column of the Proficiencies                                                        Scoundrel table. • Armor: Light armor • Weapons: Simple weapons, hand crossbows, longswords,               Approach rapiers, shortswords                                             At first level you also choose your approach, the way that •   Tools: Thieves' tools                                            your scoundrel interacts with the world: are they an Ex- •   Saving Throws: Dexterity, Charisma                               plorer, a Spy, a Treasure-hunter, a Thug, or a Sapper? Each The Scoundrel Proficiency Backstab                                                          Uncanny Dodge Level     Bonus      Bonus               Features                                     Starting at 5th level, when an at- tacker that you can see hits you 1st          +2            1d6          Expertise, Backstab, Approach with an attack, you can use your 2nd          +2            1d6          Cunning Action reaction to halve the attack's dam- 3rd          +2            2d6         Approach                                      age against you. 4th          +2            2d6         Ability Score Improvement or Feat 5th          +3            3d6          Uncanny Dodge                                Evasion 6th          +3            3d6          Expertise, Approach                          Beginning at 7th level, you can nimbly dodge out of the way of 7th          +3            4d6          Evasion certain area effects, such as an 8th          +3            4d6         Ability Score Improvement or Feat             ice storm spell. When you are 9th          +4            5d6         Approach                                      subjected to an effect that allows 10th         +4            5d6         Ability Score Improvement or Feat             you to make a Dexterity saving 11th         +4            6d6          Reliable Talent                              throw to take only half damage, you instead take no damage if you 12th         +4            6d6         Ability Score Improvement or Feat succeed on the saving throw, and 13th         +5            7d6         Approach                                      only half damage if you fail. 14th         +5            7d6          Blindsense 15th         +5            8d6          Slippery Mind                                Reliable Talent 16th         +5            8d6         Ability Score Improvement or Feat             By 11th level, you have refined your chosen skills until they ap- 17th         +6            9d6         Approach proach perfection. Whenever you 18th         +6            9d6          Elusive                                      make an ability check that lets 19th         +6           10d6         Ability Score Improvement or Feat             you add your proficiency bonus, 20th         +6           10d6          Stroke of Luck                               you can treat a d20 roll of 9 or lower as a 10."
+			]
+		},
+		{
+			"name": "Blindsense",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Scoundrel",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 14,
+			"entries": [
+				"approach deals with subterfuge and a careful approach to          Starting at 14th level, if you are able to hear, you are aware problems, but they typically find themselves in different         of the location of any hidden or invisible creature within environments with drastically different foes.                     10 feet of you. Your approach gives you benefits at 1st, 3rd, 6th, 9th, 13th and 17th levels.                                                  Slippery Mind By 15th level, you have acquired greater mental strength. Cunning Action                                                    You gain proficiency in Wisdom saving throws. Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on       Elusive each of your turns in combat. This action can be used only        Beginning at 18th level, you are so evasive that attackers to take the Dash, Disengage, or Hide action.                      rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. Ability Score Improvement or Feat When you reach 4th level, and again at 8th, 10th, 12th, 16th,     Stroke of Luck and 19th level, you can increase one ability score of your        At 20th level, you have an uncanny knack for succeeding choice by 2, or you can increase two ability scores of your       when you need to. If your attack misses a target within range, choice by 1. As normal, you can't increase an ability score       you can turn the miss into a hit. Alternatively, if you fail an above 20 using this feature.                                      ability check, you can treat the d20 roll as a 20. Instead of improving your ability scores you can instead           Once you use this feature, you can't use it again until you choose to gain a feat. See page 146 for more about feats.         finish a short or longer rest. Scoundrel Approaches                                            Monster Lore We cover the Explorer approach for those who wish to get        The character is schooled in the lore of beasts and knows the into trouble in the wild, the Former Cultist for scoundrels     secrets of most monsters. Many monsters possess special with a dark history, a Guild Thief for one that follows (cer-   abilities and unique attacks as well as weaknesses which tain) rules, Sappers that attack the foundations of society,    are good to know about when trying to bring them down. Spies that seek secret information on behalf of their master,   • Make an Intelligence (Nature) check with the DC equal Thugs that serve as the chosen enforcers of other criminals        to 10 plus the challenge rating (rounding down for frac- and Treasure-hunters that are only concerned with finding         tional ratings) of any beast, giant, humanoid or plant. On more valuables.                                                    a success, the GM must inform you of any vulnerabilities, resistances or immunities the creature possesses and provide you with a general assessment of its threat to"
+			]
+		},
+		{
+			"name": "Approach",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 1,
+			"entries": [
+				"At 1st level you also choose your approach The Warrior                                                                     to the profession of fighting. Are you a Ber- serker, dangerous to friends and foes alike? Proficiency Level     Bonus     Features                                                A studied Duelist used to combat against a single opponent? A Knight who has pledged 1st          +2         Battle Wind, Fighting Style, Approach their very life to the protection of the king- 2nd          +2         Action Surge dom? A Rune Smith using custom weapons? 3rd          +2         Approach                                           A faithful Templar? Or one of the dangerous 4th          +2         Ability Score Improvement or Feat                  Wraithguard? 5th          +3         Extra Attack (2)                                      Your approach gives you benefits at 1st, 6th          +3         Approach                                           3rd, 6th, 9th, 13th and 17th levels. 7th          +3         Indomitable"
+			]
+		},
+		{
+			"name": "Action Surge",
+			"source": "RuinsOfSymbaroumC",
+			"className": "Warrior",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 2,
+			"entries": [
+				"8th          +3         Ability Score Improvement or Feat                  Starting at 2nd level, you can push yourself 9th          +4         Approach                                           beyond your normal limits for a moment. On 10th         +4         Ability Score Improvement or Feat                  your turn, you can take one additional action. 11th         +4         Extra Attack (3)                                   Once you use this feature, you must finish a rest of any length before you can use it again. 12th         +4         Ability Score Improvement or Feat Starting at 15th level, you can use it twice 13th         +5         Approach                                           before a rest, but only once on the same turn. 14th         +5         Ability Score Improvement or Feat 15th         +5         Action Surge                                       Ability Score 16th         +5         Ability Score Improvement or Feat                  Improvement or Feat When you reach 4th level, and again at 8th, 17th         +6         Approach 10th, 12th, 14th, 16th, and 19th level, you can 18th        +6          Extra Attack (4)                                  increase one ability score of your choice by 2, 19th        +6          Ability Score Improvement or Feat                 or you can increase two ability scores of your 20th        +6          Undying Courage                                   choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat. See page Shield Fighting                                                    146 for more about feats. If you make a successful melee attack roll you can use your bonus action to slam the target with your shield. If the tar-      Extra Attack get is your size or smaller, it must make a Strength saving        Beginning at 5th level, you can attack twice, instead of once, throw against 10 plus your Strength (Athletics) modifier. On       whenever you take the Attack action on your turn. The num- a failure you can choose to move it 10 feet in a line, or cause    ber of attacks increases to three when you reach 11th level in the creature to become prone.                                      this class and to four when you reach 18th level in this class. Snare Fighting                                                      Indomitable If using a weapon with the ensnaring property and you               Beginning at 7th level, you can reroll a saving throw that you make a successful attack roll, you can spend a bonus action         fail. If you do so, you must use the new roll, and you can't to forgo doing damage, instead tripping the target and caus-        use this feature again until you finish a long or extended rest. ing it to fall prone. This only works on creatures your size or smaller with two or less legs or similarly shaped targets.       Undying Courage At 20th level you can shrug off effects that would incapaci- Two-Weapon Fighting                                                tate lesser warriors. When required to make a saving throw When you engage in two-weapon fighting, you can add your           you can choose to pass it instead. If you do so, you cannot ability modifier to the damage of the second attack.                do so again until you take a rest of any length. Warrior Approaches Those who fight have a variety of techniques from the wild attacks of Berserkers to the controlled grace of the Du- elist, the protective arts of the Knight or the Rune Smith, the strange techniques of the Tattooed Fighter, the faith of the Templar and the unwavering resilience of the Wrathguard."
 			]
 		}
 	],
