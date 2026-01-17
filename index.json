@@ -53,6 +53,11 @@
                 "color": "0f8a0d"
             }
         ],
+        "dependencies": {
+            "spell": [
+                "PHB"
+            ]
+        },
         "dateAdded": 1705021200
     }
 }
