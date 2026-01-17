@@ -143,7 +143,12 @@
 				"Extra Attack|Captain|RuinsOfSymbaroumC|5",
 				"War Stories|Captain|RuinsOfSymbaroumC|7",
 				"Unending Conflict|Captain|RuinsOfSymbaroumC|20",
-				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|4"
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|4",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|8",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|10",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|12",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|16",
+				"Ability Score Improvement|Captain|RuinsOfSymbaroumC|19"
 			]
 		},
 		{
@@ -422,7 +427,62 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"level": 4,
 			"entries": [
-				"When you reach 4th level..."
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 8,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 10,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 12,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 16,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
+			]
+		},
+		{
+			"name": "Ability Score Improvement",
+			"source": "RuinsOfSymbaroumC",
+			"page": 96,
+			"className": "Captain",
+			"classSource": "RuinsOfSymbaroumC",
+			"level": 19,
+			"entries": [
+				"When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. Instead of improving your ability scores you can instead choose to gain a feat."
 			]
 		},
 		{
