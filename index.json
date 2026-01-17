@@ -4,7 +4,8 @@
         "creature/sample.json",
         "class/Hemomancer.json",
         "race/Awarenet; Ruins of Symbaroum (Race).json",
-        "background/Awarenet; Ruins of Symbaroum (Background).json"
+        "background/Awarenet; Ruins of Symbaroum (Background).json",
+        "spell/Awarenet; Ruins of Symbaroum (Spells).json"
     ],
     "_meta": {
         "sources": [
