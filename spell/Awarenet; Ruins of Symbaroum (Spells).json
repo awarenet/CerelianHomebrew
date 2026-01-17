@@ -99,7 +99,10 @@
 						"When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Animal Friendship",
@@ -193,7 +196,10 @@
 						"When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Bless",
@@ -283,7 +289,10 @@
 						"When you cast this spell at 2nd level or higher, the damage increases by 1d6 for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Charm Person",
@@ -329,7 +338,10 @@
 						"When you cast this spell at 2nd level or higher, you can target one additional creature for each level above 1st. The creatures must be within 30 feet of each other when you target them."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Command",
@@ -385,7 +397,10 @@
 						"When you cast this spell at 2nd level or higher, you can affect one additional creature for each level above 1st. The creatures must be within 30 feet of each other when you target them."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Create or Destroy Water",
@@ -475,7 +490,10 @@
 						"When you cast this spell at 2nd level or higher, the healing increases by 1d8 for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Detect Evil and Good",
@@ -558,7 +576,10 @@
 						"When you cast this spell at 2nd level or higher, you gain 5 additional temporary hit points for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Fog Cloud",
@@ -690,7 +711,10 @@
 						"When you cast this spell at 2nd level or higher, the healing increases by 1d4 for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Hellish Rebuke",
@@ -733,7 +757,10 @@
 						"When you cast this spell at 2nd level or higher, the damage increases by 1d10 for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Heroism",
@@ -860,7 +887,10 @@
 						"When you cast this spell at 2nd level or higher, the damage increases by 1d10 for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Longstrider",
@@ -947,7 +977,10 @@
 						"When you cast this spell at 2nd level or higher, the spell creates one more dart for each level above 1st."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Protection from Evil and Good",
@@ -989,7 +1022,10 @@
 				"Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, blight-born, celestials, elementals, fey, and fiends.",
 				"The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.",
 				"Unfavored spell."
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Sleep",
@@ -1295,7 +1331,10 @@
 						"If you cast this spell at 3rd level or higher, you add 1 to your result for each level above 2nd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Blindness/Deafness",
@@ -1340,7 +1379,10 @@
 						"When you cast this spell at 3rd level or higher, you can target one additional creature for each level above 2nd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Blood Bond",
@@ -1380,7 +1422,10 @@
 				"You magically link yourself to your familiar to an even greater degree, allowing you to share the burden of Corruption between the two of you. The familiar's Corruption Threshold becomes equal to 2, plus any positive Charisma modifier. When you receive temporary or permanent Corruption you may direct all or part of it to your familiar.",
 				"If the familiar's permanent Corruption becomes equal to or higher than its Threshold, it becomes a blight-born spirit creature and abandons the caster, possibly attacking them as it escapes.",
 				"Unfavored spell."
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Enhance Ability",
@@ -1654,7 +1699,10 @@
 						"When you cast this spell at 3rd level or higher, you can target one additional humanoid for each level above 2nd. The humanoids must be within 30 feet of each other when you target them."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Inherit Wound",
@@ -2083,7 +2131,10 @@
 						"When you cast this spell at 4th level or higher, you animate or reassert control over two additional undead creatures for each level above 3rd. Each of the creatures must come from a different corpse or pile of bones."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Bestow Curse",
@@ -2139,7 +2190,10 @@
 						"If you cast this spell at 4th level, the duration is concentration, up to 10 minutes. If you cast it at 5th level, the duration is 8 hours. If you cast it at 7th level, the duration is 24 hours. If you cast it at 9th level, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Blink",
@@ -2217,7 +2271,10 @@
 						"When you cast this spell at 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Dispel Magic",
@@ -2259,7 +2316,10 @@
 						"When you cast this spell at 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Fireball",
@@ -2302,7 +2362,10 @@
 						"When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Flaming Servant",
@@ -2401,7 +2464,10 @@
 						"When you cast this spell at 4th level or higher, you can target one additional creature for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Glyph of Warding",
@@ -2577,7 +2643,10 @@
 						"When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Magic Circle",
@@ -2723,7 +2792,10 @@
 						"When you cast this spell at 4th-level or higher, the healing increases by 1d4 for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Purging Fire",
@@ -2811,7 +2883,10 @@
 						"When you cast this spell at 4th level or higher, the damage increases by 1d8 for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Summon Daemon",
@@ -2901,7 +2976,10 @@
 						"When you cast this spell at 4th level or higher, the damage increases by 1d6 for each level above 3rd."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Banishment",
@@ -2951,7 +3029,10 @@
 						"When you cast this spell at 5th level or higher, you can target one additional creature for each level above 4th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Blight",
@@ -2995,7 +3076,10 @@
 						"When you cast this spell at 5th level or higher, the damage increases by 1d8 for each level above 4th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Confusion",
@@ -3075,7 +3159,10 @@
 						"When you cast this spell at 5th level or higher, the radius of the sphere increases by 5 feet for each level above 4th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Dominate Beast",
@@ -3289,7 +3376,10 @@
 						"When you cast this spell at 5th level or higher, the damage increases by 1d10 for each level above 4th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Private Sanctum",
@@ -3647,7 +3737,10 @@
 						"You can name or describe an enemy. For the next 24 hours if that enemy approaches within 30 feet of your current location the spirits will attack them. At the start of its turn each specified creature must make a Wisdom saving throw against your spell save DC. On a failure they become frightened of the area and take 1d6 psychic damage. On a success they are not frightened but still take 1d6 psychic damage."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Cone of Cold",
@@ -3807,7 +3900,10 @@
 				"Shimmering energy surrounds and protects you from abominations, celestials, elementals, fey, fiends, or phenomenons, providing disadvantage on their attack rolls against you.",
 				"You can end the spell early by using the following special function:",
 				"**Break Enchantment.** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by an abomination, a celestial, an elemental, a fey, or a fiend. The creature you touch is no longer charmed, frightened, or possessed by such creatures."
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Dominate Person",
@@ -3856,7 +3952,10 @@
 						"When you cast this spell at 6th-level, the duration is concentration, up to 10 minutes. When you cast at 7th-level, the duration is concentration, up to 1 hour. When you cast the spell at 8th level or higher, the duration is concentration, up to 8 hours."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Exorcism",
@@ -3985,7 +4084,10 @@
 						"When you cast this spell at 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each level above 5th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Geas",
@@ -4031,7 +4133,10 @@
 						"When you cast this spell at 7th or 8th level, the duration is 1 year. When you cast this spell at 9th level, the spell lasts until it is ended by one of the spells mentioned above."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Hold Monster",
@@ -4078,7 +4183,10 @@
 						"When you cast this spell at 6th level or higher, you can target one additional creature for each level above 5th. The creatures must be within 30 feet of each other when you target them."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Insect Plague",
@@ -4167,7 +4275,10 @@
 						"When you cast this spell at 6th level or higher, the healing increases by 1d8 for each level above 5th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Modify Memory",
@@ -4217,7 +4328,10 @@
 						"If you cast this spell at 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level)."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Planar Binding",
@@ -4264,7 +4378,10 @@
 						"When you cast this spell at a higher level, the duration increases to 10 days at 6th level, to 30 days at 7th-level, to 180 days at 8th level, and to a year and a day at 9th level."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Purgatory",
@@ -4569,7 +4686,10 @@
 						"When you cast this spell at 7th level or higher, one additional bolt leaps from the first target to another target for each level above 6th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Circle of Death",
@@ -4617,7 +4737,10 @@
 						"When you cast this spell at 7th level or higher, the damage increases by 2d6 for each level above 6th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Create Undead",
@@ -4662,7 +4785,10 @@
 						"When you cast this spell at 7th-level, you can animate or reassert control over four dragouls. When you cast this spell at 8th-level spell, you can animate or reassert control over five dragouls or two crypt walkers. If you cast this spell at 9th-level, you can animate or reassert control over six dragouls, three crypt walkers, or one crypt lord."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Disintegrate",
@@ -4707,7 +4833,10 @@
 						"When you cast this spell at 7th level or higher, the damage increases by 3d6 for each level above 6th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Freezing Sphere",
@@ -4844,7 +4973,10 @@
 						"When you cast this spell at 7th level or higher, the amount of healing increases by 10 for each level above 6th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Living Fortress",
@@ -4930,7 +5062,10 @@
 						"When you cast this spell at 7th-level, the duration is 10 days. When you cast it at 8th-level, the duration is 30 days. When you cast at 9th-level, the duration is a year and a day."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Patron Saint",
@@ -5073,7 +5208,10 @@
 						]
 					}
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Wall of Ice",
@@ -5173,7 +5311,10 @@
 						"When you cast this spell at 8th level or higher, the base damage increases by 1d6 for each level above 7th."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Etherealness",
@@ -5222,7 +5363,10 @@
 						"When you cast this spell at 8th level or higher, you can target up to three willing creatures (including you) for each level above 7th. The creatures must be within 10 feet of you when you cast the spell."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Plane Shift",
@@ -5256,7 +5400,10 @@
 				"You and up to eight willing creatures who link hands in a circle are transported into the Yonderworld, or if you are in the Yonderworld when this spell is cast, you are returned to the real world.",
 				"You can use this spell to banish an unwilling creature to the Yonderworld. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location in the Yonderworld. A creature so transported must find its own way back to the real world.",
 				"Unfavored spell."
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Soul Stone",
@@ -5383,7 +5530,10 @@
 						"When you cast this spell as a 9th-level spell, the duration is concentration, up to 8 hours."
 					]
 				}
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
 		},
 		{
 			"name": "Mass Heal",
@@ -5416,7 +5566,1679 @@
 			"entries": [
 				"A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on constructs.",
 				"Unfavored spell."
-			]
+			],
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Alter Self",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Alter Self",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Detect Thoughts",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Detect Thoughts",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Eyebite",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Eyebite",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Levitate",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Levitate",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Black Tentacles",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Black Tentacles",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Misty Step",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Misty Step",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Dimension Door",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Dimension Door",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Finger of Death",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Finger of Death",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Suggestion",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Suggestion",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Polymorph",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Polymorph",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Clairvoyance",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Clairvoyance",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Power Word Stun",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Power Word Stun",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Fear",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fear",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Gate",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Gate",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Power Word Kill",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Power Word Kill",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Wish",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Wish",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Remove Curse",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Remove Curse",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Revivify",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Revivify",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Speak with Dead",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Speak with Dead",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Harm",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Harm",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Death Ward",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Death Ward",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Zone of Truth",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Zone of Truth",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Greater Restoration",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Greater Restoration",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Scrying",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Scrying",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Enthrall",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Enthrall",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Hideous Laughter",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Hideous Laughter",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Irresistible Dance",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Irresistible Dance",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Compulsion",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Compulsion",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Feeblemind",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Feeblemind",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Mind Blank",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mind Blank",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Mislead",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mislead",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Forcecage",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Forcecage",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Flesh to Stone",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Flesh to Stone",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Ray of Enfeeblement",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Ray of Enfeeblement",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Demiplane",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Demiplane",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Contact Other Plane",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Contact Other Plane",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Imprisonment",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Imprisonment",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Fabricate",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fabricate",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Clone",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Clone",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Acid Splash",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Acid Splash",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Gentle Repose",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Gentle Repose",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Comprehend Languages",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Comprehend Languages",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Time Stop",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Time Stop",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Wall of Force",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Wall of Force",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Antimagic Field",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Antimagic Field",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Tiny Hut",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Tiny Hut",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Beacon of Hope",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Beacon of Hope",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Minor Illusion",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Minor Illusion",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Locate Animals or Plants",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Locate Animals or Plants",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Ray of Frost",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Ray of Frost",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Rope Trick",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Rope Trick",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Jump",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Jump",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Poison Spray",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Poison Spray",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Protection from Energy",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Protection from Energy",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Daylight",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Daylight",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Control Weather",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Control Weather",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Hallow",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Hallow",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "A detailed listing of new and modified spells follows.",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "A detailed listing of new and modified spells follows.",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Plant Growth",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Plant Growth",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Contingency",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Contingency",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Mage Hand",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mage Hand",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Foresight",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Foresight",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Message",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Message",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sequester",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sequester",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Earthquake",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Earthquake",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Stinking Cloud",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Stinking Cloud",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Telepathic Bond",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Telepathic Bond",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Darkvision",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Darkvision",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Alarm",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Alarm",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Greater Invisibility",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Greater Invisibility",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Divination cantrip",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Divination cantrip",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Hypnotic Pattern",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Hypnotic Pattern",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Programmed Illusion",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Programmed Illusion",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Thaumaturgy",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Thaumaturgy",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Prestidigitation",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Prestidigitation",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Commune",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Commune",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Glibness",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Glibness",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Heroes' Feast",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Heroes' Feast",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Web",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Web",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Stone Shape",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Stone Shape",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Mirage Arcane",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mirage Arcane",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Legend Lore",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Legend Lore",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "a saving throw before the spell ends, the target must roll a",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "a saving throw before the spell ends, the target must roll a",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Resilient Sphere",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Resilient Sphere",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Instant Summons",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Instant Summons",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Protection from Poison",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Protection from Poison",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Speak with Plants",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Speak with Plants",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Dream",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Dream",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Wall of Stone",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Wall of Stone",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Enlarge/Reduce",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Enlarge/Reduce",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sleet Storm",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sleet Storm",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Vicious Mockery",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Vicious Mockery",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Silent Image",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Silent Image",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Reverse Gravity",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Reverse Gravity",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Tongues",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Tongues",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Floating Disk",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Floating Disk",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sunbeam",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sunbeam",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Hallucinatory Terrain",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Hallucinatory Terrain",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Arcane Sword",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Arcane Sword",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Resistance",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Resistance",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Divination",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Divination",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "See Invisibility",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "See Invisibility",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Move Earth",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Move Earth",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Passwall",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Passwall",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Maze",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Maze",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Arcane Lock",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Arcane Lock",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Speak with Animals",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Speak with Animals",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "saving throw.",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "saving throw.",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Chill Touch",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Chill Touch",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Unseen Servant",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Unseen Servant",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Knock",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Knock",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Dancing Lights",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Dancing Lights",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "ical order.",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "ical order.",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Divine Word",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Divine Word",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Nondetection",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Nondetection",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Mending",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mending",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sunburst",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sunburst",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Continual Flame",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Continual Flame",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Forbiddance",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Forbiddance",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Blur",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Blur",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Silence",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Silence",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sanctuary",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sanctuary",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sending",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sending",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Gust of Wind",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Gust of Wind",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Holy Aura",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Holy Aura",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Warding Bond",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Warding Bond",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Light",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Light",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Find Familiar",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Find Familiar",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "or higher, you can target one additional creature for each",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "or higher, you can target one additional creature for each",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Magnificent Mansion",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Magnificent Mansion",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Fire Shield",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fire Shield",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Fire Bolt",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fire Bolt",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Phantom Steed",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Phantom Steed",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Eldritch Blast",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Eldritch Blast",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Arcane Eye",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Arcane Eye",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "True Seeing",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "True Seeing",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Find the Path",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Find the Path",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Grease",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Grease",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Locate Creature",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Locate Creature",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Awaken",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Awaken",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Illusory Script",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Illusory Script",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Disguise Self",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Disguise Self",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Create Food and Water",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Create Food and Water",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Detect Poison and Disease",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Detect Poison and Disease",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Augury",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Augury",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Feather Fall",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Feather Fall",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Guardian of Faith",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Guardian of Faith",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Stoneskin",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Stoneskin",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Magic Mouth",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Magic Mouth",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Fire Storm",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fire Storm",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Entangle",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Entangle",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Weird",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Weird",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Faithful Hound",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Faithful Hound",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Slow",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Slow",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Guidance",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Guidance",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Telekinesis",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Telekinesis",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Lesser Restoration",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Lesser Restoration",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Identify",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Identify",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Mirror Image",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mirror Image",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Control Water",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Control Water",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Symbol",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Symbol",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Seeming",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Seeming",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Guards and Wards",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Guards and Wards",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Sacred Flame",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Sacred Flame",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Faerie Fire",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Faerie Fire",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Water Breathing",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Water Breathing",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Calm Emotions",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Calm Emotions",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "d4 and subtract the number rolled from the attack roll or",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "d4 and subtract the number rolled from the attack roll or",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Detect Magic",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Detect Magic",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Arcanist's Magic Aura",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Arcanist's Magic Aura",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Spare the Dying",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Spare the Dying",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Expeditious Retreat",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Expeditious Retreat",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Water Walk",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Water Walk",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Antipathy/Sympathy",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Antipathy/Sympathy",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Find Traps",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Find Traps",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Locate Object",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Locate Object",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Shield",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Shield",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Secret Chest",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Secret Chest",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Meld into Stone",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Meld into Stone",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Shield of Faith",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Shield of Faith",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Gaseous Form",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Gaseous Form",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Prismatic Wall",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Prismatic Wall",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Mage Armor",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Mage Armor",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Incendiary Cloud",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Incendiary Cloud",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Freedom of Movement",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Freedom of Movement",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Blade Barrier",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Blade Barrier",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Meteor Swarm",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Meteor Swarm",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Purify Food and Drink",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Purify Food and Drink",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Darkness",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Darkness",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Spider Climb",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Spider Climb",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Project Image",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Project Image",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Haste",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Haste",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Prismatic Spray",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Prismatic Spray",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Shocking Grasp",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Shocking Grasp",
+				"source": "PHB"
+			}
 		}
 	]
 }
