@@ -112,14 +112,6 @@
 			}
 		},
 		{
-			"name": "Divination cantrip",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Divination cantrip",
-				"source": "PHB"
-			}
-		},
-		{
 			"name": "Hypnotic Pattern",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -176,14 +168,6 @@
 			}
 		},
 		{
-			"name": "Web",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Web",
-				"source": "PHB"
-			}
-		},
-		{
 			"name": "Stone Shape",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -204,14 +188,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Legend Lore",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "a saving throw before the spell ends, the target must roll a",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "a saving throw before the spell ends, the target must roll a",
 				"source": "PHB"
 			}
 		},
@@ -408,14 +384,6 @@
 			}
 		},
 		{
-			"name": "saving throw.",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "saving throw.",
-				"source": "PHB"
-			}
-		},
-		{
 			"name": "Chill Touch",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -444,14 +412,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Dancing Lights",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "ical order.",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "ical order.",
 				"source": "PHB"
 			}
 		},
@@ -572,14 +532,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Find Familiar",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "or higher, you can target one additional creature for each",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "or higher, you can target one additional creature for each",
 				"source": "PHB"
 			}
 		},
@@ -884,14 +836,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Calm Emotions",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "d4 and subtract the number rolled from the attack roll or",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "d4 and subtract the number rolled from the attack roll or",
 				"source": "PHB"
 			}
 		},
@@ -1504,17 +1448,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Magic Missile",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Fly",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fly",
 				"source": "PHB"
 			},
 			"foundryFlags": {
@@ -2486,14 +2419,6 @@
 			}
 		},
 		{
-			"name": "Aid",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Aid",
-				"source": "PHB"
-			}
-		},
-		{
 			"name": "A detailed listing of new and modified spells follows.",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2746,6 +2671,33 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Control Weather",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Fly",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Fly",
+				"source": "PHB"
+			},
+			"foundryFlags": {
+				"notFavorable": true
+			}
+		},
+		{
+			"name": "Web",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Web",
+				"source": "PHB"
+			}
+		},
+		{
+			"name": "Aid",
+			"source": "RuinsOfSymbaroumS",
+			"_copy": {
+				"name": "Aid",
 				"source": "PHB"
 			}
 		}

@@ -29,7 +29,6 @@
 				"Corruption|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|1",
 				"Spellcasting Ability|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|1",
 				"Talisman Crafter|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|1",
-				"Complex Approaches|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|1",
 				"Artifact Expert|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|3",
 				"Talisman Master|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|13",
 				"Artifact Master|Mystic|RuinsOfSymbaroumC|Artifact Crafter|RuinsOfSymbaroumSC|17"
@@ -158,7 +157,8 @@
 				"Personal Investment|Mystic|RuinsOfSymbaroumC|Self-taught|RuinsOfSymbaroumSC|3",
 				"Natural Alchemy|Mystic|RuinsOfSymbaroumC|Self-taught|RuinsOfSymbaroumSC|6",
 				"Steadfast|Mystic|RuinsOfSymbaroumC|Self-taught|RuinsOfSymbaroumSC|9"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Sorcerer",
@@ -228,7 +228,6 @@
 				"finger of death",
 				"fire bolt",
 				"fire storm",
-				"fly",
 				"fog cloud",
 				"gaseous form",
 				"gate",
@@ -297,7 +296,6 @@
 				"wall of stone",
 				"water breathing",
 				"water walk",
-				"web",
 				"wish"
 			]
 		},
@@ -314,15 +312,9 @@
 				"Spellcasting Ability|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|1",
 				"Bonus Spell|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|1",
 				"Staff Fighting|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|1",
-				"the rune staff:|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|1",
-				"Staff Magic|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|3",
-				"the rune staff:|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|9",
-				"their rune staff:|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|13"
+				"Staff Magic|Mystic|RuinsOfSymbaroumC|Staff Mage|RuinsOfSymbaroumSC|3"
 			],
 			"subclassSpells": [
-				"1st-level evocation",
-				"a detailed listing of new and modified spells follows.",
-				"a saving throw before the spell ends, the target must roll a",
 				"accurate strike",
 				"acid arrow",
 				"acid splash",
@@ -336,7 +328,6 @@
 				"arcane lock",
 				"arcane sword",
 				"arcanist's magic aura",
-				"at higher levels. when you cast this spell at 2nd level",
 				"banishment",
 				"black bolt",
 				"black tentacles",
@@ -345,15 +336,12 @@
 				"blood storm",
 				"blur",
 				"burning hands",
-				"casting time: 1 action",
 				"chain lightning",
 				"charm person",
 				"chill touch",
 				"clairvoyance",
 				"clone",
 				"cloudkill",
-				"components: s",
-				"components: v, s",
 				"comprehend languages",
 				"cone of cold",
 				"confusion",
@@ -363,7 +351,6 @@
 				"control weather",
 				"counterspell",
 				"creation",
-				"d4 and subtract the number rolled from the attack roll or",
 				"dancing lights",
 				"darkness",
 				"darkvision",
@@ -375,11 +362,9 @@
 				"disguise self",
 				"disintegrate",
 				"dispel magic",
-				"divination cantrip",
 				"dominate monster",
 				"dominate person",
 				"dream",
-				"duration: concentration, up to 1 minute",
 				"enlarge/reduce",
 				"etherealness",
 				"expeditious retreat",
@@ -400,7 +385,6 @@
 				"flaming sphere",
 				"flesh to stone",
 				"floating disk",
-				"fly",
 				"fog cloud",
 				"forcecage",
 				"foresight",
@@ -420,7 +404,6 @@
 				"hold monster",
 				"hold person",
 				"hypnotic pattern",
-				"ical order.",
 				"ice storm",
 				"identify",
 				"illusory correction",
@@ -462,7 +445,6 @@
 				"modify memory",
 				"move earth",
 				"nondetection",
-				"or higher, you can target one additional creature for each",
 				"passwall",
 				"phantasmal killer",
 				"phantom steed",
@@ -479,14 +461,11 @@
 				"project image",
 				"protection from energy",
 				"protection from evil and good",
-				"range: 120 ft.",
-				"range: 30 ft.",
 				"ray of enfeeblement",
 				"ray of frost",
 				"resilient sphere",
 				"reverse gravity",
 				"rope trick",
-				"saving throw.",
 				"scorching ray",
 				"scrying",
 				"secret chest",
@@ -502,7 +481,6 @@
 				"sleet storm",
 				"slow",
 				"soul stone",
-				"spell descriptions",
 				"spells are divided by level and then presented in alphabet-",
 				"spider climb",
 				"stinking cloud",
@@ -529,7 +507,6 @@
 				"wall of ice",
 				"wall of stone",
 				"water breathing",
-				"web",
 				"weird",
 				"wish"
 			]
@@ -550,9 +527,6 @@
 				"Protective Runes|Mystic|RuinsOfSymbaroumC|Symbolist|RuinsOfSymbaroumSC|13"
 			],
 			"subclassSpells": [
-				"1st-level evocation",
-				"a detailed listing of new and modified spells follows.",
-				"a saving throw before the spell ends, the target must roll a",
 				"accurate strike",
 				"acid arrow",
 				"acid splash",
@@ -566,7 +540,6 @@
 				"arcane lock",
 				"arcane sword",
 				"arcanist's magic aura",
-				"at higher levels. when you cast this spell at 2nd level",
 				"banishment",
 				"black bolt",
 				"black tentacles",
@@ -575,15 +548,12 @@
 				"blood storm",
 				"blur",
 				"burning hands",
-				"casting time: 1 action",
 				"chain lightning",
 				"charm person",
 				"chill touch",
 				"clairvoyance",
 				"clone",
 				"cloudkill",
-				"components: s",
-				"components: v, s",
 				"comprehend languages",
 				"cone of cold",
 				"confusion",
@@ -593,7 +563,6 @@
 				"control weather",
 				"counterspell",
 				"creation",
-				"d4 and subtract the number rolled from the attack roll or",
 				"dancing lights",
 				"darkness",
 				"darkvision",
@@ -605,11 +574,9 @@
 				"disguise self",
 				"disintegrate",
 				"dispel magic",
-				"divination cantrip",
 				"dominate monster",
 				"dominate person",
 				"dream",
-				"duration: concentration, up to 1 minute",
 				"enlarge/reduce",
 				"etherealness",
 				"expeditious retreat",
@@ -630,7 +597,6 @@
 				"flaming sphere",
 				"flesh to stone",
 				"floating disk",
-				"fly",
 				"fog cloud",
 				"forcecage",
 				"foresight",
@@ -650,7 +616,6 @@
 				"hold monster",
 				"hold person",
 				"hypnotic pattern",
-				"ical order.",
 				"ice storm",
 				"identify",
 				"illusory correction",
@@ -692,7 +657,6 @@
 				"modify memory",
 				"move earth",
 				"nondetection",
-				"or higher, you can target one additional creature for each",
 				"passwall",
 				"phantasmal killer",
 				"phantom steed",
@@ -709,14 +673,11 @@
 				"project image",
 				"protection from energy",
 				"protection from evil and good",
-				"range: 120 ft.",
-				"range: 30 ft.",
 				"ray of enfeeblement",
 				"ray of frost",
 				"resilient sphere",
 				"reverse gravity",
 				"rope trick",
-				"saving throw.",
 				"scorching ray",
 				"scrying",
 				"secret chest",
@@ -732,7 +693,6 @@
 				"sleet storm",
 				"slow",
 				"soul stone",
-				"spell descriptions",
 				"spells are divided by level and then presented in alphabet-",
 				"spider climb",
 				"stinking cloud",
@@ -759,7 +719,6 @@
 				"wall of ice",
 				"wall of stone",
 				"water breathing",
-				"web",
 				"weird",
 				"wish"
 			]
@@ -783,7 +742,6 @@
 			"subclassSpells": [
 				"accurate strike",
 				"acid splash",
-				"aid",
 				"anathema",
 				"antimagic field",
 				"atonement",
@@ -1034,8 +992,6 @@
 				"Spellcasting Ability|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
 				"A Chosen Path|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
 				"Beast Shapes|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
-				"swimming speed|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
-				"8th           1        \u2014|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
 				"The Green Path|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
 				"Mare Cat|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
 				"The Red Path|Mystic|RuinsOfSymbaroumC|Witch|RuinsOfSymbaroumSC|1",
@@ -1070,7 +1026,6 @@
 				"find familiar",
 				"finger of death",
 				"flesh to stone",
-				"fly",
 				"forcecage",
 				"foresight",
 				"gaseous form",
@@ -1123,7 +1078,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Merchant Master|Captain|RuinsOfSymbaroumC|Merchant Master|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Officer",
@@ -1136,7 +1092,8 @@
 				"Additional Orders|Captain|RuinsOfSymbaroumC|Officer|RuinsOfSymbaroumSC|3",
 				"Squad Orders|Captain|RuinsOfSymbaroumC|Officer|RuinsOfSymbaroumSC|9",
 				"Aura of Aggression|Captain|RuinsOfSymbaroumC|Officer|RuinsOfSymbaroumSC|17"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Outlaw",
@@ -1147,7 +1104,8 @@
 			"subclassFeatures": [
 				"Outlaw|Captain|RuinsOfSymbaroumC|Outlaw|RuinsOfSymbaroumSC|3",
 				"Aura of Confidence|Captain|RuinsOfSymbaroumC|Outlaw|RuinsOfSymbaroumSC|17"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Poet-warrior",
@@ -1157,7 +1115,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Poet-warrior|Captain|RuinsOfSymbaroumC|Poet-warrior|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Bounty Hunter",
@@ -1167,7 +1126,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Bounty Hunter|Hunter|RuinsOfSymbaroumC|Bounty Hunter|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Ironsworn",
@@ -1177,7 +1137,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Ironsworn|Hunter|RuinsOfSymbaroumC|Ironsworn|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Monster Hunter",
@@ -1187,7 +1148,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Monster Hunter|Hunter|RuinsOfSymbaroumC|Monster Hunter|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Witch Hunter",
@@ -1197,7 +1159,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Witch Hunter|Hunter|RuinsOfSymbaroumC|Witch Hunter|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Explorer",
@@ -1207,7 +1170,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Explorer|Scoundrel|RuinsOfSymbaroumC|Explorer|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Former Cultist",
@@ -1268,7 +1232,6 @@
 				"finger of death",
 				"fire bolt",
 				"fire storm",
-				"fly",
 				"fog cloud",
 				"gaseous form",
 				"gate",
@@ -1337,7 +1300,6 @@
 				"wall of stone",
 				"water breathing",
 				"water walk",
-				"web",
 				"wish"
 			]
 		},
@@ -1349,7 +1311,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Guild Thief|Scoundrel|RuinsOfSymbaroumC|Guild Thief|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Sapper",
@@ -1359,7 +1322,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Sapper|Scoundrel|RuinsOfSymbaroumC|Sapper|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Spy",
@@ -1369,7 +1333,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Spy|Scoundrel|RuinsOfSymbaroumC|Spy|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Thug",
@@ -1379,7 +1344,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Thug|Scoundrel|RuinsOfSymbaroumC|Thug|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Treasure-hunter",
@@ -1389,7 +1355,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Treasure-hunter|Scoundrel|RuinsOfSymbaroumC|Treasure-hunter|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Berserker",
@@ -1400,7 +1367,8 @@
 			"subclassFeatures": [
 				"Berserker|Warrior|RuinsOfSymbaroumC|Berserker|RuinsOfSymbaroumSC|3",
 				"Rage|Warrior|RuinsOfSymbaroumC|Berserker|RuinsOfSymbaroumSC|17"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Duelist",
@@ -1410,7 +1378,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Duelist|Warrior|RuinsOfSymbaroumC|Duelist|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Knight",
@@ -1420,7 +1389,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Knight|Warrior|RuinsOfSymbaroumC|Knight|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Rune Smith",
@@ -1431,7 +1401,8 @@
 			"subclassFeatures": [
 				"Rune Smith|Warrior|RuinsOfSymbaroumC|Rune Smith|RuinsOfSymbaroumSC|3",
 				"Rune Tattoos|Warrior|RuinsOfSymbaroumC|Rune Smith|RuinsOfSymbaroumSC|13"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Templar",
@@ -1441,7 +1412,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Templar|Warrior|RuinsOfSymbaroumC|Templar|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Tattooed Fighter",
@@ -1451,7 +1423,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Tattooed Fighter|Warrior|RuinsOfSymbaroumC|Tattooed Fighter|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Weapon Master",
@@ -1461,7 +1434,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Weapon Master|Warrior|RuinsOfSymbaroumC|Weapon Master|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		},
 		{
 			"name": "Wrathguard",
@@ -1471,7 +1445,8 @@
 			"classSource": "RuinsOfSymbaroumC",
 			"subclassFeatures": [
 				"Wrathguard|Warrior|RuinsOfSymbaroumC|Wrathguard|RuinsOfSymbaroumSC|3"
-			]
+			],
+			"subclassSpells": []
 		}
 	],
 	"subclassFeature": [
@@ -1569,18 +1544,6 @@
 			"level": 17,
 			"entries": [
 				"At 17th level you can create one artifact of greater power. This is the work of a lifetime of learning and effort and so can only be accomplished once. The Gamemaster has further rules and sample artifacts, see page 124 in the Ruins of Symbaroum Gamemaster's Guide."
-			]
-		},
-		{
-			"name": "Complex Approaches",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Artifact Crafter",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 1,
-			"entries": [
-				"As you look at the various approaches available for each class, you'll find some of them contain more complexity than others. This is inten- tional \u2013 after all, some folks enjoy working with the mechanics of the game system to produce an interesting character. Others are more focused on the roleplay elements or the background story and prefer a more straightforward progression of mechanics. Simply select what you prefer, it won't change the overall balance of the game."
 			]
 		},
 		{
@@ -1872,18 +1835,6 @@
 			]
 		},
 		{
-			"name": "their rune staff:",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Staff Mage",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 13,
-			"entries": [
-				"• The staff is considered magical for the purposes of mag- ical weapons and armor. The rune staff gains a +1 bonus to attack and damage rolls. • You can use your bonus action to make an attack with your rune staff. At 13th level, the rune staff gains these additional effects: • The staff now provides a +2 bonus to AC, as well as on attack and damage rolls. • When a creature that is in your reach ends its turn you can use your reaction to make an attack roll against that creature."
-			]
-		},
-		{
 			"name": "Staff Magic",
 			"source": "RuinsOfSymbaroumSC",
 			"className": "Mystic",
@@ -1893,30 +1844,6 @@
 			"level": 3,
 			"entries": [
 				"At 3rd level, the staff mage gains the following benefits from    Vajvods, for cultural and philosophical reasons, distance"
-			]
-		},
-		{
-			"name": "the rune staff:",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Staff Mage",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 9,
-			"entries": [
-				"• A touch from your staff as long as you wield it counts as you touching a creature for spell effects. • When the staff mage gains a point of permanent Cor- ruption they can assign it to the rune staff instead of themselves. Once the rune staff already has three or more permanent Corruption, each time you add a point of per- manent Corruption to the staff, roll a d20. If the result is   The symbolists have few titles and only differ between ap- equal to or lower than the new total of permanent Cor- ruption held by the staff then the staff splits asunder and    and \"Weavers\". The term \"Master Weaver\" is also used as you gain the staff 's permanent Corruption immediately. Creating a new staff requires an extended rest. •  The  mage can use their bonus action to activate an ele- mental rune on the staff and add 1d4 damage to a single damage roll using the staff. The additional damage is your choice of acid, cold, fire, or lightning. At 9th level, the rune staff grants these additional effects: • The elemental damage rises to 1d8. • Once per long or extended rest you can cast an additional spell of a level equal to half your staff 's permanent Cor- ruption total, rounded down. You gain no Corruption from casting this spell. At 17th level, the staff mage gains the following benefits from"
-			]
-		},
-		{
-			"name": "the rune staff:",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Staff Mage",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 1,
-			"entries": [
-				"• The elemental damage rises to 1d12. • The rune staff provides advantage on all Corruption checks."
 			]
 		},
 		{
@@ -2325,30 +2252,6 @@
 			"level": 1,
 			"entries": [
 				"Level       Max. CR       Limitations 3rd         1/4        No flying or"
-			]
-		},
-		{
-			"name": "swimming speed",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Witch",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 1,
-			"entries": [
-				"5th         1/2        No flying speed         Skullan"
-			]
-		},
-		{
-			"name": "8th           1        \u2014",
-			"source": "RuinsOfSymbaroumSC",
-			"className": "Mystic",
-			"classSource": "RuinsOfSymbaroumC",
-			"subclassShortName": "Witch",
-			"subclassSource": "RuinsOfSymbaroumSC",
-			"level": 1,
-			"entries": [
-				"You can stay in a beast shape for a number of hours equal to half your mystic level (rounded down). You can then expend another use of this feature to remain in the beast shape. You can revert to your normal form as a bonus action and you automatically revert if you fall unconscious, drop to 0 hit points, or die. While you are transformed, the following rules apply: • Your game statistics are replaced by the statistics of the beast, but you retain your personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the crea- ture. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair     based on the creature's shape and size. Your equipment doesn't actions, you can't use them. • When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess"
 			]
 		},
 		{
