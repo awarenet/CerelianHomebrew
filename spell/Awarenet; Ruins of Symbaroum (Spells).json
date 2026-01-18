@@ -7522,6 +7522,9 @@
 					"type": "instant"
 				}
 			],
+			"foundrySystem": {
+				"consumeSpellSlot": false
+			},
 			"foundryFlags": {
 				"activityConsumption": {
 					"cast": {
