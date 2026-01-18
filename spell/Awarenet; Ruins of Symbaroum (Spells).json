@@ -40,7 +40,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -56,7 +56,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -85,7 +85,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -101,7 +101,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -130,7 +130,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -146,7 +146,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -175,7 +175,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -191,7 +191,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -220,7 +220,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -236,7 +236,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -265,7 +265,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -281,7 +281,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -310,7 +310,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -326,7 +326,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -355,7 +355,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -371,7 +371,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -400,7 +400,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -416,7 +416,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -445,7 +445,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -461,7 +461,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -490,7 +490,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -506,7 +506,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -535,7 +535,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -551,7 +551,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -580,7 +580,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -596,7 +596,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -625,7 +625,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -641,7 +641,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -670,7 +670,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -686,7 +686,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -715,7 +715,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -731,7 +731,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -760,7 +760,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -776,7 +776,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -805,7 +805,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -821,7 +821,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -850,7 +850,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -866,7 +866,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -895,7 +895,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -911,7 +911,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -940,7 +940,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -956,7 +956,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -985,7 +985,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1001,7 +1001,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1030,7 +1030,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1046,7 +1046,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1075,7 +1075,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1091,7 +1091,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1120,7 +1120,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1136,7 +1136,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1165,7 +1165,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1181,7 +1181,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1210,7 +1210,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1226,7 +1226,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1255,7 +1255,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1271,7 +1271,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1300,7 +1300,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1316,7 +1316,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1345,7 +1345,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1361,7 +1361,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1390,7 +1390,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1406,7 +1406,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1435,7 +1435,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1451,7 +1451,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1480,7 +1480,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1496,7 +1496,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1525,7 +1525,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1541,7 +1541,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1570,7 +1570,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1586,7 +1586,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1615,7 +1615,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1631,7 +1631,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1660,7 +1660,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1676,7 +1676,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1705,7 +1705,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1721,7 +1721,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1750,7 +1750,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1766,7 +1766,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1795,7 +1795,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1811,7 +1811,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1840,7 +1840,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1856,7 +1856,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1885,7 +1885,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1901,7 +1901,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1930,7 +1930,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1946,7 +1946,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -1975,7 +1975,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -1991,7 +1991,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2020,7 +2020,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2036,7 +2036,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2065,7 +2065,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2081,7 +2081,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2110,7 +2110,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2126,7 +2126,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2155,7 +2155,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2171,7 +2171,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2200,7 +2200,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2216,7 +2216,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2245,7 +2245,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2261,7 +2261,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2290,7 +2290,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2306,7 +2306,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2335,7 +2335,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2351,7 +2351,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2380,7 +2380,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2396,7 +2396,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2425,7 +2425,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2441,7 +2441,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2470,7 +2470,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2486,7 +2486,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2515,7 +2515,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2531,7 +2531,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2560,7 +2560,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2576,7 +2576,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2605,7 +2605,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2621,7 +2621,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2650,7 +2650,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2666,7 +2666,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2695,7 +2695,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2711,7 +2711,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2740,7 +2740,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2756,7 +2756,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2785,7 +2785,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2801,7 +2801,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2830,7 +2830,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2846,7 +2846,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2875,7 +2875,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2891,7 +2891,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2920,7 +2920,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2936,7 +2936,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -2965,7 +2965,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -2981,7 +2981,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3010,7 +3010,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3026,7 +3026,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3055,7 +3055,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3071,7 +3071,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3100,7 +3100,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3116,7 +3116,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3145,7 +3145,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3161,7 +3161,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3190,7 +3190,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3206,7 +3206,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3235,7 +3235,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3251,7 +3251,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3280,7 +3280,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3296,7 +3296,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3325,7 +3325,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3341,7 +3341,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3370,7 +3370,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3386,7 +3386,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3415,7 +3415,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3431,7 +3431,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3460,7 +3460,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3476,7 +3476,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3505,7 +3505,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3521,7 +3521,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3550,7 +3550,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3566,7 +3566,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3595,7 +3595,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3611,7 +3611,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3640,7 +3640,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3656,7 +3656,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3685,7 +3685,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3701,7 +3701,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3730,7 +3730,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3746,7 +3746,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3775,7 +3775,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3791,7 +3791,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3820,7 +3820,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3836,7 +3836,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3865,7 +3865,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3881,7 +3881,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3910,7 +3910,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3926,7 +3926,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -3955,7 +3955,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -3971,7 +3971,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4000,7 +4000,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4016,7 +4016,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4045,7 +4045,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4061,7 +4061,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4090,7 +4090,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4106,7 +4106,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4135,7 +4135,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4151,7 +4151,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4180,7 +4180,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4196,7 +4196,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4225,7 +4225,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4241,7 +4241,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4270,7 +4270,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4286,7 +4286,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4315,7 +4315,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4331,7 +4331,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4360,7 +4360,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4376,7 +4376,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4405,7 +4405,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4421,7 +4421,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4450,7 +4450,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4466,7 +4466,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4495,7 +4495,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4511,7 +4511,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4540,7 +4540,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4556,7 +4556,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4585,7 +4585,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4601,7 +4601,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4630,7 +4630,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4646,7 +4646,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4675,7 +4675,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4691,7 +4691,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4720,7 +4720,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4736,7 +4736,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4765,7 +4765,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4781,7 +4781,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4810,7 +4810,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4826,7 +4826,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4855,7 +4855,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4871,7 +4871,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4900,7 +4900,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4916,7 +4916,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4945,7 +4945,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -4961,7 +4961,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -4990,7 +4990,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5006,7 +5006,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5035,7 +5035,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5051,7 +5051,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5080,7 +5080,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5096,7 +5096,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5125,7 +5125,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5141,7 +5141,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5170,7 +5170,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5186,7 +5186,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5215,7 +5215,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5231,7 +5231,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5260,7 +5260,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5276,7 +5276,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5305,7 +5305,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5321,7 +5321,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5350,7 +5350,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5366,7 +5366,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5395,7 +5395,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5411,7 +5411,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5440,7 +5440,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5456,7 +5456,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5485,7 +5485,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5501,7 +5501,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5530,7 +5530,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5546,7 +5546,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5575,7 +5575,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5591,7 +5591,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5620,7 +5620,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5636,7 +5636,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5665,7 +5665,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5681,7 +5681,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5710,7 +5710,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5726,7 +5726,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5755,7 +5755,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5771,7 +5771,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5799,7 +5799,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5842,7 +5842,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5870,7 +5870,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5913,7 +5913,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -5941,7 +5941,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -5984,7 +5984,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6012,7 +6012,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6055,7 +6055,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6083,7 +6083,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6126,7 +6126,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6154,7 +6154,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6197,7 +6197,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6229,7 +6229,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6245,7 +6245,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6273,7 +6273,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6316,7 +6316,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6344,7 +6344,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6387,7 +6387,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6419,7 +6419,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6435,7 +6435,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6463,7 +6463,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6506,7 +6506,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6534,7 +6534,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6577,7 +6577,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6609,7 +6609,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6625,7 +6625,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6653,7 +6653,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6696,7 +6696,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6728,7 +6728,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6744,7 +6744,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6776,7 +6776,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6792,7 +6792,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6820,7 +6820,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6863,7 +6863,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6891,7 +6891,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -6934,7 +6934,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -6962,7 +6962,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7005,7 +7005,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7037,7 +7037,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7053,7 +7053,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7085,7 +7085,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7101,7 +7101,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7129,7 +7129,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7172,7 +7172,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7200,7 +7200,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7243,7 +7243,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7271,7 +7271,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7314,7 +7314,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7342,7 +7342,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7385,7 +7385,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7417,7 +7417,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7433,7 +7433,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7465,7 +7465,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7481,7 +7481,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7509,7 +7509,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7552,7 +7552,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7580,7 +7580,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7623,7 +7623,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7651,7 +7651,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7694,7 +7694,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7722,7 +7722,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7765,7 +7765,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7793,7 +7793,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7836,7 +7836,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7864,7 +7864,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7907,7 +7907,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -7935,7 +7935,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -7978,7 +7978,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8006,7 +8006,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8049,7 +8049,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8081,7 +8081,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8097,7 +8097,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8125,7 +8125,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8168,7 +8168,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8200,7 +8200,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8216,7 +8216,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8244,7 +8244,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8287,7 +8287,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8315,7 +8315,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8358,7 +8358,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8390,7 +8390,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8406,7 +8406,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8434,7 +8434,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8477,7 +8477,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8509,7 +8509,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8525,7 +8525,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8557,7 +8557,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8573,7 +8573,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8605,7 +8605,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8621,7 +8621,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8653,7 +8653,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8669,7 +8669,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8697,7 +8697,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8740,7 +8740,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8772,7 +8772,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8788,7 +8788,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8816,7 +8816,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8859,7 +8859,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8887,7 +8887,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8930,7 +8930,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -8962,7 +8962,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -8978,7 +8978,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9006,7 +9006,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9049,7 +9049,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9077,7 +9077,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9120,7 +9120,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9148,7 +9148,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9191,7 +9191,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9219,7 +9219,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9262,7 +9262,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9290,7 +9290,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9333,7 +9333,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9361,7 +9361,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9404,7 +9404,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9432,7 +9432,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9475,7 +9475,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9507,7 +9507,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9523,7 +9523,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9551,7 +9551,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9594,7 +9594,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9622,7 +9622,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9665,7 +9665,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9693,7 +9693,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9736,7 +9736,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9764,7 +9764,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9807,7 +9807,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9835,7 +9835,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9878,7 +9878,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9906,7 +9906,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9949,7 +9949,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -9981,7 +9981,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -9997,7 +9997,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10025,7 +10025,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10068,7 +10068,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10100,7 +10100,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10116,7 +10116,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10148,7 +10148,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10164,7 +10164,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10196,7 +10196,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10212,7 +10212,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10244,7 +10244,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10260,7 +10260,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10292,7 +10292,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10308,7 +10308,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10340,7 +10340,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10356,7 +10356,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10388,7 +10388,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10404,7 +10404,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10432,7 +10432,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10475,7 +10475,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10507,7 +10507,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10523,7 +10523,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10555,7 +10555,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10571,7 +10571,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10599,7 +10599,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10642,7 +10642,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10670,7 +10670,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10713,7 +10713,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10741,7 +10741,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10784,7 +10784,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10816,7 +10816,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10832,7 +10832,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10860,7 +10860,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10903,7 +10903,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -10931,7 +10931,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -10974,7 +10974,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11006,7 +11006,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11022,7 +11022,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11054,7 +11054,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11070,7 +11070,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11098,7 +11098,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11141,7 +11141,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11169,7 +11169,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11212,7 +11212,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11244,7 +11244,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11260,7 +11260,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11288,7 +11288,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11331,7 +11331,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11383,7 +11383,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11399,7 +11399,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11428,7 +11428,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11444,7 +11444,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11496,7 +11496,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11512,7 +11512,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11564,7 +11564,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11580,7 +11580,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11609,7 +11609,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11625,7 +11625,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11677,7 +11677,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11693,7 +11693,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11745,7 +11745,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11761,7 +11761,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11790,7 +11790,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11806,7 +11806,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11858,7 +11858,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11874,7 +11874,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11903,7 +11903,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11919,7 +11919,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -11971,7 +11971,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -11987,7 +11987,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12039,7 +12039,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12055,7 +12055,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12107,7 +12107,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12123,7 +12123,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12175,7 +12175,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12191,7 +12191,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12243,7 +12243,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12259,7 +12259,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12311,7 +12311,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12327,7 +12327,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12379,7 +12379,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12395,7 +12395,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12447,7 +12447,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12463,7 +12463,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12515,7 +12515,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12531,7 +12531,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12583,7 +12583,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12599,7 +12599,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12651,7 +12651,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12667,7 +12667,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12719,7 +12719,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12735,7 +12735,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12787,7 +12787,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12803,7 +12803,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12832,7 +12832,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12848,7 +12848,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12877,7 +12877,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12893,7 +12893,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12945,7 +12945,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -12961,7 +12961,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -12990,7 +12990,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13006,7 +13006,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13058,7 +13058,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13074,7 +13074,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13126,7 +13126,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13142,7 +13142,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13171,7 +13171,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13187,7 +13187,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13239,7 +13239,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13255,7 +13255,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13307,7 +13307,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13323,7 +13323,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13375,7 +13375,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13391,7 +13391,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13420,7 +13420,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13436,7 +13436,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13488,7 +13488,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13504,7 +13504,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13556,7 +13556,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13572,7 +13572,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13624,7 +13624,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13640,7 +13640,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13692,7 +13692,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13708,7 +13708,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13760,7 +13760,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13776,7 +13776,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13828,7 +13828,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13844,7 +13844,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13896,7 +13896,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13912,7 +13912,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -13964,7 +13964,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -13980,7 +13980,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14032,7 +14032,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14048,7 +14048,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14100,7 +14100,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14116,7 +14116,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14168,7 +14168,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14184,7 +14184,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14236,7 +14236,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14252,7 +14252,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14304,7 +14304,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14320,7 +14320,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14372,7 +14372,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14388,7 +14388,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14440,7 +14440,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14456,7 +14456,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14508,7 +14508,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14524,7 +14524,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14553,7 +14553,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14569,7 +14569,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14621,7 +14621,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14637,7 +14637,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14689,7 +14689,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14705,7 +14705,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14757,7 +14757,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14773,7 +14773,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14825,7 +14825,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14841,7 +14841,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14893,7 +14893,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14909,7 +14909,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14938,7 +14938,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14954,7 +14954,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -14983,7 +14983,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -14999,7 +14999,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15051,7 +15051,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15067,7 +15067,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15119,7 +15119,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15135,7 +15135,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15164,7 +15164,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15180,7 +15180,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15232,7 +15232,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15248,7 +15248,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15300,7 +15300,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15316,7 +15316,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15368,7 +15368,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15384,7 +15384,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15413,7 +15413,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15429,7 +15429,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15481,7 +15481,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15497,7 +15497,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15526,7 +15526,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15542,7 +15542,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15594,7 +15594,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15610,7 +15610,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15639,7 +15639,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15655,7 +15655,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15707,7 +15707,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15723,7 +15723,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15775,7 +15775,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15791,7 +15791,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15843,7 +15843,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15859,7 +15859,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15911,7 +15911,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15927,7 +15927,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -15956,7 +15956,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -15972,7 +15972,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16024,7 +16024,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16040,7 +16040,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16092,7 +16092,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16108,7 +16108,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16137,7 +16137,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16153,7 +16153,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16205,7 +16205,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16221,7 +16221,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16273,7 +16273,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16289,7 +16289,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16318,7 +16318,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16334,7 +16334,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16362,7 +16362,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16405,7 +16405,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16434,7 +16434,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16450,7 +16450,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
@@ -16502,7 +16502,7 @@
 					"consumeSpellSlot": false,
 					"system": {
 						"activities": {
-							"Cast": {
+							"dnd5eactivity000": {
 								"consumption": {
 									"targets": []
 								}
@@ -16518,7 +16518,7 @@
 					"amount": null
 				},
 				"activities": {
-					"Cast": {
+					"dnd5eactivity000": {
 						"consumption": {
 							"targets": [],
 							"scaling": {
