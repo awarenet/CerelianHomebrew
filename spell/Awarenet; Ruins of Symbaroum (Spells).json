@@ -7523,14 +7523,7 @@
 				}
 			],
 			"foundrySystem": {
-				"consumeSpellSlot": false
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
+				"activity.consumption.spellSlot": false
 			}
 		}
 	]
