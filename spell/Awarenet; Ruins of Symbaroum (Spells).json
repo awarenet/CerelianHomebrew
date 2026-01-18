@@ -36,6 +36,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -53,6 +81,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -70,6 +126,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -87,6 +171,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -104,6 +216,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -121,6 +261,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -138,6 +306,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -155,6 +351,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -172,6 +396,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -189,6 +441,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -206,6 +486,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -223,6 +531,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -240,6 +576,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -257,6 +621,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -274,6 +666,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -291,6 +711,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -308,6 +756,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -325,6 +801,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -342,6 +846,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -359,6 +891,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -376,6 +936,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -393,6 +981,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -410,6 +1026,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -427,6 +1071,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -444,6 +1116,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -461,6 +1161,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -478,6 +1206,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -495,6 +1251,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -512,6 +1296,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -529,6 +1341,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -546,6 +1386,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -563,6 +1431,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -580,6 +1476,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -597,6 +1521,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -614,6 +1566,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -631,6 +1611,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -648,6 +1656,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -665,6 +1701,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -682,6 +1746,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -699,6 +1791,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -716,6 +1836,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -733,6 +1881,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -750,6 +1926,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -767,6 +1971,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -784,6 +2016,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -801,6 +2061,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -818,6 +2106,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -835,6 +2151,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -852,6 +2196,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -869,6 +2241,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -886,6 +2286,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -903,6 +2331,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -920,6 +2376,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -937,6 +2421,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -954,6 +2466,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -971,6 +2511,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -988,6 +2556,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1005,6 +2601,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1022,6 +2646,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1039,6 +2691,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1056,6 +2736,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1073,6 +2781,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1090,6 +2826,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1107,6 +2871,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1124,6 +2916,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1141,6 +2961,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1158,6 +3006,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1175,6 +3051,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1192,6 +3096,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1209,6 +3141,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1226,6 +3186,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1243,6 +3231,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1260,6 +3276,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1277,6 +3321,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1294,6 +3366,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1311,6 +3411,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1328,6 +3456,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1345,6 +3501,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1362,6 +3546,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1379,6 +3591,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1396,6 +3636,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1413,6 +3681,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1430,6 +3726,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1447,6 +3771,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1464,6 +3816,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1481,6 +3861,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1498,6 +3906,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1515,6 +3951,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1532,6 +3996,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1549,6 +4041,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1566,6 +4086,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1583,6 +4131,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1600,6 +4176,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1617,6 +4221,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1634,6 +4266,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1651,6 +4311,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1668,6 +4356,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1685,6 +4401,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1702,6 +4446,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1719,6 +4491,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1736,6 +4536,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1753,6 +4581,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1770,6 +4626,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1787,6 +4671,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1804,6 +4716,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1821,6 +4761,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1838,6 +4806,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1855,6 +4851,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1872,6 +4896,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1889,6 +4941,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1906,6 +4986,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1923,6 +5031,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1940,6 +5076,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1957,6 +5121,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1974,6 +5166,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -1991,6 +5211,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2008,6 +5256,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2025,6 +5301,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2042,6 +5346,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2059,6 +5391,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2076,6 +5436,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2093,6 +5481,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2110,6 +5526,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2127,6 +5571,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2144,6 +5616,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2161,6 +5661,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2178,6 +5706,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2195,6 +5751,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2211,6 +5795,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2240,7 +5834,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Alter Self",
@@ -2254,6 +5866,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2283,7 +5905,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Black Breath",
@@ -2297,6 +5937,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2326,7 +5976,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Blindness/Deafness",
@@ -2340,6 +6008,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2369,7 +6047,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Chain Lightning",
@@ -2383,6 +6079,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2412,7 +6118,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Circle of Death",
@@ -2426,6 +6150,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2455,7 +6189,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Detect Thoughts",
@@ -2473,6 +6225,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2489,6 +6269,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2518,7 +6308,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Disintegrate",
@@ -2532,6 +6340,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2561,7 +6379,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Eyebite",
@@ -2579,6 +6415,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2595,6 +6459,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2624,7 +6498,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Mass Suggestion",
@@ -2638,6 +6530,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2667,7 +6569,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Levitate",
@@ -2685,6 +6605,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2701,6 +6649,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2730,7 +6688,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Black Tentacles",
@@ -2748,6 +6724,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2768,6 +6772,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2784,6 +6816,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2813,7 +6855,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Confusion",
@@ -2827,6 +6887,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2856,7 +6926,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Etherealness",
@@ -2870,6 +6958,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2899,7 +6997,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Dimension Door",
@@ -2917,6 +7033,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2937,6 +7081,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -2953,6 +7125,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -2982,7 +7164,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Burning Hands",
@@ -2996,6 +7196,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3025,7 +7235,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Plane Shift",
@@ -3039,6 +7267,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3068,7 +7306,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Charm Person",
@@ -3082,6 +7338,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3111,7 +7377,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Suggestion",
@@ -3129,6 +7413,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3149,6 +7461,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3165,6 +7505,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3194,7 +7544,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Dominate Monster",
@@ -3208,6 +7576,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3237,7 +7615,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "False Life",
@@ -3251,6 +7647,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3280,7 +7686,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Clairvoyance",
@@ -3294,6 +7718,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3323,7 +7757,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Counterspell",
@@ -3337,6 +7789,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3366,7 +7828,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Power Word Stun",
@@ -3380,6 +7860,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3409,7 +7899,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Dispel Magic",
@@ -3423,6 +7931,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3452,7 +7970,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Commune with Spirits",
@@ -3466,6 +8002,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3495,7 +8041,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Fear",
@@ -3513,6 +8077,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3529,6 +8121,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3558,7 +8160,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Gate",
@@ -3576,6 +8196,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3592,6 +8240,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3621,7 +8279,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Hold Monster",
@@ -3635,6 +8311,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3664,7 +8350,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Power Word Kill",
@@ -3682,6 +8386,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3698,6 +8430,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3727,7 +8469,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Wish",
@@ -3745,6 +8505,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3765,6 +8553,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3785,6 +8601,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3805,6 +8649,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3821,6 +8693,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3850,7 +8732,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Harm",
@@ -3868,6 +8768,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3884,6 +8812,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3913,7 +8851,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Patron Saint",
@@ -3927,6 +8883,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -3956,7 +8922,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Death Ward",
@@ -3974,6 +8958,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -3990,6 +9002,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4019,7 +9041,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Zone of Truth",
@@ -4033,6 +9073,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4062,7 +9112,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Command",
@@ -4076,6 +9144,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4105,7 +9183,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Cure Wounds",
@@ -4119,6 +9215,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4148,7 +9254,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Dispel Evil and Good",
@@ -4162,6 +9286,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4191,7 +9325,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Flame Strike",
@@ -4205,6 +9357,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4234,7 +9396,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Geas",
@@ -4248,6 +9428,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4277,7 +9467,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Greater Restoration",
@@ -4295,6 +9503,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4311,6 +9547,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4340,7 +9586,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Mass Heal",
@@ -4354,6 +9618,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4383,7 +9657,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Inflict Wounds",
@@ -4397,6 +9689,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4426,7 +9728,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Protection from Evil and Good",
@@ -4440,6 +9760,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4469,7 +9799,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Mass Cure Wounds",
@@ -4483,6 +9831,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4512,7 +9870,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Mass Healing Word",
@@ -4526,6 +9902,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4555,7 +9941,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Scrying",
@@ -4573,6 +9977,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4589,6 +10021,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4618,7 +10060,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Enthrall",
@@ -4636,6 +10096,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4656,6 +10144,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4676,6 +10192,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4696,6 +10240,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4716,6 +10288,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4736,6 +10336,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4756,6 +10384,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4772,6 +10428,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4801,7 +10467,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Forcecage",
@@ -4819,6 +10503,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4839,6 +10551,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -4855,6 +10595,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4884,7 +10634,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Vampiric Touch",
@@ -4898,6 +10666,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4927,7 +10705,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Ray of Enfeeblement",
@@ -4941,6 +10737,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -4970,7 +10776,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Demiplane",
@@ -4988,6 +10812,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5004,6 +10856,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -5033,7 +10895,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Hellish Rebuke",
@@ -5047,6 +10927,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -5076,7 +10966,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Imprisonment",
@@ -5094,6 +11002,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5114,6 +11050,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5130,6 +11094,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -5159,7 +11133,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Delayed Blast Fireball",
@@ -5173,6 +11165,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -5202,7 +11204,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Clone",
@@ -5220,6 +11240,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5236,6 +11284,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -5265,7 +11323,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Atonement",
@@ -5303,6 +11379,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5320,6 +11424,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5360,6 +11492,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5400,6 +11560,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5417,6 +11605,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5457,6 +11673,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5497,6 +11741,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5514,6 +11786,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5554,6 +11854,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5571,6 +11899,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5611,6 +11967,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5651,6 +12035,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5691,6 +12103,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5731,6 +12171,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5771,6 +12239,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5811,6 +12307,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5851,6 +12375,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5891,6 +12443,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5931,6 +12511,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -5971,6 +12579,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6011,6 +12647,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6051,6 +12715,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6091,6 +12783,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6108,6 +12828,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6125,6 +12873,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6165,6 +12941,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6182,6 +12986,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6222,6 +13054,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6262,6 +13122,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6279,6 +13167,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6319,6 +13235,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6359,6 +13303,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6399,6 +13371,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6416,6 +13416,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6456,6 +13484,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6496,6 +13552,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6536,6 +13620,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6576,6 +13688,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6616,6 +13756,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6656,6 +13824,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6696,6 +13892,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6736,6 +13960,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6776,6 +14028,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6816,6 +14096,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6856,6 +14164,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6896,6 +14232,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6936,6 +14300,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -6976,6 +14368,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7016,6 +14436,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7056,6 +14504,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7073,6 +14549,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7113,6 +14617,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7153,6 +14685,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7193,6 +14753,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7233,6 +14821,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7273,6 +14889,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7290,6 +14934,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7307,6 +14979,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7347,6 +15047,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7387,6 +15115,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7404,6 +15160,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7444,6 +15228,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7484,6 +15296,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7524,6 +15364,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7541,6 +15409,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7581,6 +15477,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7598,6 +15522,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7638,6 +15590,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7655,6 +15635,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7695,6 +15703,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7735,6 +15771,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7775,6 +15839,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7815,6 +15907,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7832,6 +15952,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7872,6 +16020,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7912,6 +16088,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7929,6 +16133,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -7969,6 +16201,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -8009,6 +16269,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -8026,6 +16314,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -8042,6 +16358,16 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
 					}
 				}
 			},
@@ -8071,7 +16397,25 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
+					}
+				}
+			}
 		},
 		{
 			"name": "Web",
@@ -8086,6 +16430,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
@@ -8126,6 +16498,34 @@
 						"type": "",
 						"target": null,
 						"amount": null
+					},
+					"consumeSpellSlot": false,
+					"system": {
+						"activities": {
+							"dnd5eactivity000": {
+								"consumption": {
+									"targets": []
+								}
+							}
+						}
+					}
+				}
+			},
+			"foundrySystem": {
+				"consume": {
+					"type": "",
+					"target": "",
+					"amount": null
+				},
+				"activities": {
+					"dnd5eactivity000": {
+						"consumption": {
+							"targets": [],
+							"scaling": {
+								"allowed": false,
+								"max": ""
+							}
+						}
 					}
 				}
 			}
