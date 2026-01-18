@@ -1075,43 +1075,135 @@
 			"foundryFlags": {
 				"notFavorable": true
 			},
-			"_copy": {
-				"name": "Black Breath",
-				"source": "PHB"
-			}
+			"entries": [
+				"the name of the pyramid's architect.\ndarkness, though at a danger of gaining more Corruption.\nFor each willing creature within range (including the cast-\ner), roll 1d4 plus your spellcasting modifier. If the result is\nequal to or lower than their permanent Corruption then\nthey recover hit points equal to the result. If it is higher than\ntheir permanent Corruption then they gain the difference\nin temporary Corruption.\nAt Higher Levels. If you cast this spell at 3rd level or\nhigher, you add 1 to your result for each level above 2nd."
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Blindness/Deafness",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blindness/Deafness",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You can blind or deafen a foe. Choose one creature that you\ncan see within range to make a Constitution saving throw. If\nit fails, the target is either blinded or deafened (your choice)\nfor the duration. At the end of each of its turns, the target\ncan make a Constitution saving throw. On a success, the\nspell ends.\nAt Higher Levels. When you cast this spell at 3rd level\nlevel above 2nd."
+			],
+			"level": 2,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Chain Lightning",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Chain Lightning",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You create a bolt of lightning that arcs toward a target of     issue no commands, the creature only defends itself against\nyour choice that you can see within range. Three bolts then     hostile creatures. Once given an order, the creature contin-\nleap from that target to as many as three other targets, each   ues to follow it until its task is complete.\nof which must be within 30 feet of the first target. A target      The creature is under your control for 24 hours, after\ncan be a creature or an object and can be targeted by only      which it stops obeying any command you have given it. To\n      one of the bolts.\n\ntakes 10d8 lightning damage on a failed save, or half as much   hour period ends. This use of the spell reasserts your control\n      damage on a successful one.\n\nor higher, one additional bolt leaps from the first target to      At Higher Levels. When you cast this spell at 7th-­level,\n      another target for each level above 6th."
+			],
+			"level": 6,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Circle of Death",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Circle of Death",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A sphere of negative energy ripples out in a 60-foot-­radius\n\nsphere from a point within range. Each creature in that area\n\nmust make a Constitution saving throw. A target takes 8d6\n\nnecrotic damage on a failed save, or half as much damage\n      on a successful one.\n\n      el or higher, the damage increases by 2d6 for each level\n      above 6th."
+			],
+			"level": 6,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Detect Thoughts",
@@ -1127,24 +1219,70 @@
 		{
 			"name": "Create Undead",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Create Undead",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You can cast this spell only at night. Choose up to three       disintegrates a 10-foot-­cube portion of it. A magic item is\n      corpses of Medium or Small humanoids within range. Each\n      corpse becomes a dragoul under your control. (The GM has\n      game statistics for these creatures.)\nAs a bonus action on each of your turns, you can mentally\ncommand any creature you animated with this spell if the\ncreature is within 120 feet of you (if you control multiple\ncreatures, you can command any or all of them at the same\ntime, issuing the same command to each one). You decide\nwhat action the creature will take and where it will move\nor a crystal rod; and three silver pins)\nduring its next turn, or you can issue a general command,\nsuch as to guard a particular chamber or corridor. If you\nmaintain control of the creature for another 24 hours, you\nA target must make a Dexterity saving throw. The target      must cast this spell on the creature before the current 24-\nover up to three creatures you have animated with this spell,\nAt Higher Levels. When you cast this spell at 7th level      rather than animating new ones.\nyou can animate or reassert control over four dragouls.\nWhen you cast this spell at 8th-­level spell, you can animate\nor reassert control over five dragouls or two crypt walkers.\nIf you cast this spell at 9th-­level, you can animate or reas-\nsert control over six dragouls, three crypt walkers, or one\ncrypt lord.\npearl worth at least 250 thaler)"
+			],
+			"level": 6,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Disintegrate",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Disintegrate",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A thin green ray springs from your pointing finger to a target\nAt Higher Levels. When you cast this spell at 7th lev-       that you can see within range. The target can be a creature,\nan object, or a creation of magical force, such as the wall\ncreated by wall of force. A creature targeted by this spell must\nmake a Dexterity saving throw. On a failed save, the target\ntakes 10d6 + 40 force damage. The target is disintegrated if\nthis damage leaves it with 0 hit points.\nA disintegrated creature and everything it is wearing\nand carrying, except magic items, are reduced to a pile of\nfine gray dust. The creature can be restored to life only by\nmeans of a wish spell.\none clay pot filled with brackish water, and one 75\nThis spell automatically disintegrates a Large or smaller\nthaler black onyx stone for each corpse)\nnonmagical object or a creation of magical force. If the tar-\nget is a Huge or larger object or creation of force, this spell\nunaffected by this spell.\nAt Higher Levels. When you cast this spell at 7th level or\nhigher, the damage increases by 3d6 for each level above 6th."
+			],
+			"level": 6,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Eyebite",
@@ -1160,24 +1298,70 @@
 		{
 			"name": "Hold Person",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hold Person",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Choose a humanoid that you can see within range. The target\nmust succeed on a Wisdom saving throw or be paralyzed\nfor the duration. At the end of each of its turns, the target\n\ncan make another Wisdom saving throw. On a success, the\n\nspell ends on the target.\n\nAt Higher Levels. When you cast this spell at 3rd level\n\nor higher, you can target one additional humanoid for each\nlevel above 2nd. The humanoids must be within 30 feet of\neach other when you target them."
+			],
+			"level": 2,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Mass Suggestion",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Suggestion",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You suggest a course of activity (limited to a sentence or\n      two) and magically influence up to twelve creatures of your\n      choice that you can see within range and that can hear and\n      understand you. Creatures that can't be charmed are im-\n      mune to this effect. The suggestion must be worded in such\n      a manner as to make the course of action sound reasonable.\n      Asking the creature to stab itself, throw itself onto a spear,\n      immolate itself, or do some other obviously harmful act au-\ntomatically negates the effect of the spell.\n\n\n\nfailed save, it pursues the course of action you described\n\nto the best of its ability. The suggested course of action can\n\ncontinue for the entire duration. If the suggested activity\n\ncan be completed in a shorter time, the spell ends when the\n\nsubject finishes what it was asked to do.\n\n\n\nactivity during the duration. For example, you might sug-\ngest that a group of soldiers give all their money to the first       At will: detect evil and good\n      beggar they meet. If the condition isn't met before the spell\nends, the activity isn't performed.\n\n\n\nfected by this spell, the spell ends for that creature.\n\n\n      the duration is 10 days. When you cast it at 8th-­level, the\n      duration is 30 days. When you cast at 9th-­level, the duration\n      is a year and a day."
+			],
+			"level": 6,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Levitate",
@@ -1193,13 +1377,36 @@
 		{
 			"name": "Banishment",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Banishment",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You attempt to send one creature that you can see within\nrange to another plane of existence. The target must succeed       at the start of each of its turns to determine its behavior\n      on a Charisma saving throw or be banished.\n\n\non, you banish the target to a harmless demiplane. While\n      there, the target is incapacitated. The target remains there\n      until the spell ends, at which point the target reappears in\n      the space it left or in the nearest unoccupied space if that\n      space is occupied.\n\n      (such as a fiend) than the one you're on, the target is ban-\nished with a faint popping noise, returning to its home plane.       7\u20138 The creature uses its action to make a melee attack\n      If the spell ends before 1 minute has passed, the target reap-\n      pears in the space it left or in the nearest unoccupied space if\n      that space is occupied. Otherwise, the target doesn't return.\n\n\nor higher, you can target one additional creature for each\n      level above 4th."
+			],
+			"level": 4,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Black Tentacles",
@@ -1226,13 +1433,36 @@
 		{
 			"name": "Blight",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blight",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Necromantic energy washes over a creature of your choice\nthat you can see within range, draining moisture and vitality\nfrom it. The target must make a Constitution saving throw.\nThe target takes 8d8 necrotic damage on a failed save, or\nhalf as much damage on a successful one. This spell has no\neffect on undead or constructs.\nIf you target a plant creature or a magical plant, it makes\nthe saving throw with disadvantage, and the spell deals max-\nIf you target a nonmagical plant that isn't a creature, such\nas a tree or shrub, it doesn't make a saving throw; it simply\nwithers and dies.\nAt Higher Levels. When you cast this spell at 5th level or\nhigher, the damage increases by 1d8 for each level above 4th."
+			],
+			"level": 4,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Confusion",
@@ -1248,13 +1478,36 @@
 		{
 			"name": "Etherealness",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Etherealness",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You step into the ethereal realm between the real world and\nposition in the real world. You remain in this border realm\nfor the duration or until you use your action to dismiss the\nmove up or down, every foot of movement costs an extra\nfoot. You can see and hear the real world, but everything\nthere looks gray, and you can't see anything more than 60\nfeet away.\nWhile ethereal, you can only affect and be affected by\nother creatures in the ethereal realm. Creatures that are\nnot ethereal can't perceive you and can't interact with you,\nunless a special ability or magic has given them the ability\nto do so.\nYou ignore all objects and effects that aren't in the ethere-\nal realm, allowing you to move through objects you perceive\nin the real world.\nWhen the spell ends, you immediately return to the real\nworld in the spot you currently occupy. If you occupy the\nsame spot as a solid object or creature when this happens,\nyou are immediately shunted to the nearest unoccupied\nspace that you can occupy and take force damage equal to\ntwice the number of feet you are moved.\nThis spell has no effect if you cast it while you are in the\nYonderworld.\nAt Higher Levels. When you cast this spell at 8th level\nor higher, you can target up to three willing creatures (in-\ncluding you) for each level above 7th. The creatures must be\nwithin 10 feet of you when you cast the spell.\n5 Resources"
+			],
+			"level": 7,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Dimension Door",
@@ -1284,43 +1537,135 @@
 			"foundryFlags": {
 				"notFavorable": true
 			},
-			"_copy": {
-				"name": "Black Bolt",
-				"source": "PHB"
-			}
+			"entries": [
+				"saving throw or be restrained by the magic as it envelops\nthem like shadowy tentacles. At the end of its turn, the crea-\nture can attempt a Strength saving throw to break free. If\nthe creature's size is larger than the caster's it has advantage\non the saving throw.\nAt Higher Levels. When you cast this spell at 2nd level\nor higher, you can target one additional creature for each\nlevel above 1st.\nTHUS SPOKE AROALETA\n\"... such is the blight beast: born of flesh, twisted by\nsins lingering in water and soil and shimmering air;"
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Burning Hands",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Burning Hands",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"As you hold your hands with thumbs touching and fingers\nspread, a thin sheet of flames shoots forth from your out-\nstretched fingertips. Each creature in a 15-foot cone must\nmake a Dexterity saving throw. A creature takes 3d6 fire\ndamage on a failed save, or half as much damage on a suc-\ncessful one.\n   The fire ignites any flammable objects in the area that\naren't being worn or carried.\n   At Higher Levels. When you cast this spell at 2nd level or\nhigher, the damage increases by 1d6 for each level above 1st."
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Plane Shift",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Plane Shift",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You and up to eight willing creatures who link hands in a    back to the real world.\ncircle are transported into the Yonderworld, or if you are\nin the Yonderworld when this spell is cast, you are returned\nto the real world.\nYou can use this spell to banish an unwilling creature to\nthe Yonderworld. Choose a creature within your reach and\nmake a melee spell attack against it. On a hit, the creature\nmust make a Charisma saving throw. If the creature fails\n100 thaler, attuned to the Yonderworld)\nthis save, it is transported to a random location in the Yon-\nderworld. A creature so transported must find its own way"
+			],
+			"level": 7,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Charm Person",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Charm Person",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You attempt to charm a humanoid you can see within range. It\nmust make a Wisdom saving throw, and does so with advan-\ntage if you or your companions are fighting it. If it fails the sav-     ter within range in an open container. Alternatively, the\ning throw, it is charmed by you until the spell ends or until you\nor your companions do anything harmful to it. The charmed\ncreature regards you as a friendly acquaintance. When the\nspell ends, the creature knows it was charmed by you.\n   At Higher Levels. When you cast this spell at 2nd level\nor higher, you can target one additional creature for each\nlevel above 1st. The creatures must be within 30 feet of each\nother when you target them."
+			],
+			"level": 1,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Suggestion",
@@ -1347,35 +1692,104 @@
 		{
 			"name": "Animate Dead",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Animate Dead",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"or a corpse of a Medium or Small humanoid within range.\nGM has the creature's game statistics).\nAs a bonus action on your turn, you can move the weapon\nthe creature is within 60 feet of you (if you control multiple\nAt Higher Levels. When you cast this spell at 4th level       creatures, you can command any or all of them at the same\nwhat action the creature will take and where it will move\nduring its next turn, or you can issue a general command,\nsuch as to guard a particular chamber or corridor. If you\nissue no commands, the creature only defends itself against\nhostile creatures. Once given an order, the creature contin-\nues to follow it until its task is complete.\nThe creature is under your control for 24 hours, after\nwhich it stops obeying any command you've given it. To\nmaintain control of the creature for another 24 hours, you\ncontrol over up to four creatures you have animated with\nAt Higher Levels. When you cast this spell at 4th level or\nhigher, you animate or reassert control over two additional\nundead creatures for each level above 3rd. Each of the crea-\ntures must come from a different corpse or pile of bones."
+			],
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Dominate Monster",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dominate Monster",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You attempt to beguile a creature that you can see within range.\nyou for the duration. If you or creatures that are friendly to\nWhile the creature is charmed, you have a telepathic link\ngeneral course of action, such as \"Attack that creature,\" \"Run\nover there,\" or \"Fetch that object.\" If the creature completes\nthe order and doesn't receive further direction from you, it\ndefends and preserves itself to the best of its ability.\nof the target. Until the end of your next turn, the creature\ntakes only the actions you choose, and doesn't do anything\ncause the creature to use a reaction, but this requires you\nto use your own reaction as well.\nEach time the target takes damage, it makes a new Wis-\ndom saving throw against the spell. If the saving throw suc-\nceeds, the spell ends.\nAt Higher Levels. When you cast this spell as a 9th-­level\nspell, the duration is concentration, up to 8 hours."
+			],
+			"level": 8,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "False Life",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "False Life",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Bolstering yourself with a necromantic facsimile of life, you\n\ngain 1d4 + 4 temporary hit points for the spell's duration.\n\n\n\nor higher, you gain 5 additional temporary hit points for\n\neach level above 1st."
+			],
+			"level": 1,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Clairvoyance",
@@ -1413,13 +1827,36 @@
 		{
 			"name": "Dispel Magic",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dispel Magic",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Choose one creature, object, or magical effect within range.\nAny spell of 3rd level or lower on the target ends. For each\nspell of 4th level or higher on the target, make an ability\ncheck using your spellcasting ability. The DC equals 10 + the\nspell's level. On a successful check, the spell ends.\nAt Higher Levels. When you cast this spell at 4th level\nor higher, you automatically end the effects of a spell on the\ntarget if the spell's level is equal to or less than the level at\nwhich you cast dispel magic."
+			],
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Commune with Spirits",
@@ -1446,13 +1883,36 @@
 		{
 			"name": "Magic Missile",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Magic Missile",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You create three glowing darts of magical force. Each dart\nhits a creature of your choice that you can see within range.\nA dart deals 1d4 + 1 force damage to its target. The darts all       A Spell By Any Other Name\nstrike simultaneously, and you can direct them to hit one\ncreature or several.\n\n\n\n5 Resources"
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Gate",
@@ -1468,24 +1928,70 @@
 		{
 			"name": "Dominate Person",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dominate Person",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You attempt to beguile a humanoid that you can see with-\nin range. It must succeed on a Wisdom saving throw or be\nsaving throw.\nWhile the target is charmed, you have a telepathic link\nwith it as long as the two of you are on the same plane of ex-\nistence. You can use this telepathic link to issue commands\nwhich it does its best to obey. You can specify a simple and\ngeneral course of action, such as \"Attack that creature,\" \"Run\nMaterial\nover there,\" or \"Fetch that object.\" If the creature completes\nVegetable matter\nStone or crystal\nPrecious metals\nGems\ntakes only the actions you choose, and doesn't do anything\nAdamantine or mithral\nthat you don't allow it to do. During this time you can also\nEach time the target takes damage, it makes a new Wis-\ndom saving throw against the spell. If the saving throw suc-\nceeds, the spell ends.\nAt Higher Levels. When you cast this spell at 6th-­level,\nthe duration is concentration, up to 10 minutes. When you\ncast at 7th-­level, the duration is concentration, up to 1 hour.\nWhen you cast the spell at 8th level or higher, the duration\nis concentration, up to 8 hours.\n5 Resources"
+			],
+			"level": 5,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Hold Monster",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hold Monster",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Choose a creature that you can see within range. The target\nmust succeed on a Wisdom saving throw or be paralyzed for\nthe duration. This spell has no effect on undead. At the end\nof each of its turns, the target can make another Wisdom\nsaving throw. On a success, the spell ends on the target.\nAt Higher Levels. When you cast this spell at 6th level\nor higher, you can target one additional creature for each\nlevel above 5th. The creatures must be within 30 feet of each\nother when you target them."
+			],
+			"level": 5,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Power Word Kill",
@@ -1501,13 +2007,36 @@
 		{
 			"name": "Planar Binding",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Planar Binding",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"At Higher Levels. When you cast this spell at 6th level or\na fey, or a fiend to your service. The creature must be within\nrange for the entire casting of the spell. (Typically, the crea-\nture is first summoned into the center of an inverted magic\ncircle in order to keep it trapped while this spell is cast.) At\nthe completion of the casting, the target must make a Cha-\nrisma saving throw. On a failed save, it is bound to serve you\nfor the duration. If the creature was summoned or created\nby another spell, that spell's duration is extended to match\nthe duration of this spell.\nA bound creature must follow your instructions to the\ncompany you on an adventure, to guard a location, or to\ndeliver a message. The creature obeys the letter of your in-\ntwist your words to achieve its own objectives. If the crea-\nture carries out your instructions completely before the\nWhile this charm lasts, you can affect the target's memory       spell ends, it travels to you to report this fact if you are on\nthe same plane of existence. If you are on a different plane\nof existence, it returns to the place where you bound it and\nremains there until the spell ends.\nAt Higher Levels. When you cast this spell at a higher\nlevel, the duration increases to 10 days at 6th level, to 30\ndays at 7th- level, to 180 days at 8th level, and to a year and\nYou must speak to the target to describe how its mem-"
+			],
+			"level": 5,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Wish",
@@ -1578,13 +2107,36 @@
 		{
 			"name": "Heal",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Heal",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Choose a creature that you can see within range. A surge of\npositive energy washes through the creature, causing it to\nregain 70 hit points. This spell also ends blindness, deafness,\nand any diseases affecting the target. This spell has no effect\non constructs.\nAt Higher Levels. When you cast this spell at 7th level\nor higher, the amount of healing increases by 10 for each"
+			],
+			"level": 6,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Patron Saint",
@@ -1592,10 +2144,33 @@
 			"foundryFlags": {
 				"notFavorable": true
 			},
-			"_copy": {
-				"name": "Patron Saint",
-				"source": "PHB"
-			}
+			"entries": [
+				"You summon a guardian spirit to aid you, the soul of a fallen     completes the task, then waits for your next command. The\n      Templar that has been given the honorable mission to once\n      again serve one of the Sun God's chosen. The martyr mani-\nfests as a being of light. It is normally invisible, but begins   tance of you, it is dispelled when the distance between the\n      to shine when danger is close.\n\n      sistant. Once on each of your turns as a bonus action, you\n      can mentally command the servant to move up to 15 feet\nand interact with an object. The servant can perform simple       spirit is dispelled. The spirit counts as a member of your\ntasks that a human servant could do, such as fetching things,     group, receiving a full share of experience points awarded.\nPatron Saint\nMedium celestial\nArmor Class 17 (magical halo, shield)\nHit Points 136 (16d8 + 64)\nSpeed 30 ft., fly 90 ft.\nSTR     DEX     CON     INT     WIS     CHA\n18 (+4) 18 (+4) 18 (+4) 17 (+3) 20 (+5) 20 (+5)\nSaving Throws Wis +9, Cha +9\nhoney­comb or a drop of sweet oil)\nCondition Immunities charmed, exhaustion,\nfrightened\nDamage Resistances radiant; bludgeoning, piercing,\nand slashing from nonmagical attacks\nSenses darkvision 120 ft., passive Perception 19\nLanguages telepathy with its summoner\nChallenge 9 (5,000 XP, proficiency bonus +4)\nManner proud and helpful\nShadow gleaming gold (Corruption: 0/13)\nEquipment none\nDivine Weapons. The patron saint's weapon attacks\nEach target must make a Wisdom saving throw. On a\nare magical. When it hits with any weapon, the\nweapon does an extra 3d8 radiant damage (in-\ncluded below).\nInnate Spellcasting. The patron saint's spellcast-\ning ability is Charisma (spell save DC 17). It can\ninnately cast the following spells, requiring no\nYou can also specify conditions that will trigger a special\ncomponents:\n3/day each: cure wounds (at 3rd level)\nMagic Resistance. The patron saint has advantage\nIf you or any of your companions damage a creature af-\non saving throws against spells and other magi-\ncal effects.\nAt Higher Levels. When you cast this spell at 7th-­level,\nActions\nMultiattack. The patron saint makes two melee\nattacks.\nFlail. Melee Weapon Attack: +8 to hit, reach 5 ft., one\ntarget. Hit: 8 (1d8 + 4) bludgeoning damage plus\n13 (3d8) radiant damage. On a critical hit, the\ntarget is knocked prone as well.\ncleaning, mending, folding clothes, lighting fires, serving\nleast 25 thaler)\nfood, and pouring wine. Once you give the command, the\nservant performs the task to the best of its ability until it\nspirit will never venture more than 120 feet away from you.\nIf it is somehow prevented from remaining within that dis-\ntwo of you exceeds the range of the spell.\nIn non-­combat situations, the spirit serves as your as-\nmade out of light and a halo above its head. Use the following\nstatblock for the spirit, it acts independently. If slain, the"
+			],
+			"level": 6,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Death Ward",
@@ -1611,13 +2186,36 @@
 		{
 			"name": "Bane",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Bane",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Up to three creatures of your choice that you can see with-\n      in range must make Charisma saving throws. Whenever a\ntarget that fails this saving throw makes an attack roll or       level above 1st.\nSpell Descriptions\na saving throw before the spell ends, the target must roll a\nsaving throw.\nAt Higher Levels. When you cast this spell at 2nd level\nor higher, you can target one additional creature for each\nlevel above 1st."
+			],
+			"level": 1,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Zone of Truth",
@@ -1633,57 +2231,172 @@
 		{
 			"name": "Command",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Command",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You speak a one-­word command to a creature you can see\n\nwithin range. The target must succeed on a Wisdom saving\n\nthrow or follow the command on its next turn. The spell\nhas no effect if the target is undead, if it doesn't understand\nyour language, or if your command is directly harmful to it.\n   Some typical commands and their effects follow. You\nmight issue a command other than one described here. If\nyou do so, the GM determines how the target behaves. If the\ntarget can't follow your command, the spell ends.\nSpell Descriptions\n• Approach. The target moves toward you by the shortest\nand most direct route, ending its turn if it moves within\n5 feet of you.\n• Drop. The target drops whatever it is holding and then\nends its turn.\n• Flee. The target spends its turn moving away from you\nby the fastest available means.\n•  Grovel.   The target falls prone and then ends its turn.\n•  Halt.  The  target doesn't move and takes no actions. A\nflying creature stays aloft, provided that it is able to do\nso. If it must move to stay aloft, it flies the minimum\ndistance needed to remain in the air.\nAt Higher Levels. When you cast this spell at 2nd level\nor higher, you can affect one additional creature for each\nlevel above 1st. The creatures must be within 30 feet of each\nother when you target them."
+			],
+			"level": 1,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Cure Wounds",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Cure Wounds",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A creature you touch regains a number of hit points equal\nto 1d8 + your spellcasting ability modifier. This spell has no\neffect on constructs.\nAt Higher Levels. When you cast this spell at 2nd level\nor higher, the healing increases by 1d8 for each level above\n1st.\n5 Resources"
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Dispel Evil and Good",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dispel Evil and Good",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Shimmering energy surrounds and protects you from abom-\ninations, celestials, elementals, fey, fiends, or phenomenons,\nproviding disadvantage on their attack rolls against you.\nYou can end the spell early by using the following special\nfunction:\n• Break Enchantment. As your action, you touch a crea-\nture you can reach that is charmed, frightened, or pos-\nsessed by an abomination, a celestial, an elemental, a fey,\nor a fiend. The creature you touch is no longer charmed,\nfrightened, or possessed by such creatures."
+			],
+			"level": 5,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Flame Strike",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Flame Strike",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A vertical column of divine fire roars down from the heavens\n\nin a location you specify. Each creature in a 10-foot-­radius,\n\n40-foot-­high cylinder centered on a point within range must\n\nmake a Dexterity saving throw. A creature takes 4d6 fire\n\ndamage and 4d6 radiant damage on a failed save, or half as\n      much damage on a successful one.\n\n      higher, the fire damage or the radiant damage (your choice)\n      increases by 1d6 for each level above 5th."
+			],
+			"level": 5,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Geas",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Geas",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You place a magical command on a creature that you can see\nwithin range, forcing it to carry out some service or refrain\nfrom some action or activity as you decide. If the creature can\nunderstand you, it must succeed on a Wisdom saving throw or\nbecome charmed by you for the duration. While the creature\nis charmed by you, it takes 5d10 psychic damage each time it\nacts in a manner directly counter to your instructions, but no\nmore than once each day. A creature that can't understand you\nis unaffected by the spell.\nYou can issue any command you choose, short of an ac-\ntivity that would result in certain death. Should you issue\nYou can end the spell early by using an action to dismiss\nit. A remove curse, greater restoration, or wish spell also ends it.\nAt Higher Levels. When you cast this spell at 7th or 8th level,\nthe duration is 1 year. When you cast this spell at 9th level, the\nspell lasts until it is ended by one of the spells mentioned above."
+			],
+			"level": 5,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Greater Restoration",
@@ -1721,35 +2434,104 @@
 		{
 			"name": "Inflict Wounds",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Inflict Wounds",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Make a melee spell attack against a creature you can reach.      1st-­level enchantment\nOn a hit, the target takes 3d10 necrotic damage.\n\nAt Higher Levels. When you cast this spell at 2nd level or\n\nhigher, the damage increases by 1d10 for each level above 1st."
+			],
+			"level": 1,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Protection from Evil and Good",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Protection from Evil and Good",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"tected against certain types of creatures: aberrations, blight-­\nThe protection grants several benefits. Creatures of those\ntypes have disadvantage on attack rolls against the target.\nThe target also can't be charmed, frightened, or possessed\nby them. If the target is already charmed, frightened, or\npossessed by such a creature, the target has advantage on"
+			],
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Mass Cure Wounds",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Cure Wounds",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A wave of healing energy washes out from a point of your\n\nchoice within range. Choose up to six creatures in a 30-foot-­\n\nradius sphere centered on that point. Each target regains\n\nhit points equal to 3d8 + your spellcasting ability modifier.\n\nThis spell has no effect on constructs.\n\n\nhigher, the healing increases by 1d8 for each level above 5th.       With this spell, you attempt to bind a celestial, an elemental,"
+			],
+			"level": 5,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Mass Healing Word",
@@ -1776,13 +2558,36 @@
 		{
 			"name": "Bestow Curse",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Bestow Curse",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You touch a creature, and that creature must succeed on a\ncurse from the following options:\n• Choose one ability score. While cursed, the target has\ndisadvantage on ability checks and saving throws made\nwith that ability score.\n• While cursed, the target has disadvantage on attack rolls\nagainst you.\n\n• While cursed, the target must make a Wisdom saving\nthrow at the start of each of its turns. If it fails, it wastes   3rd-­level abjuration\nits action that turn doing nothing.\n\n• While the target is cursed, your attacks and spells deal\nan extra 1d8 necrotic damage to the target.\n\nA remove curse spell ends this effect. At the GM's discretion,\n\nyou may invent a different curse effect, but it should be no\n\nmore powerful than those described above. The Game­master\nhas final say on such a curse's effect.\n   At Higher Levels. If you cast this spell at 4th level, the\nduration is concentration, up to 10 minutes. If you cast it at       its spell fails and has no effect. If it is casting a spell of 4th\n5th level, the duration is 8 hours. If you cast at 7th level, the    level or higher, make an ability check using your spellcasting\nduration is 24 hours. If you cast at 9th level, the spell lasts      ability. The DC equals 10 + the spell's level. On a success, the\nuntil it is dispelled. Casting at 5th level or higher grants a       creature's spell fails and has no effect.\nduration that doesn't require concentration."
+			],
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Enthrall",
@@ -1864,13 +2669,36 @@
 		{
 			"name": "Modify Memory",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Modify Memory",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You attempt to reshape another creature's memories. One\n      creature that you can see must make a Wisdom saving throw.\nIf you are fighting the creature, it has advantage on the sav-       best of its ability. You might command the creature to ac-\n      ing throw. On a failed save, the target becomes charmed by\n      you for the duration. The charmed target is incapacitated\nand unaware of its surroundings, though it can still hear you.       structions, but if the creature is hostile to you, it strives to\n      If it takes any damage or is targeted by another spell, this\n      spell ends, and none of the target's memories are modified.\n\n      of an event that it experienced within the last 24 hours and\n      that lasted no more than 10 minutes. You can permanently\n      eliminate all memory of the event, allow the target to recall\n      the event with perfect clarity and exacting detail, change\n      its memory of the details of the event, or create a memory\n      of some other event.\n\nories are affected, and it must be able to understand your\n      language for the modified memories to take root. Its mind\n      fills in any gaps in the details of your description. If the\nspell ends before you have finished describing the modified\n\nmemories, the creature's memory isn't altered. Otherwise,\n\nthe modified memories take hold when the spell ends.\n\n\n\nture behaves, particularly if the memory contradicts the crea-\n      ture's natural inclinations or beliefs. An illogical modified\n      memory, such as implanting a memory of how much the\ncreature enjoyed dousing itself in acid, is dismissed, perhaps       thoroughly corrupt creatures the DC is 30. On a failure, the tar-\n      as a bad dream. The GM might deem a modified memory too\n      nonsensical to affect a creature in a significant manner.\n\n      restores the creature's true memory.\nAt Higher Levels. If you cast this spell at 6th level or high-\ner, you can alter the target's memories of an event that took\nplace up to 7 days ago (6th level), 30 days ago (7th level), 1 year\nago (8th level), or any time in the creature's past (9th level)."
+			],
+			"level": 5,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Forcecage",
@@ -1900,21 +2728,67 @@
 			"foundryFlags": {
 				"notFavorable": true
 			},
-			"_copy": {
-				"name": "Blood Bond",
-				"source": "PHB"
-			}
+			"entries": [
+				"You magically link yourself to your familiar to an even great-\nbecomes equal to 2, plus any positive Charisma modifier.\nmay direct all or part of it to your familiar.\nIf the familiar's permanent Corruption becomes equal\nthem as it escapes.\n5 Resources"
+			],
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Vampiric Touch",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Vampiric Touch",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Just a touch from your shadow-­wreathed hand can siphon\nthe life force from others to heal your wounds. Make a melee       imum damage to it.\n      spell attack against a creature within your reach. On a hit,\n      the target takes 3d6 necrotic damage, and you regain hit\n      points equal to half the amount of necrotic damage dealt\n      (rounded down). Until the spell ends, you can make the at-\n      tack again on each of your turns as an action.\n\nhigher, the damage increases by 1d6 for each level above 3rd.      Confusion*\n\n      4th Level Spells"
+			],
+			"level": 3,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Ray of Enfeeblement",
@@ -1952,13 +2826,36 @@
 		{
 			"name": "Hellish Rebuke",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hellish Rebuke",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You point your finger, and the creature that damaged you\nis momentarily surrounded by hellish flames. The creature\nmust make a Dexterity saving throw. It takes 2d10 fire dam-\nage on a failed save, or half as much damage on a successful\none.\nAt Higher Levels. When you cast this spell at 2nd level or"
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Imprisonment",
@@ -1985,24 +2882,46 @@
 		{
 			"name": "Phantasmal Killer",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Phantasmal Killer",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"Casting Time: 1 action\nRange: 120 ft.\nComponents: V, S\nwater)\nYou tap into the nightmares of a creature you can see within\nfears, visible only to that creature. The target must make a\nWisdom saving throw. On a failed save, the target becomes\nfrightened for the duration. At the end of each of the target's\nturns before the spell ends, the target must succeed on a\nHailstones turn the storm's area of effect into difficult\nsuccessful save, the spell ends.\nAt Higher Levels. When you cast this spell at 5th level or\nel or higher, the damage increases by 1d10 for each level\nabove 4th.\nPrivate Sanctum\n4th-­level abjuration"
+			]
 		},
 		{
 			"name": "Delayed Blast Fireball",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Delayed Blast Fireball",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A beam of yellow light flashes from your pointing finger,\nthen condenses to linger at a chosen point within range as\na glowing bead for the duration. When the spell ends, either\nbecause your concentration is broken or because you decide\nto end it, the bead blossoms with a low roar into an explosion\nof flame that spreads around corners. Each creature in a\n20-foot-­radius sphere centered on that point must make a\nDexterity saving throw. A creature takes fire damage equal\nto the total accumulated damage on a failed save, or half as\nmuch damage on a successful one.\nSpell Descriptions\nThe spell's base damage is 12d6. If at the end of your turn\nthe bead has not yet detonated, the damage increases by 1d6.\nIf the glowing bead is touched before the interval has\nexpired, the creature touching it must make a Dexterity\nsaving throw. On a failed save, the spell ends immediately,\ncausing the bead to erupt into a ball of flame. On a successful\nsave, the creature can throw the bead up to 40 feet. When\nit strikes a creature or a solid object, the spell ends, and the\nbead explodes.\nThe fire damages objects in the area and ignites flamma-\nble objects that aren't being worn or carried.\nAt Higher Levels. When you cast this spell at 8th level\nor higher, the base damage increases by 1d6 for each level\nabove 7th."
+			],
+			"level": 7,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Clone",
@@ -2018,21 +2937,67 @@
 		{
 			"name": "Fireball",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fireball",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"A bright streak flashes from your finger to a point you choose\nwithin range and then blossoms with a low roar into an ex-\nplosion of flame. Each creature in a 20-foot-­radius sphere\ncentered on that point must make a Dexterity saving throw.\nA target takes 8d6 fire damage on a failed save, or half as\nmuch damage on a successful one.\nThe fire spreads around corners. It ignites flammable\nobjects in the area that aren't being worn or carried.\nAt Higher Levels. When you cast this spell at 4th level\nor higher, the damage increases by 1d6 for each level above\n3rd.\n5 R eFlaming\ns o u r cServant"
+			],
+			"level": 3,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Atonement",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Atonement",
-				"source": "PHB"
-			}
+			"entries": [
+				"You are able to lighten the spiritual burdens of a non-­\npossessed, willing person; this is done by the sinner accept-\ning to perform a task for the theurg on behalf of the Church.\nThe task must be time-­consuming, expensive, or dangerous\nduced by 1d3 + 1.\nIf the target goes a month or more without making effort\ntowards the task, the spell ends and the target gains one\n5 Resources"
+			],
+			"level": 6,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Ray of Frost",
@@ -2045,18 +3010,64 @@
 		{
 			"name": "Thunderwave",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Thunderwave",
-				"source": "PHB"
-			}
+			"entries": [
+				"A wave of thunderous force sweeps out from you. Each\ncreature in a 15-foot cube originating from you must make\na Constitution saving throw. On a failed save, a creature\ntakes 2d8 thunder damage and is pushed 10 feet away from\nyou. On a successful save, the creature takes half as much\ndamage and isn't pushed.\n\nthe area of effect are automatically pushed 10 feet away from\nyou by the spell's effect, and the spell emits a thunderous\nboom audible out to 300 feet.\n\nhigher, the damage increases by 1d8 for each level above 1st.\n2nd Level Spells"
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Larvae Boil",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Larvae Boil",
-				"source": "PHB"
-			}
+			"entries": [
+				"Drawing from the force of wrath you can infuse an ene-\nmy's body with larvae that then start to eat their way out.       celestials, elementals, fey, fiends, or phenomenons. The circle\nAlthough it is loudly refuted by members of the court, per-       affects a creature of the chosen type in the following ways:\nsistent rumors say that this is how the hero king Ynedar\nmet his demise.\n   On a successful melee spell attack, the victim is in-\nfected with larvae. At the end of its turn, it suffers 1d4\npiercing damage. On the next round the damage increases\nto 1d6 piercing damage, on the third round the damage\nis 1d8, and on the fourth round it is 1d10 damage, and\non the fifth and all following rounds it increases to 1d12\npiercing damage.\nAt Higher Levels. If cast at 4th level, the victim takes 1d6   its magic to operate in the reverse direction, preventing a\npiercing damage on the first round, which increases each\nsubsequent round, to a total of 1d12 piercing damage per\nround. At 5th level, the damage starts off at 1d8 on the first       At Higher Levels. When you cast this spell at 4th level\nround, then at 6th level it starts at 1d10 piercing damage,       or higher, the duration increases by 1 hour for each level"
+			],
+			"level": 3,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Antimagic Field",
@@ -2069,18 +3080,64 @@
 		{
 			"name": "Freezing Sphere",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Otiluke's Freezing Sphere",
-				"source": "PHB"
-			}
+			"entries": [
+				"A frigid globe of cold energy streaks from your fingertips\nto a point of your choice within range, where it explodes\nin a 60-foot-­radius sphere. Each creature within the area\nmust make a Constitution saving throw. On a failed save, a\ncreature takes 10d6 cold damage. On a successful save, it\ntakes half as much damage.\n    If the globe strikes a body of water or a liquid that is\nprincipally water (not including water-­based creatures),\nit freezes the liquid to a depth of 6 inches over an area 30\nfeet square. This ice lasts for 1 minute. Creatures that were       Living Fortress\nswimming on the surface of frozen water are trapped in the\nice. A trapped creature can use an action to make a Strength\n\ncheck against your spell save DC to break free.\n\nYou can refrain from firing the globe after completing\n\nthe spell, if you wish. A small globe about the size of a sling\n\nstone, cool to the touch, appears in your hand. At any time,\nyou or a creature you give the globe to can throw the globe\n(to a range of 40 feet) or hurl it with a sling (to the sling's     erupt from the local growth. The fortress is approximately\nnormal range). It shatters on impact, with the same effect\nas the normal casting of the spell. You can also set the globe      is determined by the caster. Each wall and the canopy roof\ndown without shattering it. After 1 minute, if the globe\nhasn't already shattered, it explodes.\nAt Higher Levels. When you cast this spell at 7th level or      the start of a round, a damaged section regenerates 5 hit\nhigher, the damage increases by 1d6 for each level above 6th.       points of damage."
+			],
+			"level": 6,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Animal Friendship",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Animal Friendship",
-				"source": "PHB"
-			}
+			"entries": [
+				"This spell lets you convince a beast that you mean it no harm.\n      Choose a beast that you can see within range. It must see and\n      hear you. If the beast's Intelligence is 4 or higher, the spell\nfails. Otherwise, the beast must succeed on a Wisdom saving\nthrow or be charmed by you for the spell's duration. If you\nor one of your companions harms the target, the spell ends.\n\nor higher, you can affect one additional beast for each level     1st-­level enchantment\nabove 1st."
+			],
+			"level": 1,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Poison Spray",
@@ -2093,10 +3150,33 @@
 		{
 			"name": "Illusory Correction",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Illusory Correction",
-				"source": "PHB"
-			}
+			"entries": [
+				"There are gaps between reality and our perception of it. By\n\ncasting this spell, the mystic takes advantage of these dis-\n      crepancies. While this spell is active, when you or another\n      creature within range makes an ability check, attack roll, or\n      saving throw you can use your reaction to make a correction\n      of reality, either forcing another creature to reroll the d20\n      or allowing yourself to do so.\n\n      since your previous turn, you must make a spellcasting abil-\n      ity check to keep track of the differences between your per-\n      sonal reality and that which others perceive. The DC starts at\n5 and increases each time by 5. If you fail the check the spell       •   The barrier of the warded area appears dark and foggy,\n      immediately ends (you cannot use your reaction to reroll)."
+			],
+			"level": 4,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Plant Growth",
@@ -2109,42 +3189,157 @@
 		{
 			"name": "Globe of Invulnerability",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Globe of Invulnerability",
-				"source": "PHB"
-			}
+			"entries": [
+				"An immobile, shimmering barrier springs into existence in\na 10-foot radius around you and remains for the duration.\nAny spell of 5th level or lower cast from outside the bar-\nrier can't affect creatures or objects within it, even if the\nspell is cast using a higher level spell. Such a spell can target\ncreatures and objects within the barrier, but the spell has\nno effect on them. Similarly, the area within the barrier is\nexcluded from the areas affected by such spells.\nAt Higher Levels. When you cast this spell at 7th level\nor higher, the barrier blocks spells of one level higher for\neach level above 6th.\nSpell Descriptions"
+			],
+			"level": 6,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Fog Cloud",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fog Cloud",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a 20-foot-­radius sphere of fog centered on a point      Heroism\n      within range. The sphere spreads around corners, and its\narea is heavily obscured. It lasts for the duration or until\n\na wind of moderate or greater speed (at least 10 miles per\n\nhour) disperses it.\n\n\n\nor higher, the radius of the fog increases by 20 feet for each\n      level above 1st."
+			],
+			"level": 1,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Anathema",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Anathema",
-				"source": "PHB"
-			}
+			"entries": [
+				"This spell blocks harmful magics. While in effect you have       Wisdom saving throw or become cursed for the duration of\nadvantage on saving throws against magical effects and re-       the spell. When you cast this spell, choose the nature of the\n      sistance to damage from spells."
+			],
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Enhance Ability",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Enhance Ability",
-				"source": "PHB"
-			}
+			"entries": [
+				"You touch a creature and bestow upon it a magical enhance-\nment. Choose one of the following effects; the target gains      Flaming Sphere\n      that effect until the spell ends.\n      • Bear's Endurance. The target has advantage on Con-\n\n\n\n\n      • Bull's Strength. The target has advantage on Strength\n\n\n•  Cat's  Grace. The target has advantage on Dexterity\n\n\n      • Eagle's Splendor. The target has advantage on Charisma\n\n      • Fox's Cunning. The target has advantage on Intelligence\n\n      • Owl's Wisdom. The target has advantage on Wisdom\n\n\n      or higher, you can target one additional creature for each\n      level above 2nd."
+			],
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Judging Bonds",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Judging Bonds",
-				"source": "PHB"
-			}
+			"entries": [
+				"You allow pacifying light to flow through the chains or shack-\n\nles holding a person. This prevents that person from using\n\nmystical powers and provides disadvantage on Strength and\n\nDexterity checks and saving throws while bound."
+			],
+			"level": 3,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Glyph of Warding",
@@ -2157,58 +3352,219 @@
 		{
 			"name": "Turn Weather",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Turn Weather",
-				"source": "PHB"
-			}
+			"entries": [
+				"You influence the weather within 5 miles of you for the du-\n\nration. You must be outdoors to cast this spell. Moving to\n\na place where you don't have a clear path to the sky ends\nthe spell early.\n   When you cast the spell, you change one of the current\nweather conditions, which are determined by the GM based\non climate and season. You can change one of the following:\nprecipitation, temperature, or wind. It takes 1d4 × 10 minutes       (or perhaps a combination of these factors). Upon comple-\nfor the new condition to take effect. Once it does so, you can       tion of the task, the target's permanent Corruption is re-\nchange one of the conditions (the same or another) again.\nWhen the spell ends, the weather gradually returns to normal.\n   When you change a weather condition, find the current\ncondition on the following tables and change its stage by one,       point of permanent Corruption for failing Prios.\nSpell Descriptions\nup or down. When changing the winds, you can change its\ndirection by one step (for example, from north to north-­east\nor from south-­west to south, etc.).\nPRECIPITATION\nStage Condition\n1    Clear\n2    Light clouds\n3    Overcast or ground fog\n4    Rain, hail, or snow\n5    Torrential rain, driving hail, or blizzard\nTEMPERATURE\nStage Condition\n1    Unbearable heat\n2    Hot\n3    Warm\n4    Cool\n5    Cold\n6    Arctic cold\nStage Condition\n1    Calm\n2    Moderate wind\n3    Strong wind\n4    Gale\n5    Storm\n6th Level Spells"
+			],
+			"level": 5,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Insect Plague",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Insect Plague",
-				"source": "PHB"
-			}
+			"entries": [
+				"Swarming, biting locusts fill a 20-foot-­radius sphere cen-\nAt Higher Levels. When you cast this spell at 6th level or\naround corners. The sphere remains for the duration, and its\narea is lightly obscured. The sphere's area is difficult terrain.\nWhen the locusts appears, each creature within the\narea of the sphere must make a Constitution saving throw.\nA creature takes 4d10 piercing damage on a failed save, or\nhalf as much damage on a successful one. A creature must\nalso make this saving throw when it enters the spell's area\nfor the first time on a turn or ends its turn there.\nAt Higher Levels. When you cast this spell at 6th level or\nhigher, the damage increases by 1d10 for each level above 5th.\n\f      Spell Descriptions\nNot all curiosities encountered in Davokar are\nancient and of Symbarian design. The clanfolks and\neven Ambrian outcasts sometimes worship strange\n5\nentities \u2013 some fictional, some very much real.\n5 Resources"
+			],
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Purgatory",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Purgatory",
-				"source": "PHB"
-			}
+			"entries": [
+				"You choose a creature within range, it must make a Wisdom\nsaving throw with its current total Corruption as the DC. For\nget takes 8d6 radiant damage or half that amount on a success.\nAt Higher Levels. If you cast this spell at 6th level or\nA remove curse or greater restoration spell cast on the target   higher, you can target an additional creature for each level\nabove 5th."
+			],
+			"level": 5,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Holy Smoke",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Holy Smoke",
-				"source": "PHB"
-			}
+			"entries": [
+				"You light incense and choose a 10-foot cube within range.\n\nThe smoke spreads among those present and gathers around\n\nobjects and creatures in relation to how corrupted they are:\n\nthe closer the smoke gathers, the more tainted the creature\n\nin question is. The Game­master clearly states if objects or\ncreatures are blight-­stricken, blightmarked or thoroughly       Until the spell ends, one willing creature you touch is pro-\ncorrupt. (See Corruption, page 38).\nHoly smoke can be countered by the exchange shadow spell.     born, celestials, elementals, fey, and fiends."
+			],
+			"level": 1,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Exchange Shadow",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Exchange Shadow",
-				"source": "PHB"
-			}
+			"entries": [
+				"You can exchange your Shadow with another creature. If\n\nthe creature is unwilling, it is able to make a Wisdom saving\n\nthrow to resist the effect. A successful save prevents the\nprocess and alerts the target. A failed saving throw indicates   Choose a manufactured metal object, such as a metal weapon or\n      that the swap was successful and the target is unaware of\n      the exchange. Your Shadow appears as the target's Shadow\n      and their Shadow appears as yours."
+			],
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Flaming Servant",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Flaming Servant",
-				"source": "PHB"
-			}
+			"entries": [
+				"You summon a creature of living fire to occupy a suit of\n      armor that you provide. The summoned creature remains\nwithin 30 feet of you at all times and follows your commands.   only under certain circumstances or according to phys-\nIt shares your initiative count and you can use your bonus      ical characteristics (such as height or weight), creature\n      action to command it to take an action, such as attack a\ntarget. It can suppress its fiery nature to interact with ob-   abominations). You can also set conditions for creatures\njects normally or you can command it to use its action to set   that don't trigger the glyph, such as those who say a cer-\nunattended flammable objects alight. If it is destroyed then    tain password.\n      you cannot summon the creature again until the next day."
+			],
+			"level": 3,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Ice Storm",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Ice Storm",
-				"source": "PHB"
-			}
+			"entries": [
+				"A hail of rock-­hard ice pounds to the ground in a 20-foot-­radius,   range and create an illusory manifestation of its deepest\n      40-foot-­high cylinder centered on a point within range. Each\n      creature in the cylinder must make a Dexterity saving throw. A\n      creature takes 2d8 bludgeoning damage and 4d6 cold damage\n      on a failed save, or half as much damage on a successful one.\n\n      terrain until the end of your next turn.\n\n      higher, the bludgeoning damage increases by 1d8 for each\n      level above 4th."
+			],
+			"level": 4,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Acid Splash",
@@ -2245,18 +3601,64 @@
 		{
 			"name": "Animal Messenger",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Animal Messenger",
-				"source": "PHB"
-			}
+			"entries": [
+				"By means of this spell, you use an animal to deliver a mes-     or higher, you can target one additional creature for each\nsage. Choose a Tiny beast you can see within range, such\nas a squirrel, a blue jay, or a bat. You specify a location,\nwhich you must have visited, and a recipient who matches\na general description, such as \"a man or woman dressed\nin the uniform of the town guard\" or \"a red-­haired man\n\nwearing a pointed hat.\" You also speak a message of up to\n\ntwenty-­five words. The target beast travels for the duration\n\nof the spell toward the specified location, covering about\n\n50 miles per 24 hours for a flying messenger, or 25 miles\n\nfor other animals.\n   When the messenger arrives, it delivers your message\nto the creature that you described, replicating the sound of    er degree, allowing you to share the burden of Corruption\nyour voice. The messenger speaks only to a creature match-      between the two of you. The familiar's Corruption Threshold\ning the description you gave. If the messenger doesn't\nreach its destination before the spell ends, the message is     When you receive temporary or permanent Corruption you\nlost, and the beast makes its way back to where you cast\nthis spell.\nAt Higher Levels. If you cast this spell at 3rd level or     to or higher than its Threshold, it becomes a blight-­born\nhigher, the duration of the spell increases by 48 hours for     spirit creature and abandons the caster, possibly attacking\neach level above 2nd.\nSpell Descriptions"
+			],
+			"level": 2,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Magic Weapon",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Magic Weapon",
-				"source": "PHB"
-			}
+			"entries": [
+				"Spell Descriptions\nYou touch a nonmagical weapon. Until the spell ends, that\nweapon becomes a magic weapon with a +1 bonus to attack\nrolls and damage rolls.\nAt Higher Levels. When you cast this spell at 4th level,\nthe bonus increases to +2. When you cast it at 6th level or\nhigher, the bonus increases to +3."
+			],
+			"level": 2,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Tiny Hut",
@@ -2269,26 +3671,95 @@
 		{
 			"name": "Fire Soul",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fire Soul",
-				"source": "PHB"
-			}
+			"entries": [
+				"Your eyes glow with a red light and you become extraordi-\n\nnarily hot to the touch. Creatures that touch you or attack\n      you from within five feet take 6 (1d12) fire damage. You are\n      immune to fire damage and the first time you take fire dam-\n      age you instead regain hit points equal to half the damage\n      you would have taken, rounded down."
+			],
+			"level": 5,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Cone of Cold",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Cone of Cold",
-				"source": "PHB"
-			}
+			"entries": [
+				"A blast of cold air erupts from your hands. Each creature\nin a 60-foot cone must make a Constitution saving throw. A\ncreature takes 8d8 cold damage on a failed save, or half as\nmuch damage on a successful one.\n   A creature killed by this spell becomes a frozen statue\nuntil it thaws.\n   At Higher Levels. When you cast this spell at 6th level or\nhigher, the damage increases by 1d8 for each level above 5th."
+			],
+			"level": 5,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Spiritual Weapon",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Spiritual Weapon",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a floating, spectral weapon within range that\nlasts for the duration or until you cast this spell again. The   This spell creates an undead servant. Choose a pile of bones\n      weapon can take whatever form you choose. When you\ncast the spell, you can make a melee spell attack against a      Your spell imbues the target with a foul mimicry of life, rais-\ncreature within 5 feet of the weapon. On a hit, the target       ing it as an undead creature. The target becomes a skeleton\ntakes force damage equal to 1d8 + your spellcasting ability      if you chose bones or a zombie if you chose a corpse (the\n      modifier.\n\nup to 20 feet and repeat the attack against a creature within    mentally command any creature you made with this spell if\n      5 feet of it.\n\nor higher, the damage increases by 1d8 for every two levels      time, issuing the same command to each one). You decide\n      above 2nd."
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Wall of Force",
@@ -2301,10 +3772,33 @@
 		{
 			"name": "Major Image",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Major Image",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create the image of an object, a creature, or some other       order to reduce your Corruption. Thus you can remove up\nvisible phenomenon that is no larger than a 20-foot cube. The      to 10 points of permanent Corruption if you remain in the\nimage appears at a spot that you can see within range and lasts    pyre for the duration.\n      for the duration. It seems completely real, including sounds,\nsmells, and temperature appropriate to the thing depicted. You     benefit from it.\ncan't create sufficient heat or cold to cause damage, a sound\nloud enough to deal thunder damage or deafen a creature, or a      Spirit Guardians*\nsmell that might sicken a creature (like a troglodyte's stench).   3rd-­level conjuration\n\n\nuse your action to cause the image to move to any other spot\n\nwithin range. As the image changes location, you can alter\n\nits appearance so that its movements appear natural for the\n\nimage. For example, if you create an image of a creature\n      and move it, you can alter the image so that it appears to\n      be walking. Similarly, you can cause the illusion to make\n      different sounds at different times, even making it carry\n      on a conversation, for example.\n\nillusion, because things can pass through it. A creature that      of creatures you can see to be unaffected by it. An affected\n      uses its action to examine the image can determine that it\nis an illusion with a successful Intelligence (Investigation)      enters the area for the first time on a turn or starts its turn\ncheck against your spell save DC. If a creature discerns the       there, it must make a Wisdom saving throw. On a failed\nillusion for what it is, the creature can see through the image,   save, the creature takes 3d8 radiant damage or 3d8 necrotic\nand its other sensory qualities become faint to the creature.      damage (if you are blight-­marked). On a successful save, the\n\n      or higher, the spell lasts until dispelled, without requiring\n      your concentration.\nMass Healing Word*"
+			],
+			"level": 3,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Sleep",
@@ -2317,26 +3811,95 @@
 		{
 			"name": "Arcane Hand",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Bigby's Hand",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a Large hand of shimmering, translucent force in\n      an unoccupied space that you can see within range. The hand\nlasts for the spell's duration, and it moves at your command,       fog spreads around corners. It lasts for the duration or until\n      mimicking the movements of your own hand.\n\n      to your hit point maximum. If it drops to 0 hit points, the\n      spell ends. It has a Strength of 26 (+8) and a Dexterity of\n      10 (+0). The hand doesn't fill its space. When you cast the\n      spell and as a bonus action on your subsequent turns, you\n      can move the hand up to 60 feet and then cause one of the\n      following effects with it:\n      • Clenched Fist. The hand strikes one creature or object\n\n\n\n      • Forceful Hand. The hand attempts to push a creature\n\n\n\n\n\n\n\n\n\n\n      • Grasping Hand. The hand attempts to grapple a Huge\n\n\n\n\n\n\n\n      •  Interposing    Hand. The hand interposes itself between\n\n\n\n\n\n\n\n\n\n\n      higher, the damage from the clenched fist option increases\n      by 2d8, the damage from the grasping hand increases by\n      2d6, the Strength for the forceful hand increases by 2 for\n      each level above 5th."
+			],
+			"level": 5,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Prayer of Healing",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Prayer of Healing",
-				"source": "PHB"
-			}
+			"entries": [
+				"Up to six creatures of your choice that you can see within\nrange each regain hit points equal to 2d8 + your spellcasting\nability modifier. This spell has no effect on constructs.\nAt Higher Levels. When you cast this spell at 3rd level\nor higher, the healing increases by 1d8 for each level above\n2nd."
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Cloudkill",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Cloudkill",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a 20-foot-­radius sphere of poisonous, yellow-­\ngreen fog centered on a point you choose within range. The\na strong wind disperses the fog, ending the spell. Its area\nThe hand is an object that has AC 20 and hit points equal\nWhen a creature enters the spell's area for the first time\non a turn or starts its turn there, that creature must make\na Constitution saving throw. The creature takes 5d8 poison\ndamage on a failed save, or half as much damage on a suc-\ncessful one. Creatures are affected even if they hold their\nbreath or don't need to breathe.\nThe fog moves 10 feet away from you at the start of each\nwithin 5 feet of it. Make a melee spell attack for the hand      of your turns, rolling along the surface of the ground. The\nusing your game statistics. On a hit, the target takes 4d8       vapors, being heavier than air, sink to the lowest level of the\nforce damage.\nAt Higher Levels. When you cast this spell at 6th level or\nwithin 5 feet of it in a direction you choose. Make a check      higher, the damage increases by 1d8 for each level above 5th.\nwith the hand's Strength contested by the Strength (Ath-\nletics) check of the target. If the target is Medium or small-   Commune with Spirits*"
+			],
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Heat Metal",
@@ -2349,50 +3912,188 @@
 		{
 			"name": "Magic Circle",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Magic Circle",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a 10-foot-­radius, 20-foot-­tall cylinder of magical\nenergy centered on a point on the ground that you can see\nwithin range. Glowing runes appear wherever the cylinder\nintersects with the floor or another surface. Choose one\noption: a) A mystic that knows the pattern to a permanent\nteleportation circle may communicate telepathically with\nthe attendant of that circle (see The Chapter Circles of Ordo\nMagica on page 204). Or\nb) Choose one or more of the following types of creatures:\n• The creature can't willingly enter the cylinder by non-\nmagical means. If the creature tries to use teleportation\nor interplanar travel to do so, it must first succeed on a\nCharisma saving throw.\n• The creature has disadvantage on attack rolls against\ntargets within the cylinder.\n• Targets within the cylinder can't be charmed, frightened,\nor possessed by the creature.\nWhen you choose this option, you can elect to cause\ncreature of the specified type from leaving the cylinder and\nprotecting targets outside it.\nabove 3rd.\n5 Resources"
+			],
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Wall of Ice",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Wall of Ice",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a wall of ice on a solid surface within range. You\ncan form it into a hemispherical dome or a sphere with a\nradius of up to 10 feet, or you can shape a flat surface made\nup of ten 10-foot-­square panels. Each panel must be con-\ntiguous with another panel. In any form, the wall is 1 foot\nthick and lasts for the duration.\n    If the wall cuts through a creature's space when it ap-\npears, the creature within its area is pushed to one side of\nthe wall and must make a Dexterity saving throw. On a failed\nsave, the creature takes 10d6 cold damage, or half as much\ndamage on a successful save.\n\nThe wall is an object that can be damaged and thus breached.\n\nIt has AC 12 and 30 hit points per 10-foot section, and it is vul-\n\nnerable to fire damage. Reducing a 10-foot section of wall to 0\n\nhit points destroys it and leaves behind a sheet of frigid air in\nthe space the wall occupied. A creature moving through the\nsheet of frigid air for the first time on a turn must make a Con-    the Yonderworld, in the area where it overlaps with your\nstitution saving throw. That creature takes 5d6 cold damage\non a failed save, or half as much damage on a successful one.\nAt Higher Levels. When you cast this spell at 7th level or       spell. During this time, you can move in any direction. If you\nhigher, the damage the wall deals when it appears increases\nby 2d6, and the damage from passing through the sheet of\nfrigid air increases by 1d6, for each level above 6th.\n\n\n7th Level Spells"
+			],
+			"level": 6,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Blink",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blink",
-				"source": "PHB"
-			}
+			"entries": [
+				"Roll a d20 at the end of each of your turns for the duration\n\nof the spell. On a roll of 11 or higher, you vanish from your\ncurrent position and appear in the Yonderworld (the spell\nfails and the casting is wasted if you were already there).\nAt the start of your next turn, and when the spell ends if\nyou are in the Yonderworld, you return to an unoccupied\nspace of your choice that you can see within 10 feet of the\nspace you vanished from. If no unoccupied space is available\nwithin that range, you appear in the nearest unoccupied\nspace (chosen at random if more than one space is equally\nnear). You can dismiss this spell as an action.\nWhile in the Yonderworld, you can see and hear the place\nyou originated from, which is cast in translucent shades of\ngray, and you can't see anything there more than 60 feet\naway. You can only affect and be affected by other creatures\n\nin the Yonderworld. Creatures that aren't there can't per-\n\nceive you or interact with you, unless they have the ability\n\nto do so.\n\n\n\n\n\n\n\n\n\n    Symbols carved on the ancient stone fundament on\n     which the palace of Mergile is built, likely a curse\n    aimed at the lords and ladies who once lived there."
+			],
+			"level": 3,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Wall of Fire",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Wall of Fire",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a wall of fire on a solid surface within range. You     feet of you (if you control multiple creatures, you can com-\ncan make the wall up to 60 feet long, 20 feet high, and 1 foot     mand any or all of them at the same time, issuing the same\nthick, or a ringed wall up to 20 feet in diameter, 20 feet high,   command to each one). You decide what action the creature\nand 1 foot thick. The wall is opaque and lasts for the duration.   will take and where it will move during its next turn, or\n   When the wall appears, each creature within its area\nmust make a Dexterity saving throw. On a failed save, a\ncreature takes 5d8 fire damage, or half as much damage on\na successful save.\nEither the inside or outside of the wall, selected by you       task is complete.\nwhen you cast this spell, deals 5d8 fire damage to each crea-\nture that ends its turn within 10 feet of the selected side. A     attacks, Strength, and Dexterity determined by its size. Its\ncreature takes the same damage when it enters the wall for\nthe first time on a turn or ends its turn there. The other side    its Charisma is 1. Its speed is 30 feet; if the object lacks legs\nof the wall deals no damage.\nAt Higher Levels. When you cast this spell at 5th level or      has a flying speed of 30 feet and can hover. If the object is\nhigher, the damage increases by 1d8 for each level above 4th.      securely attached to a surface or a larger object, such as a\n\n\n5th Level Spells"
+			],
+			"level": 4,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Animate Objects",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Animate Objects",
-				"source": "PHB"
-			}
+			"entries": [
+				"Objects come to life at your command. Choose up to ten non-\nmagical objects within range that are not being worn or\nANIMATED OBJECT STATISTICS\n  Size\n  Tiny\n  Small\n  Medium\n  Large\n  Huge\nSpell Descriptions\ncarried. Medium targets count as two objects, Large targets\ncount as four objects, Huge targets count as eight objects.\nYou can't animate any object larger than Huge. Each target\nanimates and becomes a creature under your control until\nthe spell ends or until reduced to 0 hit points.\nAs a bonus action, you can mentally command any crea-\nture you made with this spell if the creature is within 500\nyou can issue a general command, such as to guard a par-\nticular chamber or corridor. If you issue no commands, the\ncreature only defends itself against hostile creatures. Once\ngiven an order, the creature continues to follow it until its\nAn animated object is a construct with AC, hit points,\nConstitution is 10 and its Intelligence and Wisdom are 3, and\nor other appendages it can use for locomotion, it instead\nchain bolted to a wall, its speed is 0. It has blindsight with\na radius of 30 feet and is blind beyond that distance. When\nthe animated object drops to 0 hit points, it reverts to its\noriginal object form, and any remaining damage carries\nover to its original object form.\nWhen you command an object to attack, it can make a sin-\ngle melee attack during your turn against a creature within\n5 feet of it. It makes a slam attack with an attack bonus and\nbludgeoning damage determined by its size. The GM might\nrule that a specific object inflicts slashing or piercing dam-\nage based on its form.\nAt Higher Levels. If you cast this spell at 6th level or higher,\nyou can animate two additional objects for each level above 5th.\nHP\n20\n25\n40\n50\n80\n5 Resources"
+			],
+			"level": 5,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Detect Evil and Good",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Detect Evil and Good",
-				"source": "PHB"
-			}
+			"entries": [
+				"For the duration, you know if there is an aberration, blight-­      higher, the damage increases by 1d6 for each level above 1st.\nborn, celestial, elemental, fey, fiend, or undead within 30\nfeet of you, as well as where the creature is located. Similarly,   Healing Word*\n      you know if there is a place or object within 30 feet of you\nthat has been magically consecrated or desecrated.\n\n\n\nby 1 foot of stone, 1 inch of common metal, a thin sheet of\n\nlead, or 3 feet of wood or dirt."
+			],
+			"level": 1,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Heroism",
@@ -2405,26 +4106,95 @@
 		{
 			"name": "Exorcism",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Exorcism",
-				"source": "PHB"
-			}
+			"entries": [
+				"You call out to Prios to purge the immediate area of any crea-\n      ture that is not native to the material world and anoint every-\n      thing else with his holy water. At the end of the casting time,\n      each extraplanar creature must make a Wisdom saving throw.\nIf you can see the creature as you cast the spell (for example it is   a suicidal command, the spell ends.\n      trapped within a magic circle or otherwise confined) then it has\n      disadvantage on its saving throw. An exorcised creature cannot\n      return to the material world until at least 24 hours have passed."
+			],
+			"level": 5,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Create or Destroy Water",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Create or Destroy Water",
-				"source": "PHB"
-			}
+			"entries": [
+				"You can either create or destroy water:\n• Create Water. You create up to 10 gallons of clean wa-\nwater falls as rain in a 30-foot cube within range, extin-\nguishing exposed flames in the area.\n• Destroy Water. You destroy up to 10 gallons of water\nin an open container within range. Alternatively, you\ndestroy fog in a 30-foot cube within range. Any partic-\nulates in the water coat the container or the ground in\na fine dust.\n• Higher Levels. When you cast this spell at 2nd level\nAt\nor higher, you create or destroy 10 additional gallons of\nwater, or the size of the cube increases by 5 feet, for each\nlevel above 1st."
+			],
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Creation",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Creation",
-				"source": "PHB"
-			}
+			"entries": [
+				"You pull wisps of shadow material from the surroundings to\ncreate a nonliving object of vegetable matter within range:\nsoft goods, rope, wood, or something similar. You can also\nuse this spell to create mineral objects such as stone, crystal,   charmed by you for the duration. If you or creatures that\nor metal. The object created must be no larger than a 5-foot       are friendly to you are fighting it, it has advantage on the\ncube, and the object must be of a form and material that\nyou have seen before.\n   The duration depends on the object's material. If the\nobject is composed of multiple materials, use the shortest\nduration. Using any material created by this spell as another      to the creature while you are conscious (no action required),\nspell's material component causes that spell to fail.\n\n\n\n\n\n\n\n\n\n\nAt Higher Levels. When you cast this spell at 6th level or      cause the creature to use a reaction, but this requires you\nhigher, the cube increases by 5 feet for each level above 5th.     to use your own reaction as well.\n\n\n\n\n\n\n\n\nSpell Descriptions"
+			],
+			"level": 5,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Minor Illusion",
@@ -2437,42 +4207,157 @@
 		{
 			"name": "Dominate Beast",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dominate Beast",
-				"source": "PHB"
-			}
+			"entries": [
+				"You attempt to beguile a beast that you can see within range.    cause the creature to use a reaction, but this requires you\nIt must succeed on a Wisdom saving throw or be charmed\nby you for the duration. If you or creatures that are friendly      Each time the target takes damage, it makes a new Wis-\nto you are fighting it, it has advantage on the saving throw.    dom saving throw against the spell. If the saving throw suc-\nWhile the beast is charmed, you have a telepathic link       ceeds, the spell ends.\nwith it as long as the two of you are on the same plane of ex-      At Higher Levels. When you cast this spell at 5th-­level,\nistence. You can use this telepathic link to issue commands      the duration is concentration, up to 10 minutes. When you\nto the creature while you are conscious (no action required),    cast at 6th-­level, the duration is concentration, up to 1 hour.\nwhich it does its best to obey. You can specify a simple and     When you cast at 7th level or higher, the duration is concen-\ngeneral course of action, such as \"Attack that creature,\" \"Run   tration, up to 8 hours.\nSpell Descriptions\nover there,\" or \"Fetch that object.\" If the creature completes\nthe order and doesn't receive further direction from you, it\ndefends and preserves itself to the best of its ability.\nYou can use your action to take total and precise control\nof the target. Until the end of your next turn, the creature\ntakes only the actions you choose, and doesn't do anything\nthat you don't allow it to do. During this time, you can also\nto use your own reaction as well.\n5 Resources"
+			],
+			"level": 4,
+			"school": "E",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Spirit Walk",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Spirit Walk",
-				"source": "PHB"
-			}
+			"entries": [
+				"You become part of the spirit world for up to 10 minutes.\nYou are invisible to creatures in the material world but can\nsee (and be seen by) any local spirits. Unfriendly spirits\nmight attack you and you can use your reaction to end this\nspell early."
+			],
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Teleportation Circle",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Teleportation Circle",
-				"source": "PHB"
-			}
+			"entries": [
+				"As you cast the spell, you draw a 10-foot-­diameter circle on\n\nthe ground inscribed with sigils that link your location to a\n\npermanent teleportation circle of your choice whose sigil\nsequence you know and that is on the same plane of exis-\ntence as you. A shimmering portal opens within the circle\n\nyou drew and remains open until the end of your next turn.\nAny creature that enters the portal instantly appears within\n5 feet of the destination circle or in the nearest unoccupied\nspace if that space is occupied.\n   Many Ordo Magica facilities have permanent telepor-\ntation circles inscribed somewhere within their confines.\n\nEach such circle includes a unique sigil sequence \u2013 a string\n\nof magical runes arranged in a particular pattern. When\nyou first gain the ability to cast this spell, you learn the sigil    WIND\nsequences for two destinations, as determined by the GM.\n\nYou can learn additional sigil sequences during your adven-\ntures. You can commit a new sigil sequence to memory after\nstudying it for 1 minute.\n   You can create a permanent teleportation circle by cast-\ning this spell in the same location every day for one year.\n\nYou need not use the circle to teleport when you cast the\n\nspell in this way."
+			],
+			"level": 5,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Longstrider",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Longstrider",
-				"source": "PHB"
-			}
+			"entries": [
+				"You touch a creature. The target's speed increases by 10 feet\nuntil the spell ends.\nAt Higher Levels. When you cast this spell at 2nd level       until the spell ends, the sleeper takes damage, or someone\nor higher, you can target one additional creature for each       uses an action to shake or slap the sleeper awake. Subtract\nlevel above 1st."
+			],
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Accurate Strike",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Accurate Strike",
-				"source": "PHB"
-			}
+			"entries": [
+				"You point a finger at a target you can see in range. Your magic   You summon some measure of the darkness that plagues\ngives insights into the target's defenses. As long as the spell   your soul and send it outwards as a bolt of blackness at a\nremains active, you have advantage on your first attack roll      creature within range. The creature must make a Dexterity\n      against the target on your turn.\n\n\n      1st Level Spells"
+			],
+			"level": 0,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Comprehend Languages",
@@ -2493,18 +4378,64 @@
 		{
 			"name": "Lifegiver",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Lifegiver",
-				"source": "PHB"
-			}
+			"entries": [
+				"As you cast this spell, you touch a number of creatures equal\n      to your proficiency bonus. You can be one of those creatures.\n      Each creature's temporary Corruption is reduced by 1d4. Any\n      excess points restore the creature's hit points.\n\n      higher, you can heal one additional creature per spell level."
+			],
+			"level": 4,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Shatter",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Shatter",
-				"source": "PHB"
-			}
+			"entries": [
+				"A sudden loud ringing noise, painfully intense, erupts from a\npoint of your choice within range. Each creature in a 10-foot-­\nradius sphere centered on that point must make a Constitu-\ntion saving throw. A creature takes 3d8 thunder damage on\na failed save, or half as much damage on a successful one. A\ncreature made of inorganic material such as stone, crystal,\nor metal has disadvantage on this saving throw.\nA nonmagical object that isn't being worn or carried also\ntakes the damage if it's in the spell's area.\nAt Higher Levels. When you cast this spell at 3rd level or\nhigher, the damage increases by 1d8 for each level above 2nd.\n5 Resources"
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Beacon of Hope",
@@ -2517,26 +4448,95 @@
 		{
 			"name": "Inherit Wound",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Inherit Wound",
-				"source": "PHB"
-			}
+			"entries": [
+				"Choose a creature within range. If it is unwilling, it can\n\nmake a Constitution saving throw to avoid the effect. When\n\nyou take damage from a weapon attack or a spell effect you\n\ndivide the damage done between you and the creature (in\nthe case of an odd damage total, you take the extra point of\ndamage). An unwilling creature can make another Consti-\ntution saving throw at the end of its turn to end the effect."
+			],
+			"level": 2,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Guiding Bolt",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Guiding Bolt",
-				"source": "PHB"
-			}
+			"entries": [
+				"A flash of light streaks toward a creature of your choice\nwithin range. Make a ranged spell attack against the tar-\nget. On a hit, the target takes 4d6 radiant damage, and the\nnext attack roll made against this target before the end of\nyour next turn has advantage, thanks to the mystical light\nglittering on the target until then."
+			],
+			"level": 1,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Private Sanctum",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mordenkainen's Private Sanctum",
-				"source": "PHB"
-			}
+			"entries": [
+				"You make an area within range magically secure. The area\nis a cube that can be as small as 5 feet to as large as 100 feet\non each side. The spell lasts for the duration or until you use\nan action to dismiss it.\nWhen you cast the spell, you decide what sort of secu-\nAt the end of your turn if you have used your reaction\nproperties:\n• Sound can't pass through the barrier at the edge of the\nwarded area.\npreventing vision (including darkvision) through it.\n• Sensors created by divination spells can't appear inside\nthe protected area or pass through the barrier at its\nperimeter.\n• Creatures in the area can't be targeted by divination\nspells.\n• Nothing can teleport into or out of the warded area.\n• Planar travel is blocked within the warded area.\nCasting this spell on the same spot every day for a year\nmakes this effect permanent.\nAt Higher Levels. When you cast this spell at 5th level\nor higher, you can increase the size of the cube by 100 feet\nfor each level beyond 4th. Thus you could protect a cube\nAt Higher Levels. If you cast this spell at 5th level or\nat 5th level."
+			],
+			"level": 4,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Locate Animals or Plants",
@@ -2549,10 +4549,33 @@
 		{
 			"name": "Faraway Writing",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Faraway Writing",
-				"source": "PHB"
-			}
+			"entries": [
+				"When you cast this spell you inscribe a message of 25 words or\nless, which automatically appears in the other journal as well,\nas long as it is on the same plane of existence. You can make\nsimple sketches or draw symbols or letters that you do not know\nthe meaning of as part of your message, a simple diagram is\nequivalent to five to ten words in most cases. The keeper of the"
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Rope Trick",
@@ -2565,10 +4588,33 @@
 		{
 			"name": "Tale of Ashes",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Tale of Ashes",
-				"source": "PHB"
-			}
+			"entries": [
+				"This spell allows a mystic to read the ashes of a burnt ob-      must cast this spell on the creature again before the current\nject and thereby discern what the object once was and what       24-hour period ends. This use of the spell reasserts your\n      happened when it burned \u2013 the mystic experiences all im-\npressions from the fire, sees who was there and hears what       this spell, rather than animating a new one.\n      was being said. A campfire can have much to tell about what\n      happened around it.\n\n\n3rd Level Spells"
+			],
+			"level": 2,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Jump",
@@ -2581,10 +4627,33 @@
 		{
 			"name": "Soul Stone",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Soul Stone",
-				"source": "PHB"
-			}
+			"entries": [
+				"During desperate moments of the war, the battle mages of\n\nOrdo Magica took increasingly greater risks in the name\n\nof necessity and thereby brought Corruption upon them-\n\nselves. To counteract this evil they dusted off an ancient and\n\nshunned ritual, by which one can capture the soul of a dying\ncreature in a crystal prepared for the purpose. That same\nritual proved to work well in order to drain Corruption from       It must succeed on a Wisdom saving throw or be charmed by\na wizard and transfer it to the soul in the stone.\nWith the first casting, the mystic uses a soul stone (see       you are fighting it, it has advantage on the saving throw.\npage 185) worth at least 100 thaler and a creature that dies\nas a result of the spell. The creature must have less than 10      with it as long as the two of you are on the same plane of ex-\nhit points at the time you begin to cast the spell. At the end     istence. You can use this telepathic link to issue commands\nof the spell, the creature dies, and the spell collects the soul   to the creature while you are conscious (no action required),\nof the dying creature, turning the gem into a soul stone. Roll     which it does its best to obey. You can specify a simple and\n2d4 and add your spellcasting modifier; this is the amount\nof permanent Corruption that the soul stone can hold.\n   Subsequent castings allow the mystic to move 1d4 points\nof permanent Corruption to the soul stone. The soul stone\ndarkens as it fills up and detonates if its limit is surpassed.       You can use your action to take total and precise control\nThe collected Corruption then rushes back to the mystic,\noften with a rather nasty result.\nYou can only use a single soul stone at a time and cannot       that you don't allow it to do. During this time, you can also\ncreate a new one while an old one exists.\n\n\n8th Level Spells"
+			],
+			"level": 7,
+			"school": "N",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Living Fortress",
@@ -2597,10 +4666,33 @@
 		{
 			"name": "Acid Arrow",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Melf's Acid Arrow",
-				"source": "PHB"
-			}
+			"entries": [
+				"A shimmering green arrow streaks toward a target within\nrange and bursts in a spray of acid. Make a ranged spell attack\nagainst the target. On a hit, the target takes 4d4 acid damage\nimmediately and 2d4 acid damage at the end of its next turn.\nOn a miss, the arrow splashes the target with acid for half\nthe initial damage and no damage at the end of its next turn.\n\nor higher, the damage (both initial and later) increases by\n1d4 for each level above 2nd.\nSpell Descriptions\nAt Higher Levels. When you cast this spell at 2nd lev-\nel or higher, the spell creates one more dart for each level\nabove 1st."
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Bless",
@@ -2629,10 +4721,33 @@
 		{
 			"name": "Scorching Ray",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Scorching Ray",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create three rays of fire and hurl them at targets within\nrange. You can hurl them at one target or several.\nMake a ranged spell attack for each ray. On a hit, the\ntarget takes 2d6 fire damage.\nAt Higher Levels. When you cast this spell at 3rd level\nor higher, you create one additional ray for each level above\n2nd."
+			],
+			"level": 2,
+			"school": "V",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Protection from Energy",
@@ -2645,18 +4760,64 @@
 		{
 			"name": "Blood Storm",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blood Storm",
-				"source": "PHB"
-			}
+			"entries": [
+				"You create a raging storm of blood 150 feet in diameter, with      9th-­level evocation\nyourself and any nearby allies and enemies within the eye\n\nof the storm, a 15-foot radius, remaining unharmed.\n\nThe storm heavily obscures the area and those caught in the\n\nstorm are blinded. In order to take an action, they must first\n\nsucceed at a Wisdom saving throw. On a success they are able\nto act this turn.\nThe blood storm also has a drowning effect; it actively aims    tures around you. You restore up to 700 hit points, divided as\nfor the mouth and nose. If a creature starts its turn in the       you choose among any number of creatures that you can see\nstorm, the creature must make a Constitution saving throw,\ntaking 8d6 necrotic damage on a failed save or half that on a      all diseases and any effect making them blinded or deafened.\nsuccessful one. The only way to avoid the effect is to leave the   This spell has no effect on constructs.\nSpell Descriptions\nstorm's area of effect, move into the eye area, or find a struc-\nture that can be completely closed off from the storm's effects.\nOn your turn, you can use a bonus action to move the\ncloud up to 10 feet in a direction that you choose."
+			],
+			"level": 8,
+			"school": "C",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Invisibility",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Invisibility",
-				"source": "PHB"
-			}
+			"entries": [
+				"A single creature that you touch becomes invisible until the\n\nspell ends. Anything the target is wearing or carrying is\n\ninvisible as long as it is on the target's person. The spell ends\n\nfor a target that attacks or casts a spell.\n   At Higher Levels. When you cast this spell at 3rd level\nor higher, you can target one additional creature for each\nlevel above 2nd."
+			],
+			"level": 2,
+			"school": "I",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Control Weather",
@@ -2669,13 +4830,36 @@
 		{
 			"name": "Fly",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fly",
-				"source": "PHB"
-			},
 			"foundryFlags": {
 				"notFavorable": true
-			}
+			},
+			"entries": [
+				"You touch a willing creature. The target gains a flying speed      ful one.\nof 60 feet for the duration. When the spell ends, the target    • Spell Glyph. You can store a prepared spell of 3rd level\n      falls if it is still aloft, unless it can stop the fall.\ns\nMedium elemental\nArmor Class special (see below)\nHit Points special (see below)\nSpeed 30 ft\nor higher, you can target one additional creature for each\nSTR     DEX     CON     INT     WIS     CHA\nlevel above 3rd.\n16 (+3) 16 (+3) 10 (+0) 10 (+0) 10 (+0) 10 (+0)\nCondition Immunities exhaustion, paralyzed, petri-"
+			],
+			"level": 3,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		},
 		{
 			"name": "Web",
@@ -2688,10 +4872,33 @@
 		{
 			"name": "Aid",
 			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Aid",
-				"source": "PHB"
-			}
+			"entries": [
+				"Your spell bolsters your allies with toughness and resolve.\nChoose up to three creatures within range. Each target's\nhit point maximum and current hit points increases by 5\nfor the duration.\n\nAt Higher Levels. When you cast this spell at 3rd level\n\nor higher, a target's hit points increase by an additional 5\n\nfor each level above 2nd."
+			],
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"components": {
+				"v": true,
+				"s": true
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			]
 		}
 	]
 }
