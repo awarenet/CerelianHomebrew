@@ -29,6 +29,15 @@
 			"_copy": {
 				"name": "Contingency",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -37,6 +46,15 @@
 			"_copy": {
 				"name": "Mage Hand",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -45,6 +63,15 @@
 			"_copy": {
 				"name": "Foresight",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -53,6 +80,15 @@
 			"_copy": {
 				"name": "Message",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -61,6 +97,15 @@
 			"_copy": {
 				"name": "Sequester",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -69,6 +114,15 @@
 			"_copy": {
 				"name": "Earthquake",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -77,6 +131,15 @@
 			"_copy": {
 				"name": "Stinking Cloud",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -85,6 +148,15 @@
 			"_copy": {
 				"name": "Rary's Telepathic Bond",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -93,6 +165,15 @@
 			"_copy": {
 				"name": "Darkvision",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -101,6 +182,15 @@
 			"_copy": {
 				"name": "Alarm",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -109,6 +199,15 @@
 			"_copy": {
 				"name": "Greater Invisibility",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -117,6 +216,15 @@
 			"_copy": {
 				"name": "Hypnotic Pattern",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -125,6 +233,15 @@
 			"_copy": {
 				"name": "Programmed Illusion",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -133,6 +250,15 @@
 			"_copy": {
 				"name": "Thaumaturgy",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -141,6 +267,15 @@
 			"_copy": {
 				"name": "Prestidigitation",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -149,6 +284,15 @@
 			"_copy": {
 				"name": "Commune",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -157,6 +301,15 @@
 			"_copy": {
 				"name": "Glibness",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -165,6 +318,15 @@
 			"_copy": {
 				"name": "Heroes' Feast",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -173,6 +335,15 @@
 			"_copy": {
 				"name": "Stone Shape",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -181,6 +352,15 @@
 			"_copy": {
 				"name": "Mirage Arcane",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -189,6 +369,15 @@
 			"_copy": {
 				"name": "Legend Lore",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -197,6 +386,15 @@
 			"_copy": {
 				"name": "Otiluke's Resilient Sphere",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -205,6 +403,15 @@
 			"_copy": {
 				"name": "Drawmij's Instant Summons",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -213,6 +420,15 @@
 			"_copy": {
 				"name": "Protection from Poison",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -221,6 +437,15 @@
 			"_copy": {
 				"name": "Speak with Plants",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -229,6 +454,15 @@
 			"_copy": {
 				"name": "Dream",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -237,6 +471,15 @@
 			"_copy": {
 				"name": "Wall of Stone",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -245,6 +488,15 @@
 			"_copy": {
 				"name": "Enlarge/Reduce",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -253,6 +505,15 @@
 			"_copy": {
 				"name": "Sleet Storm",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -261,6 +522,15 @@
 			"_copy": {
 				"name": "Vicious Mockery",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -269,6 +539,15 @@
 			"_copy": {
 				"name": "Silent Image",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -277,6 +556,15 @@
 			"_copy": {
 				"name": "Reverse Gravity",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -285,6 +573,15 @@
 			"_copy": {
 				"name": "Tongues",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -293,6 +590,15 @@
 			"_copy": {
 				"name": "Tenser's Floating Disk",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -301,6 +607,15 @@
 			"_copy": {
 				"name": "Sunbeam",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -309,6 +624,15 @@
 			"_copy": {
 				"name": "Hallucinatory Terrain",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -317,6 +641,15 @@
 			"_copy": {
 				"name": "Mordenkainen's Sword",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -325,6 +658,15 @@
 			"_copy": {
 				"name": "Resistance",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -333,6 +675,15 @@
 			"_copy": {
 				"name": "Divination",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -341,6 +692,15 @@
 			"_copy": {
 				"name": "See Invisibility",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -349,6 +709,15 @@
 			"_copy": {
 				"name": "Move Earth",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -357,6 +726,15 @@
 			"_copy": {
 				"name": "Passwall",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -365,6 +743,15 @@
 			"_copy": {
 				"name": "Maze",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -373,6 +760,15 @@
 			"_copy": {
 				"name": "Arcane Lock",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -381,6 +777,15 @@
 			"_copy": {
 				"name": "Speak with Animals",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -389,6 +794,15 @@
 			"_copy": {
 				"name": "Chill Touch",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -397,6 +811,15 @@
 			"_copy": {
 				"name": "Unseen Servant",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -405,6 +828,15 @@
 			"_copy": {
 				"name": "Knock",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -413,6 +845,15 @@
 			"_copy": {
 				"name": "Dancing Lights",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -421,6 +862,15 @@
 			"_copy": {
 				"name": "Divine Word",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -429,6 +879,15 @@
 			"_copy": {
 				"name": "Nondetection",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -437,6 +896,15 @@
 			"_copy": {
 				"name": "Mending",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -445,6 +913,15 @@
 			"_copy": {
 				"name": "Sunburst",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -453,6 +930,15 @@
 			"_copy": {
 				"name": "Continual Flame",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -461,6 +947,15 @@
 			"_copy": {
 				"name": "Forbiddance",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -469,6 +964,15 @@
 			"_copy": {
 				"name": "Blur",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -477,6 +981,15 @@
 			"_copy": {
 				"name": "Silence",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -485,6 +998,15 @@
 			"_copy": {
 				"name": "Sanctuary",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -493,6 +1015,15 @@
 			"_copy": {
 				"name": "Sending",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -501,6 +1032,15 @@
 			"_copy": {
 				"name": "Gust of Wind",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -509,6 +1049,15 @@
 			"_copy": {
 				"name": "Holy Aura",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -517,6 +1066,15 @@
 			"_copy": {
 				"name": "Warding Bond",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -525,6 +1083,15 @@
 			"_copy": {
 				"name": "Light",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -533,6 +1100,15 @@
 			"_copy": {
 				"name": "Find Familiar",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -541,6 +1117,15 @@
 			"_copy": {
 				"name": "Mordenkainen's Magnificent Mansion",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -549,6 +1134,15 @@
 			"_copy": {
 				"name": "Fire Shield",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -557,6 +1151,15 @@
 			"_copy": {
 				"name": "Fire Bolt",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -565,6 +1168,15 @@
 			"_copy": {
 				"name": "Phantom Steed",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -573,6 +1185,15 @@
 			"_copy": {
 				"name": "Eldritch Blast",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -581,6 +1202,15 @@
 			"_copy": {
 				"name": "Arcane Eye",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -589,6 +1219,15 @@
 			"_copy": {
 				"name": "True Seeing",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -597,6 +1236,15 @@
 			"_copy": {
 				"name": "Find the Path",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -605,6 +1253,15 @@
 			"_copy": {
 				"name": "Grease",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -613,6 +1270,15 @@
 			"_copy": {
 				"name": "Locate Creature",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -621,6 +1287,15 @@
 			"_copy": {
 				"name": "Awaken",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -629,6 +1304,15 @@
 			"_copy": {
 				"name": "Illusory Script",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -637,6 +1321,15 @@
 			"_copy": {
 				"name": "Disguise Self",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -645,6 +1338,15 @@
 			"_copy": {
 				"name": "Create Food and Water",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -653,6 +1355,15 @@
 			"_copy": {
 				"name": "Detect Poison and Disease",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -661,6 +1372,15 @@
 			"_copy": {
 				"name": "Augury",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -669,6 +1389,15 @@
 			"_copy": {
 				"name": "Feather Fall",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -677,6 +1406,15 @@
 			"_copy": {
 				"name": "Guardian of Faith",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -685,6 +1423,15 @@
 			"_copy": {
 				"name": "Stoneskin",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -693,6 +1440,15 @@
 			"_copy": {
 				"name": "Magic Mouth",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -701,6 +1457,15 @@
 			"_copy": {
 				"name": "Fire Storm",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -709,6 +1474,15 @@
 			"_copy": {
 				"name": "Entangle",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -717,6 +1491,15 @@
 			"_copy": {
 				"name": "Weird",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -725,6 +1508,15 @@
 			"_copy": {
 				"name": "Mordenkainen's Faithful Hound",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -733,6 +1525,15 @@
 			"_copy": {
 				"name": "Slow",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -741,6 +1542,15 @@
 			"_copy": {
 				"name": "Guidance",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -749,6 +1559,15 @@
 			"_copy": {
 				"name": "Telekinesis",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -757,6 +1576,15 @@
 			"_copy": {
 				"name": "Lesser Restoration",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -765,6 +1593,15 @@
 			"_copy": {
 				"name": "Identify",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -773,6 +1610,15 @@
 			"_copy": {
 				"name": "Mirror Image",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -781,6 +1627,15 @@
 			"_copy": {
 				"name": "Control Water",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -789,6 +1644,15 @@
 			"_copy": {
 				"name": "Symbol",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -797,6 +1661,15 @@
 			"_copy": {
 				"name": "Seeming",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -805,6 +1678,15 @@
 			"_copy": {
 				"name": "Guards and Wards",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -813,6 +1695,15 @@
 			"_copy": {
 				"name": "Sacred Flame",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -821,6 +1712,15 @@
 			"_copy": {
 				"name": "Faerie Fire",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -829,6 +1729,15 @@
 			"_copy": {
 				"name": "Water Breathing",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -837,6 +1746,15 @@
 			"_copy": {
 				"name": "Calm Emotions",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -845,6 +1763,15 @@
 			"_copy": {
 				"name": "Detect Magic",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -853,6 +1780,15 @@
 			"_copy": {
 				"name": "Nystul's Magic Aura",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -861,6 +1797,15 @@
 			"_copy": {
 				"name": "Spare the Dying",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -869,6 +1814,15 @@
 			"_copy": {
 				"name": "Expeditious Retreat",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -877,6 +1831,15 @@
 			"_copy": {
 				"name": "Water Walk",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -885,6 +1848,15 @@
 			"_copy": {
 				"name": "Antipathy/Sympathy",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -893,6 +1865,15 @@
 			"_copy": {
 				"name": "Find Traps",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -901,6 +1882,15 @@
 			"_copy": {
 				"name": "Locate Object",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -909,6 +1899,15 @@
 			"_copy": {
 				"name": "Shield",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -917,6 +1916,15 @@
 			"_copy": {
 				"name": "Leomund's Secret Chest",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -925,6 +1933,15 @@
 			"_copy": {
 				"name": "Meld into Stone",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -933,6 +1950,15 @@
 			"_copy": {
 				"name": "Shield of Faith",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -941,6 +1967,15 @@
 			"_copy": {
 				"name": "Gaseous Form",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -949,6 +1984,15 @@
 			"_copy": {
 				"name": "Prismatic Wall",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -957,6 +2001,15 @@
 			"_copy": {
 				"name": "Mage Armor",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -965,6 +2018,15 @@
 			"_copy": {
 				"name": "Incendiary Cloud",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -973,6 +2035,15 @@
 			"_copy": {
 				"name": "Freedom of Movement",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -981,6 +2052,15 @@
 			"_copy": {
 				"name": "Blade Barrier",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -989,6 +2069,15 @@
 			"_copy": {
 				"name": "Meteor Swarm",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -997,6 +2086,15 @@
 			"_copy": {
 				"name": "Purify Food and Drink",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1005,6 +2103,15 @@
 			"_copy": {
 				"name": "Darkness",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1013,6 +2120,15 @@
 			"_copy": {
 				"name": "Spider Climb",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1021,6 +2137,15 @@
 			"_copy": {
 				"name": "Project Image",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1029,6 +2154,15 @@
 			"_copy": {
 				"name": "Haste",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1037,6 +2171,15 @@
 			"_copy": {
 				"name": "Prismatic Spray",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1045,6 +2188,15 @@
 			"_copy": {
 				"name": "Shocking Grasp",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -1053,6 +2205,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1089,6 +2248,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1125,6 +2291,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1161,6 +2334,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1197,6 +2377,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1233,6 +2420,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1273,6 +2467,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1282,6 +2483,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1318,6 +2526,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1358,6 +2573,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1367,6 +2589,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1403,6 +2632,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1443,6 +2679,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1452,6 +2695,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1492,6 +2742,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1505,6 +2762,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1514,6 +2778,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1550,10 +2821,17 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
-				"Casting Time: 1 action\nRange: 90 ft.\nComponents: V, S, M (three nut shells)\nDuration: Concentration, up to 1 minute\nThis spell assaults and twists creatures' minds, spawning\ndelusions and provoking uncontrolled action. Each creature\nin a 10-foot-­radius sphere centered on a point you choose\nwithin range must succeed on a Wisdom saving throw when\nyou cast this spell or be affected by it.\nAn affected target can't take reactions and must roll a d10\nat the start of each of its turns to determine its behavior\nfor that turn.\n1d10 Behavior\n1\nrandom direction. To determine the direction, roll\na d8 and assign a direction (N, NE, E, SE, S, SW, W,\nNW) to each die face. The creature doesn't take an\naction this turn.\n2\u20136 The creature doesn't move or take actions this turn.\n7\u20138 The creature uses its action to make a melee attack\nagainst a randomly determined creature within its\nreach. If there is no creature within its reach, the\ncreature does nothing this turn.\n9\u201310 The creature can act and move normally.\nAt the end of each of its turns, an affected target can make\na Wisdom saving throw. If it succeeds, this effect ends for\nthat target.\nAt Higher Levels. When you cast this spell at 5th level\nor higher, the radius of the sphere increases by 5 feet for\neach level above 4th."
+				"Casting Time: 1 action\nRange: 90 ft.\nComponents: V, S, M (three nut shells)\nDuration: Concentration, up to 1 minute\nThis spell assaults and twists creatures' minds, spawning\ndelusions and provoking uncontrolled action. Each creature\nin a 10-foot-­radius sphere centered on a point you choose\nwithin range must succeed on a Wisdom saving throw when\nyou cast this spell or be affected by it.\nAn affected target can't take reactions and must roll a d10\nat the start of each of its turns to determine its behavior\nfor that turn.\n1d10 Behavior\n1\nrandom direction. To determine the direction, roll\na d8 and assign a direction (N, NE, E, SE, S, SW, W,\nNW) to each die face. The creature doesn't take an\naction this turn.\n2–6 The creature doesn't move or take actions this turn.\n7–8 The creature uses its action to make a melee attack\nagainst a randomly determined creature within its\nreach. If there is no creature within its reach, the\ncreature does nothing this turn.\n9–10 The creature can act and move normally.\nAt the end of each of its turns, an affected target can make\na Wisdom saving throw. If it succeeds, this effect ends for\nthat target.\nAt Higher Levels. When you cast this spell at 5th level\nor higher, the radius of the sphere increases by 5 feet for\neach level above 4th."
 			],
 			"level": 4,
 			"school": "E",
@@ -1586,6 +2864,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1626,6 +2911,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1639,6 +2931,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1648,6 +2947,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1684,6 +2990,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1720,6 +3033,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1756,6 +3076,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1796,6 +3123,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1809,6 +3143,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -1818,6 +3159,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1854,6 +3202,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1890,6 +3245,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1926,6 +3288,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1962,6 +3331,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -1998,6 +3374,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2034,6 +3417,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2070,6 +3460,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2110,6 +3507,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2119,6 +3523,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2159,6 +3570,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2168,6 +3586,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2204,6 +3629,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2244,6 +3676,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2253,6 +3692,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2293,6 +3739,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2306,6 +3759,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2319,6 +3779,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2332,6 +3799,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2341,6 +3815,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2381,6 +3862,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2390,6 +3878,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2426,6 +3921,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2466,6 +3968,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2475,6 +3984,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2511,6 +4027,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2547,6 +4070,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2583,6 +4113,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2619,6 +4156,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2655,6 +4199,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2691,6 +4242,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2731,6 +4289,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2740,6 +4305,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2776,6 +4348,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2812,6 +4391,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2848,6 +4434,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2884,6 +4477,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2920,6 +4520,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -2960,6 +4567,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -2969,6 +4583,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3009,6 +4630,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3022,6 +4650,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3035,6 +4670,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3048,6 +4690,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3061,6 +4710,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3074,6 +4730,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3087,6 +4750,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3096,6 +4766,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3136,6 +4813,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3149,6 +4833,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3158,6 +4849,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3194,6 +4892,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3230,6 +4935,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3270,6 +4982,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3279,6 +4998,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3315,6 +5041,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3355,6 +5088,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3368,6 +5108,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3377,6 +5124,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3413,6 +5167,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3453,6 +5214,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			}
 		},
@@ -3462,6 +5230,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -3521,7 +5296,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Ray of Frost",
@@ -3529,6 +5313,15 @@
 			"_copy": {
 				"name": "Ray of Frost",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -3560,7 +5353,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Larvae Boil",
@@ -3591,7 +5393,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Antimagic Field",
@@ -3599,6 +5410,15 @@
 			"_copy": {
 				"name": "Antimagic Field",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -3630,7 +5450,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Animal Friendship",
@@ -3661,7 +5490,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Poison Spray",
@@ -3669,6 +5507,15 @@
 			"_copy": {
 				"name": "Poison Spray",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -3700,7 +5547,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Plant Growth",
@@ -3708,6 +5564,15 @@
 			"_copy": {
 				"name": "Plant Growth",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -3739,7 +5604,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Fog Cloud",
@@ -3770,7 +5644,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Anathema",
@@ -3801,7 +5684,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Enhance Ability",
@@ -3832,7 +5724,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Judging Bonds",
@@ -3863,7 +5764,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Glyph of Warding",
@@ -3894,7 +5804,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Turn Weather",
@@ -3925,13 +5844,22 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Insect Plague",
 			"source": "RuinsOfSymbaroumS",
 			"entries": [
-				"Swarming, biting locusts fill a 20-foot-­radius sphere cen-\ntered on a point you choose within range. The sphere spreads\naround corners. The sphere remains for the duration, and its\narea is lightly obscured. The sphere's area is difficult terrain.\nWhen the locusts appears, each creature within the\narea of the sphere must make a Constitution saving throw.\nA creature takes 4d10 piercing damage on a failed save, or\nhalf as much damage on a successful one. A creature must\nalso make this saving throw when it enters the spell's area\nfor the first time on a turn or ends its turn there.\nAt Higher Levels. When you cast this spell at 6th level or\nhigher, the damage increases by 1d10 for each level above 5th.\nSpell Descriptions\nNot all curiosities encountered in Davokar are\nancient and of Symbarian design. The clanfolks and\neven Ambrian outcasts sometimes worship strange\n5\nentities \u2013 some fictional, some very much real.\n5 Resources"
+				"Swarming, biting locusts fill a 20-foot-­radius sphere cen-\ntered on a point you choose within range. The sphere spreads\naround corners. The sphere remains for the duration, and its\narea is lightly obscured. The sphere's area is difficult terrain.\nWhen the locusts appears, each creature within the\narea of the sphere must make a Constitution saving throw.\nA creature takes 4d10 piercing damage on a failed save, or\nhalf as much damage on a successful one. A creature must\nalso make this saving throw when it enters the spell's area\nfor the first time on a turn or ends its turn there.\nAt Higher Levels. When you cast this spell at 6th level or\nhigher, the damage increases by 1d10 for each level above 5th.\nSpell Descriptions\nNot all curiosities encountered in Davokar are\nancient and of Symbarian design. The clanfolks and\neven Ambrian outcasts sometimes worship strange\n5\nentities – some fictional, some very much real.\n5 Resources"
 			],
 			"level": 5,
 			"school": "C",
@@ -3956,7 +5884,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Purgatory",
@@ -3987,7 +5924,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Holy Smoke",
@@ -4018,7 +5964,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Exchange Shadow",
@@ -4049,7 +6004,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Flaming Servant",
@@ -4080,7 +6044,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Ice Storm",
@@ -4111,7 +6084,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Acid Splash",
@@ -4119,6 +6101,15 @@
 			"_copy": {
 				"name": "Acid Splash",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4127,6 +6118,15 @@
 			"_copy": {
 				"name": "Time Stop",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4158,7 +6158,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Hallow",
@@ -4166,6 +6175,15 @@
 			"_copy": {
 				"name": "Hallow",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4197,7 +6215,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Magic Weapon",
@@ -4228,7 +6255,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Tiny Hut",
@@ -4236,6 +6272,15 @@
 			"_copy": {
 				"name": "Leomund's Tiny Hut",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4267,7 +6312,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Cone of Cold",
@@ -4298,7 +6352,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Spiritual Weapon",
@@ -4329,7 +6392,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Wall of Force",
@@ -4337,6 +6409,15 @@
 			"_copy": {
 				"name": "Wall of Force",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4368,7 +6449,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Sleep",
@@ -4399,7 +6489,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Arcane Hand",
@@ -4430,7 +6529,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Prayer of Healing",
@@ -4461,7 +6569,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Cloudkill",
@@ -4492,7 +6609,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Heat Metal",
@@ -4523,13 +6649,22 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Magic Circle",
 			"source": "RuinsOfSymbaroumS",
 			"entries": [
-				"You create a 10-foot-­radius, 20-foot-­tall cylinder of magical\nenergy centered on a point on the ground that you can see\nwithin range. Glowing runes appear wherever the cylinder\nintersects with the floor or another surface. Choose one\noption: a) A mystic that knows the pattern to a permanent\nteleportation circle may communicate telepathically with\nthe attendant of that circle (see The Chapter Circles of Ordo\nMagica on page 204). Or\nb) Choose one or more of the following types of creatures:\ncelestials, elementals, fey, fiends, or phenomenons. The circle\naffects a creature of the chosen type in the following ways:\n• The creature can't willingly enter the cylinder by non-\nmagical means. If the creature tries to use teleportation\nor interplanar travel to do so, it must first succeed on a\nCharisma saving throw.\n• The creature has disadvantage on attack rolls against\ntargets within the cylinder.\n• Targets within the cylinder can't be charmed, frightened,\nor possessed by the creature.\nWhen you choose this option, you can elect to cause\nits magic to operate in the reverse direction, preventing a\ncreature of the specified type from leaving the cylinder and\nprotecting targets outside it.\nAt Higher Levels. When you cast this spell at 4th level\nor higher, the duration increases by 1 hour for each level\nabove 3rd.\n5 Resources\nThe Chapter Circles of Ordo Magica\nEach chapter of Ordo Magica has a permanent tele-\nportation circle and these are more or less always\nmanned by a bored and/or studying novice, making it\npossible to always reach the chapter telepathically.\nTelepathy is the transmission of direct thought,\nwith no opportunity for subtlety or dissembling, so\nwizards are generally reluctant to overuse telepath-\nic communication, especially with mystics they do\nnot know very well. Even with trusted colleagues,\ntransmissions are kept as short as possible \u2013 on the\ncrowded career ladder of Ordo Magica there is no\nroom to give even a close friend any competitive\nadvantage, if you can avoid it."
+				"You create a 10-foot-­radius, 20-foot-­tall cylinder of magical\nenergy centered on a point on the ground that you can see\nwithin range. Glowing runes appear wherever the cylinder\nintersects with the floor or another surface. Choose one\noption: a) A mystic that knows the pattern to a permanent\nteleportation circle may communicate telepathically with\nthe attendant of that circle (see The Chapter Circles of Ordo\nMagica on page 204). Or\nb) Choose one or more of the following types of creatures:\ncelestials, elementals, fey, fiends, or phenomenons. The circle\naffects a creature of the chosen type in the following ways:\n• The creature can't willingly enter the cylinder by non-\nmagical means. If the creature tries to use teleportation\nor interplanar travel to do so, it must first succeed on a\nCharisma saving throw.\n• The creature has disadvantage on attack rolls against\ntargets within the cylinder.\n• Targets within the cylinder can't be charmed, frightened,\nor possessed by the creature.\nWhen you choose this option, you can elect to cause\nits magic to operate in the reverse direction, preventing a\ncreature of the specified type from leaving the cylinder and\nprotecting targets outside it.\nAt Higher Levels. When you cast this spell at 4th level\nor higher, the duration increases by 1 hour for each level\nabove 3rd.\n5 Resources\nThe Chapter Circles of Ordo Magica\nEach chapter of Ordo Magica has a permanent tele-\nportation circle and these are more or less always\nmanned by a bored and/or studying novice, making it\npossible to always reach the chapter telepathically.\nTelepathy is the transmission of direct thought,\nwith no opportunity for subtlety or dissembling, so\nwizards are generally reluctant to overuse telepath-\nic communication, especially with mystics they do\nnot know very well. Even with trusted colleagues,\ntransmissions are kept as short as possible – on the\ncrowded career ladder of Ordo Magica there is no\nroom to give even a close friend any competitive\nadvantage, if you can avoid it."
 			],
 			"level": 3,
 			"school": "A",
@@ -4554,7 +6689,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Wall of Ice",
@@ -4585,7 +6729,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Blink",
@@ -4616,7 +6769,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Wall of Fire",
@@ -4647,7 +6809,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Animate Objects",
@@ -4678,7 +6849,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Detect Evil and Good",
@@ -4709,7 +6889,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Heroism",
@@ -4740,7 +6929,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Exorcism",
@@ -4771,7 +6969,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Create or Destroy Water",
@@ -4802,7 +7009,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Creation",
@@ -4833,7 +7049,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Minor Illusion",
@@ -4841,6 +7066,15 @@
 			"_copy": {
 				"name": "Minor Illusion",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -4872,7 +7106,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Spirit Walk",
@@ -4903,13 +7146,22 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Teleportation Circle",
 			"source": "RuinsOfSymbaroumS",
 			"entries": [
-				"3\nAs you cast the spell, you draw a 10-foot-­diameter circle on\n4\nthe ground inscribed with sigils that link your location to a\n5\npermanent teleportation circle of your choice whose sigil\nsequence you know and that is on the same plane of exis-\ntence as you. A shimmering portal opens within the circle\nyou drew and remains open until the end of your next turn.\nAny creature that enters the portal instantly appears within\n5 feet of the destination circle or in the nearest unoccupied\nspace if that space is occupied.\nMany Ordo Magica facilities have permanent telepor-\ntation circles inscribed somewhere within their confines.\n5\nEach such circle includes a unique sigil sequence \u2013 a string\n6\nof magical runes arranged in a particular pattern. When\nyou first gain the ability to cast this spell, you learn the sigil\nsequences for two destinations, as determined by the GM.\nYou can learn additional sigil sequences during your adven-\ntures. You can commit a new sigil sequence to memory after\nstudying it for 1 minute.\nYou can create a permanent teleportation circle by cast-\ning this spell in the same location every day for one year.\n4\nYou need not use the circle to teleport when you cast the\n5\nspell in this way."
+				"3\nAs you cast the spell, you draw a 10-foot-­diameter circle on\n4\nthe ground inscribed with sigils that link your location to a\n5\npermanent teleportation circle of your choice whose sigil\nsequence you know and that is on the same plane of exis-\ntence as you. A shimmering portal opens within the circle\nyou drew and remains open until the end of your next turn.\nAny creature that enters the portal instantly appears within\n5 feet of the destination circle or in the nearest unoccupied\nspace if that space is occupied.\nMany Ordo Magica facilities have permanent telepor-\ntation circles inscribed somewhere within their confines.\n5\nEach such circle includes a unique sigil sequence – a string\n6\nof magical runes arranged in a particular pattern. When\nyou first gain the ability to cast this spell, you learn the sigil\nsequences for two destinations, as determined by the GM.\nYou can learn additional sigil sequences during your adven-\ntures. You can commit a new sigil sequence to memory after\nstudying it for 1 minute.\nYou can create a permanent teleportation circle by cast-\ning this spell in the same location every day for one year.\n4\nYou need not use the circle to teleport when you cast the\n5\nspell in this way."
 			],
 			"level": 5,
 			"school": "C",
@@ -4934,7 +7186,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Longstrider",
@@ -4965,7 +7226,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Accurate Strike",
@@ -4996,7 +7266,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Comprehend Languages",
@@ -5004,6 +7283,15 @@
 			"_copy": {
 				"name": "Comprehend Languages",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5012,6 +7300,15 @@
 			"_copy": {
 				"name": "Gentle Repose",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5043,7 +7340,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Shatter",
@@ -5074,7 +7380,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Beacon of Hope",
@@ -5082,6 +7397,15 @@
 			"_copy": {
 				"name": "Beacon of Hope",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5113,7 +7437,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Guiding Bolt",
@@ -5144,7 +7477,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Private Sanctum",
@@ -5175,7 +7517,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Locate Animals or Plants",
@@ -5183,6 +7534,15 @@
 			"_copy": {
 				"name": "Locate Animals or Plants",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5214,7 +7574,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Rope Trick",
@@ -5222,13 +7591,22 @@
 			"_copy": {
 				"name": "Rope Trick",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
 			"name": "Tale of Ashes",
 			"source": "RuinsOfSymbaroumS",
 			"entries": [
-				"This spell allows a mystic to read the ashes of a burnt ob-\nject and thereby discern what the object once was and what\nhappened when it burned \u2013 the mystic experiences all im-\npressions from the fire, sees who was there and hears what\nwas being said. A campfire can have much to tell about what\nhappened around it.\n3rd Level Spells"
+				"This spell allows a mystic to read the ashes of a burnt ob-\nject and thereby discern what the object once was and what\nhappened when it burned – the mystic experiences all im-\npressions from the fire, sees who was there and hears what\nwas being said. A campfire can have much to tell about what\nhappened around it.\n3rd Level Spells"
 			],
 			"level": 2,
 			"school": "D",
@@ -5253,7 +7631,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Jump",
@@ -5261,6 +7648,15 @@
 			"_copy": {
 				"name": "Jump",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5292,7 +7688,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Living Fortress",
@@ -5323,7 +7728,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Acid Arrow",
@@ -5354,7 +7768,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Bless",
@@ -5385,7 +7808,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Daylight",
@@ -5393,6 +7825,15 @@
 			"_copy": {
 				"name": "Daylight",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5424,7 +7865,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Scorching Ray",
@@ -5455,7 +7905,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Protection from Energy",
@@ -5463,6 +7922,15 @@
 			"_copy": {
 				"name": "Protection from Energy",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5494,7 +7962,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Invisibility",
@@ -5525,7 +8002,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		},
 		{
 			"name": "Control Weather",
@@ -5533,6 +8019,15 @@
 			"_copy": {
 				"name": "Control Weather",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5541,6 +8036,13 @@
 			"foundryFlags": {
 				"syb5e": {
 					"notFavorable": true
+				},
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
 				}
 			},
 			"entries": [
@@ -5577,6 +8079,15 @@
 			"_copy": {
 				"name": "Web",
 				"source": "PHB"
+			},
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
 			}
 		},
 		{
@@ -5608,7 +8119,16 @@
 				{
 					"type": "instant"
 				}
-			]
+			],
+			"foundryFlags": {
+				"dnd5e": {
+					"consume": {
+						"type": "",
+						"target": null,
+						"amount": null
+					}
+				}
+			}
 		}
 	]
 }
