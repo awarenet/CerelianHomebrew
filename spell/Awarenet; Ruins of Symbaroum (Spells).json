@@ -291,7 +291,7 @@
 			"name": "Floating Disk",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Floating Disk",
+				"name": "Tenser's Floating Disk",
 				"source": "PHB"
 			}
 		},
@@ -315,7 +315,7 @@
 			"name": "Arcane Sword",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Arcane Sword",
+				"name": "Mordenkainen's Sword",
 				"source": "PHB"
 			}
 		},
@@ -539,7 +539,7 @@
 			"name": "Magnificent Mansion",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Magnificent Mansion",
+				"name": "Mordenkainen's Magnificent Mansion",
 				"source": "PHB"
 			}
 		},
@@ -723,7 +723,7 @@
 			"name": "Faithful Hound",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Faithful Hound",
+				"name": "Mordenkainen's Faithful Hound",
 				"source": "PHB"
 			}
 		},
@@ -851,7 +851,7 @@
 			"name": "Arcanist's Magic Aura",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Arcanist's Magic Aura",
+				"name": "Nystul's Magic Aura",
 				"source": "PHB"
 			}
 		},
@@ -915,7 +915,7 @@
 			"name": "Secret Chest",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Secret Chest",
+				"name": "Leomund's Secret Chest",
 				"source": "PHB"
 			}
 		},
@@ -1072,12 +1072,12 @@
 		{
 			"name": "Black Breath",
 			"source": "RuinsOfSymbaroumS",
+			"foundryFlags": {
+				"notFavorable": true
+			},
 			"_copy": {
 				"name": "Black Breath",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"name": "Black Tentacles",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Black Tentacles",
+				"name": "Evard's Black Tentacles",
 				"source": "PHB"
 			},
 			"foundryFlags": {
@@ -1281,12 +1281,12 @@
 		{
 			"name": "Black Bolt",
 			"source": "RuinsOfSymbaroumS",
+			"foundryFlags": {
+				"notFavorable": true
+			},
 			"_copy": {
 				"name": "Black Bolt",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -1424,12 +1424,12 @@
 		{
 			"name": "Commune with Spirits",
 			"source": "RuinsOfSymbaroumS",
+			"foundryFlags": {
+				"notFavorable": true
+			},
 			"_copy": {
 				"name": "Commune with Spirits",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -1589,12 +1589,12 @@
 		{
 			"name": "Patron Saint",
 			"source": "RuinsOfSymbaroumS",
+			"foundryFlags": {
+				"notFavorable": true
+			},
 			"_copy": {
 				"name": "Patron Saint",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -1799,7 +1799,7 @@
 			"name": "Hideous Laughter",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Hideous Laughter",
+				"name": "Tasha's Hideous Laughter",
 				"source": "PHB"
 			},
 			"foundryFlags": {
@@ -1810,7 +1810,7 @@
 			"name": "Irresistible Dance",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Irresistible Dance",
+				"name": "Otto's Irresistible Dance",
 				"source": "PHB"
 			},
 			"foundryFlags": {
@@ -1897,12 +1897,12 @@
 		{
 			"name": "Blood Bond",
 			"source": "RuinsOfSymbaroumS",
+			"foundryFlags": {
+				"notFavorable": true
+			},
 			"_copy": {
 				"name": "Blood Bond",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2070,7 +2070,7 @@
 			"name": "Freezing Sphere",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Freezing Sphere",
+				"name": "Otiluke's Freezing Sphere",
 				"source": "PHB"
 			}
 		},
@@ -2262,7 +2262,7 @@
 			"name": "Tiny Hut",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Tiny Hut",
+				"name": "Leomund's Tiny Hut",
 				"source": "PHB"
 			}
 		},
@@ -2318,7 +2318,7 @@
 			"name": "Arcane Hand",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Arcane Hand",
+				"name": "Bigby's Hand",
 				"source": "PHB"
 			}
 		},
@@ -2415,14 +2415,6 @@
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Create or Destroy Water",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "A detailed listing of new and modified spells follows.",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "A detailed listing of new and modified spells follows.",
 				"source": "PHB"
 			}
 		},
@@ -2542,7 +2534,7 @@
 			"name": "Private Sanctum",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Private Sanctum",
+				"name": "Mordenkainen's Private Sanctum",
 				"source": "PHB"
 			}
 		},
@@ -2606,7 +2598,7 @@
 			"name": "Acid Arrow",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
-				"name": "Acid Arrow",
+				"name": "Melf's Acid Arrow",
 				"source": "PHB"
 			}
 		},
