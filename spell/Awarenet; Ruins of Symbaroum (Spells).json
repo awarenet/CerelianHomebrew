@@ -15,7 +15,12 @@
 		],
 		"dateAdded": 1759251292,
 		"dateLastModified": 1759251292,
-		"edition": "classic"
+		"edition": "classic",
+		"dependencies": {
+			"spell": [
+				"PHB"
+			]
+		}
 	},
 	"spell": [
 		{
@@ -2097,17 +2102,6 @@
 			}
 		},
 		{
-			"name": "Hideous Laughter",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hideous Laughter",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Ray of Frost",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2116,66 +2110,11 @@
 			}
 		},
 		{
-			"name": "Dominate Monster",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dominate Monster",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mass Suggestion",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Suggestion",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mislead",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mislead",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "False Life",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "False Life",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Thunderwave",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Thunderwave",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Dispel Evil and Good",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dispel Evil and Good",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2203,61 +2142,6 @@
 			}
 		},
 		{
-			"name": "Dimension Door",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dimension Door",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Protection from Evil and Good",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Protection from Evil and Good",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Chain Lightning",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Chain Lightning",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Charm Person",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Charm Person",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Feeblemind",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Feeblemind",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Animal Friendship",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2271,39 +2155,6 @@
 			"_copy": {
 				"name": "Poison Spray",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Hold Person",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hold Person",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mind Blank",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mind Blank",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mass Healing Word",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Healing Word",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2355,17 +2206,6 @@
 			}
 		},
 		{
-			"name": "Speak with Dead",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Speak with Dead",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Judging Bonds",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2374,33 +2214,11 @@
 			}
 		},
 		{
-			"name": "Greater Restoration",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Greater Restoration",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Glyph of Warding",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Glyph of Warding",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Hold Monster",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hold Monster",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2420,17 +2238,6 @@
 			}
 		},
 		{
-			"name": "Fabricate",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fabricate",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Purgatory",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2447,44 +2254,11 @@
 			}
 		},
 		{
-			"name": "Plane Shift",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Plane Shift",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Blindness/Deafness",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blindness/Deafness",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Exchange Shadow",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Exchange Shadow",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Eyebite",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Eyebite",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2496,55 +2270,11 @@
 			}
 		},
 		{
-			"name": "Disintegrate",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Disintegrate",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Ice Storm",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Ice Storm",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Power Word Stun",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Power Word Stun",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Suggestion",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Suggestion",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Phantasmal Killer",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Phantasmal Killer",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2572,39 +2302,6 @@
 			}
 		},
 		{
-			"name": "Compulsion",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Compulsion",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Confusion",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Confusion",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Blood Bond",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blood Bond",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Hallow",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -2621,33 +2318,11 @@
 			}
 		},
 		{
-			"name": "Bane",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Bane",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Magic Weapon",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Magic Weapon",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Wish",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Wish",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2659,55 +2334,11 @@
 			}
 		},
 		{
-			"name": "Contact Other Plane",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Contact Other Plane",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Zone of Truth",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Zone of Truth",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Fire Soul",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Fire Soul",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Misty Step",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Misty Step",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Flame Strike",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Flame Strike",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2727,44 +2358,11 @@
 			}
 		},
 		{
-			"name": "Finger of Death",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Finger of Death",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Wall of Force",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Wall of Force",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Forcecage",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Forcecage",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Spirit Guardians",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Spirit Guardians",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2776,33 +2374,11 @@
 			}
 		},
 		{
-			"name": "Geas",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Geas",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Sleep",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Sleep",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Black Tentacles",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Black Tentacles",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2814,77 +2390,11 @@
 			}
 		},
 		{
-			"name": "Revivify",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Revivify",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Prayer of Healing",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Prayer of Healing",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Enthrall",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Enthrall",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Clairvoyance",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Clairvoyance",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Fear",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fear",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Scrying",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Scrying",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Remove Curse",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Remove Curse",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2904,55 +2414,11 @@
 			}
 		},
 		{
-			"name": "Heal",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Heal",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Command",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Command",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Magic Circle",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Magic Circle",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Clone",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Clone",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mass Heal",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Heal",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -2972,36 +2438,6 @@
 			}
 		},
 		{
-			"name": "Heroes' Feast",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Heroes' Feast",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "Fly",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fly",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Etherealness",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Etherealness",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Wall of Fire",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -3010,44 +2446,11 @@
 			}
 		},
 		{
-			"name": "Vampiric Touch",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Vampiric Touch",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Animate Objects",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Animate Objects",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Detect Thoughts",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Detect Thoughts",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Alter Self",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Alter Self",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3083,88 +2486,11 @@
 			}
 		},
 		{
-			"name": "Gate",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Gate",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Patron Saint",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Patron Saint",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Create Undead",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Create Undead",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Aid",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Aid",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Demiplane",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Demiplane",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Mass Cure Wounds",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Mass Cure Wounds",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Inflict Wounds",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Inflict Wounds",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Flesh to Stone",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Flesh to Stone",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3176,44 +2502,11 @@
 			}
 		},
 		{
-			"name": "Animate Dead",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Animate Dead",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Death Ward",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Death Ward",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Creation",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Creation",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Harm",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Harm",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3233,33 +2526,11 @@
 			}
 		},
 		{
-			"name": "Bestow Curse",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Bestow Curse",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Spirit Walk",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Spirit Walk",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Polymorph",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Polymorph",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3271,28 +2542,6 @@
 			}
 		},
 		{
-			"name": "Black Bolt",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Black Bolt",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Cure Wounds",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Cure Wounds",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Longstrider",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -3301,33 +2550,11 @@
 			}
 		},
 		{
-			"name": "Counterspell",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Counterspell",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Accurate Strike",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Accurate Strike",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Healing Word",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Healing Word",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3347,33 +2574,11 @@
 			}
 		},
 		{
-			"name": "Burning Hands",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Burning Hands",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Lifegiver",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Lifegiver",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Power Word Kill",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Power Word Kill",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3393,17 +2598,6 @@
 			}
 		},
 		{
-			"name": "Levitate",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Levitate",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Inherit Wound",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -3420,66 +2614,11 @@
 			}
 		},
 		{
-			"name": "Dominate Person",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dominate Person",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Private Sanctum",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Private Sanctum",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Irresistible Dance",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Irresistible Dance",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Fireball",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Fireball",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Blight",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Blight",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Circle of Death",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Circle of Death",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3507,73 +2646,10 @@
 			}
 		},
 		{
-			"name": "Lightning Bolt",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Lightning Bolt",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Tale of Ashes",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Tale of Ashes",
-				"source": "PHB"
-			}
-		},
-		{
-			"name": "Hellish Rebuke",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Hellish Rebuke",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Modify Memory",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Modify Memory",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Ray of Enfeeblement",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Ray of Enfeeblement",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Commune with Spirits",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Commune with Spirits",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Arcanist's Magic Aura",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Arcanist's Magic Aura",
 				"source": "PHB"
 			}
 		},
@@ -3594,33 +2670,11 @@
 			}
 		},
 		{
-			"name": "Banishment",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Banishment",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Living Fortress",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Living Fortress",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Magic Missile",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Magic Missile",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
@@ -3664,17 +2718,6 @@
 			}
 		},
 		{
-			"name": "Planar Binding",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Planar Binding",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Protection from Energy",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
@@ -3683,55 +2726,11 @@
 			}
 		},
 		{
-			"name": "Dispel Magic",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Dispel Magic",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Imprisonment",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Imprisonment",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
 			"name": "Blood Storm",
 			"source": "RuinsOfSymbaroumS",
 			"_copy": {
 				"name": "Blood Storm",
 				"source": "PHB"
-			}
-		},
-		{
-			"name": "Delayed Blast Fireball",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Delayed Blast Fireball",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
-			}
-		},
-		{
-			"name": "Black Breath",
-			"source": "RuinsOfSymbaroumS",
-			"_copy": {
-				"name": "Black Breath",
-				"source": "PHB"
-			},
-			"foundryFlags": {
-				"notFavorable": true
 			}
 		},
 		{
