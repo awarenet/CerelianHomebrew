@@ -574,33 +574,33 @@
 							]
 						},
 						{
-							"name": "Pariahs",
-							"type": "entries",
-							"entries": [
-								"Ogres are often poorly treated in society and have disadvantage on Charisma checks with other peoples. However, they tend to do well with goblins and make normal Charisma checks when interacting with them."
-							]
-						},
-						{
-							"name": "Calmness",
-							"type": "entries",
-							"entries": [
-								"Ogres are slow to speak, slow to take offense and are possessed by a deep mental placidity. You have advantage on Wisdom saving throws against enchantments and other mind-altering magics."
-							]
-						},
-						{
-							"name": "Tough Skin",
-							"type": "entries",
-							"entries": [
-								"Ogres can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
-							]
-						},
-						{
 							"name": "Languages",
 							"type": "entries",
 							"entries": [
 								"Ogres speak the language of whomever adopted them."
 							]
 						}
+					]
+				},
+				{
+					"name": "Pariahs",
+					"type": "entries",
+					"entries": [
+						"Ogres are often poorly treated in society and have disadvantage on Charisma checks with other peoples. However, they tend to do well with goblins and make normal Charisma checks when interacting with them."
+					]
+				},
+				{
+					"name": "Calmness",
+					"type": "entries",
+					"entries": [
+						"Ogres are slow to speak, slow to take offense and are possessed by a deep mental placidity. You have advantage on Wisdom saving throws against enchantments and other mind-altering magics."
+					]
+				},
+				{
+					"name": "Tough Skin",
+					"type": "entries",
+					"entries": [
+						"Ogres can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
 					]
 				}
 			]
@@ -631,8 +631,15 @@
 			],
 			"languageProficiencies": [
 				{
-					"other": true,
-					"anyStandard": 2
+					"troll": true,
+					"choose": {
+						"from": [
+							"elvish",
+							"common",
+							"undercommon"
+						],
+						"count": 2
+					}
 				}
 			],
 			"entries": [
@@ -678,26 +685,26 @@
 							]
 						},
 						{
-							"name": "Pariah",
-							"type": "entries",
-							"entries": [
-								"Humans are fearful of trolls so a troll making a check involving a human has disadvantage. A troll that succeeds at a Charisma (Intimidation) check involving one or more humans however will mean that the humans are frightened of the troll for one minute or until the troll leaves the immediate area."
-							]
-						},
-						{
-							"name": "Tough Skin",
-							"type": "entries",
-							"entries": [
-								"Trolls can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
-							]
-						},
-						{
 							"name": "Languages",
 							"type": "entries",
 							"entries": [
 								"Trolls have their own language, passed down from other trolls since the beginnings of the world. Those who wander often pick up Elvish and at least one of the human tongues in order to make themselves understood."
 							]
 						}
+					]
+				},
+				{
+					"name": "Pariah",
+					"type": "entries",
+					"entries": [
+						"Humans are fearful of trolls so a troll making a check involving a human has disadvantage. A troll that succeeds at a Charisma (Intimidation) check involving one or more humans however will mean that the humans are frightened of the troll for one minute or until the troll leaves the immediate area."
+					]
+				},
+				{
+					"name": "Tough Skin",
+					"type": "entries",
+					"entries": [
+						"Trolls can withstand more hurt than most other creatures. When rolling for hit points, roll the Hit Die twice and use the higher result. If using the average result, use 6."
 					]
 				}
 			]
@@ -779,20 +786,20 @@
 								"Undead speak the language they used in life, usually either Ambrian or Barbarian."
 							]
 						},
-						{
-							"name": "Physical Degeneration",
-							"type": "entries",
-							"entries": [
-								"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
-							]
-						},
-						{
-							"name": "Undead",
-							"type": "entries",
-							"entries": [
-								"You do not sleep, cannot eat normal food, do not need to breathe (except to talk). You can drink small amounts of liquid. You do not naturally heal during a short or long rest, instead you must either drink blood or consume raw flesh during a long rest to restore your single Hit Die, which you can then use to regain hit points or reduce temporary Corruption. You can benefit from healing magic. When you interact with the living, you must make a Charisma (Deception) check against their passive Insight in order to fool them."
-							]
-						}
+					]
+				},
+				{
+					"name": "Physical Degeneration",
+					"type": "entries",
+					"entries": [
+						"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
+					]
+				},
+				{
+					"name": "Undead",
+					"type": "entries",
+					"entries": [
+						"You do not sleep, cannot eat normal food, do not need to breathe (except to talk). You can drink small amounts of liquid. You do not naturally heal during a short or long rest, instead you must either drink blood or consume raw flesh during a long rest to restore your single Hit Die, which you can then use to regain hit points or reduce temporary Corruption. You can benefit from healing magic. When you interact with the living, you must make a Charisma (Deception) check against their passive Insight in order to fool them."
 					]
 				}
 			]
@@ -839,7 +846,7 @@
 							"name": "Ability Score Increase",
 							"type": "entries",
 							"entries": [
-								"Your Strength score increases by 2. Increase Dexterity, Constitution or Charisma by 1. Depending on your culture, you increase either Intelligence or Wisdom by 1."
+								"Your Strength score increases by 2. Increase Dexterity, Constitution or Charisma by 1."
 							]
 						},
 						{
@@ -862,54 +869,61 @@
 							"entries": [
 								"Your base walking speed is 30 feet."
 							]
-						},
-						{
-							"name": "Culture",
-							"type": "entries",
-							"entries": [
-								"You choose between Ambrian or Barbarian culture.",
-								{
-									"name": "Ambrian",
-									"type": "entries",
-									"entries": [
-										{
-											"name": "Educated",
-											"type": "entries",
-											"entries": [
-												"Your Intelligence score increases by 1."
-											]
-										},
-										{
-											"name": "Contacts",
-											"type": "entries",
-											"entries": [
-												"Ambrians are very sociable and end up knowing many folk. You might have served in an organization or traveled far and wide. With a successful DC 10 Charisma (Persuasion) check you can find out about a person who should be able to help with a specific question or precarious situation. The contact may not be available \u2013 that depends on the GM's judgment of your faction. When it comes to specifying a faction for the character's contact, suitable options include: a barbarian clan, the Queen's Army, the Queen's Rangers, witches, Ordo Magica, the Church of Prios, a noble house or treasure hunters."
-											]
-										}
-									]
-								},
-								{
-									"name": "Barbarian",
-									"type": "entries",
-									"entries": [
-										{
-											"name": "Bushcraft",
-											"type": "entries",
-											"entries": [
-												"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themself while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
-											]
-										},
-										{
-											"name": "World-canny",
-											"type": "entries",
-											"entries": [
-												"Your Wisdom score increases by 1."
-											]
-										}
-									]
-								}
-							]
 						}
+					]
+				}
+			]
+		}
+	],
+	"subrace": [
+		{
+			"name": "Ambrian",
+			"raceName": "Human",
+			"source": "RuinsOfSymbaroumR",
+			"ability": [
+				{
+					"int": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Contacts",
+					"type": "entries",
+					"entries": [
+						"Ambrians are very sociable and end up knowing many folk. You might have served in an organization or traveled far and wide. With a successful DC 10 Charisma (Persuasion) check you can find out about a person who should be able to help with a specific question or precarious situation. The contact may not be available \u2013 that depends on the GM's judgment of your faction. When it comes to specifying a faction for the character's contact, suitable options include: a barbarian clan, the Queen's Army, the Queen's Rangers, witches, Ordo Magica, the Church of Prios, a noble house or treasure hunters."
+					]
+				},
+				{
+					"name": "Educated",
+					"type": "entries",
+					"entries": [
+						"Your Intelligence score increases by 1."
+					]
+				}
+			]
+		},
+		{
+			"name": "Barbarian",
+			"raceName": "Human",
+			"source": "RuinsOfSymbaroumR",
+			"ability": [
+				{
+					"wis": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Bushcraft",
+					"type": "entries",
+					"entries": [
+						"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themself while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
+					]
+				},
+				{
+					"name": "World-canny",
+					"type": "entries",
+					"entries": [
+						"Your Wisdom score increases by 1."
 					]
 				}
 			]
