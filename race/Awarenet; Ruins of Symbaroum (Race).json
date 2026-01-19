@@ -874,5 +874,59 @@
 				}
 			]
 		}
+	],
+	"subrace": [
+		{
+			"name": "Ambrian",
+			"raceName": "Human",
+			"source": "RuinsOfSymbaroumR",
+			"ability": [
+				{
+					"int": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Contacts",
+					"type": "entries",
+					"entries": [
+						"Ambrians are very sociable and end up knowing many folk. You might have served in an organization or traveled far and wide. With a successful DC 10 Charisma (Persuasion) check you can find out about a person who should be able to help with a specific question or precarious situation. The contact may not be available \u2013 that depends on the GM's judgment of your faction. When it comes to specifying a faction for the character's contact, suitable options include: a barbarian clan, the Queen's Army, the Queen's Rangers, witches, Ordo Magica, the Church of Prios, a noble house or treasure hunters."
+					]
+				},
+				{
+					"name": "Educated",
+					"type": "entries",
+					"entries": [
+						"Your Intelligence score increases by 1."
+					]
+				}
+			]
+		},
+		{
+			"name": "Barbarian",
+			"raceName": "Human",
+			"source": "RuinsOfSymbaroumR",
+			"ability": [
+				{
+					"wis": 1
+				}
+			],
+			"entries": [
+				{
+					"name": "Bushcraft",
+					"type": "entries",
+					"entries": [
+						"You can survive on meager resources and are used to finding food and shelter in harsh terrain. With a successful DC 10 Wisdom (Survival) check, the character can find enough food and water to feed themself while being on the move in the wilderness or among Davokar's ruins. If the character is part of a small group (up to five individuals), food and water can be found for them as well (increase the DC for the check by one for each additional person other than yourself), but that will take much longer. The group cannot be on the move during that time."
+					]
+				},
+				{
+					"name": "World-canny",
+					"type": "entries",
+					"entries": [
+						"Your Wisdom score increases by 1."
+					]
+				}
+			]
+		}
 	]
 }
