@@ -422,8 +422,14 @@
 			],
 			"languageProficiencies": [
 				{
-					"anyStandard": 1,
-					"other": true
+					"common": true,
+					"choose": {
+						"from": [
+							"troll",
+							"elvish"
+						],
+						"count": 1
+					}
 				}
 			],
 			"entries": [
@@ -472,26 +478,26 @@
 							]
 						},
 						{
-							"name": "Pariahs",
-							"type": "entries",
-							"entries": [
-								"Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin."
-							]
-						},
-						{
-							"name": "Survival Instinct",
-							"type": "entries",
-							"entries": [
-								"While goblins are a loud and fractious people, they have a powerful will to survive. You can take either the Dash, Dodge or Disengage actions using your bonus action. You also gain proficiency with the Stealth and Survival skills."
-							]
-						},
-						{
 							"name": "Languages",
 							"type": "entries",
 							"entries": [
 								"Goblins usually speak the local human language, either Ambrian or Barbarian. Some near Davokar speak the language of trolls or elves as well."
 							]
 						}
+					]
+				},
+				{
+					"name": "Pariahs",
+					"type": "entries",
+					"entries": [
+						"Goblins are poorly treated in society and have disadvantage on Charisma checks with other peoples. However, the insular tendency of Goblin society provides advantage on Charisma checks when interacting with another goblin."
+					]
+				},
+				{
+					"name": "Survival Instinct",
+					"type": "entries",
+					"entries": [
+						"While goblins are a loud and fractious people, they have a powerful will to survive. You can take either the {@action Dash}, {@action Dodge} or {@action Disengage} actions using your bonus action. You also gain proficiency with the {@skill Stealth} and {@skill Survival} skills."
 					]
 				}
 			]
