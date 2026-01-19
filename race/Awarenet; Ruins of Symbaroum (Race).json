@@ -879,6 +879,7 @@
 		{
 			"name": "Ambrian",
 			"raceName": "Human",
+			"raceSource": "RuinsOfSymbaroumR",
 			"source": "RuinsOfSymbaroumR",
 			"ability": [
 				{
@@ -905,6 +906,7 @@
 		{
 			"name": "Barbarian",
 			"raceName": "Human",
+			"raceSource": "RuinsOfSymbaroumR",
 			"source": "RuinsOfSymbaroumR",
 			"ability": [
 				{
