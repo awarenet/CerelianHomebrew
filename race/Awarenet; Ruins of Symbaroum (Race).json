@@ -364,27 +364,27 @@
 							]
 						},
 						{
-							"name": "Pariahs",
-							"type": "entries",
-							"entries": [
-								"Ambrians detest elves and the barbarians fear them, so elves have disadvantage on Charisma checks with all humans. You can try to impersonate a changeling by wearing human clothing and imitating their behavior. When directly interacting with a human, make a Charisma (Deception) check against their passive Insight. On a failure, they recognize you as an elf and the Pariah effect applies."
-							]
-						},
-						{
-							"name": "Wisdom of the Ages",
-							"type": "entries",
-							"entries": [
-								"Through the eons, the elves have amassed a vast collective wisdom; a deep well of knowledge and insights which many elves can access through meditation. The character is one of those who may use the know-­how of previous generations to solve problems at hand.",
-								"When you take an extended rest, you can select a skill. You are proficient with that skill until you take another extended rest, at which time you select a skill (the same or another)."
-							]
-						},
-						{
 							"name": "Languages",
 							"type": "entries",
 							"entries": [
 								"Elves speak their own language, and often know the troll languages as well. Those that have cause to be in human lands also learn one of the human tongues."
 							]
 						}
+					]
+				},
+				{
+					"name": "Pariahs",
+					"type": "entries",
+					"entries": [
+						"Ambrians detest elves and the barbarians fear them, so elves have disadvantage on Charisma checks with all humans. You can try to impersonate a changeling by wearing human clothing and imitating their behavior. When directly interacting with a human, make a Charisma (Deception) check against their passive Insight. On a failure, they recognize you as an elf and the Pariah effect applies."
+					]
+				},
+				{
+					"name": "Wisdom of the Ages",
+					"type": "entries",
+					"entries": [
+						"Through the eons, the elves have amassed a vast collective wisdom; a deep well of knowledge and insights which many elves can access through meditation. The character is one of those who may use the know-­how of previous generations to solve problems at hand.",
+						"When you take an extended rest, you can select a skill. You are proficient with that skill until you take another extended rest, at which time you select a skill (the same or another)."
 					]
 				}
 			]
