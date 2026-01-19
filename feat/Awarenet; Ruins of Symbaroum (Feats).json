@@ -22,7 +22,37 @@
 			"source": "RuinsOfSymbaroumF",
 			"page": 146,
 			"entries": [
-				"• Restriction: Dwarves cannot take this feat (they have it as part of their origin already) You come from a culture or tradition that does not use writing, but which instead has developed memory techniques to preserve and transmit vital knowledge. You remember everything seen or heard, which means that the player may ask the Gamemaster about details perceived by the player character during their past adventures. The Gamemaster must answer as thoroughly as possible."
+				"You come from a culture or tradition that does not use writing, but which instead has developed memory techniques to preserve and transmit vital knowledge. You remember everything seen or heard, which means that the player may ask the Gamemaster about details perceived by the player character during their past adventures. The Gamemaster must answer as thoroughly as possible."
+			],
+			"prerequisite": [
+				{
+					"race": [
+						{
+							"name": "Abductee"
+						},
+						{
+							"name": "Changeling"
+						},
+						{
+							"name": "Elf"
+						},
+						{
+							"name": "Goblin"
+						},
+						{
+							"name": "Human"
+						},
+						{
+							"name": "Ogre"
+						},
+						{
+							"name": "Troll"
+						},
+						{
+							"name": "Undead"
+						}
+					]
+				}
 			],
 			"ability": [
 				{
