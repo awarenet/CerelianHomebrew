@@ -314,8 +314,8 @@
 			"languageProficiencies": [
 				{
 					"elvish": true,
-					"other": true,
-					"anyStandard": 1
+					"troll": true,
+					"common": true
 				}
 			],
 			"entries": [
