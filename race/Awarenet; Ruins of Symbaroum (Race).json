@@ -215,29 +215,8 @@
 				}
 			],
 			"entries": [
-				{
-					"name": "Absolute Memory",
-					"type": "entries",
-					"entries": [
-						"Dwarven memory is robust and comprehensive. They can remember anything they choose to commit to memory at any time and can remember even incidental events up to a month after they occur."
-					]
-				},
-				{
-					"name": "Earth Bound",
-					"type": "entries",
-					"entries": [
-						"Dwarves are bound to the bones of the world. They have no soul \u2013 instead your current Corruption total reduces your current and maximum hit points on a 1:1 basis. You do not roll for marks of Corruption and if your total Corruption equals or exceeds your current hit points you become unconscious until your Corruption is reduced or your hit points increase (an unconscious dwarf counts as taking a short or longer rest if they are undisturbed). If you acquire more permanent Corruption than your Corruption Threshold (see page 37) then your character is no longer playable. If slain, they cannot become undead or be resurrected. Even speak with dead fails."
-					]
-				},
-				{
-					"name": "Pariahs",
-					"type": "entries",
-					"entries": [
-						"Dwarves are poorly understood or tolerated among other peoples. They have disadvantage on social checks with everyone other than fellow dwarves, elves and trolls."
-					]
-				},
 				"The short and wiry people humans call dwarves have a history shrouded in mystery. Looking at the dwarves settled in Yndaros, they display no interest in the history of their kind; they are a people on the move, aimed towards the future, fleeing a dark past that has given them a sense of community, but without peace or meaning. The dwarven perspective is rooted in the sanctity of the family, the secrets of the spoken word and the conviction that the world is their common enemy. Gamalga of Kadizar, a sage interested in dwarves, is said to have stated that: \"The family is their shield, the language their weapon and the world their battlefield.\"",
-				"Gamalga also spoke of the origin of the dwarves. After many fruitless conversations with the dwarves in Yndaros and at the fortress Küam Zamok, Gamalga realized that she would get better answers from elves and trolls, and that they claimed to have never met dwarves before the fall of Symbaroum. They were most likely created in the old empire and Gamalga summarizes her meager findings as follows: \"They emerged as worms in the rotting carcass of the World Serpent and were given wit by Symbaroum's sorcerers, to make them better slaves. However, the birth of the people forever bound them to the world and its fate, and because of this bond they early on developed a forceful counterculture which still marks them. The ancestral mothers and fathers of the dwarves created a language with hidden codes and secret double-­meanings, so intricate that not even the masters could understand. The dwarves never wrote anything down, since texts could be read, interpreted and even de-coded by the lords of Symbaroum. The dwarves kept their dreams to themselves and their voices echoed with the fate of the world.",
+				"Gamalga also spoke of the origin of the dwarves. After many fruitless conversations with the dwarves in Yndaros and at the fortress Küam Zamok, Gamalga realized that she would get better answers from elves and trolls, and that they claimed to have never met dwarves before the fall of Symbaroum. They were most likely created in the old empire and Gamalga summarizes her meager findings as follows: \"They emerged as worms in the rotting carcass of the World Serpent and were given wit by Symbaroum's sorcerers, to make them better slaves. However, the birth of the people forever bound them to the world and its fate, and because of this bond they early on developed a forceful counterculture which still marks them. The ancestral mothers and fathers of the dwarves created a language with hidden codes and secret double meanings, so intricate that not even the masters could understand. The dwarves never wrote anything down, since texts could be read, interpreted and even de-coded by the lords of Symbaroum. The dwarves kept their dreams to themselves and their voices echoed with the fate of the world.",
 				"Both elves and trolls confirm that there is power inherent in some dwarven speech, and imply that those who made the dwarves, Symbaroum's princes, in time learned to hate their creations and fear the power contained in their language. After the fall of Symbaroum, the chronicle of the dwarven people describes an arduous journey in the shadow of death, continuously attacked and hunted by others. Nowadays, the descendants of the few who survived Symbaroum's ruin have spread to many places and their fates are seemingly very different.",
 				"Apparently, the families in Yndaros are members of a once ruling elite in Küam Zamok, cast out after a bloody revolution \u2013 hence, the organized villains encountered in Ambria's capital are in fact dwarven nobles, used to ruling and giving orders, but incapable of creating even the most essential items themselves. More dubious scraps of information say that their inability to get along has to do with the order of succession in the realm they left behind, and the right to a throne which none of them will ever conquer.\"",
 				"The people of Ambria have formed their opinions based on the dwarves in Yndaros, and they are not a very welcoming sort. They demand nothing of others, other than being allowed to mind their own business. To dwarves, the will of the family \u2013 as interpreted by the elders \u2013 is superior to the will of the individual, meaning that they often appear to have two sets of moral standards: one strictly coded and aimed at the family; another aimed at outsiders and often described as \"a lack of morality\" by their neighbors \u2013 since actions which only affect outsiders have no bearing on the internal family relations.",
@@ -258,7 +237,7 @@
 							"name": "Age",
 							"type": "entries",
 							"entries": [
-								"The dwarven life-­cycle is not well known, but it seems that dwarves are allowed their independence by their second or third decade of life and remain active for at least a century."
+								"The dwarven life-cycle is not well known, but it seems that dwarves are allowed their independence by their second or third decade of life and remain active for at least a century."
 							]
 						},
 						{
@@ -282,6 +261,27 @@
 								"Dwarves usually speak the local human language, either Ambrian or Barbarian, but with much more sophistication, adding in a series of code words that enable two dwarves to have a secret conversation in public. Some near Davokar speak the language of trolls or elves as well."
 							]
 						}
+					]
+				},
+				{
+					"name": "Absolute Memory",
+					"type": "entries",
+					"entries": [
+						"Dwarven memory is robust and comprehensive. They can remember anything they choose to commit to memory at any time and can remember even incidental events up to a month after they occur."
+					]
+				},
+				{
+					"name": "Earth Bound",
+					"type": "entries",
+					"entries": [
+						"Dwarves are bound to the bones of the world. They have no soul \u2013 instead your current Corruption total reduces your current and maximum hit points on a 1:1 basis. You do not roll for marks of Corruption and if your total Corruption equals or exceeds your current hit points you become unconscious until your Corruption is reduced or your hit points increase (an unconscious dwarf counts as taking a short or longer rest if they are undisturbed). If you acquire more permanent Corruption than your Corruption Threshold (see page 37) then your character is no longer playable. If slain, they cannot become undead or be resurrected. Even speak with dead fails."
+					]
+				},
+				{
+					"name": "Pariahs",
+					"type": "entries",
+					"entries": [
+						"Dwarves are poorly understood or tolerated among other peoples. They have disadvantage on social checks with everyone other than fellow dwarves, elves and trolls."
 					]
 				}
 			]
