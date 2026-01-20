@@ -116,11 +116,11 @@
 					"choose": {
 						"from": [
 							"elvish",
-							"undercommon"
+							"undercommon",
+							"common"
 						],
-						"count": 1
-					},
-					"common": true
+						"count": 2
+					}
 				}
 			],
 			"entries": [
@@ -207,9 +207,11 @@
 					"choose": {
 						"from": [
 							"common",
-							"undercommon"
+							"undercommon",
+							"troll",
+							"elvish"
 						],
-						"count": 1
+						"count": 2
 					},
 					"dwarvish": true
 				}
@@ -314,8 +316,14 @@
 			"languageProficiencies": [
 				{
 					"elvish": true,
-					"troll": true,
-					"common": true
+					"choose": {
+						"from": [
+							"troll",
+							"common",
+							"undercommon"
+						],
+						"count": 2
+					}
 				}
 			],
 			"entries": [
