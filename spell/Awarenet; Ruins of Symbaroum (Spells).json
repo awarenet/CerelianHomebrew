@@ -6066,6 +6066,14 @@
 				{
 					"type": "instant"
 				}
+			],
+			"foundryActivities": [
+				{
+					"type": "cast",
+					"consumption": {
+						"spellSlot": false
+					}
+				}
 			]
 		}
 	]
