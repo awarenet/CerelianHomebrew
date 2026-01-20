@@ -348,13 +348,24 @@
 					"name": "Feature: Open Senses",
 					"type": "entries",
 					"entries": [
-						"Ever since you finished your 'maturation', you have noticed that you see more, hear more and sense more than your old human family and friends. When you make a Wisdom ({@skill Insight} or {@skill Perception}) check you can focus your senses and give yourself advantage on the check. Once you do this, you must take a short or long rest before using this feature again."
+						"Ever since you finished your 'maturation', you have noticed that you see more, hear more and sense more than your old human family and friends. When you make a Wisdom ({@skill Insight} or {@skill Perception}) check you can focus your senses and give yourself advantage on the check. Once you use this feature, you can't use it again until you finish a short or long rest."
 					],
 					"data": {
 						"isFeature": true,
-						"uses": {
-							"count": 1,
-							"recovery": "short"
+						"foundryData": {
+							"system": {
+								"uses": {
+									"value": 1,
+									"max": "1",
+									"per": "sr",
+									"recovery": [
+										{
+											"period": "sr",
+											"type": "recover"
+										}
+									]
+								}
+							}
 						}
 					}
 				},
