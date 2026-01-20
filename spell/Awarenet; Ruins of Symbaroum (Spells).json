@@ -5875,7 +5875,8 @@
 					"type": "cast",
 					"consumption": {
 						"spellSlot": false
-					}
+					},
+					"flags": {}
 				}
 			]
 		},
@@ -6072,7 +6073,8 @@
 					"type": "cast",
 					"consumption": {
 						"spellSlot": false
-					}
+					},
+					"flags": {}
 				}
 			]
 		}
