@@ -29,13 +29,6 @@
 			"_copy": {
 				"name": "Contingency",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -44,13 +37,6 @@
 			"_copy": {
 				"name": "Mage Hand",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -59,13 +45,6 @@
 			"_copy": {
 				"name": "Foresight",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -74,13 +53,6 @@
 			"_copy": {
 				"name": "Message",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -89,13 +61,6 @@
 			"_copy": {
 				"name": "Sequester",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -104,13 +69,6 @@
 			"_copy": {
 				"name": "Earthquake",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -119,13 +77,6 @@
 			"_copy": {
 				"name": "Stinking Cloud",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -134,13 +85,6 @@
 			"_copy": {
 				"name": "Rary's Telepathic Bond",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -149,13 +93,6 @@
 			"_copy": {
 				"name": "Darkvision",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -164,13 +101,6 @@
 			"_copy": {
 				"name": "Alarm",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -179,13 +109,6 @@
 			"_copy": {
 				"name": "Greater Invisibility",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -194,13 +117,6 @@
 			"_copy": {
 				"name": "Hypnotic Pattern",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -209,13 +125,6 @@
 			"_copy": {
 				"name": "Programmed Illusion",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -224,13 +133,6 @@
 			"_copy": {
 				"name": "Thaumaturgy",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -239,13 +141,6 @@
 			"_copy": {
 				"name": "Prestidigitation",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -254,13 +149,6 @@
 			"_copy": {
 				"name": "Commune",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -269,13 +157,6 @@
 			"_copy": {
 				"name": "Glibness",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -284,13 +165,6 @@
 			"_copy": {
 				"name": "Heroes' Feast",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -299,13 +173,6 @@
 			"_copy": {
 				"name": "Stone Shape",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -314,13 +181,6 @@
 			"_copy": {
 				"name": "Mirage Arcane",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -329,13 +189,6 @@
 			"_copy": {
 				"name": "Legend Lore",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -344,13 +197,6 @@
 			"_copy": {
 				"name": "Otiluke's Resilient Sphere",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -359,13 +205,6 @@
 			"_copy": {
 				"name": "Drawmij's Instant Summons",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -374,13 +213,6 @@
 			"_copy": {
 				"name": "Protection from Poison",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -389,13 +221,6 @@
 			"_copy": {
 				"name": "Speak with Plants",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -404,13 +229,6 @@
 			"_copy": {
 				"name": "Dream",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -419,13 +237,6 @@
 			"_copy": {
 				"name": "Wall of Stone",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -434,13 +245,6 @@
 			"_copy": {
 				"name": "Enlarge/Reduce",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -449,13 +253,6 @@
 			"_copy": {
 				"name": "Sleet Storm",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -464,13 +261,6 @@
 			"_copy": {
 				"name": "Vicious Mockery",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -479,13 +269,6 @@
 			"_copy": {
 				"name": "Silent Image",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -494,13 +277,6 @@
 			"_copy": {
 				"name": "Reverse Gravity",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -509,13 +285,6 @@
 			"_copy": {
 				"name": "Tongues",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -524,13 +293,6 @@
 			"_copy": {
 				"name": "Tenser's Floating Disk",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -539,13 +301,6 @@
 			"_copy": {
 				"name": "Sunbeam",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -554,13 +309,6 @@
 			"_copy": {
 				"name": "Hallucinatory Terrain",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -569,13 +317,6 @@
 			"_copy": {
 				"name": "Mordenkainen's Sword",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -584,13 +325,6 @@
 			"_copy": {
 				"name": "Resistance",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -599,13 +333,6 @@
 			"_copy": {
 				"name": "Divination",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -614,13 +341,6 @@
 			"_copy": {
 				"name": "See Invisibility",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -629,13 +349,6 @@
 			"_copy": {
 				"name": "Move Earth",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -644,13 +357,6 @@
 			"_copy": {
 				"name": "Passwall",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -659,13 +365,6 @@
 			"_copy": {
 				"name": "Maze",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -674,13 +373,6 @@
 			"_copy": {
 				"name": "Arcane Lock",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -689,13 +381,6 @@
 			"_copy": {
 				"name": "Speak with Animals",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -704,13 +389,6 @@
 			"_copy": {
 				"name": "Chill Touch",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -719,13 +397,6 @@
 			"_copy": {
 				"name": "Unseen Servant",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -734,13 +405,6 @@
 			"_copy": {
 				"name": "Knock",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -749,13 +413,6 @@
 			"_copy": {
 				"name": "Dancing Lights",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -764,13 +421,6 @@
 			"_copy": {
 				"name": "Divine Word",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -779,13 +429,6 @@
 			"_copy": {
 				"name": "Nondetection",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -794,13 +437,6 @@
 			"_copy": {
 				"name": "Mending",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -809,13 +445,6 @@
 			"_copy": {
 				"name": "Sunburst",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -824,13 +453,6 @@
 			"_copy": {
 				"name": "Continual Flame",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -839,13 +461,6 @@
 			"_copy": {
 				"name": "Forbiddance",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -854,13 +469,6 @@
 			"_copy": {
 				"name": "Blur",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -869,13 +477,6 @@
 			"_copy": {
 				"name": "Silence",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -884,13 +485,6 @@
 			"_copy": {
 				"name": "Sanctuary",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -899,13 +493,6 @@
 			"_copy": {
 				"name": "Sending",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -914,13 +501,6 @@
 			"_copy": {
 				"name": "Gust of Wind",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -929,13 +509,6 @@
 			"_copy": {
 				"name": "Holy Aura",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -944,13 +517,6 @@
 			"_copy": {
 				"name": "Warding Bond",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -959,13 +525,6 @@
 			"_copy": {
 				"name": "Light",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -974,13 +533,6 @@
 			"_copy": {
 				"name": "Find Familiar",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -989,13 +541,6 @@
 			"_copy": {
 				"name": "Mordenkainen's Magnificent Mansion",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1004,13 +549,6 @@
 			"_copy": {
 				"name": "Fire Shield",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1019,13 +557,6 @@
 			"_copy": {
 				"name": "Fire Bolt",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1034,13 +565,6 @@
 			"_copy": {
 				"name": "Phantom Steed",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1049,13 +573,6 @@
 			"_copy": {
 				"name": "Eldritch Blast",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1064,13 +581,6 @@
 			"_copy": {
 				"name": "Arcane Eye",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1079,13 +589,6 @@
 			"_copy": {
 				"name": "True Seeing",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1094,13 +597,6 @@
 			"_copy": {
 				"name": "Find the Path",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1109,13 +605,6 @@
 			"_copy": {
 				"name": "Grease",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1124,13 +613,6 @@
 			"_copy": {
 				"name": "Locate Creature",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1139,13 +621,6 @@
 			"_copy": {
 				"name": "Awaken",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1154,13 +629,6 @@
 			"_copy": {
 				"name": "Illusory Script",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1169,13 +637,6 @@
 			"_copy": {
 				"name": "Disguise Self",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1184,13 +645,6 @@
 			"_copy": {
 				"name": "Create Food and Water",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1199,13 +653,6 @@
 			"_copy": {
 				"name": "Detect Poison and Disease",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1214,13 +661,6 @@
 			"_copy": {
 				"name": "Augury",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1229,13 +669,6 @@
 			"_copy": {
 				"name": "Feather Fall",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1244,13 +677,6 @@
 			"_copy": {
 				"name": "Guardian of Faith",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1259,13 +685,6 @@
 			"_copy": {
 				"name": "Stoneskin",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1274,13 +693,6 @@
 			"_copy": {
 				"name": "Magic Mouth",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1289,13 +701,6 @@
 			"_copy": {
 				"name": "Fire Storm",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1304,13 +709,6 @@
 			"_copy": {
 				"name": "Entangle",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1319,13 +717,6 @@
 			"_copy": {
 				"name": "Weird",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1334,13 +725,6 @@
 			"_copy": {
 				"name": "Mordenkainen's Faithful Hound",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1349,13 +733,6 @@
 			"_copy": {
 				"name": "Slow",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1364,13 +741,6 @@
 			"_copy": {
 				"name": "Guidance",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1379,13 +749,6 @@
 			"_copy": {
 				"name": "Telekinesis",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1394,13 +757,6 @@
 			"_copy": {
 				"name": "Lesser Restoration",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1409,13 +765,6 @@
 			"_copy": {
 				"name": "Identify",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1424,13 +773,6 @@
 			"_copy": {
 				"name": "Mirror Image",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1439,13 +781,6 @@
 			"_copy": {
 				"name": "Control Water",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1454,13 +789,6 @@
 			"_copy": {
 				"name": "Symbol",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1469,13 +797,6 @@
 			"_copy": {
 				"name": "Seeming",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1484,13 +805,6 @@
 			"_copy": {
 				"name": "Guards and Wards",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1499,13 +813,6 @@
 			"_copy": {
 				"name": "Sacred Flame",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1514,13 +821,6 @@
 			"_copy": {
 				"name": "Faerie Fire",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1529,13 +829,6 @@
 			"_copy": {
 				"name": "Water Breathing",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1544,13 +837,6 @@
 			"_copy": {
 				"name": "Calm Emotions",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1559,13 +845,6 @@
 			"_copy": {
 				"name": "Detect Magic",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1574,13 +853,6 @@
 			"_copy": {
 				"name": "Nystul's Magic Aura",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1589,13 +861,6 @@
 			"_copy": {
 				"name": "Spare the Dying",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1604,13 +869,6 @@
 			"_copy": {
 				"name": "Expeditious Retreat",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1619,13 +877,6 @@
 			"_copy": {
 				"name": "Water Walk",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1634,13 +885,6 @@
 			"_copy": {
 				"name": "Antipathy/Sympathy",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1649,13 +893,6 @@
 			"_copy": {
 				"name": "Find Traps",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1664,13 +901,6 @@
 			"_copy": {
 				"name": "Locate Object",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1679,13 +909,6 @@
 			"_copy": {
 				"name": "Shield",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1694,13 +917,6 @@
 			"_copy": {
 				"name": "Leomund's Secret Chest",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1709,13 +925,6 @@
 			"_copy": {
 				"name": "Meld into Stone",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1724,13 +933,6 @@
 			"_copy": {
 				"name": "Shield of Faith",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1739,13 +941,6 @@
 			"_copy": {
 				"name": "Gaseous Form",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1754,13 +949,6 @@
 			"_copy": {
 				"name": "Prismatic Wall",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1769,13 +957,6 @@
 			"_copy": {
 				"name": "Mage Armor",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1784,13 +965,6 @@
 			"_copy": {
 				"name": "Incendiary Cloud",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1799,13 +973,6 @@
 			"_copy": {
 				"name": "Freedom of Movement",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1814,13 +981,6 @@
 			"_copy": {
 				"name": "Blade Barrier",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1829,13 +989,6 @@
 			"_copy": {
 				"name": "Meteor Swarm",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1844,13 +997,6 @@
 			"_copy": {
 				"name": "Purify Food and Drink",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1859,13 +1005,6 @@
 			"_copy": {
 				"name": "Darkness",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1874,13 +1013,6 @@
 			"_copy": {
 				"name": "Spider Climb",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1889,13 +1021,6 @@
 			"_copy": {
 				"name": "Project Image",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1904,13 +1029,6 @@
 			"_copy": {
 				"name": "Haste",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1919,13 +1037,6 @@
 			"_copy": {
 				"name": "Prismatic Spray",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -1934,13 +1045,6 @@
 			"_copy": {
 				"name": "Shocking Grasp",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -4862,14 +3966,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Ray of Frost",
@@ -4877,13 +3974,6 @@
 			"_copy": {
 				"name": "Ray of Frost",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -4915,14 +4005,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Larvae Boil",
@@ -4953,14 +4036,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Antimagic Field",
@@ -4968,13 +4044,6 @@
 			"_copy": {
 				"name": "Antimagic Field",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5006,14 +4075,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Animal Friendship",
@@ -5044,14 +4106,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Poison Spray",
@@ -5059,13 +4114,6 @@
 			"_copy": {
 				"name": "Poison Spray",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5097,14 +4145,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Plant Growth",
@@ -5112,13 +4153,6 @@
 			"_copy": {
 				"name": "Plant Growth",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5150,14 +4184,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Fog Cloud",
@@ -5188,14 +4215,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Anathema",
@@ -5226,14 +4246,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Enhance Ability",
@@ -5264,14 +4277,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Judging Bonds",
@@ -5302,14 +4308,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Glyph of Warding",
@@ -5340,14 +4339,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Turn Weather",
@@ -5378,14 +4370,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Insect Plague",
@@ -5416,14 +4401,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Purgatory",
@@ -5454,14 +4432,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Holy Smoke",
@@ -5492,14 +4463,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Exchange Shadow",
@@ -5530,14 +4494,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Flaming Servant",
@@ -5568,14 +4525,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Ice Storm",
@@ -5606,14 +4556,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Acid Splash",
@@ -5621,13 +4564,6 @@
 			"_copy": {
 				"name": "Acid Splash",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5636,13 +4572,6 @@
 			"_copy": {
 				"name": "Time Stop",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5674,14 +4603,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Hallow",
@@ -5689,13 +4611,6 @@
 			"_copy": {
 				"name": "Hallow",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5727,14 +4642,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Magic Weapon",
@@ -5765,14 +4673,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Tiny Hut",
@@ -5780,13 +4681,6 @@
 			"_copy": {
 				"name": "Leomund's Tiny Hut",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5818,14 +4712,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Cone of Cold",
@@ -5856,14 +4743,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Spiritual Weapon",
@@ -5894,14 +4774,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Wall of Force",
@@ -5909,13 +4782,6 @@
 			"_copy": {
 				"name": "Wall of Force",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -5947,14 +4813,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Sleep",
@@ -5985,14 +4844,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Arcane Hand",
@@ -6023,14 +4875,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Prayer of Healing",
@@ -6061,14 +4906,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Cloudkill",
@@ -6099,14 +4937,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Heat Metal",
@@ -6137,14 +4968,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Magic Circle",
@@ -6175,14 +4999,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Wall of Ice",
@@ -6213,14 +5030,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Blink",
@@ -6251,14 +5061,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Wall of Fire",
@@ -6289,14 +5092,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Animate Objects",
@@ -6327,14 +5123,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Detect Evil and Good",
@@ -6365,14 +5154,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Heroism",
@@ -6403,14 +5185,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Exorcism",
@@ -6441,14 +5216,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Create or Destroy Water",
@@ -6479,14 +5247,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Creation",
@@ -6517,14 +5278,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Minor Illusion",
@@ -6532,13 +5286,6 @@
 			"_copy": {
 				"name": "Minor Illusion",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -6570,14 +5317,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Spirit Walk",
@@ -6608,14 +5348,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Teleportation Circle",
@@ -6646,14 +5379,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Longstrider",
@@ -6684,14 +5410,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Accurate Strike",
@@ -6722,14 +5441,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Comprehend Languages",
@@ -6737,13 +5449,6 @@
 			"_copy": {
 				"name": "Comprehend Languages",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -6752,13 +5457,6 @@
 			"_copy": {
 				"name": "Gentle Repose",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -6790,14 +5488,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Shatter",
@@ -6828,14 +5519,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Beacon of Hope",
@@ -6843,13 +5527,6 @@
 			"_copy": {
 				"name": "Beacon of Hope",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -6881,14 +5558,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Guiding Bolt",
@@ -6919,14 +5589,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Private Sanctum",
@@ -6957,14 +5620,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Locate Animals or Plants",
@@ -6972,13 +5628,6 @@
 			"_copy": {
 				"name": "Locate Animals or Plants",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7010,14 +5659,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Rope Trick",
@@ -7025,13 +5667,6 @@
 			"_copy": {
 				"name": "Rope Trick",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7063,14 +5698,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Jump",
@@ -7078,13 +5706,6 @@
 			"_copy": {
 				"name": "Jump",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7116,14 +5737,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Living Fortress",
@@ -7154,14 +5768,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Acid Arrow",
@@ -7192,14 +5799,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Bless",
@@ -7230,14 +5830,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Daylight",
@@ -7245,13 +5838,6 @@
 			"_copy": {
 				"name": "Daylight",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7284,13 +5870,14 @@
 					"type": "instant"
 				}
 			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
+			"foundryActivities": [
+				{
+					"type": "cast",
+					"consumption": {
+						"spellSlot": false
 					}
 				}
-			}
+			]
 		},
 		{
 			"name": "Scorching Ray",
@@ -7321,14 +5908,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Protection from Energy",
@@ -7336,13 +5916,6 @@
 			"_copy": {
 				"name": "Protection from Energy",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7374,14 +5947,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Invisibility",
@@ -7412,14 +5978,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
-			}
+			]
 		},
 		{
 			"name": "Control Weather",
@@ -7427,13 +5986,6 @@
 			"_copy": {
 				"name": "Control Weather",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7483,13 +6035,6 @@
 			"_copy": {
 				"name": "Web",
 				"source": "PHB"
-			},
-			"foundryFlags": {
-				"activityConsumption": {
-					"cast": {
-						"targets": []
-					}
-				}
 			}
 		},
 		{
@@ -7521,10 +6066,7 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundrySystem": {
-				"activity.consumption.spellSlot": false
-			}
+			]
 		}
 	]
 }
