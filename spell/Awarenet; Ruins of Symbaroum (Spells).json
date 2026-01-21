@@ -5877,7 +5877,11 @@
 					"consumption": {
 						"spellSlot": false
 					},
-					"flags": {}
+					"flags": {
+						"dnd5e": {
+							"cachedFor": ""
+						}
+					}
 				}
 			]
 		},
@@ -6076,7 +6080,11 @@
 					"consumption": {
 						"spellSlot": false
 					},
-					"flags": {}
+					"flags": {
+						"dnd5e": {
+							"cachedFor": ""
+						}
+					}
 				}
 			]
 		}
