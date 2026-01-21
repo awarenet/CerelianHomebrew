@@ -6072,20 +6072,6 @@
 				{
 					"type": "instant"
 				}
-			],
-			"foundryActivities": [
-				{
-					"name": "Cast",
-					"type": "cast",
-					"consumption": {
-						"spellSlot": false
-					},
-					"flags": {
-						"dnd5e": {
-							"cachedFor": ""
-						}
-					}
-				}
 			]
 		}
 	]
