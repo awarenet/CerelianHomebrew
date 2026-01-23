@@ -208,7 +208,7 @@
 						"from": [
 							"common",
 							"undercommon",
-							"troll",
+							"Troll|RuinsOfSymbaroumR",
 							"elvish"
 						],
 						"count": 2
@@ -318,7 +318,7 @@
 					"elvish": true,
 					"choose": {
 						"from": [
-							"troll",
+							"Troll|RuinsOfSymbaroumR",
 							"common",
 							"undercommon"
 						],
@@ -433,7 +433,7 @@
 					"common": true,
 					"choose": {
 						"from": [
-							"troll",
+							"Troll|RuinsOfSymbaroumR",
 							"elvish"
 						],
 						"count": 1
