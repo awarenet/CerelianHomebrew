@@ -51,18 +51,7 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false,
-						"targets": [
-							{
-								"target": {
-									"consumes": {
-										"name": "Corruption"
-									}
-								},
-								"value": 1,
-								"scaling": {}
-							}
-						]
+						"spellSlot": false
 					}
 				}
 			]
@@ -6076,6 +6065,23 @@
 			"source": "RuinsOfSymbaroumS",
 			"entries": [
 				"Your spell bolsters your allies with toughness and resolve.\nChoose up to three creatures within range. Each target's\nhit point maximum and current hit points increases by 5\nfor the duration.\nAt Higher Levels. When you cast this spell at 3rd level\nor higher, a target's hit points increase by an additional 5\nfor each level above 2nd."
+			],
+			"foundryActivities": [
+				{
+					"type": "heal",
+					"name": "Bolster",
+					"img": "icons/magic/life/heart-shield-gold.webp",
+					"description": {
+						"value": "<p>Your spell bolsters your allies with toughness and resolve. Each target's hit point maximum and current hit points increases by 5 for the duration.</p>"
+					},
+					"activation": {
+						"type": "action",
+						"value": 1
+					},
+					"consumption": {
+						"spellSlot": false
+					}
+				}
 			],
 			"level": 2,
 			"school": "A",
