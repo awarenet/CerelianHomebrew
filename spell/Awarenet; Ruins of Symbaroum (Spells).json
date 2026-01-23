@@ -1744,6 +1744,24 @@
 					},
 					"consumption": {
 						"spellSlot": false
+					},
+					"attack": {
+						"type": {
+							"value": "ranged",
+							"classification": "spell"
+						},
+						"flat": false
+					},
+					"damage": {
+						"parts": [
+							{
+								"number": 1,
+								"denomination": 10,
+								"types": [
+									"force"
+								]
+							}
+						]
 					}
 				}
 			]
