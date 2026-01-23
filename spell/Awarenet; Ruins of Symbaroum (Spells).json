@@ -49,6 +49,20 @@
 					"activation": {
 						"type": "action",
 						"value": 1
+					},
+					"consumption": {
+						"spellSlot": false,
+						"targets": [
+							{
+								"target": {
+									"consumes": {
+										"name": "Corruption"
+									}
+								},
+								"value": 1,
+								"scaling": {}
+							}
+						]
 					}
 				}
 			]
