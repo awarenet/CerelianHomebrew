@@ -37,7 +37,21 @@
 			"_copy": {
 				"name": "Mage Hand",
 				"source": "PHB"
-			}
+			},
+			"foundryActivities": [
+				{
+					"type": "utility",
+					"name": "Poke",
+					"img": "icons/svg/item-bag.svg",
+					"description": {
+						"value": "<p>You poke the target with your spectral hand.</p>"
+					},
+					"activation": {
+						"type": "action",
+						"value": 1
+					}
+				}
+			]
 		},
 		{
 			"name": "Foresight",
