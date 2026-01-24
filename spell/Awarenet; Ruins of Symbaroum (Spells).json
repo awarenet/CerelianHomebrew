@@ -11149,7 +11149,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "resources.primary.value",
+								"value": "1d4 + @item.level",
+								"scaling": {
+									"mode": "amount",
+									"formula": ""
+								}
+							}
+						]
 					}
 				}
 			],
