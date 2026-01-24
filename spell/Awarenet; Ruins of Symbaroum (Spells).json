@@ -11153,7 +11153,7 @@
 						"targets": [
 							{
 								"type": "attribute",
-								"target": "corruption.temp",
+								"target": "symbaroum5ecore.corruption.temp",
 								"value": "(1d4 + @item.level) * -1",
 								"scaling": {
 									"mode": "amount",
