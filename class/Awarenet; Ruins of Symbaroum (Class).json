@@ -213,6 +213,11 @@
 		{
 			"name": "Hunter",
 			"source": "RuinsOfSymbaroumC",
+			"foundryFlags": {
+				"syb5e": {
+					"syb5eActor": true
+				}
+			},
 			"page": 102,
 			"hd": {
 				"number": 1,
@@ -335,6 +340,11 @@
 		{
 			"name": "Scoundrel",
 			"source": "RuinsOfSymbaroumC",
+			"foundryFlags": {
+				"syb5e": {
+					"syb5eActor": true
+				}
+			},
 			"page": 102,
 			"hd": {
 				"number": 1,
@@ -615,6 +625,11 @@
 		{
 			"name": "Captain",
 			"source": "RuinsOfSymbaroumC",
+			"foundryFlags": {
+				"syb5e": {
+					"syb5eActor": true
+				}
+			},
 			"page": 96,
 			"hd": {
 				"number": 1,
