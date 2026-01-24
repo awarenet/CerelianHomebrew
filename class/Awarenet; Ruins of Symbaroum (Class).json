@@ -20,6 +20,11 @@
 		{
 			"name": "Mystic",
 			"source": "RuinsOfSymbaroumC",
+			"foundryFlags": {
+				"syb5e": {
+					"syb5eActor": true
+				}
+			},
 			"page": 108,
 			"hd": {
 				"number": 1,
@@ -481,6 +486,11 @@
 		{
 			"name": "Warrior",
 			"source": "RuinsOfSymbaroumC",
+			"foundryFlags": {
+				"syb5e": {
+					"syb5eActor": true
+				}
+			},
 			"page": 136,
 			"hd": {
 				"number": 1,
