@@ -43,7 +43,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -57,18 +68,29 @@
 			},
 			"foundryActivities": [
 				{
-					"type": "utility",
-					"name": "Poke",
-					"img": "icons/svg/item-bag.svg",
+					"type": "summon",
+					"name": "Cast",
+					"img": "icons/magic/water/water-hand.webp",
 					"description": {
-						"value": "<p>You poke the target with your spectral hand.</p>"
+						"value": "<p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.</p><p>The hand can't attack, activate magic items, or carry more than 10 pounds.</p>"
 					},
 					"activation": {
 						"type": "action",
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -93,7 +115,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -118,7 +151,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -143,7 +187,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -168,7 +223,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -193,7 +259,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -218,7 +295,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -243,7 +331,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -268,7 +367,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -293,7 +403,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -318,7 +439,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -343,7 +475,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -368,7 +511,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -393,7 +547,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -418,7 +583,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -443,7 +619,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -468,7 +655,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -493,7 +691,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -518,7 +727,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -543,7 +763,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -568,7 +799,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -593,7 +835,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -618,7 +871,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -643,7 +907,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -668,7 +943,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -693,7 +979,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -718,7 +1015,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -743,7 +1051,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -768,7 +1087,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -793,7 +1123,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -818,7 +1159,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -843,7 +1195,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -868,7 +1231,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -893,7 +1267,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -918,7 +1303,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -943,7 +1339,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -968,7 +1375,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -993,7 +1411,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1018,7 +1447,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1043,7 +1483,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1068,7 +1519,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1093,7 +1555,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1118,7 +1591,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1143,7 +1627,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1168,7 +1663,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1193,7 +1699,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1218,7 +1735,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1243,7 +1771,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1268,7 +1807,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1293,7 +1843,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1318,7 +1879,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1343,7 +1915,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1368,7 +1951,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1393,7 +1987,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1418,7 +2023,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1443,7 +2059,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1468,7 +2095,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1493,7 +2131,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1518,7 +2167,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1543,7 +2203,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1568,7 +2239,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1593,7 +2275,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1618,7 +2311,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1643,7 +2347,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1668,7 +2383,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1693,7 +2419,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1718,7 +2455,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1743,23 +2491,16 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
-					},
-					"attack": {
-						"type": {
-							"value": "ranged",
-							"classification": "spell"
-						},
-						"flat": false
-					},
-					"damage": {
-						"parts": [
+						"spellSlot": false,
+						"targets": [
 							{
-								"number": 1,
-								"denomination": 10,
-								"types": [
-									"force"
-								]
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
 							}
 						]
 					}
@@ -1786,7 +2527,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1811,7 +2563,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1836,7 +2599,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1861,7 +2635,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1886,7 +2671,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1911,7 +2707,18 @@
 						"value": 8
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1936,7 +2743,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1961,7 +2779,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -1986,7 +2815,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2011,7 +2851,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2036,7 +2887,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2061,7 +2923,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2086,7 +2959,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2111,7 +2995,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2136,7 +3031,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2161,7 +3067,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2186,7 +3103,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2211,7 +3139,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2236,7 +3175,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2261,7 +3211,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2286,7 +3247,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2311,7 +3283,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2336,7 +3319,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2361,7 +3355,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2386,7 +3391,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2411,7 +3427,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2436,7 +3463,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2461,7 +3499,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2486,7 +3535,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2511,7 +3571,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2536,7 +3607,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2561,7 +3643,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2586,7 +3679,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2611,7 +3715,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2636,7 +3751,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2661,7 +3787,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2686,7 +3823,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2711,7 +3859,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2736,7 +3895,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2761,7 +3931,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2786,7 +3967,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2811,7 +4003,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2836,7 +4039,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2861,7 +4075,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2886,7 +4111,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2911,7 +4147,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2936,7 +4183,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2961,7 +4219,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -2986,7 +4255,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3011,7 +4291,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3036,7 +4327,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3061,7 +4363,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3086,7 +4399,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3111,7 +4435,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3136,7 +4471,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3161,7 +4507,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3186,7 +4543,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3211,7 +4579,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3236,7 +4615,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3294,7 +4684,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3352,7 +4753,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3410,7 +4822,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3468,7 +4891,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3526,7 +4960,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3584,7 +5029,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3619,7 +5075,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3677,7 +5144,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3735,7 +5213,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3770,7 +5259,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3828,7 +5328,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3886,7 +5397,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3921,7 +5443,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -3979,7 +5512,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4014,7 +5558,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4049,7 +5604,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4107,7 +5673,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4165,7 +5742,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4223,7 +5811,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4258,7 +5857,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4293,7 +5903,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4351,7 +5972,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4409,7 +6041,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4467,7 +6110,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4525,7 +6179,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4560,7 +6225,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4595,7 +6271,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4653,7 +6340,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4711,7 +6409,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4769,7 +6478,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4827,7 +6547,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4885,7 +6616,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -4943,7 +6685,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5001,7 +6754,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5059,7 +6823,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5094,7 +6869,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5152,7 +6938,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5187,7 +6984,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5245,7 +7053,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5303,7 +7122,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5338,7 +7168,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5396,7 +7237,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5431,7 +7283,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5466,7 +7329,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5501,7 +7375,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5536,7 +7421,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5594,7 +7490,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5629,7 +7536,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5687,7 +7605,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5745,7 +7674,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5780,7 +7720,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5838,7 +7789,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5896,7 +7858,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -5954,7 +7927,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6012,7 +7996,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6070,7 +8065,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6128,7 +8134,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6186,7 +8203,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6221,7 +8249,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6279,7 +8318,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6337,7 +8387,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6395,7 +8456,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6453,7 +8525,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6511,7 +8594,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6569,7 +8663,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6604,7 +8709,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6662,7 +8778,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6697,7 +8824,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6732,7 +8870,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6767,7 +8916,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6802,7 +8962,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6837,7 +9008,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6872,7 +9054,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6907,7 +9100,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -6965,7 +9169,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7000,7 +9215,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7035,7 +9261,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7093,7 +9330,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7151,7 +9399,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7209,7 +9468,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7244,7 +9514,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7302,7 +9583,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7360,7 +9652,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7395,7 +9698,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7430,7 +9744,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7488,7 +9813,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7546,7 +9882,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7581,7 +9928,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7639,7 +9997,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7687,7 +10056,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7712,7 +10092,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7760,7 +10151,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7808,7 +10210,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7833,7 +10246,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7881,7 +10305,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7929,7 +10364,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -7954,7 +10400,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8002,7 +10459,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8027,7 +10495,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8075,7 +10554,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8123,7 +10613,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8171,7 +10672,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8219,7 +10731,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8267,7 +10790,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8315,7 +10849,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8363,7 +10908,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8411,7 +10967,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8459,7 +11026,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8507,7 +11085,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8555,7 +11144,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8603,7 +11203,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8651,7 +11262,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8676,7 +11298,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8701,7 +11334,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8749,7 +11393,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8774,7 +11429,18 @@
 						"value": 24
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8822,7 +11488,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8870,7 +11547,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8895,7 +11583,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8943,7 +11642,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -8991,7 +11701,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9039,7 +11760,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9064,7 +11796,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9112,7 +11855,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9160,7 +11914,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9208,7 +11973,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9256,7 +12032,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9304,7 +12091,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9352,7 +12150,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9400,7 +12209,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9448,7 +12268,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9496,7 +12327,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9544,7 +12386,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9592,7 +12445,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9640,7 +12504,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9688,7 +12563,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9736,7 +12622,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9784,7 +12681,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9832,7 +12740,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9857,7 +12776,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9905,7 +12835,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -9953,7 +12894,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10001,7 +12953,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10049,7 +13012,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10097,7 +13071,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -1",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10122,7 +13107,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10147,7 +13143,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10195,7 +13202,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10243,7 +13261,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10268,7 +13297,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10316,7 +13356,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10364,7 +13415,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10412,7 +13474,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10437,7 +13510,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10485,7 +13569,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10510,7 +13605,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10558,7 +13664,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10583,7 +13700,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10631,7 +13759,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10679,7 +13818,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10727,7 +13877,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10775,7 +13936,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10800,7 +13972,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10848,7 +14031,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10896,7 +14090,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10921,7 +14126,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -10969,7 +14185,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -11017,7 +14244,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -11042,7 +14280,18 @@
 						"value": 10
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -11100,7 +14349,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -11125,7 +14385,18 @@
 						"value": 1
 					},
 					"consumption": {
-						"spellSlot": false
+						"spellSlot": false,
+						"targets": [
+							{
+								"type": "attribute",
+								"target": "corruption.temp",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
+								"scaling": {
+									"mode": "amount",
+									"formula": "-1"
+								}
+							}
+						]
 					}
 				}
 			]
@@ -11139,10 +14410,10 @@
 			"foundryActivities": [
 				{
 					"type": "heal",
-					"name": "Bolster",
-					"img": "icons/magic/life/heart-shield-gold.webp",
+					"name": "Cast",
+					"img": "icons/magic/life/heart-cross-blue.webp",
 					"description": {
-						"value": "<p>Your spell bolsters your allies with toughness and resolve. Each target's hit point maximum and current hit points increases by 5 for the duration.</p>"
+						"value": "<p>Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.</p><p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.</p>"
 					},
 					"activation": {
 						"type": "action",
@@ -11154,10 +14425,10 @@
 							{
 								"type": "attribute",
 								"target": "corruption.temp",
-								"value": "(1d4 + @item.level) * -1",
+								"value": "@item.isFavored ? -@item.level : -(1d4 + @item.level)",
 								"scaling": {
 									"mode": "amount",
-									"formula": ""
+									"formula": "-1"
 								}
 							}
 						]
