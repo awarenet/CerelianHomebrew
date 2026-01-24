@@ -11153,8 +11153,8 @@
 						"targets": [
 							{
 								"type": "attribute",
-								"target": "resources.primary.value",
-								"value": "1d4 + @item.level",
+								"target": "item.actor.corruption.temp",
+								"value": "(1d4 + @item.level) * -1",
 								"scaling": {
 									"mode": "amount",
 									"formula": ""
