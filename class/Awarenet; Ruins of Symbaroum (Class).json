@@ -27,7 +27,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.syb5e.syb5eActor",
+							"key": "flags.symbaroum5ecore.syb5eActor",
 							"mode": 5,
 							"value": "true"
 						}
@@ -229,7 +229,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.syb5e.syb5eActor",
+							"key": "flags.symbaroum5ecore.syb5eActor",
 							"mode": 5,
 							"value": "true"
 						}
@@ -365,7 +365,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.syb5e.syb5eActor",
+							"key": "flags.symbaroum5ecore.syb5eActor",
 							"mode": 5,
 							"value": "true"
 						}
@@ -530,7 +530,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.syb5e.syb5eActor",
+							"key": "flags.symbaroum5ecore.syb5eActor",
 							"mode": 5,
 							"value": "true"
 						}
@@ -668,7 +668,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.syb5e.syb5eActor",
+							"key": "flags.symbaroum5ecore.syb5eActor",
 							"mode": 5,
 							"value": "true"
 						}
