@@ -20,7 +20,7 @@
 		{
 			"name": "Mystic",
 			"source": "RuinsOfSymbaroumC",
-			"effects": [
+			"foundryEffects": [
 				{
 					"name": "Symbaroum Actor",
 					"icon": "icons/svg/item-bag.svg",
@@ -222,7 +222,7 @@
 		{
 			"name": "Hunter",
 			"source": "RuinsOfSymbaroumC",
-			"effects": [
+			"foundryEffects": [
 				{
 					"name": "Symbaroum Actor",
 					"icon": "icons/svg/item-bag.svg",
@@ -358,7 +358,7 @@
 		{
 			"name": "Scoundrel",
 			"source": "RuinsOfSymbaroumC",
-			"effects": [
+			"foundryEffects": [
 				{
 					"name": "Symbaroum Actor",
 					"icon": "icons/svg/item-bag.svg",
@@ -523,7 +523,7 @@
 		{
 			"name": "Warrior",
 			"source": "RuinsOfSymbaroumC",
-			"effects": [
+			"foundryEffects": [
 				{
 					"name": "Symbaroum Actor",
 					"icon": "icons/svg/item-bag.svg",
@@ -661,7 +661,7 @@
 		{
 			"name": "Captain",
 			"source": "RuinsOfSymbaroumC",
-			"effects": [
+			"foundryEffects": [
 				{
 					"name": "Symbaroum Actor",
 					"icon": "icons/svg/item-bag.svg",
