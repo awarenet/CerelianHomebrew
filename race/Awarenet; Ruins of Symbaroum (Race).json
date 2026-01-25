@@ -797,13 +797,6 @@
 					]
 				},
 				{
-					"name": "Physical Degeneration",
-					"type": "entries",
-					"entries": [
-						"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
-					]
-				},
-				{
 					"name": "Undead",
 					"type": "entries",
 					"entries": [
@@ -820,6 +813,15 @@
 							"key": "flags.symbaroum5ecore.sybSoulless",
 							"mode": 5,
 							"value": "true"
+						}
+					],
+					"descriptionEntries": [
+						{
+							"name": "Physical Degeneration",
+							"type": "entries",
+							"entries": [
+								"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
+							]
 						}
 					]
 				}
