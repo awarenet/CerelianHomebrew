@@ -801,31 +801,26 @@
 					"type": "entries",
 					"entries": [
 						"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
-					],
-					"data": {
-						"actor": {
-							"foundryEffects": [
-								{
-									"name": "Physical Degeneration",
-									"icon": "icons/svg/item-bag.svg",
-									"transfer": true,
-									"changes": [
-										{
-											"key": "flags.symbaroum5ecore.sybSoulless",
-											"mode": 5,
-											"value": "true"
-										}
-									]
-								}
-							]
-						}
-					}
+					]
 				},
 				{
 					"name": "Undead",
 					"type": "entries",
 					"entries": [
 						"You do not sleep, cannot eat normal food, do not need to breathe (except to talk). You can drink small amounts of liquid. You do not naturally heal during a short or long rest, instead you must either drink blood or consume raw flesh during a long rest to restore your single Hit Die, which you can then use to regain hit points or reduce temporary Corruption. You can benefit from healing magic. When you interact with the living, you must make a Charisma (Deception) check against their passive Insight in order to fool them."
+					]
+				}
+			],
+			"foundryEffects": [
+				{
+					"name": "Physical Degeneration",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.symbaroum5ecore.sybSoulless",
+							"mode": 5,
+							"value": "true"
+						}
 					]
 				}
 			]
