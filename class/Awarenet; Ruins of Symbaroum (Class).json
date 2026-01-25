@@ -20,11 +20,20 @@
 		{
 			"name": "Mystic",
 			"source": "RuinsOfSymbaroumC",
-			"foundryFlags": {
-				"syb5e": {
-					"syb5eActor": true
+			"effects": [
+				{
+					"name": "Symbaroum Actor",
+					"icon": "icons/svg/item-bag.svg",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.syb5e.syb5eActor",
+							"mode": 5,
+							"value": "true"
+						}
+					]
 				}
-			},
+			],
 			"page": 108,
 			"hd": {
 				"number": 1,
@@ -213,11 +222,20 @@
 		{
 			"name": "Hunter",
 			"source": "RuinsOfSymbaroumC",
-			"foundryFlags": {
-				"syb5e": {
-					"syb5eActor": true
+			"effects": [
+				{
+					"name": "Symbaroum Actor",
+					"icon": "icons/svg/item-bag.svg",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.syb5e.syb5eActor",
+							"mode": 5,
+							"value": "true"
+						}
+					]
 				}
-			},
+			],
 			"page": 102,
 			"hd": {
 				"number": 1,
@@ -340,11 +358,20 @@
 		{
 			"name": "Scoundrel",
 			"source": "RuinsOfSymbaroumC",
-			"foundryFlags": {
-				"syb5e": {
-					"syb5eActor": true
+			"effects": [
+				{
+					"name": "Symbaroum Actor",
+					"icon": "icons/svg/item-bag.svg",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.syb5e.syb5eActor",
+							"mode": 5,
+							"value": "true"
+						}
+					]
 				}
-			},
+			],
 			"page": 102,
 			"hd": {
 				"number": 1,
@@ -496,11 +523,20 @@
 		{
 			"name": "Warrior",
 			"source": "RuinsOfSymbaroumC",
-			"foundryFlags": {
-				"syb5e": {
-					"syb5eActor": true
+			"effects": [
+				{
+					"name": "Symbaroum Actor",
+					"icon": "icons/svg/item-bag.svg",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.syb5e.syb5eActor",
+							"mode": 5,
+							"value": "true"
+						}
+					]
 				}
-			},
+			],
 			"page": 136,
 			"hd": {
 				"number": 1,
@@ -625,11 +661,20 @@
 		{
 			"name": "Captain",
 			"source": "RuinsOfSymbaroumC",
-			"foundryFlags": {
-				"syb5e": {
-					"syb5eActor": true
+			"effects": [
+				{
+					"name": "Symbaroum Actor",
+					"icon": "icons/svg/item-bag.svg",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.syb5e.syb5eActor",
+							"mode": 5,
+							"value": "true"
+						}
+					]
 				}
-			},
+			],
 			"page": 96,
 			"hd": {
 				"number": 1,
