@@ -286,6 +286,28 @@
 						"Dwarves are poorly understood or tolerated among other peoples. They have disadvantage on social checks with everyone other than fellow dwarves, elves and trolls."
 					]
 				}
+			],
+			"foundryEffects": [
+				{
+					"name": "Earth Bound",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "flags.symbaroum5ecore.sybSoulless",
+							"mode": 5,
+							"value": "true"
+						}
+					],
+					"descriptionEntries": [
+						{
+							"name": "Earth Bound",
+							"type": "entries",
+							"entries": [
+								"Dwarves are bound to the bones of the world. They have no soul \u2013 instead your current Corruption total reduces your current and maximum hit points on a 1:1 basis. You do not roll for marks of Corruption and if your total Corruption equals or exceeds your current hit points you become unconscious until your Corruption is reduced or your hit points increase (an unconscious dwarf counts as taking a short or longer rest if they are undisturbed). If you acquire more permanent Corruption than your Corruption Threshold (see page 37) then your character is no longer playable. If slain, they cannot become undead or be resurrected. Even speak with dead fails."
+							]
+						}
+					]
+				}
 			]
 		},
 		{
@@ -794,6 +816,13 @@
 								"Undead speak the language they used in life, usually either Ambrian or Barbarian."
 							]
 						}
+					]
+				},
+				{
+					"name": "Physical Degeneration",
+					"type": "entries",
+					"entries": [
+						"The undead have no souls, and any Corruption that they accrue instead causes physical degeneration of their body. This is represented by your current Corruption total reducing your current and maximum hit points on a 1:1 basis. If you exceed your Corruption Threshold, you roll for marks of Corruption as normal. If your total Corruption equals or exceeds your current hit points you become unconscious (but stable) until your Corruption is reduced or your hit points increase."
 					]
 				},
 				{
