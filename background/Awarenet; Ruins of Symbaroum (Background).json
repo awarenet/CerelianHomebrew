@@ -589,6 +589,19 @@
 					]
 				}
 			],
+			"foundryEffects": [
+				{
+					"name": "Student Of Magic",
+					"transfer": true,
+					"changes": [
+						{
+							"key": "corruption.max",
+							"mode": 2,
+							"value": 1
+						}
+					]
+				}
+			],
 			"entries": [
 				{
 					"type": "list",
