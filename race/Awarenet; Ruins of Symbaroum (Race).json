@@ -87,14 +87,13 @@
 			],
 			"foundryEffects": [
 				{
-					"name": "Symbaroum Actor",
-					"icon": "icons/svg/item-bag.svg",
+					"name": "Student of Magic",
 					"transfer": true,
 					"changes": [
 						{
-							"key": "flags.symbaroum5ecore.syb5eActor",
-							"mode": 5,
-							"value": "true"
+							"key": "corruption.max",
+							"mode": 2,
+							"value": 1
 						}
 					]
 				}
