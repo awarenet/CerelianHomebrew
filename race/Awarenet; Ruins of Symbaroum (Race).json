@@ -91,7 +91,7 @@
 					"transfer": true,
 					"changes": [
 						{
-							"key": "corruption.max",
+							"key": "system.corruption.bonus",
 							"mode": 2,
 							"value": 1
 						}
